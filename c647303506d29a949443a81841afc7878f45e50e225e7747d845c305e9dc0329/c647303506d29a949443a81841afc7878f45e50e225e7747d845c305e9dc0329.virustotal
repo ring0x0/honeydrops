@@ -1,11 +1,170 @@
 {
     "results": [
         {
-            "data": "\u001b[1mVirusTotal message\u001b[0m: The requested resource is not among the finished, queued or pending scans",
+            "data": "VirusTotal Report for \u001b[1m471ff01b51169a2011fd39ab4ce5e9aa\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
             "type": "info"
         },
         {
-            "data": "\u001b[1mVirusTotal message\u001b[0m: Scan request successfully queued, come back later for the report",
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "Backdoor.Perl.Shellbot.B"
+                    ],
+                    [
+                        "AVG",
+                        "PERL/ShellBot"
+                    ],
+                    [
+                        "AVware",
+                        "Backdoor.Perl.Shellbot.a (v)"
+                    ],
+                    [
+                        "Arcabit",
+                        "Backdoor.Perl.Shellbot.B"
+                    ],
+                    [
+                        "Avast",
+                        "Perl:Shellbot-E [Trj]"
+                    ],
+                    [
+                        "Avira",
+                        "PERL/Shellbot.a.6"
+                    ],
+                    [
+                        "Baidu",
+                        "Perl.Backdoor.Shellbot.f"
+                    ],
+                    [
+                        "BitDefender",
+                        "Backdoor.Perl.Shellbot.B"
+                    ],
+                    [
+                        "CAT-QuickHeal",
+                        "Perl.ShellBot.C"
+                    ],
+                    [
+                        "ClamAV",
+                        "Legacy.Trojan.Agent-1388651"
+                    ],
+                    [
+                        "Cyren",
+                        "Unix/ShellBot.D"
+                    ],
+                    [
+                        "DrWeb",
+                        "Perl.IRC.Bot.14"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "Perl/Shellbot.NAK.Gen"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Backdoor.Perl.Shellbot.B (B)"
+                    ],
+                    [
+                        "F-Prot",
+                        "Unix/ShellBot.D"
+                    ],
+                    [
+                        "F-Secure",
+                        "Backdoor.Perl.Shellbot.B"
+                    ],
+                    [
+                        "Fortinet",
+                        "Perl/IRCBot.I!tr"
+                    ],
+                    [
+                        "GData",
+                        "Backdoor.Perl.Shellbot.B"
+                    ],
+                    [
+                        "Ikarus",
+                        "Trojan.Perl.Shellbot"
+                    ],
+                    [
+                        "K7AntiVirus",
+                        "Exploit ( 04c55e641 )"
+                    ],
+                    [
+                        "K7GW",
+                        "Exploit ( 04c55e641 )"
+                    ],
+                    [
+                        "Kaspersky",
+                        "Backdoor.Perl.Shellbot.a"
+                    ],
+                    [
+                        "McAfee",
+                        "Perl/Shellbot"
+                    ],
+                    [
+                        "McAfee-GW-Edition",
+                        "Perl/Shellbot"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Backdoor.Perl.Shellbot.B"
+                    ],
+                    [
+                        "Microsoft",
+                        "Backdoor:Perl/Shellbot.S"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Trojan.Script.Shellbot.dnqthd"
+                    ],
+                    [
+                        "Panda",
+                        "PHP/Santy.C"
+                    ],
+                    [
+                        "Rising",
+                        "Script.Perl.Shellbot.a (classic) "
+                    ],
+                    [
+                        "Sophos",
+                        "Mal/PerlBot-A"
+                    ],
+                    [
+                        "TotalDefense",
+                        "Perl/Shellbot.A"
+                    ],
+                    [
+                        "TrendMicro",
+                        "PERL_SHELBOT.SMM"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "PERL_SHELBOT.SMM"
+                    ],
+                    [
+                        "Yandex",
+                        "Perl.Shellbot.I"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "Backdoor.Perl.Shellbot.a"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "35 out of 57 antivirus detected \u001b[1m471ff01b51169a2011fd39ab4ce5e9aa\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/c647303506d29a949443a81841afc7878f45e50e225e7747d845c305e9dc0329/analysis/1496782808/\n",
             "type": "info"
         }
     ]

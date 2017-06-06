@@ -16,10 +16,6 @@
                 ],
                 "rows": [
                     [
-                        "ALYac",
-                        "DeepScan:Generic.Sdbot.2252647F"
-                    ],
-                    [
                         "Ad-Aware",
                         "DeepScan:Generic.Sdbot.2252647F"
                     ],
@@ -41,7 +37,7 @@
                     ],
                     [
                         "CrowdStrike",
-                        "malicious_confidence_100% (D)"
+                        "malicious_confidence_100% (W)"
                     ],
                     [
                         "ESET-NOD32",
@@ -76,20 +72,48 @@
                         "virus.win32.virut.bn"
                     ],
                     [
+                        "K7AntiVirus",
+                        "Backdoor ( 000353841 )"
+                    ],
+                    [
+                        "K7GW",
+                        "Backdoor ( 000353841 )"
+                    ],
+                    [
                         "Kaspersky",
                         "HEUR:Trojan.Win32.Generic"
+                    ],
+                    [
+                        "McAfee",
+                        "Artemis!2498AFB865BE"
+                    ],
+                    [
+                        "McAfee-GW-Edition",
+                        "BehavesLike.Win32.PWSZbot.lc"
                     ],
                     [
                         "MicroWorld-eScan",
                         "DeepScan:Generic.Sdbot.2252647F"
                     ],
                     [
-                        "Qihoo-360",
-                        "HEUR/QVM07.1.A3D7.Malware.Gen"
+                        "Paloalto",
+                        "generic.ml"
+                    ],
+                    [
+                        "Panda",
+                        "Trj/CI.A"
                     ],
                     [
                         "SentinelOne",
                         "static engine - malicious"
+                    ],
+                    [
+                        "Symantec",
+                        "W32.IRCBot"
+                    ],
+                    [
+                        "Tencent",
+                        "Win32.Trojan.Generic.Hqvo"
                     ],
                     [
                         "VBA32",
@@ -104,11 +128,11 @@
             "type": "table"
         },
         {
-            "data": "21 out of 60 antivirus detected \u001b[1m2498afb865beca133f262c9b582aa1d2\u001b[0m as malicious.",
+            "data": "27 out of 61 antivirus detected \u001b[1m2498afb865beca133f262c9b582aa1d2\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/7044db9131d3c7744003520f4bd1bca4bd43e364ae0efb61c575fa6e682196ef/analysis/1496744722/\n",
+            "data": "https://www.virustotal.com/file/7044db9131d3c7744003520f4bd1bca4bd43e364ae0efb61c575fa6e682196ef/analysis/1496758501/\n",
             "type": "info"
         }
     ]
