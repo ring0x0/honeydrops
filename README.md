@@ -11,7 +11,7 @@ This is the process so far (work in progress):
  8. write $filename.fuzzy - searches for similar files through fuzzy hashing
  9. write $filename.strings - extract strings from file
 10. write $filename.shellcode - search for known shellcode patterns
-11. the file is exported from viper to the directory as binary-$filename
+11. the file is exported from viper to the directory as binary-$filename.zip
 12. the file is deleted from viper framework so that it isn't processed twice
 13. git add, commit, and push
 
