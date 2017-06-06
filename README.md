@@ -1,4 +1,4 @@
-An automated collection and static analysis of malware that is sent to my dionaea and cowrie honeypots.
+An automated collection and basic static analysis of malware from my dionaea and cowrie honeypots.
 
 This is the process so far (work in progress):
  1. skid drops malware via SMB or downloads it from an authenticated cowrie terminal session
