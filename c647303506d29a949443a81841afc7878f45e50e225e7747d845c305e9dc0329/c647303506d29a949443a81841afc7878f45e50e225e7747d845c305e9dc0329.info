@@ -1,0 +1,26 @@
+{
+    "results": {
+        "default": [
+            {
+                "crc32": "ECDEC8CF",
+                "created_at": "2017-06-06 04:07:35.600001",
+                "id": 3,
+                "md5": "471ff01b51169a2011fd39ab4ce5e9aa",
+                "name": "c647303506d29a949443a81841afc7878f45e50e225e7747d845c305e9dc0329",
+                "sha1": "84f199f8088484c7587dde8a9d3e7a609b0ab090",
+                "sha256": "c647303506d29a949443a81841afc7878f45e50e225e7747d845c305e9dc0329",
+                "sha512": "5f8a2dd310b8c595f1bcada95fb5fd7f5e2bfbebcd2151cba6b9ad852ad9ecc0cee30532aab77ad058f6b93c0e70b433718b23aec257dc5b74381a08c1f39ed4",
+                "size": 1031258,
+                "ssdeep": "24576:tV2kTqCHbUZ9EVxqyOXcBZJCZpoopvAcaGwOpWFahZsWd:D2iqPLhXOZoZ6oWc9dokD",
+                "tags": [
+                    "new",
+                    "159.203.x.x",
+                    "cowrie",
+                    "06/06/2017",
+                    "20:45:01"
+                ],
+                "type": "Zip archive data, at least v1.0 to extract"
+            }
+        ]
+    }
+}
