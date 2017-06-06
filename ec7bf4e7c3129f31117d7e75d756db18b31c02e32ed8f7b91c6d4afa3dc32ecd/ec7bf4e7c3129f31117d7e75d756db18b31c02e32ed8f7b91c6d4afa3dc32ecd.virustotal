@@ -1,1 +1,99 @@
-{"results": [{"data": "VirusTotal Report for \u001b[1m40dffc1f38f98ed1f4c31ae3d8ba3bf1\u001b[0m:", "type": "success"}, {"data": "Detecting engines:", "type": "info"}, {"data": {"header": ["Antivirus", "Signature"], "rows": [["AVG", "Linux/Downloader.CP"], ["AegisLab", "Troj.Downloader.Shell!c"], ["Avast", "BV:Downloader-IB [Drp]"], ["ClamAV", "Unix.Malware.Agent-6323072-0"], ["Cyren", "Trojan.XEBU-4"], ["DrWeb", "Linux.DownLoader.275"], ["ESET-NOD32", "Linux/TrojanDownloader.SH.S"], ["Fortinet", "Linux/ShellDLoader.RMF!tr"], ["GData", "Script.Trojan.Agent.82T28T"], ["Ikarus", "Trojan.Linux.Downloader"], ["Kaspersky", "HEUR:Trojan-Downloader.Shell.Agent.p"], ["Qihoo-360", "Win32/Trojan.Downloader.ef5"], ["Sophos", "Mal/ShellDl-A"], ["Symantec", "Downloader.Trojan"], ["TrendMicro-HouseCall", "Suspicious_GEN.F47V0522"], ["ZoneAlarm", "HEUR:Trojan-Downloader.Shell.Agent.p"]]}, "type": "table"}, {"data": "16 out of 56 antivirus detected \u001b[1m40dffc1f38f98ed1f4c31ae3d8ba3bf1\u001b[0m as malicious.", "type": "info"}, {"data": "https://www.virustotal.com/file/ec7bf4e7c3129f31117d7e75d756db18b31c02e32ed8f7b91c6d4afa3dc32ecd/analysis/1496404949/\n", "type": "info"}]}
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m40dffc1f38f98ed1f4c31ae3d8ba3bf1\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "AVG",
+                        "Linux/Downloader.CP"
+                    ],
+                    [
+                        "AegisLab",
+                        "Troj.Downloader.Shell!c"
+                    ],
+                    [
+                        "Avast",
+                        "BV:Downloader-IB [Drp]"
+                    ],
+                    [
+                        "ClamAV",
+                        "Unix.Malware.Agent-6323072-0"
+                    ],
+                    [
+                        "Cyren",
+                        "Trojan.XEBU-4"
+                    ],
+                    [
+                        "DrWeb",
+                        "Linux.DownLoader.275"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "Linux/TrojanDownloader.SH.S"
+                    ],
+                    [
+                        "Fortinet",
+                        "Linux/ShellDLoader.RMF!tr"
+                    ],
+                    [
+                        "GData",
+                        "Script.Trojan.Agent.82T28T"
+                    ],
+                    [
+                        "Ikarus",
+                        "Trojan.Linux.Downloader"
+                    ],
+                    [
+                        "Kaspersky",
+                        "HEUR:Trojan-Downloader.Shell.Agent.p"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Trojan.Script.Agent.eppfer"
+                    ],
+                    [
+                        "Qihoo-360",
+                        "Win32/Trojan.Downloader.ef5"
+                    ],
+                    [
+                        "Sophos",
+                        "Mal/ShellDl-A"
+                    ],
+                    [
+                        "Symantec",
+                        "Downloader.Trojan"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "Suspicious_GEN.F47V0522"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "HEUR:Trojan-Downloader.Shell.Agent.p"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "17 out of 56 antivirus detected \u001b[1m40dffc1f38f98ed1f4c31ae3d8ba3bf1\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/ec7bf4e7c3129f31117d7e75d756db18b31c02e32ed8f7b91c6d4afa3dc32ecd/analysis/1496759972/\n",
+            "type": "info"
+        }
+    ]
+}
