@@ -1,1 +1,115 @@
-{"results": [{"data": "VirusTotal Report for \u001b[1m2498afb865beca133f262c9b582aa1d2\u001b[0m:", "type": "success"}, {"data": "Detecting engines:", "type": "info"}, {"data": {"header": ["Antivirus", "Signature"], "rows": [["ALYac", "DeepScan:Generic.Sdbot.2252647F"], ["Ad-Aware", "DeepScan:Generic.Sdbot.2252647F"], ["Arcabit", "DeepScan:Generic.Sdbot.D225F67F"], ["Avira", "TR/Crypt.ZPACK.Gen"], ["Baidu", "Win32.Trojan.WisdomEyes.16070401.9500.9947"], ["BitDefender", "DeepScan:Generic.Sdbot.2252647F"], ["CrowdStrike", "malicious_confidence_100% (D)"], ["ESET-NOD32", "a variant of Win32/Poebot.NCA"], ["Emsisoft", "DeepScan:Generic.Sdbot.2252647F (B)"], ["Endgame", "malicious (high confidence)"], ["F-Secure", "DeepScan:Generic.Sdbot.2252647F"], ["Fortinet", "W32/Injector.LSH!tr"], ["GData", "DeepScan:Generic.Sdbot.2252647F"], ["Ikarus", "Trojan.Win32.Poebot"], ["Invincea", "virus.win32.virut.bn"], ["Kaspersky", "HEUR:Trojan.Win32.Generic"], ["MicroWorld-eScan", "DeepScan:Generic.Sdbot.2252647F"], ["Qihoo-360", "HEUR/QVM07.1.A3D7.Malware.Gen"], ["SentinelOne", "static engine - malicious"], ["VBA32", "SScope.Injector.MY"], ["ZoneAlarm", "HEUR:Trojan.Win32.Generic"]]}, "type": "table"}, {"data": "21 out of 60 antivirus detected \u001b[1m2498afb865beca133f262c9b582aa1d2\u001b[0m as malicious.", "type": "info"}, {"data": "https://www.virustotal.com/file/7044db9131d3c7744003520f4bd1bca4bd43e364ae0efb61c575fa6e682196ef/analysis/1496744722/\n", "type": "info"}]}
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m2498afb865beca133f262c9b582aa1d2\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "DeepScan:Generic.Sdbot.2252647F"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "DeepScan:Generic.Sdbot.2252647F"
+                    ],
+                    [
+                        "Arcabit",
+                        "DeepScan:Generic.Sdbot.D225F67F"
+                    ],
+                    [
+                        "Avira",
+                        "TR/Crypt.ZPACK.Gen"
+                    ],
+                    [
+                        "Baidu",
+                        "Win32.Trojan.WisdomEyes.16070401.9500.9947"
+                    ],
+                    [
+                        "BitDefender",
+                        "DeepScan:Generic.Sdbot.2252647F"
+                    ],
+                    [
+                        "CrowdStrike",
+                        "malicious_confidence_100% (D)"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "a variant of Win32/Poebot.NCA"
+                    ],
+                    [
+                        "Emsisoft",
+                        "DeepScan:Generic.Sdbot.2252647F (B)"
+                    ],
+                    [
+                        "Endgame",
+                        "malicious (high confidence)"
+                    ],
+                    [
+                        "F-Secure",
+                        "DeepScan:Generic.Sdbot.2252647F"
+                    ],
+                    [
+                        "Fortinet",
+                        "W32/Injector.LSH!tr"
+                    ],
+                    [
+                        "GData",
+                        "DeepScan:Generic.Sdbot.2252647F"
+                    ],
+                    [
+                        "Ikarus",
+                        "Trojan.Win32.Poebot"
+                    ],
+                    [
+                        "Invincea",
+                        "virus.win32.virut.bn"
+                    ],
+                    [
+                        "Kaspersky",
+                        "HEUR:Trojan.Win32.Generic"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "DeepScan:Generic.Sdbot.2252647F"
+                    ],
+                    [
+                        "Qihoo-360",
+                        "HEUR/QVM07.1.A3D7.Malware.Gen"
+                    ],
+                    [
+                        "SentinelOne",
+                        "static engine - malicious"
+                    ],
+                    [
+                        "VBA32",
+                        "SScope.Injector.MY"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "HEUR:Trojan.Win32.Generic"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "21 out of 60 antivirus detected \u001b[1m2498afb865beca133f262c9b582aa1d2\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/7044db9131d3c7744003520f4bd1bca4bd43e364ae0efb61c575fa6e682196ef/analysis/1496744722/\n",
+            "type": "info"
+        }
+    ]
+}
