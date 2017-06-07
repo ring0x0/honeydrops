@@ -14,10 +14,10 @@
                 "ssdeep": "3072:Vgmn0avOvtYz4nqSioDXx4uE9w2qbMUeZPgrQ/O/4684P15m:+w0avOvtYSiod4uYzqAvZd/246/vm",
                 "tags": [
                     "new",
-                    "159.203.x.x",
+                    "192.241.x.x",
                     "deonaea",
-                    "06/06/2017",
-                    "23:45:01"
+                    "07/06/2017",
+                    "01:15:01"
                 ],
                 "type": "PE32 executable (GUI) Intel 80386, for MS Windows"
             }
