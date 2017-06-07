@@ -1,0 +1,12 @@
+{
+    "results": [
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: The requested resource is not among the finished, queued or pending scans",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Scan request successfully queued, come back later for the report",
+            "type": "info"
+        }
+    ]
+}
