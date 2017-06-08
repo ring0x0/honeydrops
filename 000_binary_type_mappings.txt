@@ -1,0 +1,35 @@
+...........................
+MS-DOS executable, MZ for MS-DOS...........................7867de13bf22a7f3e3559044053e33e7
+ASCII text...........................f47ae12d78395307d836f2779669fd110be3ed57544a37e639060799bfae745d
+PE32 executable (GUI) Intel 80386, for MS Windows...........................8e40ad1ced365a25ff67e4fa71cdeb31
+data...........................786ab616239814616642ba4438df78a9
+Bourne-Again shell script, ASCII text executable...........................e47f7271638dc2830ddde5203bd092ba1bbf1b7a408bd5e0ab7602b421956688
+PE32 executable (GUI) Intel 80386, for MS Windows, UPX compressed...........................cae8a8524eeb0e7de1fb3704bd14b7ba
+ELF 32-bit MSB executable, MIPS, MIPS-I version 1 (SYSV), statically linked, stripped...........................86fbdd7df9486a17e9c408c7e50635e26402fdf297c9e97f1a5256100401dcc5
+MS-DOS executable, MZ for MS-DOS...........................2937577db5cf9804c86bd8e5d1ca0f1e
+ELF 32-bit LSB executable, Intel 80386, version 1 (GNU/Linux), statically linked, stripped...........................5685b086ce12ffede8814e303223a67eca476735dfe4e9e84b751354a5ea0232
+PE32 executable (GUI) Intel 80386, for MS Windows...........................61cc9a8fa701750cd9987390fef8ee28
+PE32 executable (GUI) Intel 80386, for MS Windows...........................705c585d669f8a75bbbb12dec4a751bd
+ASCII text, with very long lines, with CRLF line terminators...........................08e25d839a668501d8c8024b3144d3b7
+PE32 executable (GUI) Intel 80386, for MS Windows...........................173abbd8666357d66ad291fe6060adb4
+ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), statically linked, for GNU/Linux 2.2.5, not stripped...........................f983e21c9cf1fbba6e12da9cb92561d4
+PE32 executable (GUI) Intel 80386, for MS Windows...........................621c0b356c49edc5ce4cf3ee88c30f82
+PE32 executable (GUI) Intel 80386, for MS Windows...........................0afa86234c4d4f54e4c96d08005ed1e8
+PE32 executable (GUI) Intel 80386, for MS Windows...........................eb18a7d302bbc8c0b3ed2cd1612e8d59
+PE32 executable (GUI) Intel 80386, for MS Windows...........................1a89371ea1bfae68ce3242ce40d80bd3
+PE32 executable (GUI) Intel 80386, for MS Windows...........................6d7ef86775a953d44f42dfcd53abd646
+PE32 executable (GUI) Intel 80386, for MS Windows...........................2498afb865beca133f262c9b582aa1d2
+PE32 executable (GUI) Intel 80386, for MS Windows...........................9e0879c7c2cc632dae31ef5b66099ec6
+PE32 executable (GUI) Intel 80386, for MS Windows, UPX compressed...........................64b3efd44dd4b0c477ddbbde4e64d0c6
+PE32 executable (GUI) Intel 80386, for MS Windows...........................16fc8229b6341c4e643f2f35ba0313c8
+PE32 executable (GUI) Intel 80386, for MS Windows...........................7e74627dcb8707c41c7f44c0d5106aec
+Bourne-Again shell script, ASCII text executable...........................ec7bf4e7c3129f31117d7e75d756db18b31c02e32ed8f7b91c6d4afa3dc32ecd
+PE32 executable (GUI) Intel 80386, for MS Windows...........................3d88a57d3277ca5ec548a8fa7b2bd1cb
+PE32 executable (GUI) Intel 80386, for MS Windows, UPX compressed...........................http-cEZW9b
+ELF 32-bit LSB executable, Intel 80386, version 1 (GNU/Linux), statically linked, stripped...........................0ffa9e646e881568c1f65055917547b04d89a8a2150af45faa66beb2733e7427
+Zip archive data, at least v1.0 to extract...........................c647303506d29a949443a81841afc7878f45e50e225e7747d845c305e9dc0329
+Python script, ASCII text executable...........................cf2e13d7d6bb7dbc26130727b5a6cf2c8df72a7b7fcd27f36671ce0debcecd56
+ASCII text...........................19d19c65e56f65ef1fbe1927e0c164b01d8ef250c0e270f5c9b02edd013b5a51
+PE32 executable (GUI) Intel 80386, for MS Windows...........................21fdfd8dd9ca4f10497ddf24b97cbfcd
+POSIX shell script, ASCII text executable...........................bddd2effcb332e93989cea45858cc7ea312413a9e4e12938903ff79e59ec45f2
+PE32 executable (GUI) Intel 80386, for MS Windows...........................72bb10e6bc89abba6b92d8026bbdf681
