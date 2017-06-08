@@ -1,0 +1,171 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m649a5164ee47232f438b4a9426538157\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "AVG",
+                        "Agent6.BDSG"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Generic.ServStart.A.E6DC901D"
+                    ],
+                    [
+                        "AhnLab-V3",
+                        "Trojan/Win32.Agent.C1402278"
+                    ],
+                    [
+                        "Arcabit",
+                        "Generic.ServStart.A.E6DC901D"
+                    ],
+                    [
+                        "Avast",
+                        "Win32:Malware-gen"
+                    ],
+                    [
+                        "Avira",
+                        "TR/Downloader.Gen"
+                    ],
+                    [
+                        "Baidu",
+                        "Win32.Trojan.WisdomEyes.16070401.9500.9829"
+                    ],
+                    [
+                        "BitDefender",
+                        "Generic.ServStart.A.E6DC901D"
+                    ],
+                    [
+                        "CrowdStrike",
+                        "malicious_confidence_100% (D)"
+                    ],
+                    [
+                        "Cyren",
+                        "W32/Heuristic-131!Eldorado"
+                    ],
+                    [
+                        "DrWeb",
+                        "DLOADER.Trojan"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "a variant of Win32/Agent.RTQ"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Generic.ServStart.A.E6DC901D (B)"
+                    ],
+                    [
+                        "Endgame",
+                        "malicious (moderate confidence)"
+                    ],
+                    [
+                        "F-Prot",
+                        "W32/Heuristic-131!Eldorado"
+                    ],
+                    [
+                        "F-Secure",
+                        "Generic.ServStart.A.E6DC901D"
+                    ],
+                    [
+                        "Fortinet",
+                        "W32/Agent.RTQ!tr"
+                    ],
+                    [
+                        "GData",
+                        "Generic.ServStart.A.E6DC901D"
+                    ],
+                    [
+                        "Invincea",
+                        "heuristic"
+                    ],
+                    [
+                        "K7AntiVirus",
+                        "Trojan ( 0040f8a91 )"
+                    ],
+                    [
+                        "K7GW",
+                        "Trojan ( 0040f8a91 )"
+                    ],
+                    [
+                        "Kaspersky",
+                        "HEUR:Trojan.Win32.Generic"
+                    ],
+                    [
+                        "McAfee",
+                        "GenericRXBO-RP!364305D35C08"
+                    ],
+                    [
+                        "McAfee-GW-Edition",
+                        "BehavesLike.Win32.Fake.pc"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Generic.ServStart.A.E6DC901D"
+                    ],
+                    [
+                        "Qihoo-360",
+                        "HEUR/QVM11.1.AE33.Malware.Gen"
+                    ],
+                    [
+                        "Rising",
+                        "Malware.Generic.5!tfe (thunder:5:87fVyGeA1oT) "
+                    ],
+                    [
+                        "SentinelOne",
+                        "static engine - malicious"
+                    ],
+                    [
+                        "Symantec",
+                        "ML.Attribute.HighConfidence"
+                    ],
+                    [
+                        "TheHacker",
+                        "Posible_Worm32"
+                    ],
+                    [
+                        "TotalDefense",
+                        "Win32/PackedBaidu"
+                    ],
+                    [
+                        "TrendMicro",
+                        "TROJ_NITOL.SMD"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "TROJ_NITOL.SMD"
+                    ],
+                    [
+                        "VIPRE",
+                        "BehavesLike.Win32.Malware.wsc (mx-v)"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "HEUR:Trojan.Win32.Generic"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "35 out of 59 antivirus detected \u001b[1m649a5164ee47232f438b4a9426538157\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/3896f57f2fb4024ca8f79bd3031b8e7aa0329108a980543d59c1cf26b1ee6a00/analysis/1496902658/\n",
+            "type": "info"
+        }
+    ]
+}
