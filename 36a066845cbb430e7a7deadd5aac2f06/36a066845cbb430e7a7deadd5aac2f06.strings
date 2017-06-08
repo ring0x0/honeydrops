@@ -1,0 +1,568 @@
+!This program cannot be run in DOS mode.
+qRich
+.text
+`.rdata
+@.data
+.rsrc
+SVWP
+Y_^[
+SVWP
+HPQj
+Y_^[
+}3h8
+Y_^[
+$SVW
+Y_^[
+}*h8
+QQSVWd
+QSVW
+=@GA
+=@GA
+=<GA
+;5,GA
+wIVSP
+FVSj
+=<GA
+t	VP
+VVVVV
+;5,GA
+VVVVV
+t&:a
+^[_3
+=D+A
+jXh0
+YQPVh
+@_^]
+=MOC
+=csm
+8csm
+9csm
+~SSV
+~@;H
+>csm
+taSV
+YYPV
+t)SV
+Hu4j
+>MOC
+s[S;7|G;w
+9>u&
+tR99u2
+r,9Y
+@_^[]
+5L+A
+5T+A
+FhH"A
+5P+A
+Y;=8"A
+=H+A
+=L+A
+=P+A
+5P+A
+5L+A
+5H+A
+5L+A
+5P+A
+5T+A
+5H+A
+5P+A
+5X+A
+5X,A
+=T,A
+%H,A
+-D,A
+oV f
+o^0f
+of@f
+onPf
+ov`f
+o~pf
+ueSj
+=8GA
+5$GA
+5(GA
+5$GA
+5(GA
+@_^[
+ VW}
+j?^;
+Y__^[
+9csm
+5 GA
+=(0A
+uNSW
+PPPPP
+@u^V
+, <Xw
+t%HHt
+HHtXHHt
+HHty+
+RPSW
+90tV
+>If90t
+WSj0
+WSj 
+58 A
+uBh2
+VVVVV
+u&hX
+PPPPP
+<v8V
+VVVVV
+VVVVV
+VVVVV
+_^[]
+QSVW
+^_[3
+8csm
+S99t
+5DGA
+t$<"u	3
+5<+A
+5<+A
+>=Yt1j
+tNVSP
+PPPPP
+5<+A
+%<+A
+Y[_^
+>"u&
+< tK<	tG
+5 0A
+@@f9
+@@f9
+SSS+
+@PWSS
+t!SS
+j@j ^V
+[j@j 
+=@GA
+to=x(A
+Y_^[]
+_^[]
+Fpt"
+=8"A
+;5p&A
+5p&A
+0A@@Ju
+Fh=H"A
+5p&A
+=H"A
+u,9E
+SVWUj
+]_^[
+;t$,v-
+UQPXY]Y[
+0SSSSS
+_^[]
+URPQQh
+L$,3
+UVWS
+[_^]
+SVWj
+_^[]
+_^[]
+Y_^[
+Y_^[
+;= GA
+~,WPV
+;5 GA
+98t^
+tVPV
+t/9U
+VVVVV
+VVVVV
+^SSSSS
+j"^SSSSS
+QSWVj
+v	N+D$
+t+Ht
+PPPPP
+0SSSSS
+_^[]
+_^[]
+0SSSSS
+VVVVV
+WWWWW
+=<GA
+v$;5
+PPPPPPPP
+9] SS
+PPPPPPPP
+u8SS3
+= 5A
+9] u
+9]$SS
+t)9]
+t"SS9]
+9] u
+WWWWW
+=<GA
+uaVj
+uL9=
+WWWWW
+_^[]
+WWWWW
+VVVVV
+VVVVV
+VVhU
+WWWWW
+SSSSS
+WWWWW
+WWWWW
+WWWWW
+<Xt	
+u+9u
+h@"A
+SSSSS
+SSSSS
+95\4A
+u09u
+VVVVV
+WWWWV
+t<Vj
+t+WWVPV
+WWWWW
+95p)A
+=p)A
+5p)A
+~%9M
+QVj	
+r 8^
+VW|[;
+_^[]
+VVVVV
+KERNEL32.dll
+HeapAlloc
+aaabbbccc
+VirtualProtect
+VirtualFree
+IsBadReadPtr
+HeapFree
+Kill
+Crack.dll
+Win7
+SetFilePointer
+GetFileSize
+CreateDirectoryA
+WriteFile
+bad allocation
+bad exception
+EncodePointer
+DecodePointer
+FlsFree
+FlsSetValue
+FlsGetValue
+FlsAlloc
+(null)
+( 8PX
+700WP
+`h````
+xpxxxx
+CorExitProcess
+runtime error 
+TLOSS error
+SING error
+DOMAIN error
+R6034
+An application has made an attempt to load the C runtime library incorrectly.
+Please contact the application's support team for more information.
+R6033
+- Attempt to use MSIL code from this assembly during native code initialization
+This indicates a bug in your application. It is most likely the result of calling an MSIL-compiled (/clr) function from a native constructor or from DllMain.
+R6032
+- not enough space for locale information
+R6031
+- Attempt to initialize the CRT more than once.
+This indicates a bug in your application.
+R6030
+- CRT not initialized
+R6028
+- unable to initialize heap
+R6027
+- not enough space for lowio initialization
+R6026
+- not enough space for stdio initialization
+R6025
+- pure virtual function call
+R6024
+- not enough space for _onexit/atexit table
+R6019
+- unable to open console device
+R6018
+- unexpected heap error
+R6017
+- unexpected multithread lock error
+R6016
+- not enough space for thread data
+This application has requested the Runtime to terminate it in an unusual way.
+Please contact the application's support team for more information.
+R6009
+- not enough space for environment
+R6008
+- not enough space for arguments
+R6002
+- floating point support not loaded
+Microsoft Visual C++ Runtime Library
+<program name unknown>
+Runtime Error!
+Program: 
+Unknown exception
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ Complete Object Locator'
+ Class Hierarchy Descriptor'
+ Base Class Array'
+ Base Class Descriptor at (
+ Type Descriptor'
+`local static thread guard'
+`managed vector copy constructor iterator'
+`vector vbase copy constructor iterator'
+`vector copy constructor iterator'
+`dynamic atexit destructor for '
+`dynamic initializer for '
+`eh vector vbase copy constructor iterator'
+`eh vector copy constructor iterator'
+`managed vector destructor iterator'
+`managed vector constructor iterator'
+`placement delete[] closure'
+`placement delete closure'
+`omni callsig'
+ delete[]
+ new[]
+`local vftable constructor closure'
+`local vftable'
+`RTTI
+`udt returning'
+`copy constructor closure'
+`eh vector vbase constructor iterator'
+`eh vector destructor iterator'
+`eh vector constructor iterator'
+`virtual displacement map'
+`vector vbase constructor iterator'
+`vector destructor iterator'
+`vector constructor iterator'
+`scalar deleting destructor'
+`default constructor closure'
+`vector deleting destructor'
+`vbase destructor'
+`string'
+`local static guard'
+`typeof'
+`vcall'
+`vbtable'
+`vftable'
+operator
+ delete
+ new
+__unaligned
+__restrict
+__ptr64
+__clrcall
+__fastcall
+__thiscall
+__stdcall
+__pascal
+__cdecl
+__based(
+('8PW
+700PP
+`h`hhh
+xppwpp
+GetProcessWindowStation
+GetUserObjectInformationA
+GetLastActivePopup
+GetActiveWindow
+MessageBoxA
+USER32.DLL
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+HH:mm:ss
+dddd, MMMM dd, yyyy
+MM/dd/yy
+December
+November
+October
+September
+August
+July
+June
+April
+March
+February
+January
+Saturday
+Friday
+Thursday
+Wednesday
+Tuesday
+Monday
+Sunday
+SunMonTueWedThuFriSat
+JanFebMarAprMayJunJulAugSepOctNovDec
+CONOUT$
+GetProcessHeap
+GetProcAddress
+LoadLibraryA
+VirtualAlloc
+Sleep
+CreateDirectoryA
+CloseHandle
+CreateFileA
+lstrcpyA
+GetFileSize
+CreateProcessA
+WaitForSingleObject
+CreateThread
+lstrlenA
+KERNEL32.dll
+InternetCloseHandle
+WININET.dll
+RtlUnwind
+RaiseException
+GetLastError
+HeapReAlloc
+HeapAlloc
+HeapFree
+GetFileAttributesA
+GetCommandLineA
+GetStartupInfoA
+GetModuleHandleW
+TlsGetValue
+TlsAlloc
+TlsSetValue
+TlsFree
+InterlockedIncrement
+SetLastError
+GetCurrentThreadId
+InterlockedDecrement
+TerminateProcess
+GetCurrentProcess
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+IsDebuggerPresent
+DeleteCriticalSection
+LeaveCriticalSection
+EnterCriticalSection
+HeapCreate
+VirtualFree
+ExitProcess
+WriteFile
+GetStdHandle
+GetModuleFileNameA
+FreeEnvironmentStringsA
+GetEnvironmentStrings
+FreeEnvironmentStringsW
+WideCharToMultiByte
+GetEnvironmentStringsW
+SetHandleCount
+GetFileType
+QueryPerformanceCounter
+GetTickCount
+GetCurrentProcessId
+GetSystemTimeAsFileTime
+GetCPInfo
+GetACP
+GetOEMCP
+IsValidCodePage
+InitializeCriticalSectionAndSpinCount
+HeapSize
+GetLocaleInfoA
+GetStringTypeA
+MultiByteToWideChar
+GetStringTypeW
+LCMapStringA
+LCMapStringW
+GetConsoleCP
+GetConsoleMode
+FlushFileBuffers
+SetFilePointer
+WriteConsoleA
+GetConsoleOutputCP
+WriteConsoleW
+SetStdHandle
+FreeLibrary
+languages
+DllFuUpgradrs1
+C:\Program Files\Crack\
+WININET.dll
+KERNEL32.dll
+InternetReadFile
+ReadFile
+CreateFileA
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef
+ghijklmnopqrstuvwxyz0123456789+/
+i(0C
+cIp-
+nLGD
+YSgts
+Q/F2U2
+C{"f
+9<;C
+GPVe
+a@<8
+G9ke
+tG@Q
+/5"udV]6
+KNk\
+D{z-
+@l4*
+M)+	
+>"1s?
+k]i8i
+:y<W
+c:w|
+2tK%
+<G0)
+=127.0.0.1
+YYYYYYYYYYYY
+.?AVtype_info@@
+.?AVbad_alloc@std@@
+.?AVexception@std@@
+.?AVbad_exception@std@@
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+wwwwwwwwwwwwwwwpx
+pxwwwwwwwwwwwwwxpx
+pxDDDDDDDDD@
+pxDDDDDDDDDH
+pxDDDDDDDDDH
+pxDDDDDDDDDDDDDDpx
+pwwwwwwwwwwwwwwwp
+wwwwwwwpx
+pxwwwwwwpxDDD
+pxDDDDDDpx
+pwwwwwwww
+63[4]5mm]5\]m]mm5\mm5555555\\\5\\\5m\55\\5ed:
+cOXY/P.Z0.0.QR00/ZPP0000000/0PPZR.BI@/DE0,
+WkV21TSav^8{
+}>qooggggggg1`_fhsnHK
+{JLp
+Nw~ytMMMMMMUbbrrrrrxxxxxxxxrriUMMMMMMMMMUuzt
+I3')+*+)))*))()*+++,6J!54 CBA
+jYPQTVTSkllZTTXRTUiHceWda/
+_<bm
+}zy|yx~
+{|yvrrwsqpon
+PPPPPPPPPPPPPPPPPKMNNNNNNNNNNOLO
+JHHGGGGGGGGHI
+JEEEEEEEEEEFC
+JEEEEEEEEEEFC
+JEEEEEEEEEEFD
+JEFEEEEEEEEEB
+O%JEEEEEEEEEFFB
+JJIIIIJIIIIJJ
+O(@>=77A779?<8;$O' 
+)O6530./21+*-,4#4PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
+PA<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel level="asInvoker" uiAccess="false"></requestedExecutionLevel>
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>PAPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADD
