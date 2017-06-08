@@ -16,12 +16,32 @@
                 ],
                 "rows": [
                     [
+                        "ALYac",
+                        "DeepScan:Generic.Sdbot.2252647F"
+                    ],
+                    [
+                        "AVG",
+                        "Worm/Agobot.JKU"
+                    ],
+                    [
+                        "AVware",
+                        "Trojan.Win32.Generic!BT"
+                    ],
+                    [
                         "Ad-Aware",
                         "DeepScan:Generic.Sdbot.2252647F"
                     ],
                     [
+                        "AegisLab",
+                        "Troj.W32.Generic!c"
+                    ],
+                    [
                         "Arcabit",
                         "DeepScan:Generic.Sdbot.D225F67F"
+                    ],
+                    [
+                        "Avast",
+                        "Win32:Malware-gen"
                     ],
                     [
                         "Avira",
@@ -37,7 +57,11 @@
                     ],
                     [
                         "CrowdStrike",
-                        "malicious_confidence_100% (W)"
+                        "malicious_confidence_100% (D)"
+                    ],
+                    [
+                        "Cyren",
+                        "W32/Trojan.AYWN-5366"
                     ],
                     [
                         "ESET-NOD32",
@@ -65,11 +89,15 @@
                     ],
                     [
                         "Ikarus",
-                        "Trojan.Win32.Poebot"
+                        "Win32.Outbreak"
                     ],
                     [
                         "Invincea",
-                        "virus.win32.virut.bn"
+                        "heuristic"
+                    ],
+                    [
+                        "Jiangmin",
+                        "Worm.Generic.daj"
                     ],
                     [
                         "K7AntiVirus",
@@ -108,6 +136,10 @@
                         "static engine - malicious"
                     ],
                     [
+                        "Sophos",
+                        "Mal/Generic-S"
+                    ],
+                    [
                         "Symantec",
                         "W32.IRCBot"
                     ],
@@ -116,8 +148,20 @@
                         "Win32.Trojan.Generic.Hqvo"
                     ],
                     [
+                        "TrendMicro",
+                        "TROJ_FORUCON.BMC"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "TROJ_FORUCON.BMC"
+                    ],
+                    [
                         "VBA32",
                         "SScope.Injector.MY"
+                    ],
+                    [
+                        "VIPRE",
+                        "Trojan.Win32.Generic!BT"
                     ],
                     [
                         "ZoneAlarm",
@@ -128,11 +172,11 @@
             "type": "table"
         },
         {
-            "data": "27 out of 61 antivirus detected \u001b[1m2498afb865beca133f262c9b582aa1d2\u001b[0m as malicious.",
+            "data": "38 out of 62 antivirus detected \u001b[1m2498afb865beca133f262c9b582aa1d2\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/7044db9131d3c7744003520f4bd1bca4bd43e364ae0efb61c575fa6e682196ef/analysis/1496758501/\n",
+            "data": "https://www.virustotal.com/file/7044db9131d3c7744003520f4bd1bca4bd43e364ae0efb61c575fa6e682196ef/analysis/1496905803/\n",
             "type": "info"
         }
     ]
