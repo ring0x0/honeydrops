@@ -1,0 +1,55 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m72bb10e6bc89abba6b92d8026bbdf681\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "AegisLab",
+                        "Troj.W32.Gen.lyq4"
+                    ],
+                    [
+                        "CrowdStrike",
+                        "malicious_confidence_100% (D)"
+                    ],
+                    [
+                        "DrWeb",
+                        "Trojan.DownLoader24.63930"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "a variant of Win32/Kryptik.FTBW"
+                    ],
+                    [
+                        "Endgame",
+                        "malicious (high confidence)"
+                    ],
+                    [
+                        "Microsoft",
+                        "Backdoor:Win32/Zegost"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "6 out of 62 antivirus detected \u001b[1m72bb10e6bc89abba6b92d8026bbdf681\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/86798e6b7a8168e80bb276180f5cc6ccc21aa74c0b0af8fe2abfc053aab7555c/analysis/1496908637/\n",
+            "type": "info"
+        }
+    ]
+}
