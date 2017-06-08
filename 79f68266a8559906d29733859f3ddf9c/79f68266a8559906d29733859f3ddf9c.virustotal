@@ -1,0 +1,223 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m79f68266a8559906d29733859f3ddf9c\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "Gen:Variant.Mikey.50967"
+                    ],
+                    [
+                        "AVG",
+                        "DoS.FHQ"
+                    ],
+                    [
+                        "AVware",
+                        "Trojan.Win32.Nitol.b (v)"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Gen:Variant.Mikey.50967"
+                    ],
+                    [
+                        "AegisLab",
+                        "Backdoor.W32.Gen.mq5W"
+                    ],
+                    [
+                        "AhnLab-V3",
+                        "Trojan/Win32.Nitol.C1488919"
+                    ],
+                    [
+                        "Arcabit",
+                        "Trojan.Mikey.DC717"
+                    ],
+                    [
+                        "Avast",
+                        "Win32:Malware-gen"
+                    ],
+                    [
+                        "Avira",
+                        "TR/Spy.Agent.sizp"
+                    ],
+                    [
+                        "Baidu",
+                        "Win32.Trojan.WisdomEyes.16070401.9500.9938"
+                    ],
+                    [
+                        "BitDefender",
+                        "Gen:Variant.Mikey.50967"
+                    ],
+                    [
+                        "CAT-QuickHeal",
+                        "Ddos.Nitol.16457"
+                    ],
+                    [
+                        "Comodo",
+                        "Backdoor.Win32.PcClient.~d26"
+                    ],
+                    [
+                        "CrowdStrike",
+                        "malicious_confidence_100% (D)"
+                    ],
+                    [
+                        "DrWeb",
+                        "Trojan.DownLoader13.54293"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "a variant of Win32/ServStart.D"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Gen:Variant.Mikey.50967 (B)"
+                    ],
+                    [
+                        "Endgame",
+                        "malicious (high confidence)"
+                    ],
+                    [
+                        "F-Secure",
+                        "Gen:Variant.Mikey.50967"
+                    ],
+                    [
+                        "Fortinet",
+                        "W32/ServStart.D!worm"
+                    ],
+                    [
+                        "GData",
+                        "Gen:Variant.Mikey.50967"
+                    ],
+                    [
+                        "Ikarus",
+                        "Worm.Win32.ServStart"
+                    ],
+                    [
+                        "Invincea",
+                        "virus.win32.sality.at"
+                    ],
+                    [
+                        "Jiangmin",
+                        "TrojanDDoS.Macri.n"
+                    ],
+                    [
+                        "K7AntiVirus",
+                        "Trojan ( 0049a84a1 )"
+                    ],
+                    [
+                        "K7GW",
+                        "Trojan ( 0049a84a1 )"
+                    ],
+                    [
+                        "Kaspersky",
+                        "Trojan-DDoS.Win32.Macri.dh"
+                    ],
+                    [
+                        "Malwarebytes",
+                        "Trojan.Roadstar"
+                    ],
+                    [
+                        "McAfee",
+                        "DoS-FAW!79F68266A855"
+                    ],
+                    [
+                        "McAfee-GW-Edition",
+                        "DoS-FAW!79F68266A855"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Gen:Variant.Mikey.50967"
+                    ],
+                    [
+                        "Microsoft",
+                        "DDoS:Win32/Nitol.A"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Trojan.Win32.Macri.dscsfg"
+                    ],
+                    [
+                        "Panda",
+                        "Trj/Genetic.gen"
+                    ],
+                    [
+                        "Qihoo-360",
+                        "Win32/Trojan.0bf"
+                    ],
+                    [
+                        "Rising",
+                        "Worm.ServStart!8.10D (cloud:DjEJwqgig5J) "
+                    ],
+                    [
+                        "SentinelOne",
+                        "static engine - malicious"
+                    ],
+                    [
+                        "Sophos",
+                        "Troj/Nitol-AS"
+                    ],
+                    [
+                        "Symantec",
+                        "W32.IRCBot"
+                    ],
+                    [
+                        "Tencent",
+                        "Win32.Trojan-ddos.Macri.Alsw"
+                    ],
+                    [
+                        "TheHacker",
+                        "Trojan/ServStart.d"
+                    ],
+                    [
+                        "VBA32",
+                        "TrojanDDoS.Macri"
+                    ],
+                    [
+                        "VIPRE",
+                        "Trojan.Win32.Nitol.b (v)"
+                    ],
+                    [
+                        "Webroot",
+                        "W32.Trojan.Gen"
+                    ],
+                    [
+                        "Yandex",
+                        "Trojan.DDoS.Macri!"
+                    ],
+                    [
+                        "Zillya",
+                        "Tool.Macri.Win32.37"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "Trojan-DDoS.Win32.Macri.dh"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "47 out of 62 antivirus detected \u001b[1m79f68266a8559906d29733859f3ddf9c\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/a057b96eb55f1dbb24d94a7da934ebf27d0d926be13e1aec5158ba8d241dab95/analysis/1495986902/\n",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
+            "type": "info"
+        }
+    ]
+}

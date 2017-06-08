@@ -26,8 +26,10 @@ PE32 executable (GUI) Intel 80386, for MS Windows, UPX compressed............64b
 PE32 executable (GUI) Intel 80386, for MS Windows............16fc8229b6341c4e643f2f35ba0313c8
 PE32 executable (GUI) Intel 80386, for MS Windows............7e74627dcb8707c41c7f44c0d5106aec
 Bourne-Again shell script, ASCII text executable............ec7bf4e7c3129f31117d7e75d756db18b31c02e32ed8f7b91c6d4afa3dc32ecd
+PE32 executable (GUI) Intel 80386, for MS Windows............79f68266a8559906d29733859f3ddf9c
 PE32 executable (GUI) Intel 80386, for MS Windows............3d88a57d3277ca5ec548a8fa7b2bd1cb
 PE32 executable (GUI) Intel 80386, for MS Windows, UPX compressed............http-cEZW9b
+Python script, ASCII text executable, with CRLF line terminators............27ab26b3062f1b7070042e30afd7cd1659bc5b78139af16f759490307742f6b5
 ELF 32-bit LSB executable, Intel 80386, version 1 (GNU/Linux), statically linked, stripped............0ffa9e646e881568c1f65055917547b04d89a8a2150af45faa66beb2733e7427
 Zip archive data, at least v1.0 to extract............c647303506d29a949443a81841afc7878f45e50e225e7747d845c305e9dc0329
 Python script, ASCII text executable............cf2e13d7d6bb7dbc26130727b5a6cf2c8df72a7b7fcd27f36671ce0debcecd56
