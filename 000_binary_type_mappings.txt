@@ -18,6 +18,7 @@ PE32 executable (GUI) Intel 80386, for MS Windows............621c0b356c49edc5ce4
 PE32 executable (GUI) Intel 80386, for MS Windows............0afa86234c4d4f54e4c96d08005ed1e8
 PE32 executable (GUI) Intel 80386, for MS Windows............eb18a7d302bbc8c0b3ed2cd1612e8d59
 PE32 executable (GUI) Intel 80386, for MS Windows............1a89371ea1bfae68ce3242ce40d80bd3
+PE32 executable (GUI) Intel 80386, for MS Windows............5cbb19165bfdb63d43d1552fa49f9716
 PE32 executable (GUI) Intel 80386, for MS Windows............6d7ef86775a953d44f42dfcd53abd646
 PE32 executable (GUI) Intel 80386, for MS Windows............2498afb865beca133f262c9b582aa1d2
 PE32 executable (GUI) Intel 80386, for MS Windows............9e0879c7c2cc632dae31ef5b66099ec6
