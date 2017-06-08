@@ -1,11 +1,15 @@
 {
     "results": [
         {
-            "data": "\u001b[1mVirusTotal message\u001b[0m: The requested resource is not among the finished, queued or pending scans",
+            "data": "VirusTotal Report for \u001b[1m5b18798f4c08c7f513bfff1b48dc0529\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "0 out of 55 antivirus detected \u001b[1m5b18798f4c08c7f513bfff1b48dc0529\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "\u001b[1mVirusTotal message\u001b[0m: Scan request successfully queued, come back later for the report",
+            "data": "https://www.virustotal.com/file/cf2e13d7d6bb7dbc26130727b5a6cf2c8df72a7b7fcd27f36671ce0debcecd56/analysis/1496826010/\n",
             "type": "info"
         }
     ]
