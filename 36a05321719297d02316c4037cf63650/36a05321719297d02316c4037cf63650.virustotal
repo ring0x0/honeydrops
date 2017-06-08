@@ -1,8 +1,20 @@
 {
     "results": [
         {
-            "data": "You exceeded the public API request rate limit (4 requests of any nature per minute)",
-            "type": "error"
+            "data": "VirusTotal Report for \u001b[1m955133e1b5eddeaba4f4134e8253d690\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "0 out of 57 antivirus detected \u001b[1m955133e1b5eddeaba4f4134e8253d690\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/6be54000cf4292bb6f37b26626e2930cb28a5de6ab3c8fa9e0dabf37ff9441d1/analysis/1496939193/\n",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
+            "type": "info"
         }
     ]
 }

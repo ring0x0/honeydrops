@@ -1,0 +1,151 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m5afdcceb2fc5fc1c15d7fdbef674c6a5\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "Linux.Trojan.Agent.A"
+                    ],
+                    [
+                        "AVG",
+                        "Linux/Generic_c.ZB"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Linux.Trojan.Agent.A"
+                    ],
+                    [
+                        "AegisLab",
+                        "Linux.Troj.Agent!c"
+                    ],
+                    [
+                        "AhnLab-V3",
+                        "Linux/Pnscan.1215093"
+                    ],
+                    [
+                        "Arcabit",
+                        "Linux.Trojan.Agent.A"
+                    ],
+                    [
+                        "Avast",
+                        "ELF:PNScan-F [Cryp]"
+                    ],
+                    [
+                        "Avira",
+                        "LINUX/PNScan.9"
+                    ],
+                    [
+                        "BitDefender",
+                        "Linux.Trojan.Agent.A"
+                    ],
+                    [
+                        "CAT-QuickHeal",
+                        "Linux.Trojan.Agent.PR8b0"
+                    ],
+                    [
+                        "ClamAV",
+                        "Unix.Malware.Agent-1393483"
+                    ],
+                    [
+                        "Comodo",
+                        "UnclassifiedMalware"
+                    ],
+                    [
+                        "DrWeb",
+                        "Linux.PNScan.2"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "a variant of Linux/PNScan.A"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Linux.Trojan.Agent.A (B)"
+                    ],
+                    [
+                        "F-Secure",
+                        "Linux.Trojan.Agent.A"
+                    ],
+                    [
+                        "GData",
+                        "Linux.Trojan.Agent.A"
+                    ],
+                    [
+                        "Ikarus",
+                        "Backdoor.Linux.Agent"
+                    ],
+                    [
+                        "Jiangmin",
+                        "Backdoor.Linux.aob"
+                    ],
+                    [
+                        "Kaspersky",
+                        "Backdoor.Linux.Agent.ac"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Linux.Trojan.Agent.A"
+                    ],
+                    [
+                        "Microsoft",
+                        "Trojan:Linux/Raubido.A"
+                    ],
+                    [
+                        "Sophos",
+                        "Mal/Generic-S"
+                    ],
+                    [
+                        "Symantec",
+                        "Linux.Raubdo"
+                    ],
+                    [
+                        "Tencent",
+                        "Linux.Backdoor.Agent.Taft"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "TROJ_GEN.F04JH00D717"
+                    ],
+                    [
+                        "VBA32",
+                        "Linux.PNScan.2"
+                    ],
+                    [
+                        "Zillya",
+                        "Downloader.OpenConnection.JS.135745"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "Backdoor.Linux.Agent.ac"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "29 out of 57 antivirus detected \u001b[1m5afdcceb2fc5fc1c15d7fdbef674c6a5\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/86fbdd7df9486a17e9c408c7e50635e26402fdf297c9e97f1a5256100401dcc5/analysis/1495023524/\n",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
+            "type": "info"
+        }
+    ]
+}
