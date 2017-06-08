@@ -1,8 +1,16 @@
 {
     "results": [
         {
-            "data": "You exceeded the public API request rate limit (4 requests of any nature per minute)",
-            "type": "error"
+            "data": "\u001b[1mVirusTotal message\u001b[0m: The requested resource is not among the finished, queued or pending scans",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Scan request successfully queued, come back later for the report",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Could not find resource",
+            "type": "info"
         }
     ]
 }
