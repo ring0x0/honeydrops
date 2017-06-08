@@ -21,6 +21,7 @@ PE32 executable (GUI) Intel 80386, for MS Windows............1a89371ea1bfae68ce3
 PE32 executable (GUI) Intel 80386, for MS Windows............5cbb19165bfdb63d43d1552fa49f9716
 PE32 executable (GUI) Intel 80386, for MS Windows............6d7ef86775a953d44f42dfcd53abd646
 PE32 executable (GUI) Intel 80386, for MS Windows............2498afb865beca133f262c9b582aa1d2
+Bourne-Again shell script, ASCII text executable, with CRLF line terminators............8c3a8e383e5b37be8e1e150693524d20feae0b34677597ac927f7146c19c3039
 PE32 executable (GUI) Intel 80386, for MS Windows............9e0879c7c2cc632dae31ef5b66099ec6
 PE32 executable (GUI) Intel 80386, for MS Windows, UPX compressed............64b3efd44dd4b0c477ddbbde4e64d0c6
 PE32 executable (GUI) Intel 80386, for MS Windows............16fc8229b6341c4e643f2f35ba0313c8
