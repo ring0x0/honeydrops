@@ -1,15 +1,94 @@
 {
     "results": [
         {
-            "data": "\u001b[1mVirusTotal message\u001b[0m: The requested resource is not among the finished, queued or pending scans",
+            "data": "VirusTotal Report for \u001b[1mb33c5a4d6b3b911d5d01e66acf28c051\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
             "type": "info"
         },
         {
-            "data": "\u001b[1mVirusTotal message\u001b[0m: Scan request successfully queued, come back later for the report",
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "AVG",
+                        "Win32:Agent-AXZD [Trj]"
+                    ],
+                    [
+                        "AegisLab",
+                        "Troj.W32.Gen.mAPE"
+                    ],
+                    [
+                        "Avast",
+                        "Win32:Agent-AXZD [Trj]"
+                    ],
+                    [
+                        "Avira",
+                        "TR/Dropper.Gen"
+                    ],
+                    [
+                        "Bkav",
+                        "W32.HfsAutoB.E1F8"
+                    ],
+                    [
+                        "Comodo",
+                        "Heur.Corrupt.PE"
+                    ],
+                    [
+                        "CrowdStrike",
+                        "malicious_confidence_100% (D)"
+                    ],
+                    [
+                        "Cyren",
+                        "W32/Damaged_File.gen!Eldorado"
+                    ],
+                    [
+                        "Endgame",
+                        "malicious (moderate confidence)"
+                    ],
+                    [
+                        "F-Prot",
+                        "W32/Damaged_File.gen!Eldorado"
+                    ],
+                    [
+                        "Fortinet",
+                        "W32/Ramnit.DAM"
+                    ],
+                    [
+                        "GData",
+                        "Win32.Worm.ServStart.B"
+                    ],
+                    [
+                        "Invincea",
+                        "heuristic"
+                    ],
+                    [
+                        "McAfee-GW-Edition",
+                        "BehavesLike.Win32.Dropper.nc"
+                    ],
+                    [
+                        "Rising",
+                        "Virus.Ramnit!1.A7EB (classic) "
+                    ],
+                    [
+                        "TheHacker",
+                        "W32/Behav-Heuristic-CorruptFile-EP"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "16 out of 60 antivirus detected \u001b[1mb33c5a4d6b3b911d5d01e66acf28c051\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "\u001b[1mVirusTotal message\u001b[0m: Could not find resource",
+            "data": "https://www.virustotal.com/file/cf9f73c532a66010db6f76a171f917d2516ac81fe314f9da2ee38ae6eefe30d2/analysis/1496941205/\n",
             "type": "info"
         }
     ]
