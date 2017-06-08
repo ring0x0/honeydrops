@@ -1,15 +1,250 @@
 {
     "results": [
         {
-            "data": "\u001b[1mVirusTotal message\u001b[0m: The requested resource is not among the finished, queued or pending scans",
+            "data": "VirusTotal Report for \u001b[1m21fdfd8dd9ca4f10497ddf24b97cbfcd\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
             "type": "info"
         },
         {
-            "data": "\u001b[1mVirusTotal message\u001b[0m: Scan request successfully queued, come back later for the report",
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "AVG",
+                        "Win32/Virut"
+                    ],
+                    [
+                        "AVware",
+                        "Virus.Win32.Virut.ce.5 (v)"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Win32.Virtob.Gen.12"
+                    ],
+                    [
+                        "AegisLab",
+                        "W32.Virut.lqR9"
+                    ],
+                    [
+                        "AhnLab-V3",
+                        "Win32/Virut.F"
+                    ],
+                    [
+                        "Arcabit",
+                        "Win32.Virtob.Gen.12"
+                    ],
+                    [
+                        "Avast",
+                        "Win32:Vitro"
+                    ],
+                    [
+                        "Avira",
+                        "W32/Virut.Gen"
+                    ],
+                    [
+                        "Baidu",
+                        "Win32.Virus.Virut.gen"
+                    ],
+                    [
+                        "BitDefender",
+                        "Win32.Virtob.Gen.12"
+                    ],
+                    [
+                        "Bkav",
+                        "W32.Vetor.PE"
+                    ],
+                    [
+                        "CAT-QuickHeal",
+                        "W32.Virut.G"
+                    ],
+                    [
+                        "CMC",
+                        "Virus.Win32.Virut.1!O"
+                    ],
+                    [
+                        "ClamAV",
+                        "Win.Trojan.Generic-6305873-0"
+                    ],
+                    [
+                        "Comodo",
+                        "Virus.Win32.Virut.CE"
+                    ],
+                    [
+                        "CrowdStrike",
+                        "malicious_confidence_100% (W)"
+                    ],
+                    [
+                        "Cyren",
+                        "W32/OnlineGames.BY.gen!Eldorado"
+                    ],
+                    [
+                        "DrWeb",
+                        "Win32.Virut.56"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "Win32/Virut.NBP"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Win32.Virtob.Gen.12 (B)"
+                    ],
+                    [
+                        "Endgame",
+                        "malicious (high confidence)"
+                    ],
+                    [
+                        "F-Prot",
+                        "W32/OnlineGames.BY.gen!Eldorado"
+                    ],
+                    [
+                        "F-Secure",
+                        "Win32.Virtob.Gen.12"
+                    ],
+                    [
+                        "Fortinet",
+                        "W32/Virut.CE"
+                    ],
+                    [
+                        "GData",
+                        "Win32.Virus.Virut.U"
+                    ],
+                    [
+                        "Ikarus",
+                        "Backdoor.Farfli"
+                    ],
+                    [
+                        "Invincea",
+                        "virus.win32.virut.bn"
+                    ],
+                    [
+                        "Jiangmin",
+                        "Win32/Virut.bt"
+                    ],
+                    [
+                        "K7AntiVirus",
+                        "Virus ( f10002001 )"
+                    ],
+                    [
+                        "K7GW",
+                        "Virus ( f10002001 )"
+                    ],
+                    [
+                        "Kaspersky",
+                        "Virus.Win32.Virut.ce"
+                    ],
+                    [
+                        "Kingsoft",
+                        "Win32.Virut.dd.368640"
+                    ],
+                    [
+                        "McAfee",
+                        "W32/Virut.n.gen"
+                    ],
+                    [
+                        "McAfee-GW-Edition",
+                        "BehavesLike.Win32.Worm.fh"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Win32.Virtob.Gen.12"
+                    ],
+                    [
+                        "Microsoft",
+                        "Backdoor:Win32/Zegost"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Virus.Win32.Virut.hpeg"
+                    ],
+                    [
+                        "Paloalto",
+                        "generic.ml"
+                    ],
+                    [
+                        "Panda",
+                        "W32/Sality.AO"
+                    ],
+                    [
+                        "Qihoo-360",
+                        "Virus.Win32.VirutChangeEntry.A"
+                    ],
+                    [
+                        "Rising",
+                        "Backdoor.Farfli!1.A1B3 (classic) "
+                    ],
+                    [
+                        "SentinelOne",
+                        "static engine - malicious"
+                    ],
+                    [
+                        "Sophos",
+                        "W32/Scribble-B"
+                    ],
+                    [
+                        "Symantec",
+                        "W32.Virut.CF"
+                    ],
+                    [
+                        "Tencent",
+                        "Win32.Virus.Virut.Hrzh"
+                    ],
+                    [
+                        "TheHacker",
+                        "W32/Virtob.Gen(F)"
+                    ],
+                    [
+                        "TotalDefense",
+                        "Win32/Virut.17408"
+                    ],
+                    [
+                        "TrendMicro",
+                        "PE_VIRUX.R"
+                    ],
+                    [
+                        "VBA32",
+                        "Virus.Virut.14"
+                    ],
+                    [
+                        "VIPRE",
+                        "Virus.Win32.Virut.ce.5 (v)"
+                    ],
+                    [
+                        "ViRobot",
+                        "Win32.Virut.Gen.C[h]"
+                    ],
+                    [
+                        "Yandex",
+                        "Win32.Virut.AB.Gen"
+                    ],
+                    [
+                        "Zillya",
+                        "Virus.Virut.Win32.1938"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "Virus.Win32.Virut.ce"
+                    ],
+                    [
+                        "nProtect",
+                        "Virus/W32.Virut.Gen"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "55 out of 60 antivirus detected \u001b[1m21fdfd8dd9ca4f10497ddf24b97cbfcd\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "\u001b[1mVirusTotal message\u001b[0m: Could not find resource",
+            "data": "https://www.virustotal.com/file/a9f5aedaeeb97934a16a4188b9f9c3947a06245a11bd20334072786463f2e2b8/analysis/1496379539/\n",
             "type": "info"
         }
     ]
