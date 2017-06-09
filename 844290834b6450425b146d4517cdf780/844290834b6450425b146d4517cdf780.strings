@@ -1,0 +1,84 @@
+__gmon_start__
+_fini
+__cxa_finalize
+_Jv_RegisterClasses
+lib_mysqludf_sys_info_deinit
+sys_get_deinit
+sys_exec_deinit
+sys_eval_deinit
+sys_bineval_init
+sys_bineval_deinit
+sys_bineval
+fork
+sysconf
+mmap
+strncpy
+waitpid
+sys_eval
+malloc
+popen
+realloc
+fgets
+pclose
+sys_eval_init
+strcpy
+sys_exec_init
+sys_set_init
+sys_get_init
+lib_mysqludf_sys_info
+lib_mysqludf_sys_info_init
+sys_exec
+system
+sys_set
+setenv
+sys_set_deinit
+free
+sys_get
+getenv
+libc.so.6
+_edata
+__bss_start
+_end
+GLIBC_2.1.3
+GLIBC_2.0
+GLIBC_2.1
+|Su?
+t#QS
+[^_]
+[^_]
+t	PPh?
+t	PPh^
+[^_]
+Expected exactly one string type parameter
+Expected exactly two arguments
+Expected string type for name parameter
+Could not allocate memory
+lib_mysqludf_sys version 0.0.4
+No arguments allowed (udf: lib_mysqludf_sys_info)
+GCC: (Debian 4.3.2-1.1) 4.3.2
+GCC: (Debian 4.3.2-1.1) 4.3.2
+GCC: (Debian 4.3.2-1.1) 4.3.2
+GCC: (Debian 4.3.2-1.1) 4.3.2
+GCC: (Debian 4.3.2-1.1) 4.3.2
+.shstrtab
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rel.dyn
+.rel.plt
+.init
+.text
+.fini
+.rodata
+.eh_frame
+.ctors
+.dtors
+.jcr
+.dynamic
+.got
+.got.plt
+.data
+.bss
+.comment
