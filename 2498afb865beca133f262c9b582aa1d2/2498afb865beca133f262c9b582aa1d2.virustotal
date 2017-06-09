@@ -21,7 +21,7 @@
                     ],
                     [
                         "AVG",
-                        "Worm/Agobot.JKU"
+                        "Win32:Malware-gen"
                     ],
                     [
                         "AVware",
@@ -41,7 +41,7 @@
                     ],
                     [
                         "Avast",
-                        "Win32:Malware-gen"
+                        "Win32:Trojan-gen"
                     ],
                     [
                         "Avira",
@@ -57,7 +57,7 @@
                     ],
                     [
                         "CrowdStrike",
-                        "malicious_confidence_100% (D)"
+                        "malicious_confidence_100% (W)"
                     ],
                     [
                         "Cyren",
@@ -89,7 +89,7 @@
                     ],
                     [
                         "Ikarus",
-                        "Win32.Outbreak"
+                        "Trojan.Win32.Poebot"
                     ],
                     [
                         "Invincea",
@@ -132,6 +132,10 @@
                         "Trj/CI.A"
                     ],
                     [
+                        "Rising",
+                        "Malware.Heuristic!ET#98% (cloud:eZR6oJyy7jD) "
+                    ],
+                    [
                         "SentinelOne",
                         "static engine - malicious"
                     ],
@@ -172,11 +176,15 @@
             "type": "table"
         },
         {
-            "data": "38 out of 62 antivirus detected \u001b[1m2498afb865beca133f262c9b582aa1d2\u001b[0m as malicious.",
+            "data": "39 out of 62 antivirus detected \u001b[1m2498afb865beca133f262c9b582aa1d2\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/7044db9131d3c7744003520f4bd1bca4bd43e364ae0efb61c575fa6e682196ef/analysis/1496905803/\n",
+            "data": "https://www.virustotal.com/file/7044db9131d3c7744003520f4bd1bca4bd43e364ae0efb61c575fa6e682196ef/analysis/1496938502/\n",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
             "type": "info"
         }
     ]
