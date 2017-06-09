@@ -17,7 +17,7 @@
                 "rows": [
                     [
                         "AVG",
-                        "Linux/Downloader"
+                        "BV:Downloader-KB [Drp]"
                     ],
                     [
                         "AegisLab",
@@ -56,11 +56,11 @@
             "type": "table"
         },
         {
-            "data": "9 out of 55 antivirus detected \u001b[1mda3eb757a0d10291350716481f1dfeb8\u001b[0m as malicious.",
+            "data": "9 out of 57 antivirus detected \u001b[1mda3eb757a0d10291350716481f1dfeb8\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/f47ae12d78395307d836f2779669fd110be3ed57544a37e639060799bfae745d/analysis/1495863102/\n",
+            "data": "https://www.virustotal.com/file/f47ae12d78395307d836f2779669fd110be3ed57544a37e639060799bfae745d/analysis/1497024693/\n",
             "type": "info"
         },
         {

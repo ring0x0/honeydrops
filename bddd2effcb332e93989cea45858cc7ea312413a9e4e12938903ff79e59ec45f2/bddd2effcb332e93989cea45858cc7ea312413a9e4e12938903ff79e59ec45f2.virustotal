@@ -16,24 +16,76 @@
                 ],
                 "rows": [
                     [
+                        "ALYac",
+                        "Trojan.Downloader.BashAgent.ACO"
+                    ],
+                    [
                         "AVG",
-                        "Linux/Downloader"
+                        "BV:Downloader-LL [Drp]"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Trojan.Downloader.BashAgent.ACO"
+                    ],
+                    [
+                        "Arcabit",
+                        "Trojan.Downloader.BashAgent.ACO"
                     ],
                     [
                         "Avast",
                         "BV:Downloader-LL [Drp]"
                     ],
                     [
+                        "BitDefender",
+                        "Trojan.Downloader.BashAgent.ACO"
+                    ],
+                    [
                         "DrWeb",
                         "Linux.DownLoader.37"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "Linux/Gafgyt.AJM"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Trojan.Downloader.BashAgent.ACO (B)"
+                    ],
+                    [
+                        "F-Secure",
+                        "Trojan.Downloader.BashAgent.ACO"
                     ],
                     [
                         "Fortinet",
                         "Linux/ShellDLoader.CHX!tr"
                     ],
                     [
+                        "GData",
+                        "Script.Trojan.Agent.OEMI8Q"
+                    ],
+                    [
+                        "Ikarus",
+                        "Trojan.Linux.Downloader"
+                    ],
+                    [
                         "Kaspersky",
                         "HEUR:Trojan-Downloader.Shell.Agent.p"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Trojan.Downloader.BashAgent.ACO"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Trojan.Script.Agent.epoxng"
+                    ],
+                    [
+                        "Qihoo-360",
+                        "Win32/Trojan.Downloader.72e"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "Suspicious_GEN.F47V0529"
                     ],
                     [
                         "ZoneAlarm",
@@ -44,11 +96,11 @@
             "type": "table"
         },
         {
-            "data": "6 out of 57 antivirus detected \u001b[1m75484901e7e4c871c5b4ae1ddb1425a5\u001b[0m as malicious.",
+            "data": "19 out of 56 antivirus detected \u001b[1m75484901e7e4c871c5b4ae1ddb1425a5\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/bddd2effcb332e93989cea45858cc7ea312413a9e4e12938903ff79e59ec45f2/analysis/1496059507/\n",
+            "data": "https://www.virustotal.com/file/bddd2effcb332e93989cea45858cc7ea312413a9e4e12938903ff79e59ec45f2/analysis/1497024499/\n",
             "type": "info"
         },
         {
