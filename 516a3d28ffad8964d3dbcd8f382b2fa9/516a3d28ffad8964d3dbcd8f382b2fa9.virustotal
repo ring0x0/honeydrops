@@ -254,6 +254,10 @@
         {
             "data": "https://www.virustotal.com/file/6e6c0873c5f878ea9bbfc7606f09421d46001ba7f425ff3452dc4985da0f9f82/analysis/1496955751/\n",
             "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
+            "type": "info"
         }
     ]
 }
