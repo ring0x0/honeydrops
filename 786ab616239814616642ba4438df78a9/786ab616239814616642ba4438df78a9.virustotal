@@ -80,11 +80,11 @@
             "type": "table"
         },
         {
-            "data": "15 out of 57 antivirus detected \u001b[1m786ab616239814616642ba4438df78a9\u001b[0m as malicious.",
+            "data": "15 out of 56 antivirus detected \u001b[1m786ab616239814616642ba4438df78a9\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/db5ce44e4c4ce6271d2e0a056e5abafdd7045f00d55c78450e64a87c2ed86efb/analysis/1496808115/\n",
+            "data": "https://www.virustotal.com/file/db5ce44e4c4ce6271d2e0a056e5abafdd7045f00d55c78450e64a87c2ed86efb/analysis/1497067310/\n",
             "type": "info"
         }
     ]
