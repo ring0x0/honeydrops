@@ -1,0 +1,163 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1md04ca76f863e0aa00f3493b5633318a2\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "Generic.Keylogger.2.AB3EE53C"
+                    ],
+                    [
+                        "AVG",
+                        "Win32:Agent-AQGZ [Trj]"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Generic.Keylogger.2.AB3EE53C"
+                    ],
+                    [
+                        "Arcabit",
+                        "Generic.Keylogger.2.AB3EE53C"
+                    ],
+                    [
+                        "Avast",
+                        "Win32:Agent-AQGZ [Trj]"
+                    ],
+                    [
+                        "Baidu",
+                        "Win32.Backdoor.Farfli.b"
+                    ],
+                    [
+                        "BitDefender",
+                        "Generic.Keylogger.2.AB3EE53C"
+                    ],
+                    [
+                        "CAT-QuickHeal",
+                        "Backdoor.Farfli.16459"
+                    ],
+                    [
+                        "ClamAV",
+                        "Win.Trojan.Generic-6305873-0"
+                    ],
+                    [
+                        "Comodo",
+                        "TrojWare.Win32.Farfli.AEV"
+                    ],
+                    [
+                        "CrowdStrike",
+                        "malicious_confidence_90% (D)"
+                    ],
+                    [
+                        "Cyren",
+                        "W32/KillAV.AU.gen!Eldorado"
+                    ],
+                    [
+                        "DrWeb",
+                        "BACKDOOR.Trojan"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "a variant of Win32/Farfli.AQL"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Generic.Keylogger.2.AB3EE53C (B)"
+                    ],
+                    [
+                        "Endgame",
+                        "malicious (moderate confidence)"
+                    ],
+                    [
+                        "F-Prot",
+                        "W32/KillAV.AU.gen!Eldorado"
+                    ],
+                    [
+                        "F-Secure",
+                        "Generic.Keylogger.2.AB3EE53C"
+                    ],
+                    [
+                        "Fortinet",
+                        "W32/Farfli.AIL!tr"
+                    ],
+                    [
+                        "GData",
+                        "Generic.Keylogger.2.AB3EE53C"
+                    ],
+                    [
+                        "Ikarus",
+                        "Trojan.Win32.Veslorn"
+                    ],
+                    [
+                        "Jiangmin",
+                        "Heur:Trojan/Agent"
+                    ],
+                    [
+                        "Kaspersky",
+                        "HEUR:Trojan.Win32.Generic"
+                    ],
+                    [
+                        "McAfee",
+                        "Trojan-FJYJ!6E9E5A2A30FD"
+                    ],
+                    [
+                        "McAfee-GW-Edition",
+                        "BehavesLike.Win32.PWSBanker.dc"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Generic.Keylogger.2.AB3EE53C"
+                    ],
+                    [
+                        "Microsoft",
+                        "Trojan:Win32/Malex.gen!E"
+                    ],
+                    [
+                        "Panda",
+                        "Generic Suspicious"
+                    ],
+                    [
+                        "Qihoo-360",
+                        "Win32/Trojan.b5d"
+                    ],
+                    [
+                        "Rising",
+                        "Backdoor.Farfli!1.64D7 (classic) "
+                    ],
+                    [
+                        "Tencent",
+                        "Win32.Backdoor.Generic.Auto"
+                    ],
+                    [
+                        "Webroot",
+                        "W32.Malware.gen"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "HEUR:Trojan.Win32.Generic"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "33 out of 61 antivirus detected \u001b[1md04ca76f863e0aa00f3493b5633318a2\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/4dab1b484c385ca8df05d643ad104db4d204441e57e0a0ab8fca13650d8070ff/analysis/1497085017/\n",
+            "type": "info"
+        }
+    ]
+}
