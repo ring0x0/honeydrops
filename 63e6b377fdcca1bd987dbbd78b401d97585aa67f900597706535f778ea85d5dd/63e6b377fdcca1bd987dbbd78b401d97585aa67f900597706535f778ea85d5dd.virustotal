@@ -1,0 +1,63 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1mbae522242c355073d08ff1e252e42753\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "AVG",
+                        "BV:Downloader-II [Trj]"
+                    ],
+                    [
+                        "AegisLab",
+                        "Bv.Downloader.Ii!c"
+                    ],
+                    [
+                        "Avast",
+                        "BV:Downloader-II [Trj]"
+                    ],
+                    [
+                        "ClamAV",
+                        "Unix.Malware.Agent-6328613-0"
+                    ],
+                    [
+                        "DrWeb",
+                        "Linux.DownLoader.178"
+                    ],
+                    [
+                        "Ikarus",
+                        "Trojan.Linux.Downloader"
+                    ],
+                    [
+                        "Rising",
+                        "Trojan.Tsunami!8.E81 (cloud:8ubIIa8H5HL) "
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "Suspicious_GEN.F47V0607"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "8 out of 56 antivirus detected \u001b[1mbae522242c355073d08ff1e252e42753\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/63e6b377fdcca1bd987dbbd78b401d97585aa67f900597706535f778ea85d5dd/analysis/1497131113/\n",
+            "type": "info"
+        }
+    ]
+}
