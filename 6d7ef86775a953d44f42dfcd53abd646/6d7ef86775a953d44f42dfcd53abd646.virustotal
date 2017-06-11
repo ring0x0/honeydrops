@@ -21,7 +21,7 @@
                     ],
                     [
                         "AVG",
-                        "Atros4.CBOI"
+                        "Win32:Malware-gen"
                     ],
                     [
                         "AVware",
@@ -32,8 +32,16 @@
                         "Gen:Variant.Mikey.59774"
                     ],
                     [
+                        "AegisLab",
+                        "Troj.W32.Generic!c"
+                    ],
+                    [
                         "AhnLab-V3",
                         "Trojan/Win32.Generic.C1933302"
+                    ],
+                    [
+                        "Antiy-AVL",
+                        "Trojan/Win32.AGeneric"
                     ],
                     [
                         "Arcabit",
@@ -57,7 +65,11 @@
                     ],
                     [
                         "CrowdStrike",
-                        "malicious_confidence_100% (D)"
+                        "malicious_confidence_100% (W)"
+                    ],
+                    [
+                        "Cyren",
+                        "W32/Trojan.NJPK-3785"
                     ],
                     [
                         "DrWeb",
@@ -93,7 +105,7 @@
                     ],
                     [
                         "Invincea",
-                        "ddos.win32.nitol.b"
+                        "heuristic"
                     ],
                     [
                         "Jiangmin",
@@ -136,24 +148,40 @@
                         "Trojan.Win32.ServStart.eksiek"
                     ],
                     [
+                        "Paloalto",
+                        "generic.ml"
+                    ],
+                    [
                         "Panda",
                         "Trj/GdSda.A"
                     ],
                     [
                         "Qihoo-360",
-                        "HEUR/QVM07.1.A4AC.Malware.Gen"
+                        "Win32/Backdoor.a5c"
                     ],
                     [
                         "Rising",
-                        "Malware.Generic.5!tfe (thunder:5:pHhcedHeoxU) "
+                        "Trojan.ServStart!8.107 (cloud:jvVQ3OWtvwQ) "
                     ],
                     [
                         "SentinelOne",
                         "static engine - malicious"
                     ],
                     [
+                        "Sophos",
+                        "Mal/Generic-S"
+                    ],
+                    [
                         "Symantec",
-                        "ML.Attribute.HighConfidence"
+                        "Trojan.Gen"
+                    ],
+                    [
+                        "Tencent",
+                        "Win32.Trojan.Generic.Wrhe"
+                    ],
+                    [
+                        "TrendMicro",
+                        "TROJ_NITOL.SMN1"
                     ],
                     [
                         "TrendMicro-HouseCall",
@@ -180,11 +208,11 @@
             "type": "table"
         },
         {
-            "data": "40 out of 60 antivirus detected \u001b[1m6d7ef86775a953d44f42dfcd53abd646\u001b[0m as malicious.",
+            "data": "47 out of 61 antivirus detected \u001b[1m6d7ef86775a953d44f42dfcd53abd646\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/b22eaa732aabdb8c44a69c5365b07c3741d6a73f1b9ee1fdeceb7500383b60ae/analysis/1496755212/\n",
+            "data": "https://www.virustotal.com/file/b22eaa732aabdb8c44a69c5365b07c3741d6a73f1b9ee1fdeceb7500383b60ae/analysis/1496950683/\n",
             "type": "info"
         }
     ]
