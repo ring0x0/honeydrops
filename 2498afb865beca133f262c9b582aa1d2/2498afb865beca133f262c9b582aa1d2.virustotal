@@ -21,7 +21,7 @@
                     ],
                     [
                         "AVG",
-                        "Win32:Malware-gen"
+                        "Win32:Trojan-gen"
                     ],
                     [
                         "AVware",
@@ -34,6 +34,10 @@
                     [
                         "AegisLab",
                         "Troj.W32.Generic!c"
+                    ],
+                    [
+                        "AhnLab-V3",
+                        "Trojan/Win32.Injector.C1994783"
                     ],
                     [
                         "Arcabit",
@@ -54,6 +58,10 @@
                     [
                         "BitDefender",
                         "DeepScan:Generic.Sdbot.2252647F"
+                    ],
+                    [
+                        "CAT-QuickHeal",
+                        "Trojan.Generic"
                     ],
                     [
                         "CrowdStrike",
@@ -168,6 +176,10 @@
                         "Trojan.Win32.Generic!BT"
                     ],
                     [
+                        "ViRobot",
+                        "Trojan.Win32.Z.Sdbot.80384[h]"
+                    ],
+                    [
                         "ZoneAlarm",
                         "HEUR:Trojan.Win32.Generic"
                     ]
@@ -176,15 +188,11 @@
             "type": "table"
         },
         {
-            "data": "39 out of 62 antivirus detected \u001b[1m2498afb865beca133f262c9b582aa1d2\u001b[0m as malicious.",
+            "data": "42 out of 62 antivirus detected \u001b[1m2498afb865beca133f262c9b582aa1d2\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/7044db9131d3c7744003520f4bd1bca4bd43e364ae0efb61c575fa6e682196ef/analysis/1496938502/\n",
-            "type": "info"
-        },
-        {
-            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
+            "data": "https://www.virustotal.com/file/7044db9131d3c7744003520f4bd1bca4bd43e364ae0efb61c575fa6e682196ef/analysis/1497193803/\n",
             "type": "info"
         }
     ]
