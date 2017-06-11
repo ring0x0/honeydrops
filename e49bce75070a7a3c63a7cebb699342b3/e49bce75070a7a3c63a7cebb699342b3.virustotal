@@ -1,0 +1,171 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1me49bce75070a7a3c63a7cebb699342b3\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "Trojan.Downloader.Small"
+                    ],
+                    [
+                        "AVG",
+                        "Pakes2_c.CALF"
+                    ],
+                    [
+                        "AVware",
+                        "Trojan.Win32.Small"
+                    ],
+                    [
+                        "AegisLab",
+                        "Troj.W32.Small!c"
+                    ],
+                    [
+                        "Antiy-AVL",
+                        "Trojan/Win32.Small"
+                    ],
+                    [
+                        "Avast",
+                        "Win32:Trojan-gen"
+                    ],
+                    [
+                        "Avira",
+                        "TR/Agent.33812"
+                    ],
+                    [
+                        "Bkav",
+                        "W32.Clodad7.Trojan.dcbc"
+                    ],
+                    [
+                        "CAT-QuickHeal",
+                        "Trojan.Small"
+                    ],
+                    [
+                        "DrWeb",
+                        "Tool.Winelevate.12"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "Win32/Exploit.CVE-2014-4076.C"
+                    ],
+                    [
+                        "Endgame",
+                        "malicious (moderate confidence)"
+                    ],
+                    [
+                        "Fortinet",
+                        "W32/Small.CVG!tr"
+                    ],
+                    [
+                        "GData",
+                        "Win32.Trojan.Agent.AHBX3U"
+                    ],
+                    [
+                        "Ikarus",
+                        "Trojan.Agent"
+                    ],
+                    [
+                        "Jiangmin",
+                        "Trojan.Small.cl"
+                    ],
+                    [
+                        "K7AntiVirus",
+                        "Trojan ( 004dec171 )"
+                    ],
+                    [
+                        "K7GW",
+                        "Trojan ( 004dec171 )"
+                    ],
+                    [
+                        "Kaspersky",
+                        "Trojan.Win32.Small.cvg"
+                    ],
+                    [
+                        "McAfee",
+                        "RDN/Generic Exploit"
+                    ],
+                    [
+                        "McAfee-GW-Edition",
+                        "RDN/Generic Exploit"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Trojan.Win32.Small.eakvsr"
+                    ],
+                    [
+                        "Paloalto",
+                        "generic.ml"
+                    ],
+                    [
+                        "Qihoo-360",
+                        "Trojan.Generic"
+                    ],
+                    [
+                        "Rising",
+                        "Trojan.Generic (cloud:iBLD5DXQi8F) "
+                    ],
+                    [
+                        "Sophos",
+                        "Mal/Generic-S"
+                    ],
+                    [
+                        "Symantec",
+                        "SecurityRisk.gen1"
+                    ],
+                    [
+                        "Tencent",
+                        "Win32.Trojan.Small.Akfb"
+                    ],
+                    [
+                        "VBA32",
+                        "Trojan.Small"
+                    ],
+                    [
+                        "VIPRE",
+                        "Trojan.Win32.Small"
+                    ],
+                    [
+                        "ViRobot",
+                        "Trojan.Win32.Agent.33812[h]"
+                    ],
+                    [
+                        "Webroot",
+                        "W32.Trojan.Gen"
+                    ],
+                    [
+                        "Yandex",
+                        "Trojan.Small!mjO8Jmnt5l8"
+                    ],
+                    [
+                        "Zillya",
+                        "Exploit.CVE.Win32.1742"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "Trojan.Win32.Small.cvg"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "35 out of 61 antivirus detected \u001b[1me49bce75070a7a3c63a7cebb699342b3\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/16d49a40333f584b19606733b4deef1b9ecace2c32950010ad1450b44ce3716e/analysis/1496648252/\n",
+            "type": "info"
+        }
+    ]
+}

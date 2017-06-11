@@ -1,0 +1,171 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m1cc220919b386853ab90fdd8953a1e2d\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "Exploit.Agent.AZ"
+                    ],
+                    [
+                        "AVware",
+                        "Trojan.Win32.Generic!BT"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Exploit.Agent.AZ"
+                    ],
+                    [
+                        "AegisLab",
+                        "Hktl.Gen!c"
+                    ],
+                    [
+                        "Antiy-AVL",
+                        "Trojan[Exploit]/Win32.CVE-2015-2387"
+                    ],
+                    [
+                        "Arcabit",
+                        "Exploit.Agent.AZ"
+                    ],
+                    [
+                        "BitDefender",
+                        "Exploit.Agent.AZ"
+                    ],
+                    [
+                        "Bkav",
+                        "W32.Clodcbb.Trojan.caf9"
+                    ],
+                    [
+                        "CAT-QuickHeal",
+                        "Exploit.Cve20152387"
+                    ],
+                    [
+                        "Cyren",
+                        "W32/Trojan.UXAR-6782"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "Win32/Exploit.Agent.NXO"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Exploit.Agent.AZ (B)"
+                    ],
+                    [
+                        "F-Secure",
+                        "Exploit.Agent.AZ"
+                    ],
+                    [
+                        "GData",
+                        "Exploit.Agent.AZ"
+                    ],
+                    [
+                        "Ikarus",
+                        "Exploit.Agent"
+                    ],
+                    [
+                        "Jiangmin",
+                        "Exploit.CVE-2015-2387.ab"
+                    ],
+                    [
+                        "K7AntiVirus",
+                        "Trojan ( 0001140e1 )"
+                    ],
+                    [
+                        "K7GW",
+                        "Trojan ( 0001140e1 )"
+                    ],
+                    [
+                        "Kaspersky",
+                        "Exploit.Win32.CVE-2015-2387.foox"
+                    ],
+                    [
+                        "Malwarebytes",
+                        "Exploit.Agent"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Exploit.Agent.AZ"
+                    ],
+                    [
+                        "Microsoft",
+                        "Trojan:Win32/Skeeyah.A!bit"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Exploit.Win32.CVE20152387.emfeli"
+                    ],
+                    [
+                        "Panda",
+                        "Trj/GdSda.A"
+                    ],
+                    [
+                        "Qihoo-360",
+                        "Trojan.Generic"
+                    ],
+                    [
+                        "Rising",
+                        "Malware.Undefined!8.C (cloud:a8n9UTnrSGM) "
+                    ],
+                    [
+                        "Symantec",
+                        "Trojan.Gen.2"
+                    ],
+                    [
+                        "Tencent",
+                        "Win32.Exploit.Cve-2015-2387.Ecba"
+                    ],
+                    [
+                        "TrendMicro",
+                        "HKTL_CVE20150057"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "HKTL_CVE20150057"
+                    ],
+                    [
+                        "VIPRE",
+                        "Trojan.Win32.Generic!BT"
+                    ],
+                    [
+                        "Yandex",
+                        "Exploit.CVE-2015-2387!"
+                    ],
+                    [
+                        "Zillya",
+                        "Exploit.CVE.Win32.1671"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "Exploit.Win32.CVE-2015-2387.foox"
+                    ],
+                    [
+                        "nProtect",
+                        "Trojan-Exploit/W32.CVE-2015-2387.11776"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "35 out of 62 antivirus detected \u001b[1m1cc220919b386853ab90fdd8953a1e2d\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/58dd5d9587015b60df751cb86db5c6eede642480cce56912edcb362a1e4200b9/analysis/1496982724/\n",
+            "type": "info"
+        }
+    ]
+}

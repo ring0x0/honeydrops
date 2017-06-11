@@ -1,3 +1,17 @@
+06/11/2017 19:40:01 cb1d9c280fbdddf521946c9a6c026c1fa552e08e7a30ffcd2728744aedeaa6ec POSIX shell script, ASCII text executable https://www.virustotal.com/file/cb1d9c280fbdddf521946c9a6c026c1fa552e08e7a30ffcd2728744aedeaa6ec/analysis/1496358375/
+
+06/11/2017 19:40:01 4881209646afca418735a4ad6041dace3304dd6713b146df0acae576637169d8 ASCII text https://www.virustotal.com/file/4881209646afca418735a4ad6041dace3304dd6713b146df0acae576637169d8/analysis/1496358367/
+
+06/11/2017 19:30:01 ed64809b8d2ae44b98266a8e7009b767 PE32 executable (console) Intel 80386, for MS Windows https://www.virustotal.com/file/aa05e85bcb2db0df54f4bbe9023e77ecb96a721abefea8f6c8a5c1406e2492e8/analysis/1496637648/
+
+06/11/2017 19:30:01 e49bce75070a7a3c63a7cebb699342b3 PE32 executable (console) Intel 80386, for MS Windows https://www.virustotal.com/file/16d49a40333f584b19606733b4deef1b9ecace2c32950010ad1450b44ce3716e/analysis/1496648252/
+
+06/11/2017 19:30:01 85956d7b3126d1793b2e40b07906ee1a PE32 executable (console) Intel 80386, for MS Windows https://www.virustotal.com/file/5d6b44d5353d6c1d3c90cc2caaa3d3c408f30320ae75e48a845bd93efa67edca/analysis/1496637494/
+
+06/11/2017 19:30:01 2cc80b81edb2133206d29ec44ed8aaa1 PE32+ executable (console) x86-64, for MS Windows https://www.virustotal.com/file/e2946ecb747a6671e7655aaa0c781e22c965284a10bbe983f59dca46128ce671/analysis/1496637428/
+
+06/11/2017 19:30:01 1cc220919b386853ab90fdd8953a1e2d PE32 executable (console) Intel 80386, for MS Windows https://www.virustotal.com/file/58dd5d9587015b60df751cb86db5c6eede642480cce56912edcb362a1e4200b9/analysis/1496982724/
+
 06/11/2017 18:05:01 6d7ef86775a953d44f42dfcd53abd646 PE32 executable (GUI) Intel 80386, for MS Windows https://www.virustotal.com/file/b22eaa732aabdb8c44a69c5365b07c3741d6a73f1b9ee1fdeceb7500383b60ae/analysis/1496950683/
 
 06/11/2017 16:40:02 393e16509241cd979fffd32b2f3e7800 PE32 executable (GUI) Intel 80386, for MS Windows
@@ -17,10 +31,6 @@
 06/11/2017 02:45:01 543773cb7f8c54ab1b663e5cd87cba2b2624704849481d248dafe3003ab64b7b ASCII text https://www.virustotal.com/file/543773cb7f8c54ab1b663e5cd87cba2b2624704849481d248dafe3003ab64b7b/analysis/1497131115/
 
 06/10/2017 22:50:01 08e25d839a668501d8c8024b3144d3b7 ASCII text, with very long lines, with CRLF line terminators https://www.virustotal.com/file/bfb411e731300b8a9b3902c59e93075948a09860cca85f3f32deeb1351880407/analysis/1496706117/
-
-06/10/2017 20:55:01 cb1d9c280fbdddf521946c9a6c026c1fa552e08e7a30ffcd2728744aedeaa6ec POSIX shell script, ASCII text executable https://www.virustotal.com/file/cb1d9c280fbdddf521946c9a6c026c1fa552e08e7a30ffcd2728744aedeaa6ec/analysis/1496358375/
-
-06/10/2017 20:55:01 4881209646afca418735a4ad6041dace3304dd6713b146df0acae576637169d8 ASCII text https://www.virustotal.com/file/4881209646afca418735a4ad6041dace3304dd6713b146df0acae576637169d8/analysis/1496358367/
 
 06/10/2017 16:10:01 a044fbe60d8393f4a7652d669bc12065 PE32 executable (DLL) (GUI) Intel 80386, for MS Windows, UPX compressed https://www.virustotal.com/file/e6b8090a4c6e1f301ac041209aba9376e8bbb0f734a2e2244a84e55852f9bb0a/analysis/1495975739/
 

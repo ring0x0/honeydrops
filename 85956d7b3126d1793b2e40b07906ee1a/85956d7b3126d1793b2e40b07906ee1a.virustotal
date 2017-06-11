@@ -1,0 +1,219 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m85956d7b3126d1793b2e40b07906ee1a\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "AVG",
+                        "Exploit_c.ACMC"
+                    ],
+                    [
+                        "AVware",
+                        "Trojan.Win32.Generic!BT"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Exploit.CVE-2015-1701.A"
+                    ],
+                    [
+                        "AegisLab",
+                        "Exploit.Cve.Gen!c"
+                    ],
+                    [
+                        "AhnLab-V3",
+                        "Trojan/Win32.Exploit.R200798"
+                    ],
+                    [
+                        "Antiy-AVL",
+                        "Trojan/Win32.TSGeneric"
+                    ],
+                    [
+                        "Arcabit",
+                        "Exploit.CVE-2015-1701.A"
+                    ],
+                    [
+                        "Avast",
+                        "Win32:Malware-gen"
+                    ],
+                    [
+                        "Avira",
+                        "EXP/CVE-2015-0311.gbss"
+                    ],
+                    [
+                        "Baidu",
+                        "Win32.Exploit.Agent.d"
+                    ],
+                    [
+                        "BitDefender",
+                        "Exploit.CVE-2015-1701.A"
+                    ],
+                    [
+                        "CAT-QuickHeal",
+                        "Exploit.CVE-2015-1701.OL5"
+                    ],
+                    [
+                        "Comodo",
+                        "UnclassifiedMalware"
+                    ],
+                    [
+                        "Cyren",
+                        "W32/Trojan.NQOR-6991"
+                    ],
+                    [
+                        "DrWeb",
+                        "Exploit.CVE2015-1701.1"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "a variant of Win32/Exploit.CVE-2015-1701.A"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Exploit.CVE-2015-1701.A (B)"
+                    ],
+                    [
+                        "Endgame",
+                        "malicious (moderate confidence)"
+                    ],
+                    [
+                        "F-Secure",
+                        "Exploit.CVE-2015-1701.A"
+                    ],
+                    [
+                        "Fortinet",
+                        "W32/CVE_2015_1701.A!exploit"
+                    ],
+                    [
+                        "GData",
+                        "Exploit.CVE-2015-1701.A"
+                    ],
+                    [
+                        "Ikarus",
+                        "Trojan.Win32.Exploit"
+                    ],
+                    [
+                        "Jiangmin",
+                        "Exploit.CVE-2015-1701.d"
+                    ],
+                    [
+                        "K7AntiVirus",
+                        "Exploit ( 004c2f651 )"
+                    ],
+                    [
+                        "K7GW",
+                        "Exploit ( 004c2f651 )"
+                    ],
+                    [
+                        "Kaspersky",
+                        "Exploit.Win32.CVE-2015-1701.a"
+                    ],
+                    [
+                        "Malwarebytes",
+                        "Exploit.CVE"
+                    ],
+                    [
+                        "McAfee",
+                        "RDN/Generic Exploit!1n3"
+                    ],
+                    [
+                        "McAfee-GW-Edition",
+                        "RDN/Generic Exploit!1n3"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Exploit.CVE-2015-1701.A"
+                    ],
+                    [
+                        "Microsoft",
+                        "Exploit:Win32/CVE-2015-1701"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Exploit.Win32.CVE20151701.dsfezp"
+                    ],
+                    [
+                        "Panda",
+                        "Exploit/CVE-2015-1701"
+                    ],
+                    [
+                        "Qihoo-360",
+                        "Trojan.Generic"
+                    ],
+                    [
+                        "Sophos",
+                        "Mal/Generic-S"
+                    ],
+                    [
+                        "Symantec",
+                        "Trojan.Gen.2"
+                    ],
+                    [
+                        "Tencent",
+                        "Win32.Exploit.Cve-2015-1701.Eawz"
+                    ],
+                    [
+                        "TheHacker",
+                        "Trojan/Exploit.CVE-2015-1701.a"
+                    ],
+                    [
+                        "TrendMicro",
+                        "HKTL_CVE20151676"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "HKTL_CVE20151676"
+                    ],
+                    [
+                        "VBA32",
+                        "Exploit.CVE20151701"
+                    ],
+                    [
+                        "VIPRE",
+                        "Trojan.Win32.Generic!BT"
+                    ],
+                    [
+                        "Webroot",
+                        "W32.Malware.Gen"
+                    ],
+                    [
+                        "Yandex",
+                        "Exploit.CVE-2015-1701!"
+                    ],
+                    [
+                        "Zillya",
+                        "Exploit.CVE.Win32.279"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "Exploit.Win32.CVE-2015-1701.a"
+                    ],
+                    [
+                        "nProtect",
+                        "Trojan-Exploit/W32.CVE-2015-1701.48128"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "47 out of 61 antivirus detected \u001b[1m85956d7b3126d1793b2e40b07906ee1a\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/5d6b44d5353d6c1d3c90cc2caaa3d3c408f30320ae75e48a845bd93efa67edca/analysis/1496637494/\n",
+            "type": "info"
+        }
+    ]
+}
