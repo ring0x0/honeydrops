@@ -2,7 +2,21 @@
 
 { 
 
-	 "date": "06/12/2017 19:35:01",
+	 "date": "06/12/2017 20:10:01",
+
+	 "hash": "ffd0d65e05fa80f392a6c254bc4f2ff3",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
+
+	 "virustotal": "https://www.virustotal.com/file/c1286590924ef45046027422f82345b7dafd05f0b9126add5bba644803621bb8/analysis/1497261005/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/ffd0d65e05fa80f392a6c254bc4f2ff3"
+
+},
+
+{ 
+
+	 "date": "06/12/2017 20:05:02",
 
 	 "hash": "f47ae12d78395307d836f2779669fd110be3ed57544a37e639060799bfae745d",
 
@@ -16,7 +30,7 @@
 
 { 
 
-	 "date": "06/12/2017 19:35:01",
+	 "date": "06/12/2017 20:05:02",
 
 	 "hash": "bddd2effcb332e93989cea45858cc7ea312413a9e4e12938903ff79e59ec45f2",
 
@@ -30,7 +44,7 @@
 
 { 
 
-	 "date": "06/12/2017 19:35:01",
+	 "date": "06/12/2017 20:05:02",
 
 	 "hash": "7fe18b507c08b887cda9236d2e8eb8830df833bd3901c4d7d6206b3e81712121",
 
@@ -44,7 +58,7 @@
 
 { 
 
-	 "date": "06/12/2017 19:35:01",
+	 "date": "06/12/2017 20:05:02",
 
 	 "hash": "2409fb21fe377f7e12dda392f26d7c93b7715239169d362dd907fe499ab38ee9",
 

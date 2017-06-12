@@ -1,0 +1,59 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1mffd0d65e05fa80f392a6c254bc4f2ff3\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "Arcabit",
+                        "Trojan.Heur.RP.ED1A19"
+                    ],
+                    [
+                        "Baidu",
+                        "Win32.Trojan.WisdomEyes.16070401.9500.9917"
+                    ],
+                    [
+                        "CrowdStrike",
+                        "malicious_confidence_100% (D)"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Gen:Trojan.Heur.RP.fmW@aWGDIB (B)"
+                    ],
+                    [
+                        "F-Secure",
+                        "Gen:Trojan.Heur.RP.fmW@aWGDIB"
+                    ],
+                    [
+                        "Invincea",
+                        "heuristic"
+                    ],
+                    [
+                        "Qihoo-360",
+                        "HEUR/QVM07.1.C58D.Malware.Gen"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "7 out of 27 antivirus detected \u001b[1mffd0d65e05fa80f392a6c254bc4f2ff3\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/c1286590924ef45046027422f82345b7dafd05f0b9126add5bba644803621bb8/analysis/1497261005/\n",
+            "type": "info"
+        }
+    ]
+}
