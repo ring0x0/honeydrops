@@ -21,7 +21,7 @@
                     ],
                     [
                         "AVG",
-                        "Downloader.Generic14.BJLD"
+                        "Win32:Trojan-gen"
                     ],
                     [
                         "AVware",
@@ -164,6 +164,10 @@
                         "Win32/Trojan.023"
                     ],
                     [
+                        "Rising",
+                        "Malware.Generic.5!tfe (cloud:tNGPToNUj8R) "
+                    ],
+                    [
                         "Sophos",
                         "Mal/Generic-S"
                     ],
@@ -216,11 +220,11 @@
             "type": "table"
         },
         {
-            "data": "49 out of 61 antivirus detected \u001b[1m3d88a57d3277ca5ec548a8fa7b2bd1cb\u001b[0m as malicious.",
+            "data": "50 out of 62 antivirus detected \u001b[1m3d88a57d3277ca5ec548a8fa7b2bd1cb\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/0939198ff23f9e2fe0203b64ed0cefb6bfb340bb9d82a892c40e37930377ff2f/analysis/1496887821/\n",
+            "data": "https://www.virustotal.com/file/0939198ff23f9e2fe0203b64ed0cefb6bfb340bb9d82a892c40e37930377ff2f/analysis/1497091225/\n",
             "type": "info"
         }
     ]
