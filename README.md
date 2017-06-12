@@ -2,20 +2,6 @@
 
 { 
 
-	 "date": "",
-
-	 "hash": "",
-
-	 "type": "",
-
-	 "virustotal": "" ,
-
-	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/"
-
-}, 
-
-{ 
-
 	 "date": "06/12/2017 16:05:01",
 
 	 "hash": "7fe18b507c08b887cda9236d2e8eb8830df833bd3901c4d7d6206b3e81712121",
