@@ -12,8 +12,7 @@
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/7fe18b507c08b887cda9236d2e8eb8830df833bd3901c4d7d6206b3e81712121"
 
-}, 
-
+},
 { 
 
 	 "date": "06/12/2017 16:05:01",
@@ -26,8 +25,7 @@
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/2409fb21fe377f7e12dda392f26d7c93b7715239169d362dd907fe499ab38ee9"
 
-}, 
-
+},
 { 
 
 	 "date": "06/12/2017 09:45:01",
@@ -40,8 +38,7 @@
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/1a89371ea1bfae68ce3242ce40d80bd3"
 
-}, 
-
+},
 { 
 
 	 "date": "06/12/2017 05:50:01",
@@ -54,8 +51,7 @@
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/3d88a57d3277ca5ec548a8fa7b2bd1cb"
 
-}, 
-
+},
 { 
 
 	 "date": "06/12/2017 02:00:01",
@@ -68,8 +64,7 @@
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/2a315c033a96ecf2ab2555591ad8db06"
 
-}, 
-
+},
 { 
 
 	 "date": "06/12/2017 01:30:01",
@@ -82,8 +77,7 @@
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/79f68266a8559906d29733859f3ddf9c"
 
-}, 
-
+},
 { 
 
 	 "date": "06/11/2017 19:40:01",
@@ -96,8 +90,7 @@
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/cb1d9c280fbdddf521946c9a6c026c1fa552e08e7a30ffcd2728744aedeaa6ec"
 
-}, 
-
+},
 { 
 
 	 "date": "06/11/2017 19:40:01",
@@ -110,8 +103,7 @@
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/4881209646afca418735a4ad6041dace3304dd6713b146df0acae576637169d8"
 
-}, 
-
+},
 { 
 
 	 "date": "06/11/2017 19:30:01",
@@ -124,8 +116,7 @@
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/ed64809b8d2ae44b98266a8e7009b767"
 
-}, 
-
+},
 { 
 
 	 "date": "06/11/2017 19:30:01",
@@ -138,8 +129,7 @@
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/e49bce75070a7a3c63a7cebb699342b3"
 
-}, 
-
+},
 { 
 
 	 "date": "06/11/2017 19:30:01",
@@ -152,8 +142,7 @@
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/85956d7b3126d1793b2e40b07906ee1a"
 
-}, 
-
+},
 { 
 
 	 "date": "06/11/2017 19:30:01",
@@ -166,8 +155,7 @@
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/2cc80b81edb2133206d29ec44ed8aaa1"
 
-}, 
-
+},
 { 
 
 	 "date": "06/11/2017 19:30:01",
@@ -180,8 +168,7 @@
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/1cc220919b386853ab90fdd8953a1e2d"
 
-}, 
-
+},
 { 
 
 	 "date": "06/11/2017 18:05:01",
@@ -194,8 +181,7 @@
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/6d7ef86775a953d44f42dfcd53abd646"
 
-}, 
-
+},
 { 
 
 	 "date": "06/11/2017 16:40:02",
@@ -208,8 +194,7 @@
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/393e16509241cd979fffd32b2f3e7800"
 
-}, 
-
+},
 { 
 
 	 "date": "06/11/2017 16:05:01",
@@ -222,8 +207,7 @@
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/2498afb865beca133f262c9b582aa1d2"
 
-}, 
-
+},
 { 
 
 	 "date": "06/11/2017 08:00:01",
@@ -236,8 +220,7 @@
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/1300a728c1e0bd2e818e5df75908f793"
 
-}, 
-
+},
 { 
 
 	 "date": "06/11/2017 06:30:01",
@@ -250,8 +233,7 @@
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/4d56562a6019c05c592b9681e9ca2737"
 
-}, 
-
+},
 { 
 
 	 "date": "06/11/2017 02:45:01",
@@ -264,8 +246,7 @@
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/79433546e1dfd52a82c548e16c0c3f056561b5b2adeb902b920d16146bda17ec"
 
-}, 
-
+},
 { 
 
 	 "date": "06/11/2017 02:45:01",
@@ -278,8 +259,7 @@
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/63e6b377fdcca1bd987dbbd78b401d97585aa67f900597706535f778ea85d5dd"
 
-}, 
-
+},
 { 
 
 	 "date": "06/11/2017 02:45:01",
@@ -292,8 +272,7 @@
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/543773cb7f8c54ab1b663e5cd87cba2b2624704849481d248dafe3003ab64b7b"
 
-}, 
-
+},
 { 
 
 	 "date": "06/10/2017 22:50:01",
@@ -306,8 +285,7 @@
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/08e25d839a668501d8c8024b3144d3b7"
 
-}, 
-
+},
 { 
 
 	 "date": "06/10/2017 16:10:01",
@@ -320,8 +298,7 @@
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/a044fbe60d8393f4a7652d669bc12065"
 
-}, 
-
+},
 { 
 
 	 "date": "06/10/2017 16:10:01",
@@ -334,8 +311,7 @@
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/6c89df7d6d364c792599d4ff2499aeac"
 
-}, 
-
+},
 { 
 
 	 "date": "06/10/2017 14:40:01",
@@ -348,8 +324,7 @@
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/08a94e9607ca627dcec8a064b5d477ea"
 
-}, 
-
+},
 { 
 
 	 "date": "06/10/2017 14:40:01",
@@ -362,8 +337,7 @@
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/049a069b30324dec48c5b3fe10d4b903"
 
-}, 
-
+},
 { 
 
 	 "date": "06/10/2017 13:45:01",
@@ -376,8 +350,7 @@
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/baec34bbc72c544e5953da4ac1d6dde4"
 
-}, 
-
+},
 { 
 
 	 "date": "06/10/2017 10:25:01",
@@ -390,8 +363,7 @@
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/7782f67481c934b23b15edd5e15067cb"
 
-}, 
-
+},
 { 
 
 	 "date": "06/10/2017 10:20:01",
@@ -404,8 +376,7 @@
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/d04ca76f863e0aa00f3493b5633318a2"
 
-}, 
-
+},
 { 
 
 	 "date": "06/10/2017 07:15:01",
@@ -418,8 +389,7 @@
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/19d19c65e56f65ef1fbe1927e0c164b01d8ef250c0e270f5c9b02edd013b5a51"
 
-}, 
-
+},
 { 
 
 	 "date": "06/10/2017 05:45:01",
@@ -432,8 +402,7 @@
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/786ab616239814616642ba4438df78a9"
 
-}, 
-
+},
 { 
 
 	 "date": "06/09/2017 23:05:01",
@@ -446,8 +415,7 @@
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/f47ae12d78395307d836f2779669fd110be3ed57544a37e639060799bfae745d"
 
-}, 
-
+},
 { 
 
 	 "date": "06/09/2017 23:05:01",
@@ -460,8 +428,7 @@
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/ec7bf4e7c3129f31117d7e75d756db18b31c02e32ed8f7b91c6d4afa3dc32ecd"
 
-}, 
-
+},
 { 
 
 	 "date": "06/09/2017 23:05:01",
@@ -474,8 +441,7 @@
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/bddd2effcb332e93989cea45858cc7ea312413a9e4e12938903ff79e59ec45f2"
 
-}, 
-
+},
 { 
 
 	 "date": "06/09/2017 23:05:01",
@@ -488,8 +454,7 @@
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/7985de509fb7e9bcfb1d099760c6bcf5765f4eb876050f5e47998cb28f2b9d99"
 
-}, 
-
+},
 { 
 
 	 "date": "06/09/2017 23:05:01",
@@ -502,8 +467,7 @@
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/734f36d901572f218b890e13dd04a7ad1d97fb7031558a331fedc572d3443fa5"
 
-}, 
-
+},
 { 
 
 	 "date": "06/09/2017 21:55:01",
@@ -516,8 +480,7 @@
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/fc9b0b8b711e44ce0d4f91b0cedb1c76"
 
-}, 
-
+},
 { 
 
 	 "date": "06/09/2017 02:15:01",
@@ -530,8 +493,7 @@
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/ab27f6c7634e9efc13fb2db29216a0a8"
 
-}, 
-
+},
 { 
 
 	 "date": "06/09/2017 02:15:01",
@@ -544,8 +506,7 @@
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/844290834b6450425b146d4517cdf780"
 
-}, 
-
+},
 { 
 
 	 "date": "06/08/2017 23:40:01",
@@ -558,8 +519,7 @@
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/7db96a93f168fd905674d2631deb7c29"
 
-}, 
-
+},
 { 
 
 	 "date": "06/08/2017 23:40:01",
@@ -572,8 +532,7 @@
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/5cbb19165bfdb63d43d1552fa49f9716"
 
-}, 
-
+},
 { 
 
 	 "date": "06/08/2017 23:40:01",
@@ -586,8 +545,7 @@
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/516a3d28ffad8964d3dbcd8f382b2fa9"
 
-}, 
-
+},
 { 
 
 	 "date": "06/08/2017 22:50:01",
@@ -600,8 +558,7 @@
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/8c3a8e383e5b37be8e1e150693524d20feae0b34677597ac927f7146c19c3039"
 
-}, 
-
+},
 { 
 
 	 "date": "06/08/2017 21:50:01",
@@ -614,8 +571,7 @@
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/27ab26b3062f1b7070042e30afd7cd1659bc5b78139af16f759490307742f6b5"
 
-}, 
-
+},
 { 
 
 	 "date": "06/08/2017 20:45:01",
@@ -628,8 +584,7 @@
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/36a066845cbb430e7a7deadd5aac2f06"
 
-}, 
-
+},
 { 
 
 	 "date": "06/08/2017 20:40:01",
@@ -642,8 +597,7 @@
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/86fbdd7df9486a17e9c408c7e50635e26402fdf297c9e97f1a5256100401dcc5"
 
-}, 
-
+},
 { 
 
 	 "date": "06/08/2017 20:40:01",
@@ -656,8 +610,7 @@
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/5685b086ce12ffede8814e303223a67eca476735dfe4e9e84b751354a5ea0232"
 
-}, 
-
+},
 { 
 
 	 "date": "06/08/2017 20:40:01",
@@ -670,8 +623,7 @@
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/0ffa9e646e881568c1f65055917547b04d89a8a2150af45faa66beb2733e7427"
 
-}, 
-
+},
 { 
 
 	 "date": "06/08/2017 19:40:01",
@@ -684,8 +636,7 @@
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/f983e21c9cf1fbba6e12da9cb92561d4"
 
-}, 
-
+},
 { 
 
 	 "date": "06/08/2017 18:35:01",
@@ -698,8 +649,7 @@
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/64b3efd44dd4b0c477ddbbde4e64d0c6"
 
-}, 
-
+},
 { 
 
 	 "date": "06/08/2017 16:45:01",
@@ -712,8 +662,7 @@
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/http-cEZW9b"
 
-}, 
-
+},
 { 
 
 	 "date": "06/08/2017 08:05:01",
@@ -726,8 +675,7 @@
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/72bb10e6bc89abba6b92d8026bbdf681"
 
-}, 
-
+},
 { 
 
 	 "date": "06/08/2017 08:05:01",
@@ -740,8 +688,7 @@
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/621c0b356c49edc5ce4cf3ee88c30f82"
 
-}, 
-
+},
 { 
 
 	 "date": "06/08/2017 00:15:01",
@@ -754,8 +701,7 @@
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/e47f7271638dc2830ddde5203bd092ba1bbf1b7a408bd5e0ab7602b421956688"
 
-}, 
-
+},
 { 
 
 	 "date": "06/07/2017 18:30:01",
@@ -768,8 +714,7 @@
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/2937577db5cf9804c86bd8e5d1ca0f1e"
 
-}, 
-
+},
 { 
 
 	 "date": "06/07/2017 17:35:01",
@@ -782,8 +727,7 @@
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/61cc9a8fa701750cd9987390fef8ee28"
 
-}, 
-
+},
 { 
 
 	 "date": "06/07/2017 17:35:01",
@@ -796,8 +740,7 @@
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/173abbd8666357d66ad291fe6060adb4"
 
-}, 
-
+},
 { 
 
 	 "date": "06/07/2017 15:30:01",
@@ -810,8 +753,7 @@
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/9e0879c7c2cc632dae31ef5b66099ec6"
 
-}, 
-
+},
 { 
 
 	 "date": "06/07/2017 13:05:01",
@@ -824,8 +766,7 @@
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/7867de13bf22a7f3e3559044053e33e7"
 
-}, 
-
+},
 { 
 
 	 "date": "06/07/2017 10:25:01",
@@ -838,8 +779,7 @@
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/7e74627dcb8707c41c7f44c0d5106aec"
 
-}, 
-
+},
 { 
 
 	 "date": "06/07/2017 10:05:01",
@@ -852,8 +792,7 @@
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/0afa86234c4d4f54e4c96d08005ed1e8"
 
-}, 
-
+},
 { 
 
 	 "date": "06/07/2017 08:45:01",
@@ -866,8 +805,7 @@
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/cf2e13d7d6bb7dbc26130727b5a6cf2c8df72a7b7fcd27f36671ce0debcecd56"
 
-}, 
-
+},
 { 
 
 	 "date": "06/07/2017 06:30:01",
@@ -880,8 +818,7 @@
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/cae8a8524eeb0e7de1fb3704bd14b7ba"
 
-}, 
-
+},
 { 
 
 	 "date": "06/07/2017 05:35:01",
@@ -894,8 +831,7 @@
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/eb18a7d302bbc8c0b3ed2cd1612e8d59"
 
-}, 
-
+},
 { 
 
 	 "date": "06/06/2017 21:05:01",
@@ -908,8 +844,7 @@
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/c647303506d29a949443a81841afc7878f45e50e225e7747d845c305e9dc0329"
 
-}, 
-
+},
 { 
 
 	 "date": "06/06/2017 21:00:01",
@@ -922,8 +857,7 @@
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/21fdfd8dd9ca4f10497ddf24b97cbfcd"
 
-}, 
-
+},
 { 
 
 	 "date": "06/06/2017 20:55:01",
@@ -936,8 +870,7 @@
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/16fc8229b6341c4e643f2f35ba0313c8"
 
-}, 
-
+},
 { 
 
 	 "date": "06/06/2017 17:27:34",
@@ -950,8 +883,7 @@
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/705c585d669f8a75bbbb12dec4a751bd"
 
-}, 
-
+},
 { 
 
 	 "date": "06/06/2017 04:15:01",
@@ -963,6 +895,6 @@
 	 "virustotal": "https://www.virustotal.com/file/3be03f5d855a156296ce7d4a72736f89df497d29cee4873d82346f3b9550fe5c/analysis/1496629072/" ,
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/8e40ad1ced365a25ff67e4fa71cdeb31"
-
 }
+
 ]
