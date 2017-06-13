@@ -58,6 +58,20 @@
 
 { 
 
+	 "date": "06/13/2017 18:20:01",
+
+	 "hash": "b28f62e72ca7baae236ce4807237f197",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
+
+	 "virustotal": "https://www.virustotal.com/file/1b9636bbf36b2580a0274b849f49a1de2f5ec727f0ca7537a00687648896e85a/analysis/1496918049/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/b28f62e72ca7baae236ce4807237f197"
+
+},
+
+{ 
+
 	 "date": "06/13/2017 17:10:01",
 
 	 "hash": "smb-ro1f8y5r.tmp",
@@ -291,20 +305,6 @@
 	 "virustotal": "https://www.virustotal.com/file/c1286590924ef45046027422f82345b7dafd05f0b9126add5bba644803621bb8/analysis/1497261005/" ,
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/ffd0d65e05fa80f392a6c254bc4f2ff3"
-
-},
-
-{ 
-
-	 "date": "06/12/2017 18:20:01",
-
-	 "hash": "b28f62e72ca7baae236ce4807237f197",
-
-	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
-
-	 "virustotal": "https://www.virustotal.com/file/1b9636bbf36b2580a0274b849f49a1de2f5ec727f0ca7537a00687648896e85a/analysis/1496918049/" ,
-
-	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/b28f62e72ca7baae236ce4807237f197"
 
 },
 
