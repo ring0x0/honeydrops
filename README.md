@@ -58,7 +58,7 @@
 
 { 
 
-	 "date": "06/13/2017 19:15:01",
+	 "date": "06/13/2017 19:40:01",
 
 	 "hash": "f88388a7250ab66c77d54834c0bd6422b7b761935b0a0c8aca88d2f2248be58d",
 
@@ -67,6 +67,20 @@
 	 "virustotal": "https://www.virustotal.com/file/f88388a7250ab66c77d54834c0bd6422b7b761935b0a0c8aca88d2f2248be58d/analysis/1497359301/" ,
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/f88388a7250ab66c77d54834c0bd6422b7b761935b0a0c8aca88d2f2248be58d"
+
+},
+
+{ 
+
+	 "date": "06/13/2017 19:30:01",
+
+	 "hash": "1a89371ea1bfae68ce3242ce40d80bd3",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
+
+	 "virustotal": "https://www.virustotal.com/file/63aa88704c956057cc93188a7d167951604934217332bed7a6902dc5201996a9/analysis/1496637362/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/1a89371ea1bfae68ce3242ce40d80bd3"
 
 },
 
@@ -347,20 +361,6 @@
 	 "virustotal": "https://www.virustotal.com/file/db5ce44e4c4ce6271d2e0a056e5abafdd7045f00d55c78450e64a87c2ed86efb/analysis/1497288302/" ,
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/smb-msggztxe.tmp"
-
-},
-
-{ 
-
-	 "date": "06/12/2017 09:45:01",
-
-	 "hash": "1a89371ea1bfae68ce3242ce40d80bd3",
-
-	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
-
-	 "virustotal": "https://www.virustotal.com/file/63aa88704c956057cc93188a7d167951604934217332bed7a6902dc5201996a9/analysis/1496637362/" ,
-
-	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/1a89371ea1bfae68ce3242ce40d80bd3"
 
 },
 
