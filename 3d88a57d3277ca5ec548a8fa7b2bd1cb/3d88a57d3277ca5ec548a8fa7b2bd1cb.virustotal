@@ -92,10 +92,6 @@
                         "Gen:Variant.Zusy.215725 (B)"
                     ],
                     [
-                        "Endgame",
-                        "malicious (high confidence)"
-                    ],
-                    [
                         "F-Prot",
                         "W32/Farfli.AI"
                     ],
@@ -164,10 +160,6 @@
                         "Win32/Trojan.023"
                     ],
                     [
-                        "Rising",
-                        "Malware.Generic.5!tfe (cloud:tNGPToNUj8R) "
-                    ],
-                    [
                         "Sophos",
                         "Mal/Generic-S"
                     ],
@@ -220,11 +212,11 @@
             "type": "table"
         },
         {
-            "data": "50 out of 62 antivirus detected \u001b[1m3d88a57d3277ca5ec548a8fa7b2bd1cb\u001b[0m as malicious.",
+            "data": "48 out of 62 antivirus detected \u001b[1m3d88a57d3277ca5ec548a8fa7b2bd1cb\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/0939198ff23f9e2fe0203b64ed0cefb6bfb340bb9d82a892c40e37930377ff2f/analysis/1497091225/\n",
+            "data": "https://www.virustotal.com/file/0939198ff23f9e2fe0203b64ed0cefb6bfb340bb9d82a892c40e37930377ff2f/analysis/1497320737/\n",
             "type": "info"
         }
     ]
