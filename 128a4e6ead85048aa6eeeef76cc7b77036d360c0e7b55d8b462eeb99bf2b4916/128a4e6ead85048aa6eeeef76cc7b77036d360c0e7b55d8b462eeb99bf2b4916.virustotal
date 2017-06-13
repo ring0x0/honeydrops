@@ -1,0 +1,43 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m278a3779bf48c95ea858147ba3d7a977\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "AVG",
+                        "BV:Downloader-JV [Drp]"
+                    ],
+                    [
+                        "Avast",
+                        "BV:Downloader-JV [Drp]"
+                    ],
+                    [
+                        "DrWeb",
+                        "Linux.DownLoader.158"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "3 out of 57 antivirus detected \u001b[1m278a3779bf48c95ea858147ba3d7a977\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/128a4e6ead85048aa6eeeef76cc7b77036d360c0e7b55d8b462eeb99bf2b4916/analysis/1497260741/\n",
+            "type": "info"
+        }
+    ]
+}
