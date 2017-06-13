@@ -1,0 +1,211 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1ma0e763b8598988f52dbb9b248440d6ba\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "Generic.ServStart.A.D9DAE432"
+                    ],
+                    [
+                        "AVG",
+                        "Win32:Malware-gen"
+                    ],
+                    [
+                        "AVware",
+                        "BehavesLike.Win32.Malware.ssc (mx-v)"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Generic.ServStart.A.D9DAE432"
+                    ],
+                    [
+                        "AhnLab-V3",
+                        "Worm/Win32.Nitol.C1546155"
+                    ],
+                    [
+                        "Antiy-AVL",
+                        "Trojan/Win32.AGeneric"
+                    ],
+                    [
+                        "Arcabit",
+                        "Generic.ServStart.A.D9DAE432"
+                    ],
+                    [
+                        "Avast",
+                        "Win32:Malware-gen"
+                    ],
+                    [
+                        "Avira",
+                        "WORM/Rbot.Gen"
+                    ],
+                    [
+                        "Baidu",
+                        "Win32.Trojan.ServStart.ax"
+                    ],
+                    [
+                        "BitDefender",
+                        "Generic.ServStart.A.D9DAE432"
+                    ],
+                    [
+                        "ClamAV",
+                        "Win.Trojan.Generic-6297788-0"
+                    ],
+                    [
+                        "CrowdStrike",
+                        "malicious_confidence_100% (D)"
+                    ],
+                    [
+                        "Cyren",
+                        "W32/QQhelper.C.gen!Eldorado"
+                    ],
+                    [
+                        "DrWeb",
+                        "Trojan.DownLoader24.64463"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "a variant of Win32/ServStart.BM"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Generic.ServStart.A.D9DAE432 (B)"
+                    ],
+                    [
+                        "Endgame",
+                        "malicious (high confidence)"
+                    ],
+                    [
+                        "F-Prot",
+                        "W32/QQhelper.C.gen!Eldorado"
+                    ],
+                    [
+                        "F-Secure",
+                        "Generic.ServStart.A.D9DAE432"
+                    ],
+                    [
+                        "Fortinet",
+                        "W32/ServStart.AS!tr"
+                    ],
+                    [
+                        "GData",
+                        "Generic.ServStart.A.D9DAE432"
+                    ],
+                    [
+                        "Ikarus",
+                        "Trojan.Win32.ServStart"
+                    ],
+                    [
+                        "Invincea",
+                        "heuristic"
+                    ],
+                    [
+                        "Jiangmin",
+                        "Trojan.Generic.akure"
+                    ],
+                    [
+                        "K7AntiVirus",
+                        "Riskware ( 0040eff71 )"
+                    ],
+                    [
+                        "K7GW",
+                        "Riskware ( 0040eff71 )"
+                    ],
+                    [
+                        "Kaspersky",
+                        "HEUR:Trojan.Win32.Generic"
+                    ],
+                    [
+                        "McAfee",
+                        "DoS-FAZ!A0E763B85989"
+                    ],
+                    [
+                        "McAfee-GW-Edition",
+                        "BehavesLike.Win32.Klez.km"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Generic.ServStart.A.D9DAE432"
+                    ],
+                    [
+                        "Microsoft",
+                        "DDoS:Win32/Nitol.B"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Trojan.Win32.Rbot.eprkyw"
+                    ],
+                    [
+                        "Panda",
+                        "Trj/GdSda.A"
+                    ],
+                    [
+                        "Qihoo-360",
+                        "HEUR/QVM07.1.BFCA.Malware.Gen"
+                    ],
+                    [
+                        "SentinelOne",
+                        "static engine - malicious"
+                    ],
+                    [
+                        "Sophos",
+                        "Mal/Behav-116"
+                    ],
+                    [
+                        "Symantec",
+                        "ML.Attribute.HighConfidence"
+                    ],
+                    [
+                        "Tencent",
+                        "Win32.Worm.Rbot.Lmuh"
+                    ],
+                    [
+                        "TotalDefense",
+                        "Win32/Nitol.A!generic"
+                    ],
+                    [
+                        "TrendMicro",
+                        "DDOS_NITOL.SMS"
+                    ],
+                    [
+                        "VBA32",
+                        "BScope.Trojan.Win32.Inject.2"
+                    ],
+                    [
+                        "VIPRE",
+                        "BehavesLike.Win32.Malware.ssc (mx-v)"
+                    ],
+                    [
+                        "Yandex",
+                        "Trojan.Agent!o99KF4zjJy4"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "HEUR:Trojan.Win32.Generic"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "45 out of 61 antivirus detected \u001b[1ma0e763b8598988f52dbb9b248440d6ba\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/8b3a466082d963a9182fc0fb97d9afeb4f469b3f7c4dc71df1dc977db29517ca/analysis/1497248806/\n",
+            "type": "info"
+        }
+    ]
+}
