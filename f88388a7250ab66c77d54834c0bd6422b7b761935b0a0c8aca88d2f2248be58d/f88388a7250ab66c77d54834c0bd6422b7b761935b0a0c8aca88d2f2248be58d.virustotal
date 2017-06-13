@@ -20,8 +20,20 @@
                         "BV:Downloader-IB [Drp]"
                     ],
                     [
+                        "Ad-Aware",
+                        "Generic.Bash.MiraiA.91F57972"
+                    ],
+                    [
+                        "AegisLab",
+                        "Troj.Downloader.Shell!c"
+                    ],
+                    [
                         "Avast",
                         "BV:Downloader-IB [Drp]"
+                    ],
+                    [
+                        "BitDefender",
+                        "Generic.Bash.MiraiA.91F57972"
                     ],
                     [
                         "DrWeb",
@@ -32,8 +44,20 @@
                         "Linux/TrojanDownloader.SH.S"
                     ],
                     [
+                        "Emsisoft",
+                        "Generic.Bash.MiraiA.91F57972 (B)"
+                    ],
+                    [
+                        "F-Secure",
+                        "Generic.Bash.MiraiA.91F57972"
+                    ],
+                    [
                         "Fortinet",
                         "Linux/ShellDLoader.RMF!tr"
+                    ],
+                    [
+                        "GData",
+                        "Generic.Bash.MiraiA.91F57972"
                     ],
                     [
                         "Ikarus",
@@ -44,12 +68,28 @@
                         "HEUR:Trojan-Downloader.Shell.Agent.p"
                     ],
                     [
+                        "MicroWorld-eScan",
+                        "Generic.Bash.MiraiA.91F57972"
+                    ],
+                    [
+                        "Qihoo-360",
+                        "Win32/Trojan.Downloader.ef5"
+                    ],
+                    [
                         "Sophos",
                         "Mal/ShellDl-A"
                     ],
                     [
                         "Symantec",
                         "Downloader.Trojan"
+                    ],
+                    [
+                        "Tencent",
+                        "Win32.Trojan-downloader.Agent.Ahye"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "Suspicious_GEN.F47V0609"
                     ],
                     [
                         "ZoneAlarm",
@@ -60,11 +100,11 @@
             "type": "table"
         },
         {
-            "data": "10 out of 56 antivirus detected \u001b[1m73b0e241a4fe6e8e838eba9d9ea01a88\u001b[0m as malicious.",
+            "data": "20 out of 55 antivirus detected \u001b[1m73b0e241a4fe6e8e838eba9d9ea01a88\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/f88388a7250ab66c77d54834c0bd6422b7b761935b0a0c8aca88d2f2248be58d/analysis/1497011022/\n",
+            "data": "https://www.virustotal.com/file/f88388a7250ab66c77d54834c0bd6422b7b761935b0a0c8aca88d2f2248be58d/analysis/1497359301/\n",
             "type": "info"
         }
     ]
