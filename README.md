@@ -58,6 +58,20 @@
 
 { 
 
+	 "date": "06/13/2017 17:10:01",
+
+	 "hash": "smb-ro1f8y5r.tmp",
+
+	 "type": "data",
+
+	 "virustotal": "https://www.virustotal.com/file/4f43090922609dd9e9007d837e94f53cf0a6676fa5698dd47a2feb56a85a1426/analysis/1467502172/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/smb-ro1f8y5r.tmp"
+
+},
+
+{ 
+
 	 "date": "06/13/2017 13:40:01",
 
 	 "hash": "f88388a7250ab66c77d54834c0bd6422b7b761935b0a0c8aca88d2f2248be58d",
