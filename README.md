@@ -2,6 +2,62 @@
 
 { 
 
+	 "date": "type }",
+
+	 "hash": "http-wFdK6n",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
+
+	 "virustotal": "" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/http-wFdK6n"
+
+},
+
+{ 
+
+	 "date": "type }",
+
+	 "hash": "http-sSvJCO",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows, RAR self-extracting archive",
+
+	 "virustotal": "" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/http-sSvJCO"
+
+},
+
+{ 
+
+	 "date": "type }",
+
+	 "hash": "http-PgeLob",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
+
+	 "virustotal": "" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/http-PgeLob"
+
+},
+
+{ 
+
+	 "date": "type }",
+
+	 "hash": "http-odd1j7",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
+
+	 "virustotal": "" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/http-odd1j7"
+
+},
+
+{ 
+
 	 "date": "06/13/2017 13:40:01",
 
 	 "hash": "f88388a7250ab66c77d54834c0bd6422b7b761935b0a0c8aca88d2f2248be58d",
