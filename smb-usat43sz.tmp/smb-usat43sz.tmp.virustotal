@@ -1,0 +1,107 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m643bc6aa9dcabb7b1b819ea143ef42c4\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "Ad-Aware",
+                        "Gen:Win32.SMTP-Mailer.dqW@ai50NLaG"
+                    ],
+                    [
+                        "Arcabit",
+                        "Gen:Win32.SMTP-Mailer.E78A24"
+                    ],
+                    [
+                        "Avast",
+                        "Win32:Agent-AOKX [Trj]"
+                    ],
+                    [
+                        "Avira",
+                        "TR/Agent.mtv"
+                    ],
+                    [
+                        "BitDefender",
+                        "Gen:Win32.SMTP-Mailer.dqW@ai50NLaG"
+                    ],
+                    [
+                        "ClamAV",
+                        "Win.Spyware.78857-1"
+                    ],
+                    [
+                        "Comodo",
+                        "UnclassifiedMalware"
+                    ],
+                    [
+                        "Cyren",
+                        "W32/Trojan.TMRT-1338"
+                    ],
+                    [
+                        "DrWeb",
+                        "Win32.HLLW.Bumble"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Gen:Win32.SMTP-Mailer.dqW@ai50NLaG (B)"
+                    ],
+                    [
+                        "F-Prot",
+                        "W32/Trojan2.KEXN"
+                    ],
+                    [
+                        "F-Secure",
+                        "Gen:Win32.SMTP-Mailer.dqW@ai50NLaG"
+                    ],
+                    [
+                        "GData",
+                        "Gen:Win32.SMTP-Mailer.dqW@ai50NLaG"
+                    ],
+                    [
+                        "Ikarus",
+                        "Worm.Generic"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Trojan.Win32.Agent.bmgds"
+                    ],
+                    [
+                        "Qihoo-360",
+                        "Win32/Trojan.a3a"
+                    ],
+                    [
+                        "Sophos",
+                        "Troj/Brambul-A"
+                    ],
+                    [
+                        "TrendMicro",
+                        "WORM_AUTORUN.DAM"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "WORM_AUTORUN.DAM"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "19 out of 54 antivirus detected \u001b[1m643bc6aa9dcabb7b1b819ea143ef42c4\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/4f43090922609dd9e9007d837e94f53cf0a6676fa5698dd47a2feb56a85a1426/analysis/1467502172/\n",
+            "type": "info"
+        }
+    ]
+}
