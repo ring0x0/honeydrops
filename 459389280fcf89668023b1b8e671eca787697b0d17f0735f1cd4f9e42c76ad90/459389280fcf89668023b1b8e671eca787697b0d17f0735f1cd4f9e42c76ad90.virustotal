@@ -40,10 +40,6 @@
                         "Win32/Trojan.Downloader.24d"
                     ],
                     [
-                        "Rising",
-                        "Trojan.Tsunami!8.E81 (cloud:8ubIIa8H5HL) "
-                    ],
-                    [
                         "TrendMicro-HouseCall",
                         "Suspicious_GEN.F47V0612"
                     ]
@@ -52,11 +48,11 @@
             "type": "table"
         },
         {
-            "data": "8 out of 57 antivirus detected \u001b[1mbe7ed70c73353166f7e7782abaf8b485\u001b[0m as malicious.",
+            "data": "7 out of 55 antivirus detected \u001b[1mbe7ed70c73353166f7e7782abaf8b485\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/459389280fcf89668023b1b8e671eca787697b0d17f0735f1cd4f9e42c76ad90/analysis/1497280007/\n",
+            "data": "https://www.virustotal.com/file/459389280fcf89668023b1b8e671eca787697b0d17f0735f1cd4f9e42c76ad90/analysis/1497457379/\n",
             "type": "info"
         }
     ]
