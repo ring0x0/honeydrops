@@ -1,0 +1,59 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1mbe7ed70c73353166f7e7782abaf8b485\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "AVG",
+                        "BV:Downloader-II [Trj]"
+                    ],
+                    [
+                        "AegisLab",
+                        "Bv.Downloader.Ii!c"
+                    ],
+                    [
+                        "Avast",
+                        "BV:Downloader-II [Trj]"
+                    ],
+                    [
+                        "DrWeb",
+                        "Linux.DownLoader.178"
+                    ],
+                    [
+                        "Ikarus",
+                        "Trojan.Linux.Downloader"
+                    ],
+                    [
+                        "Qihoo-360",
+                        "Win32/Trojan.Downloader.24d"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "Suspicious_GEN.F47V0612"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "7 out of 55 antivirus detected \u001b[1mbe7ed70c73353166f7e7782abaf8b485\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/459389280fcf89668023b1b8e671eca787697b0d17f0735f1cd4f9e42c76ad90/analysis/1497457379/\n",
+            "type": "info"
+        }
+    ]
+}
