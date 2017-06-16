@@ -1,0 +1,139 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m91e66b8856969adeb6ce5a7139932688\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "Gen:Variant.Graftor.367942"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Gen:Variant.Graftor.367942"
+                    ],
+                    [
+                        "AegisLab",
+                        "Gen.Variant.Graftor!c"
+                    ],
+                    [
+                        "AhnLab-V3",
+                        "Downloader/Win32.Dupzom.R199943"
+                    ],
+                    [
+                        "Arcabit",
+                        "Trojan.Graftor.D59D46"
+                    ],
+                    [
+                        "BitDefender",
+                        "Gen:Variant.Graftor.367942"
+                    ],
+                    [
+                        "Bkav",
+                        "W32.eHeur.Malware10"
+                    ],
+                    [
+                        "Comodo",
+                        "TrojWare.Win32.GameThief.Magania.~NWABU"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "a variant of Win32/TrojanDownloader.Agent.DBW"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Gen:Variant.Graftor.367942 (B)"
+                    ],
+                    [
+                        "F-Secure",
+                        "Gen:Variant.Graftor.367942"
+                    ],
+                    [
+                        "GData",
+                        "Gen:Variant.Graftor.367942"
+                    ],
+                    [
+                        "K7AntiVirus",
+                        "Trojan-Downloader ( 005037b81 )"
+                    ],
+                    [
+                        "K7GW",
+                        "Trojan-Downloader ( 005037b81 )"
+                    ],
+                    [
+                        "McAfee",
+                        "Artemis!91E66B885696"
+                    ],
+                    [
+                        "McAfee-GW-Edition",
+                        "Artemis!Trojan"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Gen:Variant.Graftor.367942"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Trojan.Win32.Dupzom.enszgi"
+                    ],
+                    [
+                        "Paloalto",
+                        "generic.ml"
+                    ],
+                    [
+                        "Panda",
+                        "Trj/GdSda.A"
+                    ],
+                    [
+                        "Sophos",
+                        "Mal/Generic-S"
+                    ],
+                    [
+                        "Symantec",
+                        "Trojan.Gen.2"
+                    ],
+                    [
+                        "Tencent",
+                        "Win32.Trojan-downloader.Agent.Hufm"
+                    ],
+                    [
+                        "TrendMicro",
+                        "BKDR_ZEGOST.SM32"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "BKDR_ZEGOST.SM32"
+                    ],
+                    [
+                        "VBA32",
+                        "TrojanDownloader.Dupzom"
+                    ],
+                    [
+                        "Yandex",
+                        "Trojan.DL.Dupzom!rXOn2PE1jGE"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "27 out of 60 antivirus detected \u001b[1m91e66b8856969adeb6ce5a7139932688\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/9d85a7442be08c0ad113fc2e69daf3038e9743ee7988a2e1230e645f283e7290/analysis/1497460295/\n",
+            "type": "info"
+        }
+    ]
+}
