@@ -36,6 +36,10 @@
                         "Trojan/Win32.Snojan.C2003863"
                     ],
                     [
+                        "Antiy-AVL",
+                        "Trojan/Win32.Snojan"
+                    ],
+                    [
                         "Arcabit",
                         "Trojan.Heur.RP.ED1A19"
                     ],
@@ -56,12 +60,12 @@
                         "Gen:Trojan.Heur.RP.fmW@aWGDIB"
                     ],
                     [
-                        "Comodo",
-                        "UnclassifiedMalware"
+                        "CAT-QuickHeal",
+                        "Trojan.Snojan"
                     ],
                     [
-                        "CrowdStrike",
-                        "malicious_confidence_100% (W)"
+                        "Comodo",
+                        "UnclassifiedMalware"
                     ],
                     [
                         "Cyren",
@@ -140,6 +144,10 @@
                         "Trojan.Win32.Snojan.epzdsi"
                     ],
                     [
+                        "Paloalto",
+                        "generic.ml"
+                    ],
+                    [
                         "Panda",
                         "Trj/GdSda.A"
                     ],
@@ -192,11 +200,11 @@
             "type": "table"
         },
         {
-            "data": "43 out of 61 antivirus detected \u001b[1mffd0d65e05fa80f392a6c254bc4f2ff3\u001b[0m as malicious.",
+            "data": "45 out of 61 antivirus detected \u001b[1mffd0d65e05fa80f392a6c254bc4f2ff3\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/c1286590924ef45046027422f82345b7dafd05f0b9126add5bba644803621bb8/analysis/1497604204/\n",
+            "data": "https://www.virustotal.com/file/c1286590924ef45046027422f82345b7dafd05f0b9126add5bba644803621bb8/analysis/1497694203/\n",
             "type": "info"
         }
     ]
