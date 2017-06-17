@@ -2,6 +2,20 @@
 
 { 
 
+	 "date": "06/17/2017 12:25:01",
+
+	 "hash": "8ed19e85a5cd5fb0106e4066523fed1f8b100ef0ad557198fba10749cafabf1e",
+
+	 "type": "ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), statically linked, for GNU/Linux 2.6.9, not stripped",
+
+	 "virustotal": "https://www.virustotal.com/file/8ed19e85a5cd5fb0106e4066523fed1f8b100ef0ad557198fba10749cafabf1e/analysis/1495070633/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/8ed19e85a5cd5fb0106e4066523fed1f8b100ef0ad557198fba10749cafabf1e"
+
+},
+
+{ 
+
 	 "date": "06/17/2017 10:40:01",
 
 	 "hash": "f88388a7250ab66c77d54834c0bd6422b7b761935b0a0c8aca88d2f2248be58d",
