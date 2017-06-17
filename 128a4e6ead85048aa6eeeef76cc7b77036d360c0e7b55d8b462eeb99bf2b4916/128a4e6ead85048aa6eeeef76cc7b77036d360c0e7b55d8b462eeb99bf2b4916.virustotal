@@ -20,6 +20,10 @@
                         "BV:Downloader-JV [Drp]"
                     ],
                     [
+                        "AegisLab",
+                        "Troj.Downloader.Shell!c"
+                    ],
+                    [
                         "Avast",
                         "BV:Downloader-JV [Drp]"
                     ],
@@ -32,8 +36,8 @@
                         "Trojan.Linux.Downloader"
                     ],
                     [
-                        "Qihoo-360",
-                        "Win32/Trojan.Downloader.304"
+                        "Kaspersky",
+                        "HEUR:Trojan-Downloader.Shell.Agent.as"
                     ],
                     [
                         "Rising",
@@ -42,17 +46,21 @@
                     [
                         "TrendMicro-HouseCall",
                         "Suspicious_GEN.F47V0612"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "HEUR:Trojan-Downloader.Shell.Agent.as"
                     ]
                 ]
             },
             "type": "table"
         },
         {
-            "data": "7 out of 57 antivirus detected \u001b[1m278a3779bf48c95ea858147ba3d7a977\u001b[0m as malicious.",
+            "data": "9 out of 56 antivirus detected \u001b[1m278a3779bf48c95ea858147ba3d7a977\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/128a4e6ead85048aa6eeeef76cc7b77036d360c0e7b55d8b462eeb99bf2b4916/analysis/1497423069/\n",
+            "data": "https://www.virustotal.com/file/128a4e6ead85048aa6eeeef76cc7b77036d360c0e7b55d8b462eeb99bf2b4916/analysis/1497695507/\n",
             "type": "info"
         }
     ]

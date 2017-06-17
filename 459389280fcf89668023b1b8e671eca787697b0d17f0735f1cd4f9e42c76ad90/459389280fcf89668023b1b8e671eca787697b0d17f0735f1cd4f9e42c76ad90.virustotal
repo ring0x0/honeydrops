@@ -20,6 +20,10 @@
                         "BV:Downloader-II [Trj]"
                     ],
                     [
+                        "AegisLab",
+                        "Troj.Downloader.Shell!c"
+                    ],
+                    [
                         "Avast",
                         "BV:Downloader-II [Trj]"
                     ],
@@ -32,27 +36,31 @@
                         "Trojan.Linux.Downloader"
                     ],
                     [
+                        "Kaspersky",
+                        "HEUR:Trojan-Downloader.Shell.Agent.as"
+                    ],
+                    [
                         "Qihoo-360",
                         "Win32/Trojan.Downloader.24d"
                     ],
                     [
-                        "Rising",
-                        "Trojan.Tsunami!8.E81 (cloud:8ubIIa8H5HL) "
-                    ],
-                    [
                         "TrendMicro-HouseCall",
                         "Suspicious_GEN.F47V0612"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "HEUR:Trojan-Downloader.Shell.Agent.as"
                     ]
                 ]
             },
             "type": "table"
         },
         {
-            "data": "7 out of 56 antivirus detected \u001b[1mbe7ed70c73353166f7e7782abaf8b485\u001b[0m as malicious.",
+            "data": "9 out of 56 antivirus detected \u001b[1mbe7ed70c73353166f7e7782abaf8b485\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/459389280fcf89668023b1b8e671eca787697b0d17f0735f1cd4f9e42c76ad90/analysis/1497557066/\n",
+            "data": "https://www.virustotal.com/file/459389280fcf89668023b1b8e671eca787697b0d17f0735f1cd4f9e42c76ad90/analysis/1497726545/\n",
             "type": "info"
         }
     ]
