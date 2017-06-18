@@ -2,13 +2,13 @@
 
 { 
 
-	 "date": "06/18/2017 00:10:01",
+	 "date": "06/18/2017 00:35:01",
 
 	 "hash": "219ce33a5a0d3b31a568649167305d02a5d77106405b5b468754ce0c5c44ced4",
 
 	 "type": "HTML document, ASCII text, with very long lines, with CRLF line terminators",
 
-	 "virustotal": "" ,
+	 "virustotal": "https://www.virustotal.com/file/219ce33a5a0d3b31a568649167305d02a5d77106405b5b468754ce0c5c44ced4/analysis/1497745809/" ,
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/219ce33a5a0d3b31a568649167305d02a5d77106405b5b468754ce0c5c44ced4"
 
