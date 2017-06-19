@@ -64,11 +64,11 @@
             "type": "table"
         },
         {
-            "data": "11 out of 56 antivirus detected \u001b[1mdd9a321c97b7bf2ecde030bf941d9697\u001b[0m as malicious.",
+            "data": "11 out of 57 antivirus detected \u001b[1mdd9a321c97b7bf2ecde030bf941d9697\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/597dd29f4151a6ec220609c6ba026d6abf1f03d76b6063222371d6cadf75bd4a/analysis/1497726545/\n",
+            "data": "https://www.virustotal.com/file/597dd29f4151a6ec220609c6ba026d6abf1f03d76b6063222371d6cadf75bd4a/analysis/1497896662/\n",
             "type": "info"
         }
     ]
