@@ -2,6 +2,20 @@
 
 { 
 
+	 "date": "06/19/2017 03:05:01",
+
+	 "hash": "04c443c60e974febeec4b84cdbbbad7b",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
+
+	 "virustotal": "https://www.virustotal.com/file/7ee786b16a5358d48cca7c7e6d1278296bd4e3b02866a07989b897d6329d189e/analysis/1497772026/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/04c443c60e974febeec4b84cdbbbad7b"
+
+},
+
+{ 
+
 	 "date": "06/19/2017 02:20:01",
 
 	 "hash": "1a89371ea1bfae68ce3242ce40d80bd3",
