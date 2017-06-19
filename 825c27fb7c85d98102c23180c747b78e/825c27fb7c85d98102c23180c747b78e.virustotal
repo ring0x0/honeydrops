@@ -69,7 +69,11 @@
                     ],
                     [
                         "CrowdStrike",
-                        "malicious_confidence_100% (D)"
+                        "malicious_confidence_100% (W)"
+                    ],
+                    [
+                        "Cyren",
+                        "W32/GenBl.825C27FB!Olympus"
                     ],
                     [
                         "DrWeb",
@@ -160,8 +164,16 @@
                         "static engine - malicious"
                     ],
                     [
+                        "Sophos",
+                        "Mal/Generic-S"
+                    ],
+                    [
                         "Symantec",
-                        "ML.Attribute.HighConfidence"
+                        "Trojan.Gen"
+                    ],
+                    [
+                        "Tencent",
+                        "Win32.Trojan.Lapka.Dygi"
                     ],
                     [
                         "TrendMicro",
@@ -180,10 +192,6 @@
                         "W32.Trojan.Gen"
                     ],
                     [
-                        "Zillya",
-                        "Worm.ServStart.Win32.1803"
-                    ],
-                    [
                         "ZoneAlarm",
                         "HEUR:Trojan.Win32.Generic"
                     ]
@@ -192,11 +200,11 @@
             "type": "table"
         },
         {
-            "data": "43 out of 62 antivirus detected \u001b[1m825c27fb7c85d98102c23180c747b78e\u001b[0m as malicious.",
+            "data": "45 out of 61 antivirus detected \u001b[1m825c27fb7c85d98102c23180c747b78e\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/e3f05e09be4e0954b20af223fb7a9faf4f052ad2743b35188d1cec3b0b64dcbe/analysis/1497812977/\n",
+            "data": "https://www.virustotal.com/file/e3f05e09be4e0954b20af223fb7a9faf4f052ad2743b35188d1cec3b0b64dcbe/analysis/1497831443/\n",
             "type": "info"
         }
     ]
