@@ -1,0 +1,111 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m30f3bccdf646ff0876976c7316ca9b10\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "Gen:Variant.Graftor.375750"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Gen:Variant.Graftor.375750"
+                    ],
+                    [
+                        "AhnLab-V3",
+                        "Trojan/Win32.Agent.C2005910"
+                    ],
+                    [
+                        "Arcabit",
+                        "Trojan.Graftor.D5BBC6"
+                    ],
+                    [
+                        "BitDefender",
+                        "Gen:Variant.Graftor.375750"
+                    ],
+                    [
+                        "CrowdStrike",
+                        "malicious_confidence_100% (D)"
+                    ],
+                    [
+                        "DrWeb",
+                        "Adware.Chindo.2"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "a variant of Win32/GenKryptik.AKTH"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Gen:Variant.Graftor.375750 (B)"
+                    ],
+                    [
+                        "F-Secure",
+                        "Gen:Variant.Graftor.375750"
+                    ],
+                    [
+                        "GData",
+                        "Gen:Variant.Graftor.375750"
+                    ],
+                    [
+                        "Jiangmin",
+                        "Trojan.Generic.bbeug"
+                    ],
+                    [
+                        "K7AntiVirus",
+                        "Riskware ( 0040eff71 )"
+                    ],
+                    [
+                        "K7GW",
+                        "Riskware ( 0040eff71 )"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Gen:Variant.Graftor.375750"
+                    ],
+                    [
+                        "Microsoft",
+                        "Backdoor:Win32/PcClient"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Trojan.Win32.Agent.eqbjen"
+                    ],
+                    [
+                        "Rising",
+                        "Malware.Generic.5!tfe (thunder:5:zCGmbzADqiE) "
+                    ],
+                    [
+                        "VBA32",
+                        "BScope.Trojan.SvcHorse.01643"
+                    ],
+                    [
+                        "Yandex",
+                        "Trojan.Agent!n3Apol1YUe4"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "20 out of 62 antivirus detected \u001b[1m30f3bccdf646ff0876976c7316ca9b10\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/31341074baf5042f33ba93ae2b3d12870458f5ae6fa17ede26b1dbeb11f3ef65/analysis/1497828991/\n",
+            "type": "info"
+        }
+    ]
+}
