@@ -73,7 +73,7 @@
                     ],
                     [
                         "GData",
-                        "Script.Trojan.Agent.SEWLZG"
+                        "Generic.Bash.MiraiA.D1D3142A"
                     ],
                     [
                         "Ikarus",
@@ -120,11 +120,11 @@
             "type": "table"
         },
         {
-            "data": "25 out of 56 antivirus detected \u001b[1mb7292cbda4ef7214e4914254a5231252\u001b[0m as malicious.",
+            "data": "25 out of 57 antivirus detected \u001b[1mb7292cbda4ef7214e4914254a5231252\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/d79b9dda9048a8c2943a3677ff6022691dcaa0471aa4b38078540ff5f4cc2614/analysis/1497612312/\n",
+            "data": "https://www.virustotal.com/file/d79b9dda9048a8c2943a3677ff6022691dcaa0471aa4b38078540ff5f4cc2614/analysis/1498041634/\n",
             "type": "info"
         }
     ]
