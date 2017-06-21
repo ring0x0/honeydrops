@@ -28,6 +28,10 @@
                         "BV:Downloader-JV [Drp]"
                     ],
                     [
+                        "ClamAV",
+                        "Unix.Malware.Agent-6329970-0"
+                    ],
+                    [
                         "DrWeb",
                         "Linux.DownLoader.158"
                     ],
@@ -48,10 +52,6 @@
                         "Win32/Trojan.Downloader.304"
                     ],
                     [
-                        "Rising",
-                        "Downloader.Agent!8.B23 (cloud:NbWAh3MrH2P) "
-                    ],
-                    [
                         "TrendMicro-HouseCall",
                         "Suspicious_GEN.F47V0612"
                     ],
@@ -68,7 +68,7 @@
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/128a4e6ead85048aa6eeeef76cc7b77036d360c0e7b55d8b462eeb99bf2b4916/analysis/1497896663/\n",
+            "data": "https://www.virustotal.com/file/128a4e6ead85048aa6eeeef76cc7b77036d360c0e7b55d8b462eeb99bf2b4916/analysis/1498033091/\n",
             "type": "info"
         }
     ]
