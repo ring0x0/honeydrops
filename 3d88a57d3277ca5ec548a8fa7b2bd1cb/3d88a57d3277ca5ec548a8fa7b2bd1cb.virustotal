@@ -44,10 +44,6 @@
                         "Trojan/Win32.Miancha"
                     ],
                     [
-                        "Arcabit",
-                        "Trojan.Zusy.D34AAD"
-                    ],
-                    [
                         "Avast",
                         "Win32:Trojan-gen"
                     ],
@@ -65,7 +61,7 @@
                     ],
                     [
                         "CAT-QuickHeal",
-                        "Trojan.Mauvaise.SL1"
+                        "Downldr.Farli.S673162"
                     ],
                     [
                         "Comodo",
@@ -73,7 +69,7 @@
                     ],
                     [
                         "CrowdStrike",
-                        "malicious_confidence_85% (W)"
+                        "malicious_confidence_100% (D)"
                     ],
                     [
                         "Cyren",
@@ -128,12 +124,8 @@
                         "Trojan.Win32.Miancha.hhv"
                     ],
                     [
-                        "McAfee",
-                        "GenericRXBE-TQ!3D88A57D3277"
-                    ],
-                    [
-                        "McAfee-GW-Edition",
-                        "GenericRXBE-TQ!3D88A57D3277"
+                        "Malwarebytes",
+                        "Trojan.Downloader"
                     ],
                     [
                         "MicroWorld-eScan",
@@ -176,16 +168,12 @@
                         "Trojan/Downloader.Agent.daf"
                     ],
                     [
-                        "TrendMicro",
-                        "BKDR_ZEGOST.SM33"
-                    ],
-                    [
-                        "TrendMicro-HouseCall",
-                        "BKDR_ZEGOST.SM33"
-                    ],
-                    [
                         "VIPRE",
                         "Trojan.Win32.Generic!BT"
+                    ],
+                    [
+                        "ViRobot",
+                        "Trojan.Win32.Z.Miancha.73728.AC[h]"
                     ],
                     [
                         "Webroot",
@@ -212,11 +200,11 @@
             "type": "table"
         },
         {
-            "data": "48 out of 62 antivirus detected \u001b[1m3d88a57d3277ca5ec548a8fa7b2bd1cb\u001b[0m as malicious.",
+            "data": "45 out of 61 antivirus detected \u001b[1m3d88a57d3277ca5ec548a8fa7b2bd1cb\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/0939198ff23f9e2fe0203b64ed0cefb6bfb340bb9d82a892c40e37930377ff2f/analysis/1497579699/\n",
+            "data": "https://www.virustotal.com/file/0939198ff23f9e2fe0203b64ed0cefb6bfb340bb9d82a892c40e37930377ff2f/analysis/1497971718/\n",
             "type": "info"
         }
     ]
