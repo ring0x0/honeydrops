@@ -28,6 +28,10 @@
                         "Generic.Bash.MiraiA.5B69A373"
                     ],
                     [
+                        "AegisLab",
+                        "Troj.Downloader.Shell!c"
+                    ],
+                    [
                         "Arcabit",
                         "Generic.Bash.MiraiA.5B69A373"
                     ],
@@ -72,6 +76,10 @@
                         "Trojan.Script.Agent.ekbkzw"
                     ],
                     [
+                        "TrendMicro-HouseCall",
+                        "Suspicious_GEN.F47V0617"
+                    ],
+                    [
                         "ZoneAlarm",
                         "HEUR:Trojan-Downloader.Shell.Agent.as"
                     ]
@@ -80,11 +88,11 @@
             "type": "table"
         },
         {
-            "data": "15 out of 57 antivirus detected \u001b[1me73deaaade5b1bc4786819c7c469e19f\u001b[0m as malicious.",
+            "data": "17 out of 56 antivirus detected \u001b[1me73deaaade5b1bc4786819c7c469e19f\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/09590e1d156578e7815153717099f1ff3dbcef3efcfc44aa53436392884539d7/analysis/1497664841/\n",
+            "data": "https://www.virustotal.com/file/09590e1d156578e7815153717099f1ff3dbcef3efcfc44aa53436392884539d7/analysis/1497798504/\n",
             "type": "info"
         }
     ]
