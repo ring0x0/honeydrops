@@ -2,6 +2,20 @@
 
 { 
 
+	 "date": "06/22/2017 01:05:01",
+
+	 "hash": "a54209bf38c70e99cafb13b76862523cee94c6fd9b020e26f2a74a2efd1db747",
+
+	 "type": "POSIX shell script, ASCII text executable",
+
+	 "virustotal": "https://www.virustotal.com/file/a54209bf38c70e99cafb13b76862523cee94c6fd9b020e26f2a74a2efd1db747/analysis/1497679882/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/a54209bf38c70e99cafb13b76862523cee94c6fd9b020e26f2a74a2efd1db747"
+
+},
+
+{ 
+
 	 "date": "06/22/2017 01:00:01",
 
 	 "hash": "09590e1d156578e7815153717099f1ff3dbcef3efcfc44aa53436392884539d7",
