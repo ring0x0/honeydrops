@@ -2,6 +2,34 @@
 
 { 
 
+	 "date": "06/23/2017 09:55:01",
+
+	 "hash": "aa47266d8687bc6bc227aa812db126c9f38fe5a50a09414c9db890001e4d6384",
+
+	 "type": "Bourne-Again shell script, ASCII text executable",
+
+	 "virustotal": "https://www.virustotal.com/file/aa47266d8687bc6bc227aa812db126c9f38fe5a50a09414c9db890001e4d6384/analysis/1498046898/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/aa47266d8687bc6bc227aa812db126c9f38fe5a50a09414c9db890001e4d6384"
+
+},
+
+{ 
+
+	 "date": "06/23/2017 09:35:01",
+
+	 "hash": "601bbbe4e80c8b67e004c810ff77cc533cc9aaf1f3704514ec3d5f6b9a99709b",
+
+	 "type": "Python script, UTF-8 Unicode (with BOM) text executable",
+
+	 "virustotal": "" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/601bbbe4e80c8b67e004c810ff77cc533cc9aaf1f3704514ec3d5f6b9a99709b"
+
+},
+
+{ 
+
 	 "date": "06/23/2017 06:05:01",
 
 	 "hash": "smb-3jli7ue3.tmp",
