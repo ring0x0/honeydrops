@@ -2,6 +2,20 @@
 
 { 
 
+	 "date": "06/23/2017 06:05:01",
+
+	 "hash": "smb-3jli7ue3.tmp",
+
+	 "type": "data",
+
+	 "virustotal": "https://www.virustotal.com/file/db5ce44e4c4ce6271d2e0a056e5abafdd7045f00d55c78450e64a87c2ed86efb/analysis/1498190514/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/smb-3jli7ue3.tmp"
+
+},
+
+{ 
+
 	 "date": "06/22/2017 22:05:01",
 
 	 "hash": "36b10025566a5244eab7a7476008913f06b282e943ef439881b51a2c6910de5b",
