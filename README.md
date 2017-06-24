@@ -2,6 +2,20 @@
 
 { 
 
+	 "date": "06/24/2017 22:30:01",
+
+	 "hash": "0f150f878a3f7f5e518ede83960e490f",
+
+	 "type": "PE32+ executable (console) x86-64 (stripped to external PDB), for MS Windows",
+
+	 "virustotal": "https://www.virustotal.com/file/79cbb65b6c6408cb1767bb1cb5003eb1eee76effb7da88ddaa589b58f0dc5ae2/analysis/1497916583/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/0f150f878a3f7f5e518ede83960e490f"
+
+},
+
+{ 
+
 	 "date": "06/24/2017 16:15:01",
 
 	 "hash": "56da30ccd9ee3d4588839117491ea10fe42fcdd80904187837275991bb2560bd",
