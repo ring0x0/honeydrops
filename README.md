@@ -2,6 +2,20 @@
 
 { 
 
+	 "date": "06/24/2017 09:00:01",
+
+	 "hash": "c289642bda6ddd4ae790e4dd8e1afbbf6c4375e111bdf60686e7d8e223f95838",
+
+	 "type": "Bourne-Again shell script, ASCII text executable",
+
+	 "virustotal": "https://www.virustotal.com/file/c289642bda6ddd4ae790e4dd8e1afbbf6c4375e111bdf60686e7d8e223f95838/analysis/1498293235/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/c289642bda6ddd4ae790e4dd8e1afbbf6c4375e111bdf60686e7d8e223f95838"
+
+},
+
+{ 
+
 	 "date": "06/24/2017 04:55:01",
 
 	 "hash": "a7132b572b0e4008aab711fa334dc43e",
