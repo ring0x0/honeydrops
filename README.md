@@ -2,6 +2,20 @@
 
 { 
 
+	 "date": "06/25/2017 11:30:01",
+
+	 "hash": "8f4a040f2c59d5f8a3c4b07b0bf33195",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows, UPX compressed",
+
+	 "virustotal": "https://www.virustotal.com/file/2c4815615791da32229b516336832b5cfdaf53cdf6f37e8feeb76ffe3ba91e2b/analysis/1498372113/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/8f4a040f2c59d5f8a3c4b07b0bf33195"
+
+},
+
+{ 
+
 	 "date": "06/25/2017 02:45:01",
 
 	 "hash": "5068fba573078e3faa1ed9114416465631e88a1bbb0a62877bf7b49f2be19cc9",
