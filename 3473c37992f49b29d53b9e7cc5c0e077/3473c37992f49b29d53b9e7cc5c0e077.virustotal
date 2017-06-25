@@ -1,0 +1,75 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m3473c37992f49b29d53b9e7cc5c0e077\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "AVG",
+                        "Win32:Evo-gen [Susp]"
+                    ],
+                    [
+                        "AegisLab",
+                        "Troj.W32.Gen.mvaa"
+                    ],
+                    [
+                        "AhnLab-V3",
+                        "Trojan/Win32.Magania.C2006777"
+                    ],
+                    [
+                        "Avast",
+                        "Win32:Evo-gen [Susp]"
+                    ],
+                    [
+                        "Bkav",
+                        "W32.HfsAdware.E3B7"
+                    ],
+                    [
+                        "CrowdStrike",
+                        "malicious_confidence_100% (D)"
+                    ],
+                    [
+                        "Endgame",
+                        "malicious (moderate confidence)"
+                    ],
+                    [
+                        "Invincea",
+                        "heuristic"
+                    ],
+                    [
+                        "Qihoo-360",
+                        "HEUR/QVM19.1.0F83.Malware.Gen"
+                    ],
+                    [
+                        "Rising",
+                        "Malware.Generic.4!tfe (thunder:4:JsXAehPLk7G) "
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "10 out of 62 antivirus detected \u001b[1m3473c37992f49b29d53b9e7cc5c0e077\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/d8bc237c5ddc805580438f69346310cc3250b25910ccd99aa197034237ebc4a7/analysis/1498398020/\n",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
+            "type": "info"
+        }
+    ]
+}
