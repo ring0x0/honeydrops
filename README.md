@@ -2,6 +2,20 @@
 
 { 
 
+	 "date": "06/25/2017 01:55:01",
+
+	 "hash": "87d27576bf997c080fb71015431c35273c8acda78084f93b070b351371a21d4f",
+
+	 "type": "POSIX shell script, ASCII text executable, with CRLF line terminators",
+
+	 "virustotal": "https://www.virustotal.com/file/87d27576bf997c080fb71015431c35273c8acda78084f93b070b351371a21d4f/analysis/1498341026/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/87d27576bf997c080fb71015431c35273c8acda78084f93b070b351371a21d4f"
+
+},
+
+{ 
+
 	 "date": "06/24/2017 22:30:01",
 
 	 "hash": "0f150f878a3f7f5e518ede83960e490f",
