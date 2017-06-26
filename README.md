@@ -2,6 +2,34 @@
 
 { 
 
+	 "date": "06/26/2017 15:30:01",
+
+	 "hash": "b60309c8ed0986457ed60050bb221e681773c04aeb16fddbce07c87e95a7ff90",
+
+	 "type": "ASCII text",
+
+	 "virustotal": "https://www.virustotal.com/file/b60309c8ed0986457ed60050bb221e681773c04aeb16fddbce07c87e95a7ff90/analysis/1493446399/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/b60309c8ed0986457ed60050bb221e681773c04aeb16fddbce07c87e95a7ff90"
+
+},
+
+{ 
+
+	 "date": "06/26/2017 15:30:01",
+
+	 "hash": "14199e1fac7c841a827567e5f2027ca2cd00799b7b95f7ad6181121ae60249cd",
+
+	 "type": "ASCII text",
+
+	 "virustotal": "https://www.virustotal.com/file/14199e1fac7c841a827567e5f2027ca2cd00799b7b95f7ad6181121ae60249cd/analysis/1498462369/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/14199e1fac7c841a827567e5f2027ca2cd00799b7b95f7ad6181121ae60249cd"
+
+},
+
+{ 
+
 	 "date": "06/26/2017 12:50:01",
 
 	 "hash": "07a7ea1eeb988a77710cf25e31adfb55",

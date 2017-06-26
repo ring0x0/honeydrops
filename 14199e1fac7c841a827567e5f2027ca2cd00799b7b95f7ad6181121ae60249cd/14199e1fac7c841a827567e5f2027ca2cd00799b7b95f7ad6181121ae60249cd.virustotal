@@ -1,0 +1,67 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1mdb246488bcccd15c72a642bfd71fc4bc\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "AVG",
+                        "BV:Downloader-II [Trj]"
+                    ],
+                    [
+                        "Avast",
+                        "BV:Downloader-II [Trj]"
+                    ],
+                    [
+                        "DrWeb",
+                        "Linux.DownLoader.178"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "Linux/Tsunami.NJE"
+                    ],
+                    [
+                        "GData",
+                        "Script.Trojan.Agent.JNFO38"
+                    ],
+                    [
+                        "Ikarus",
+                        "Trojan.Linux.Tsunami"
+                    ],
+                    [
+                        "Symantec",
+                        "Downloader"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "Suspicious_GEN.F47V0625"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "8 out of 56 antivirus detected \u001b[1mdb246488bcccd15c72a642bfd71fc4bc\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/14199e1fac7c841a827567e5f2027ca2cd00799b7b95f7ad6181121ae60249cd/analysis/1498462369/\n",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
+            "type": "info"
+        }
+    ]
+}
