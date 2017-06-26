@@ -18,6 +18,20 @@
 
 	 "date": "06/26/2017 15:30:01",
 
+	 "hash": "77684687e4b29f675a98ad3103ab5700d4e8e761dbf5ffd43cf03f50b50248a1",
+
+	 "type": "ASCII text",
+
+	 "virustotal": "https://www.virustotal.com/file/77684687e4b29f675a98ad3103ab5700d4e8e761dbf5ffd43cf03f50b50248a1/analysis/1498462369/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/77684687e4b29f675a98ad3103ab5700d4e8e761dbf5ffd43cf03f50b50248a1"
+
+},
+
+{ 
+
+	 "date": "06/26/2017 15:30:01",
+
 	 "hash": "14199e1fac7c841a827567e5f2027ca2cd00799b7b95f7ad6181121ae60249cd",
 
 	 "type": "ASCII text",
