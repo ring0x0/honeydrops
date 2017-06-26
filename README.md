@@ -2,6 +2,34 @@
 
 { 
 
+	 "date": "06/26/2017 00:25:01",
+
+	 "hash": "e4bc44d9b592322f27f504da4ae07ba8",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
+
+	 "virustotal": "https://www.virustotal.com/file/c6ff3e34be1ed494b92322d2eb02b295e4a591ec6691061965b321a0d6b68f6d/analysis/1498437043/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/e4bc44d9b592322f27f504da4ae07ba8"
+
+},
+
+{ 
+
+	 "date": "06/26/2017 00:25:01",
+
+	 "hash": "bc226be10f1baf442ac8af9618ff9210",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
+
+	 "virustotal": "" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/bc226be10f1baf442ac8af9618ff9210"
+
+},
+
+{ 
+
 	 "date": "06/26/2017 00:00:01",
 
 	 "hash": "dbca618b3842cd6e462d0a5461f9852877567cb7ef5359ed73b59a0a79063ede",
@@ -11,6 +39,20 @@
 	 "virustotal": "" ,
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/dbca618b3842cd6e462d0a5461f9852877567cb7ef5359ed73b59a0a79063ede"
+
+},
+
+{ 
+
+	 "date": "06/26/2017 00:00:01",
+
+	 "hash": "87ce978539e685cabcf4e87d21cbfca0aeede66e627a0a33cc67d4ea23633e2d",
+
+	 "type": "Bourne-Again shell script, ASCII text executable",
+
+	 "virustotal": "https://www.virustotal.com/file/87ce978539e685cabcf4e87d21cbfca0aeede66e627a0a33cc67d4ea23633e2d/analysis/1498437006/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/87ce978539e685cabcf4e87d21cbfca0aeede66e627a0a33cc67d4ea23633e2d"
 
 },
 
