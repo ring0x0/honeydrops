@@ -2,6 +2,20 @@
 
 { 
 
+	 "date": "06/26/2017 00:00:01",
+
+	 "hash": "dbca618b3842cd6e462d0a5461f9852877567cb7ef5359ed73b59a0a79063ede",
+
+	 "type": "ASCII text",
+
+	 "virustotal": "" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/dbca618b3842cd6e462d0a5461f9852877567cb7ef5359ed73b59a0a79063ede"
+
+},
+
+{ 
+
 	 "date": "06/25/2017 17:35:01",
 
 	 "hash": "dfc9fd46007ccc9d3b7646c1af8ea131",
