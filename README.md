@@ -2,6 +2,20 @@
 
 { 
 
+	 "date": "06/27/2017 23:05:02",
+
+	 "hash": "811c76aee747ccfbed8d17ed7ba2fe7f4cd2b8259d149e1c2dea02bc169e71c2",
+
+	 "type": "POSIX shell script, ASCII text executable",
+
+	 "virustotal": "" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/811c76aee747ccfbed8d17ed7ba2fe7f4cd2b8259d149e1c2dea02bc169e71c2"
+
+},
+
+{ 
+
 	 "date": "06/27/2017 16:35:01",
 
 	 "hash": "8882bea82ecd69492abd1adcff7d198e1b0fdf2682d69a4cfc8146e2b4b76d18",
