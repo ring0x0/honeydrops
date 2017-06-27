@@ -24,6 +24,10 @@
                         "BV:Downloader-II [Trj]"
                     ],
                     [
+                        "ClamAV",
+                        "Unix.Malware.Agent-6331055-0"
+                    ],
+                    [
                         "DrWeb",
                         "Linux.DownLoader.178"
                     ],
@@ -52,11 +56,11 @@
             "type": "table"
         },
         {
-            "data": "8 out of 56 antivirus detected \u001b[1mdb246488bcccd15c72a642bfd71fc4bc\u001b[0m as malicious.",
+            "data": "9 out of 57 antivirus detected \u001b[1mdb246488bcccd15c72a642bfd71fc4bc\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/14199e1fac7c841a827567e5f2027ca2cd00799b7b95f7ad6181121ae60249cd/analysis/1498462369/\n",
+            "data": "https://www.virustotal.com/file/14199e1fac7c841a827567e5f2027ca2cd00799b7b95f7ad6181121ae60249cd/analysis/1498538422/\n",
             "type": "info"
         },
         {
