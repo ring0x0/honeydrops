@@ -1,0 +1,223 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m3550b969ef125f2b120d4cbb28857f5c\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "Dropped:Generic.Malware.PPkg.3842181F"
+                    ],
+                    [
+                        "AVG",
+                        "Win32:Agent-BADD [Trj]"
+                    ],
+                    [
+                        "AVware",
+                        "BehavesLike.Win32.Malware.ssc (mx-v)"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Dropped:Generic.Malware.PPkg.3842181F"
+                    ],
+                    [
+                        "AhnLab-V3",
+                        "Backdoor/Win32.Zegost.R111155"
+                    ],
+                    [
+                        "Antiy-AVL",
+                        "Trojan/Win32.AGeneric"
+                    ],
+                    [
+                        "Arcabit",
+                        "Generic.Malware.PPkg.D3AA085F"
+                    ],
+                    [
+                        "Avast",
+                        "Win32:Agent-BADD [Trj]"
+                    ],
+                    [
+                        "Avira",
+                        "BDS/Zegost.ukva"
+                    ],
+                    [
+                        "Baidu",
+                        "Win32.Trojan.Farfli.ai"
+                    ],
+                    [
+                        "BitDefender",
+                        "Dropped:Generic.Malware.PPkg.3842181F"
+                    ],
+                    [
+                        "CAT-QuickHeal",
+                        "Backdoor.Zegost.BZ4"
+                    ],
+                    [
+                        "ClamAV",
+                        "Win.Trojan.Generic-6305873-0"
+                    ],
+                    [
+                        "Comodo",
+                        "TrojWare.Win32.Farfli.ARG"
+                    ],
+                    [
+                        "CrowdStrike",
+                        "malicious_confidence_100% (D)"
+                    ],
+                    [
+                        "Cyren",
+                        "W32/KillAV.AU.gen!Eldorado"
+                    ],
+                    [
+                        "DrWeb",
+                        "Trojan.DownLoader24.31995"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "a variant of Win32/Fusing.AA"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Dropped:Generic.Malware.PPkg.3842181F (B)"
+                    ],
+                    [
+                        "Endgame",
+                        "malicious (high confidence)"
+                    ],
+                    [
+                        "F-Prot",
+                        "W32/KillAV.AU.gen!Eldorado"
+                    ],
+                    [
+                        "F-Secure",
+                        "Dropped:Generic.Malware.PPkg.3842181F"
+                    ],
+                    [
+                        "Fortinet",
+                        "W32/Farfli.AK!tr"
+                    ],
+                    [
+                        "GData",
+                        "Dropped:Generic.Malware.PPkg.3842181F"
+                    ],
+                    [
+                        "Ikarus",
+                        "Trojan-Dropper.Agent"
+                    ],
+                    [
+                        "Invincea",
+                        "heuristic"
+                    ],
+                    [
+                        "Jiangmin",
+                        "Trojan.Generic.aislz"
+                    ],
+                    [
+                        "K7AntiVirus",
+                        "Trojan ( 00032bb71 )"
+                    ],
+                    [
+                        "K7GW",
+                        "Trojan ( 00032bb71 )"
+                    ],
+                    [
+                        "Kaspersky",
+                        "Trojan.Win32.Vehidis.wtm"
+                    ],
+                    [
+                        "McAfee",
+                        "BackDoor-FCDQ!3550B969EF12"
+                    ],
+                    [
+                        "McAfee-GW-Edition",
+                        "BehavesLike.Win32.Dropper.mm"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Dropped:Generic.Malware.PPkg.3842181F"
+                    ],
+                    [
+                        "Microsoft",
+                        "DDoS:Win32/Nitol.B"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Trojan.Win32.Zegost.epiaqj"
+                    ],
+                    [
+                        "Panda",
+                        "Trj/Genetic.gen"
+                    ],
+                    [
+                        "Qihoo-360",
+                        "HEUR/QVM07.1.1516.Malware.Gen"
+                    ],
+                    [
+                        "Rising",
+                        "Backdoor.Farfli!1.64B3 (classic) "
+                    ],
+                    [
+                        "SentinelOne",
+                        "static engine - malicious"
+                    ],
+                    [
+                        "Sophos",
+                        "Troj/Nitol-AK"
+                    ],
+                    [
+                        "Symantec",
+                        "ML.Attribute.HighConfidence"
+                    ],
+                    [
+                        "Tencent",
+                        "Trojan.Win32.Lapka.bw"
+                    ],
+                    [
+                        "TrendMicro",
+                        "BKDR_FARFLI.SMP"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "BKDR_FARFLI.SMP"
+                    ],
+                    [
+                        "VIPRE",
+                        "BehavesLike.Win32.Malware.ssc (mx-v)"
+                    ],
+                    [
+                        "Zillya",
+                        "Trojan.Fusing.Win32.1124"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "Trojan.Win32.Vehidis.wtm"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "47 out of 62 antivirus detected \u001b[1m3550b969ef125f2b120d4cbb28857f5c\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/5d68c4af7edbd0e3202928399107b463e2cd6138e62954932771f5c5be183090/analysis/1498483223/\n",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
+            "type": "info"
+        }
+    ]
+}
