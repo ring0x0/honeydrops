@@ -30,17 +30,21 @@
                     [
                         "NANO-Antivirus",
                         "Trojan.Script.Agent.ekbkzw"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "Suspicious_GEN.F47V0621"
                     ]
                 ]
             },
             "type": "table"
         },
         {
-            "data": "4 out of 57 antivirus detected \u001b[1m3ea0dd32204ef9458e5ab1c78bd71aab\u001b[0m as malicious.",
+            "data": "5 out of 56 antivirus detected \u001b[1m3ea0dd32204ef9458e5ab1c78bd71aab\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/00268b762f9be5d53621ff104360984eb060f2c423ddcffa2f9d241aa3a0a2b4/analysis/1498010919/\n",
+            "data": "https://www.virustotal.com/file/00268b762f9be5d53621ff104360984eb060f2c423ddcffa2f9d241aa3a0a2b4/analysis/1498531569/\n",
             "type": "info"
         },
         {
