@@ -170,7 +170,7 @@
 
 	 "type": "ASCII text",
 
-	 "virustotal": "" ,
+	 "virustotal": "https://www.virustotal.com/file/8882bea82ecd69492abd1adcff7d198e1b0fdf2682d69a4cfc8146e2b4b76d18/analysis/1498582807/" ,
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/8882bea82ecd69492abd1adcff7d198e1b0fdf2682d69a4cfc8146e2b4b76d18"
 
@@ -186,7 +186,7 @@
 
 	 "type": "Bourne-Again shell script, ASCII text executable",
 
-	 "virustotal": "" ,
+	 "virustotal": "https://www.virustotal.com/file/4cd77fbb329effbd0e4047ca984caa054e5f5d30939937bb6f4b9ed732ea1b12/analysis/1498582843/" ,
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/4cd77fbb329effbd0e4047ca984caa054e5f5d30939937bb6f4b9ed732ea1b12"
 
@@ -282,7 +282,7 @@
 
 	 "type": "ASCII text",
 
-	 "virustotal": "" ,
+	 "virustotal": "https://www.virustotal.com/file/fadb1fb39e53dfff01d90bedcb98d5d699e13e692d5bdd35cdb008d7a4484d4c/analysis/1498498207/" ,
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/fadb1fb39e53dfff01d90bedcb98d5d699e13e692d5bdd35cdb008d7a4484d4c"
 
@@ -410,7 +410,7 @@
 
 	 "type": "ASCII text",
 
-	 "virustotal": "" ,
+	 "virustotal": "https://www.virustotal.com/file/dbca618b3842cd6e462d0a5461f9852877567cb7ef5359ed73b59a0a79063ede/analysis/1498435206/" ,
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/dbca618b3842cd6e462d0a5461f9852877567cb7ef5359ed73b59a0a79063ede"
 
@@ -474,7 +474,7 @@
 
 	 "type": "ASCII text",
 
-	 "virustotal": "" ,
+	 "virustotal": "https://www.virustotal.com/file/b98dcb900c1abeddb5088e4fff839e4a01b4fb62f169b16474006443f09dd795/analysis/1498406409/" ,
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/b98dcb900c1abeddb5088e4fff839e4a01b4fb62f169b16474006443f09dd795"
 
@@ -698,7 +698,7 @@
 
 	 "type": "Python script, UTF-8 Unicode (with BOM) text executable",
 
-	 "virustotal": "" ,
+	 "virustotal": "https://www.virustotal.com/file/601bbbe4e80c8b67e004c810ff77cc533cc9aaf1f3704514ec3d5f6b9a99709b/analysis/1498212007/" ,
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/601bbbe4e80c8b67e004c810ff77cc533cc9aaf1f3704514ec3d5f6b9a99709b"
 
@@ -1034,7 +1034,7 @@
 
 	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows, UPX compressed",
 
-	 "virustotal": "" ,
+	 "virustotal": "https://www.virustotal.com/file/fd3cae55558bda7cf4290d5e9187504ab1f34adf948801ebff7d3fcb69f9e28f/analysis/1498044610/" ,
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/855d803590b82b805357587c47c583f2"
 
@@ -1258,7 +1258,7 @@
 
 	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows, UPX compressed",
 
-	 "virustotal": "" ,
+	 "virustotal": "https://www.virustotal.com/file/f0a31a58f960f53e49b3e97fa392d2084621a36139f7b46009edc710d77e21a6/analysis/1497877313/" ,
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/d3fab2fc2e536ac86522492d7de63b22"
 
@@ -1274,7 +1274,7 @@
 
 	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows, UPX compressed",
 
-	 "virustotal": "" ,
+	 "virustotal": "https://www.virustotal.com/file/7143025e3f6356cd628135debfdb0c72b0efe4ac726122f9cee6ac3f4db4481c/analysis/1497877349/" ,
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/53a5b0d60613d696a8b772282e11d648"
 
@@ -1322,7 +1322,7 @@
 
 	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
 
-	 "virustotal": "" ,
+	 "virustotal": "https://www.virustotal.com/file/61433fa66eec2e65b44b0d56fe29d127b542d335efe84c8729ed5ce7473fe6fb/analysis/1497880889/" ,
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/http-VbRZFf"
 
@@ -1658,7 +1658,7 @@
 
 	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
 
-	 "virustotal": "" ,
+	 "virustotal": "https://www.virustotal.com/file/0912f920d2ae8e64ee0cbed396524da8f82c2340e490fe4afdd85aac766a0d35/analysis/1497632442/" ,
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/http-02SxNO"
 
@@ -2090,7 +2090,7 @@
 
 	 "type": "ASCII text",
 
-	 "virustotal": "" ,
+	 "virustotal": "https://www.virustotal.com/file/1d7750d9ee89eb29c3ca017dce35055bea42b4d8ecf713a4a3379f8f0b51808e/analysis/1497319241/" ,
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/1d7750d9ee89eb29c3ca017dce35055bea42b4d8ecf713a4a3379f8f0b51808e"
 
@@ -2250,7 +2250,7 @@
 
 	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
 
-	 "virustotal": "" ,
+	 "virustotal": "https://www.virustotal.com/file/dc9fad06b482934f9b1a0d477773a963e9cf6e2a70db5ba1c2abc30537b3bf29/analysis/1497292459/" ,
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/393e16509241cd979fffd32b2f3e7800"
 
@@ -2442,7 +2442,7 @@
 
 	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
 
-	 "virustotal": "" ,
+	 "virustotal": "https://www.virustotal.com/file/4b3ad0c035065d1f5631e51113ae08a03c8451a760bc07ac8c852571219719be/analysis/1497103242/" ,
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/baec34bbc72c544e5953da4ac1d6dde4"
 
