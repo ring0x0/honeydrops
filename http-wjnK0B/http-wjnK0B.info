@@ -14,6 +14,11 @@
                 "ssdeep": "12288:dYtwd204Z5zkeqso78Ei0OScezWcasLMu:J804jqs2i0OScKWcVwu",
                 "tags": [
                     "new"
+		    "45.55.x.x",
+		    "viper",
+		    "06/28/2017",
+                    "17:25:01"
+
                 ],
                 "type": "PE32 executable (GUI) Intel 80386, for MS Windows"
             }
