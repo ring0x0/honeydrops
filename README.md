@@ -2,15 +2,57 @@
 
 { 
 
-	 "date": "06/28/2017 02:00:01",
+	 "date": "06/28/2017 02:30:01",
 
 	 "hash": "811c76aee747ccfbed8d17ed7ba2fe7f4cd2b8259d149e1c2dea02bc169e71c2",
 
 	 "type": "POSIX shell script, ASCII text executable",
 
-	 "virustotal": "https://www.virustotal.com/file/811c76aee747ccfbed8d17ed7ba2fe7f4cd2b8259d149e1c2dea02bc169e71c2/analysis/1498606206/" ,
+	 "virustotal": "" ,
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/811c76aee747ccfbed8d17ed7ba2fe7f4cd2b8259d149e1c2dea02bc169e71c2"
+
+},
+
+{ 
+
+	 "date": "06/28/2017 02:30:01",
+
+	 "hash": "18f46eb021834317a4e27a57c84623e681830f7a8b81c03921de3108e2680b6a",
+
+	 "type": "Bourne-Again shell script, ASCII text executable",
+
+	 "virustotal": "" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/18f46eb021834317a4e27a57c84623e681830f7a8b81c03921de3108e2680b6a"
+
+},
+
+{ 
+
+	 "date": "06/28/2017 02:30:01",
+
+	 "hash": "040053a6988a0753dd0bdb1d54c9f09a",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
+
+	 "virustotal": "https://www.virustotal.com/file/978db54974c450ab587649d9c1e19935a6e00344a74d01a355f9752aa7a6f126/analysis/1498611911/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/040053a6988a0753dd0bdb1d54c9f09a"
+
+},
+
+{ 
+
+	 "date": "06/28/2017 02:30:01",
+
+	 "hash": "00268b762f9be5d53621ff104360984eb060f2c423ddcffa2f9d241aa3a0a2b4",
+
+	 "type": "ASCII text",
+
+	 "virustotal": "" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/00268b762f9be5d53621ff104360984eb060f2c423ddcffa2f9d241aa3a0a2b4"
 
 },
 
@@ -25,20 +67,6 @@
 	 "virustotal": "https://www.virustotal.com/file/baf62759df12d1503ea5211727959fc40b08ca4347f99cb60429c35ed1f63ff7/analysis/1498521526/" ,
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/8abff333b92af2add6cf1512af67f2f8"
-
-},
-
-{ 
-
-	 "date": "06/28/2017 01:30:01",
-
-	 "hash": "00268b762f9be5d53621ff104360984eb060f2c423ddcffa2f9d241aa3a0a2b4",
-
-	 "type": "ASCII text",
-
-	 "virustotal": "https://www.virustotal.com/file/00268b762f9be5d53621ff104360984eb060f2c423ddcffa2f9d241aa3a0a2b4/analysis/1498531569/" ,
-
-	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/00268b762f9be5d53621ff104360984eb060f2c423ddcffa2f9d241aa3a0a2b4"
 
 },
 
@@ -81,20 +109,6 @@
 	 "virustotal": "https://www.virustotal.com/file/5d68c4af7edbd0e3202928399107b463e2cd6138e62954932771f5c5be183090/analysis/1498483223/" ,
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/3550b969ef125f2b120d4cbb28857f5c"
-
-},
-
-{ 
-
-	 "date": "06/27/2017 07:30:01",
-
-	 "hash": "18f46eb021834317a4e27a57c84623e681830f7a8b81c03921de3108e2680b6a",
-
-	 "type": "Bourne-Again shell script, ASCII text executable",
-
-	 "virustotal": "https://www.virustotal.com/file/18f46eb021834317a4e27a57c84623e681830f7a8b81c03921de3108e2680b6a/analysis/1498006803/" ,
-
-	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/18f46eb021834317a4e27a57c84623e681830f7a8b81c03921de3108e2680b6a"
 
 },
 
