@@ -2,6 +2,20 @@
 
 { 
 
+	 "date": "} ]",
+
+	 "hash": "http-wjnK0B",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
+
+	 "virustotal": "" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/http-wjnK0B"
+
+},
+
+{ 
+
 	 "date": "06/28/2017 04:15:01",
 
 	 "hash": "b3f7a6c9b77b0e4eb748dda93460032a",
