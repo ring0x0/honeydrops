@@ -1,0 +1,55 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m225741d15ed8574d279c5748b0d54922\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "AVG",
+                        "BV:Downloader-JY [Drp]"
+                    ],
+                    [
+                        "Avast",
+                        "BV:Downloader-JY [Drp]"
+                    ],
+                    [
+                        "DrWeb",
+                        "Linux.DownLoader.320"
+                    ],
+                    [
+                        "Ikarus",
+                        "Trojan.Linux.Downloader"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Trojan.Script.Agent.ekbkzw"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "5 out of 54 antivirus detected \u001b[1m225741d15ed8574d279c5748b0d54922\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/aed8fe28b8588b1f004873c1a2a76e5ae1aae538c84d58626c7d1245be894b8f/analysis/1497298101/\n",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
+            "type": "info"
+        }
+    ]
+}
