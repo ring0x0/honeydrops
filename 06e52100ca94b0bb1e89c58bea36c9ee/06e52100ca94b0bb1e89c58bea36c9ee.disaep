@@ -1,0 +1,5 @@
+558bec6aff6800a04000
+push ebp
+mov ebp,esp
+push byte 0xffffffff
+push dword 0x40a000

@@ -1,0 +1,3 @@
+b89d801e46689d801e46
+mov eax,0x461e809d
+push dword 0x461e809d

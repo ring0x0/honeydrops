@@ -1,0 +1,6 @@
+ec045053e801000000cc
+in al,dx
+add al,0x50
+push ebx
+call 0x5ed00b
+int3 
