@@ -10,7 +10,7 @@
 
 	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
 
-	 "virustotal": "" ,
+	 "virustotal": "https://www.virustotal.com/file/29a3086e027f52fc0781f2ad19ae37f4e48a0b35b793fde37ba5b511e9eaaf04/analysis/1498666524/" ,
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/http-wjnK0B"
 
@@ -90,7 +90,7 @@
 
 	 "type": "POSIX shell script, ASCII text executable",
 
-	 "virustotal": "" ,
+	 "virustotal": "https://www.virustotal.com/file/811c76aee747ccfbed8d17ed7ba2fe7f4cd2b8259d149e1c2dea02bc169e71c2/analysis/1498606206/" ,
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/811c76aee747ccfbed8d17ed7ba2fe7f4cd2b8259d149e1c2dea02bc169e71c2"
 
@@ -106,7 +106,7 @@
 
 	 "type": "Bourne-Again shell script, ASCII text executable",
 
-	 "virustotal": "" ,
+	 "virustotal": "https://www.virustotal.com/file/18f46eb021834317a4e27a57c84623e681830f7a8b81c03921de3108e2680b6a/analysis/1498006803/" ,
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/18f46eb021834317a4e27a57c84623e681830f7a8b81c03921de3108e2680b6a"
 
@@ -138,7 +138,7 @@
 
 	 "type": "ASCII text",
 
-	 "virustotal": "" ,
+	 "virustotal": "https://www.virustotal.com/file/00268b762f9be5d53621ff104360984eb060f2c423ddcffa2f9d241aa3a0a2b4/analysis/1498531569/" ,
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/00268b762f9be5d53621ff104360984eb060f2c423ddcffa2f9d241aa3a0a2b4"
 
@@ -1706,7 +1706,7 @@
 
 	 "type": "ASCII text",
 
-	 "virustotal": "" ,
+	 "virustotal": "https://www.virustotal.com/file/19d19c65e56f65ef1fbe1927e0c164b01d8ef250c0e270f5c9b02edd013b5a51/analysis/1496840911/" ,
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/19d19c65e56f65ef1fbe1927e0c164b01d8ef250c0e270f5c9b02edd013b5a51"
 
