@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "06/29/2017 05:40:01",
+
+	 "source": "deonaea 159.203.x.x",
+
+	 "name": "smb-93o2pi2x.tmp",
+
+	 "hash": "196461280d5ac9bf706164c6d6a81e44c76a106e095e1506b52ca0940d582991",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
+
+	 "classification": "Gen:Win32.SMTP-Mailer.dqW@aSUwtlbG",
+
+	 "virustotal": "https://www.virustotal.com/file/196461280d5ac9bf706164c6d6a81e44c76a106e095e1506b52ca0940d582991/analysis/1498624876/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/smb-93o2pi2x.tmp"
+
+},
+
+{ 
+
 	 "date": "06/29/2017 05:00:01",
 
 	 "source": "cowrie 159.203.x.x",
