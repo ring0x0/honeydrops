@@ -1,0 +1,219 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m0691174ba66d9c7371de94a981c06066\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "AVG",
+                        "Win32:Adware-gen [Adw]"
+                    ],
+                    [
+                        "AVware",
+                        "Trojan-Downloader.Win32.Zegost.al (v)"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Gen:Variant.Graftor.212189"
+                    ],
+                    [
+                        "AegisLab",
+                        "Troj.Downloader.W32.Agent.tnIP"
+                    ],
+                    [
+                        "AhnLab-V3",
+                        "Trojan/Win32.Redosdru.R120705"
+                    ],
+                    [
+                        "Arcabit",
+                        "Trojan.Graftor.D33CDD"
+                    ],
+                    [
+                        "Avast",
+                        "Win32:Adware-gen [Adw]"
+                    ],
+                    [
+                        "Avira",
+                        "TR/Crypt.CFI.Gen"
+                    ],
+                    [
+                        "Baidu",
+                        "Win32.Trojan-Downloader.Agent.bh"
+                    ],
+                    [
+                        "BitDefender",
+                        "Gen:Variant.Graftor.212189"
+                    ],
+                    [
+                        "CAT-QuickHeal",
+                        "Downldr.Farfli.S692142"
+                    ],
+                    [
+                        "ClamAV",
+                        "Win.Trojan.Agent-1383685"
+                    ],
+                    [
+                        "Comodo",
+                        "TrojWare.Win32.TrojanDownloader.Redosdru.FG"
+                    ],
+                    [
+                        "CrowdStrike",
+                        "malicious_confidence_100% (W)"
+                    ],
+                    [
+                        "DrWeb",
+                        "Trojan.DownLoader12.10027"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "a variant of Win32/TrojanDownloader.Agent.BJJ"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Gen:Variant.Graftor.212189 (B)"
+                    ],
+                    [
+                        "Endgame",
+                        "malicious (high confidence)"
+                    ],
+                    [
+                        "F-Secure",
+                        "Gen:Variant.Graftor.212189"
+                    ],
+                    [
+                        "Fortinet",
+                        "W32/Agent.BKJ!tr"
+                    ],
+                    [
+                        "GData",
+                        "Win32.Trojan-Downloader.Agent.WC"
+                    ],
+                    [
+                        "Ikarus",
+                        "Trojan.Win32.Farfli"
+                    ],
+                    [
+                        "Invincea",
+                        "heuristic"
+                    ],
+                    [
+                        "Jiangmin",
+                        "Backdoor.Generic.achi"
+                    ],
+                    [
+                        "K7AntiVirus",
+                        "Trojan-Downloader ( 0050921f1 )"
+                    ],
+                    [
+                        "K7GW",
+                        "Trojan-Downloader ( 0050921f1 )"
+                    ],
+                    [
+                        "Kaspersky",
+                        "Trojan-Downloader.Win32.Agent.hgxz"
+                    ],
+                    [
+                        "McAfee",
+                        "Downloader-FBPC!0691174BA66D"
+                    ],
+                    [
+                        "McAfee-GW-Edition",
+                        "Downloader-FBPC!0691174BA66D"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Gen:Variant.Graftor.212189"
+                    ],
+                    [
+                        "Microsoft",
+                        "TrojanDownloader:Win32/Farfli.F!bit"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Trojan.Win32.Dwn.dygxrv"
+                    ],
+                    [
+                        "Panda",
+                        "Trj/CI.A"
+                    ],
+                    [
+                        "Qihoo-360",
+                        "HEUR/QVM07.1.1598.Malware.Gen"
+                    ],
+                    [
+                        "Rising",
+                        "Worm.VBInjectEx!1.99E6 (cloud:UJKPSFXNtuV)"
+                    ],
+                    [
+                        "SentinelOne",
+                        "static engine - malicious"
+                    ],
+                    [
+                        "Sophos",
+                        "Troj/Zegost-ID"
+                    ],
+                    [
+                        "Symantec",
+                        "SMG.Heur!gen"
+                    ],
+                    [
+                        "Tencent",
+                        "Win32.Trojan-downloader.Agent.Frt"
+                    ],
+                    [
+                        "TotalDefense",
+                        "Win32/FakeFLDR_i"
+                    ],
+                    [
+                        "TrendMicro",
+                        "BKDR_ZEGOST.SM14"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "BKDR_ZEGOST.SM14"
+                    ],
+                    [
+                        "VBA32",
+                        "TrojanDownloader.Agent"
+                    ],
+                    [
+                        "VIPRE",
+                        "Trojan-Downloader.Win32.Zegost.al (v)"
+                    ],
+                    [
+                        "Webroot",
+                        "W32.Trojan.Gen"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "Trojan-Downloader.Win32.Agent.hgxz"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "46 out of 61 antivirus detected \u001b[1m0691174ba66d9c7371de94a981c06066\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/194b4c9051a87f81bd9aabdf7b5379217fe21986bfd00da3ff3898bbb2e53a73/analysis/1498602281/\n",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
+            "type": "info"
+        }
+    ]
+}
