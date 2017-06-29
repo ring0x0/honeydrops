@@ -12,9 +12,9 @@
 
 	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
 
-	 "classification": "nondeterministic",
+	 "classification": "Win32.Ramnit",
 
-	 "virustotal": "" ,
+	 "virustotal": "https://www.virustotal.com/file/ac6cad827374007d0f39befbcbe6b440930ace0fe46e48ccbc7e28d2055ae2f0/analysis/1498741207/" ,
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/8120185b3bc43a532748f94d973b2d28"
 

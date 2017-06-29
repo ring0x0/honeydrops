@@ -1,7 +1,254 @@
 {
     "results": [
         {
-            "data": "The file is in the queue and will be processed soon, please try again later",
+            "data": "VirusTotal Report for \u001b[1m8120185b3bc43a532748f94d973b2d28\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "Win32.Ramnit"
+                    ],
+                    [
+                        "AVG",
+                        "Win32:RmnDrp"
+                    ],
+                    [
+                        "AVware",
+                        "Virus.Win32.Ramnit.a (v)"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Win32.Ramnit"
+                    ],
+                    [
+                        "AegisLab",
+                        "W32.Nimnul.tn4U"
+                    ],
+                    [
+                        "AhnLab-V3",
+                        "Win32/Ramnit.B"
+                    ],
+                    [
+                        "Antiy-AVL",
+                        "Virus/Win32.Nimnul.a"
+                    ],
+                    [
+                        "Arcabit",
+                        "Win32.Ramnit"
+                    ],
+                    [
+                        "Avast",
+                        "Win32:RmnDrp"
+                    ],
+                    [
+                        "Avira",
+                        "W32/Ramnit.CD"
+                    ],
+                    [
+                        "Baidu",
+                        "Win32.Virus.Nimnul.a"
+                    ],
+                    [
+                        "BitDefender",
+                        "Win32.Ramnit"
+                    ],
+                    [
+                        "Bkav",
+                        "W32.RammitNNA.PE"
+                    ],
+                    [
+                        "CAT-QuickHeal",
+                        "W32.Ramnit.A"
+                    ],
+                    [
+                        "ClamAV",
+                        "Win.Trojan.Ramnit-1847"
+                    ],
+                    [
+                        "Comodo",
+                        "Virus.Win32.Ramnit.A"
+                    ],
+                    [
+                        "CrowdStrike",
+                        "malicious_confidence_100% (D)"
+                    ],
+                    [
+                        "Cyren",
+                        "W32/Ramnit.B!Generic"
+                    ],
+                    [
+                        "DrWeb",
+                        "Trojan.DownLoader10.19960"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "Win32/Ramnit.A"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Win32.Ramnit (B)"
+                    ],
+                    [
+                        "Endgame",
+                        "malicious (high confidence)"
+                    ],
+                    [
+                        "F-Prot",
+                        "W32/Ramnit.B!Generic"
+                    ],
+                    [
+                        "F-Secure",
+                        "Win32.Ramnit"
+                    ],
+                    [
+                        "Fortinet",
+                        "W32/Ramnit.A"
+                    ],
+                    [
+                        "GData",
+                        "Win32.Virus.Ramnit.C"
+                    ],
+                    [
+                        "Ikarus",
+                        "Virus.Win32.Ramnit"
+                    ],
+                    [
+                        "Invincea",
+                        "heuristic"
+                    ],
+                    [
+                        "Jiangmin",
+                        "Win32/PatchFile.et"
+                    ],
+                    [
+                        "K7AntiVirus",
+                        "Virus ( 002fe95d1 )"
+                    ],
+                    [
+                        "K7GW",
+                        "Virus ( 002fe95d1 )"
+                    ],
+                    [
+                        "Kaspersky",
+                        "Virus.Win32.Nimnul.a"
+                    ],
+                    [
+                        "Kingsoft",
+                        "Win32.Ramnit.la.30720"
+                    ],
+                    [
+                        "McAfee",
+                        "W32/Ramnit.a"
+                    ],
+                    [
+                        "McAfee-GW-Edition",
+                        "BehavesLike.Win32.Ramnit.cc"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Win32.Ramnit"
+                    ],
+                    [
+                        "Microsoft",
+                        "Virus:Win32/Ramnit.A"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Virus.Win32.Nimnul.bpchjo"
+                    ],
+                    [
+                        "Panda",
+                        "W32/Cosmu.gen"
+                    ],
+                    [
+                        "Qihoo-360",
+                        "Backdoor.Win32.Agent.WK"
+                    ],
+                    [
+                        "SentinelOne",
+                        "static engine - malicious"
+                    ],
+                    [
+                        "Sophos",
+                        "W32/Patched-I"
+                    ],
+                    [
+                        "Symantec",
+                        "W32.Ramnit!inf"
+                    ],
+                    [
+                        "Tencent",
+                        "Virus.Win32.Ramnit.c"
+                    ],
+                    [
+                        "TotalDefense",
+                        "Win32/Ramnit.A"
+                    ],
+                    [
+                        "TrendMicro",
+                        "PE_RAMNIT.H"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "PE_RAMNIT.H"
+                    ],
+                    [
+                        "VBA32",
+                        "Virus.Win32.Nimnul.a"
+                    ],
+                    [
+                        "VIPRE",
+                        "Virus.Win32.Ramnit.a (v)"
+                    ],
+                    [
+                        "ViRobot",
+                        "Win32.Ramnit.E"
+                    ],
+                    [
+                        "Webroot",
+                        "W32.RamNit.Gen"
+                    ],
+                    [
+                        "Yandex",
+                        "Win32.Ramnit.Gen.3"
+                    ],
+                    [
+                        "Zillya",
+                        "Virus.Nimnul.Win32.1"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "Virus.Win32.Nimnul.a"
+                    ],
+                    [
+                        "Zoner",
+                        "Trojan.Agent.QML"
+                    ],
+                    [
+                        "nProtect",
+                        "Virus/W32.Ramnit.B"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "56 out of 62 antivirus detected \u001b[1m8120185b3bc43a532748f94d973b2d28\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/ac6cad827374007d0f39befbcbe6b440930ace0fe46e48ccbc7e28d2055ae2f0/analysis/1498741207/\n",
             "type": "info"
         },
         {
