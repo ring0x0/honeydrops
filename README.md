@@ -12,9 +12,9 @@
 
 	 "type": "ASCII text",
 
-	 "classification": "nondeterministic",
+	 "classification": "BV:Downloader-II [Trj]",
 
-	 "virustotal": "" ,
+	 "virustotal": "https://www.virustotal.com/file/f5e5a46d1f7fb975b8012630351956638ff3c5491c953b7b05a62d44690f36a0/analysis/1498744851/" ,
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/f5e5a46d1f7fb975b8012630351956638ff3c5491c953b7b05a62d44690f36a0"
 
