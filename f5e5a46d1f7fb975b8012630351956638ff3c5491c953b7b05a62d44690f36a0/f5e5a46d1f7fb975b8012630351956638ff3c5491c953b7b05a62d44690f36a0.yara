@@ -1,0 +1,11 @@
+
+    contentis_base64 /tmp/yaracheck/f5e5a46d1f7fb975b8012630351956638ff3c5491c953b7b05a62d44690f36a0/binary-f5e5a46d1f7fb975b8012630351956638ff3c5491c953b7b05a62d44690f36a0
+0x26:$a: /var/run/tty
+
+
+
+
+
+
+
+

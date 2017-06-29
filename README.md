@@ -2,6 +2,86 @@
 
 { 
 
+	 "date": "06/29/2017 13:50:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "f5e5a46d1f7fb975b8012630351956638ff3c5491c953b7b05a62d44690f36a0",
+
+	 "hash": "f5e5a46d1f7fb975b8012630351956638ff3c5491c953b7b05a62d44690f36a0",
+
+	 "type": "ASCII text",
+
+	 "classification": "nondeterministic",
+
+	 "virustotal": "" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/f5e5a46d1f7fb975b8012630351956638ff3c5491c953b7b05a62d44690f36a0"
+
+},
+
+{ 
+
+	 "date": "06/29/2017 13:50:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "af4e6073a71c7e2b7b3645839ccb4a1e0548671265b3d5d899e9a70fa3d5b1f6",
+
+	 "hash": "af4e6073a71c7e2b7b3645839ccb4a1e0548671265b3d5d899e9a70fa3d5b1f6",
+
+	 "type": "ASCII text",
+
+	 "classification": "BV:Downloader-JV [Drp]",
+
+	 "virustotal": "https://www.virustotal.com/file/af4e6073a71c7e2b7b3645839ccb4a1e0548671265b3d5d899e9a70fa3d5b1f6/analysis/1498744893/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/af4e6073a71c7e2b7b3645839ccb4a1e0548671265b3d5d899e9a70fa3d5b1f6"
+
+},
+
+{ 
+
+	 "date": "06/29/2017 13:50:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "540cf3c35861024a5f7e5d0da8751c7b74251176c04a94414387eea784063335",
+
+	 "hash": "540cf3c35861024a5f7e5d0da8751c7b74251176c04a94414387eea784063335",
+
+	 "type": "ASCII text",
+
+	 "classification": "HEUR:Trojan-Downloader.Shell.Agent.p",
+
+	 "virustotal": "https://www.virustotal.com/file/540cf3c35861024a5f7e5d0da8751c7b74251176c04a94414387eea784063335/analysis/1498744935/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/540cf3c35861024a5f7e5d0da8751c7b74251176c04a94414387eea784063335"
+
+},
+
+{ 
+
+	 "date": "06/29/2017 13:45:01",
+
+	 "source": "deonaea 192.241.x.x",
+
+	 "name": "dd6cfd4dbaf2aad1450ddf7b3ed19b51",
+
+	 "hash": "e913ed5fdc62fcf838a6c82f9448e0a679c06be724bbb808f7c388425603a33c",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
+
+	 "classification": "Win32.Ramnit",
+
+	 "virustotal": "https://www.virustotal.com/file/e913ed5fdc62fcf838a6c82f9448e0a679c06be724bbb808f7c388425603a33c/analysis/1498744807/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/dd6cfd4dbaf2aad1450ddf7b3ed19b51"
+
+},
+
+{ 
+
 	 "date": "06/29/2017 12:45:01",
 
 	 "source": "deonaea 192.241.x.x",

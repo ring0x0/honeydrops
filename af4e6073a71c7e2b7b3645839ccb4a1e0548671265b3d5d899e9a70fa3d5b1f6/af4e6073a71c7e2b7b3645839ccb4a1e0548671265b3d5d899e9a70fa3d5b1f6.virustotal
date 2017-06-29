@@ -1,0 +1,47 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m038f965a202cd9c121077393360c4c31\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "AVG",
+                        "BV:Downloader-JV [Drp]"
+                    ],
+                    [
+                        "Avast",
+                        "BV:Downloader-JV [Drp]"
+                    ],
+                    [
+                        "DrWeb",
+                        "Linux.DownLoader.158"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "3 out of 56 antivirus detected \u001b[1m038f965a202cd9c121077393360c4c31\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/af4e6073a71c7e2b7b3645839ccb4a1e0548671265b3d5d899e9a70fa3d5b1f6/analysis/1498744893/\n",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
+            "type": "info"
+        }
+    ]
+}
