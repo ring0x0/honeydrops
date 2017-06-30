@@ -52,9 +52,9 @@
 
 	 "type": "a /usr/bin/perl script executable (binary data)",
 
-	 "classification": "nondeterministic",
+	 "classification": "Backdoor.Perl.Shellbot.B",
 
-	 "virustotal": "" ,
+	 "virustotal": "https://www.virustotal.com/file/2a35119dfd5b10083df9a1aa0bf32d4324aca2dc6cc4d6296de284fcb12d1987/analysis/1498802408/" ,
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/2a35119dfd5b10083df9a1aa0bf32d4324aca2dc6cc4d6296de284fcb12d1987"
 
