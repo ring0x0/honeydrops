@@ -2,6 +2,46 @@
 
 { 
 
+	 "date": "06/30/2017 07:40:01",
+
+	 "source": "deonaea 159.203.x.x",
+
+	 "name": "a80307f6087253365841b274b705d76e",
+
+	 "hash": "7e3026d86d848b72cfe9c4737e31329494ce5d2a11e78551d90c2f425829d96d",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
+
+	 "classification": "Gen:Variant.Strictor.137718",
+
+	 "virustotal": "https://www.virustotal.com/file/7e3026d86d848b72cfe9c4737e31329494ce5d2a11e78551d90c2f425829d96d/analysis/1498808764/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/a80307f6087253365841b274b705d76e"
+
+},
+
+{ 
+
+	 "date": "06/30/2017 07:40:01",
+
+	 "source": "deonaea 159.203.x.x",
+
+	 "name": "815c30fcdce963efe8efeff6ef7480ed",
+
+	 "hash": "b57b0d04c06d5610feb0e45ff41c6003d8a626832aaca3b5bf3aa182a41b062f",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
+
+	 "classification": "Gen:Variant.Symmi.4348",
+
+	 "virustotal": "https://www.virustotal.com/file/b57b0d04c06d5610feb0e45ff41c6003d8a626832aaca3b5bf3aa182a41b062f/analysis/1498808805/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/815c30fcdce963efe8efeff6ef7480ed"
+
+},
+
+{ 
+
 	 "date": "06/30/2017 07:30:01",
 
 	 "source": "cowrie 159.203.x.x",
