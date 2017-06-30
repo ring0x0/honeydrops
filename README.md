@@ -2,7 +2,7 @@
 
 { 
 
-	 "date": "06/30/2017 07:00:01",
+	 "date": "06/30/2017 07:30:01",
 
 	 "source": "cowrie 159.203.x.x",
 
@@ -14,9 +14,49 @@
 
 	 "classification": "BV:Downloader-KB [Drp]",
 
-	 "virustotal": "https://www.virustotal.com/file/00268b762f9be5d53621ff104360984eb060f2c423ddcffa2f9d241aa3a0a2b4/analysis/1498531569/" ,
+	 "virustotal": "https://www.virustotal.com/file/00268b762f9be5d53621ff104360984eb060f2c423ddcffa2f9d241aa3a0a2b4/analysis/1498806596/" ,
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/00268b762f9be5d53621ff104360984eb060f2c423ddcffa2f9d241aa3a0a2b4"
+
+},
+
+{ 
+
+	 "date": "06/30/2017 07:20:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "d8be01822c24361acba829a237db9aa21aac41c48d56fe354e5c934feb3e7b21",
+
+	 "hash": "d8be01822c24361acba829a237db9aa21aac41c48d56fe354e5c934feb3e7b21",
+
+	 "type": "Bourne-Again shell script, ASCII text executable",
+
+	 "classification": "Generic.Bash.MiraiA.F242BAA1",
+
+	 "virustotal": "https://www.virustotal.com/file/d8be01822c24361acba829a237db9aa21aac41c48d56fe354e5c934feb3e7b21/analysis/1498790385/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/d8be01822c24361acba829a237db9aa21aac41c48d56fe354e5c934feb3e7b21"
+
+},
+
+{ 
+
+	 "date": "06/30/2017 07:20:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "a4a3f605da7eda1aaa574992473b513bed439454185de7dd2f511e0f360c1d46",
+
+	 "hash": "a4a3f605da7eda1aaa574992473b513bed439454185de7dd2f511e0f360c1d46",
+
+	 "type": "ASCII text",
+
+	 "classification": "Generic.Bash.MiraiA.F4186189",
+
+	 "virustotal": "https://www.virustotal.com/file/a4a3f605da7eda1aaa574992473b513bed439454185de7dd2f511e0f360c1d46/analysis/1498791905/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/a4a3f605da7eda1aaa574992473b513bed439454185de7dd2f511e0f360c1d46"
 
 },
 
