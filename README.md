@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "07/01/2017 02:15:01",
+
+	 "source": "deonaea 159.203.x.x",
+
+	 "name": "smb-f5qhhwaj.tmp",
+
+	 "hash": "a29d02251f54567edb1d32f7c17ce4c04d5c54e317eb3b2bea2a068da728e59a",
+
+	 "type": "MS-DOS executable, MZ for MS-DOS",
+
+	 "classification": "Trojan.GenericKD.4484531",
+
+	 "virustotal": "https://www.virustotal.com/file/a29d02251f54567edb1d32f7c17ce4c04d5c54e317eb3b2bea2a068da728e59a/analysis/1498795444/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/smb-f5qhhwaj.tmp"
+
+},
+
+{ 
+
 	 "date": "07/01/2017 00:00:01",
 
 	 "source": "cowrie 159.203.x.x",
