@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "07/01/2017 10:15:01",
+
+	 "source": "deonaea 192.241.x.x",
+
+	 "name": "69e99e0bf5f0d0b43c98d0452cfd0fd9",
+
+	 "hash": "ee86ef3912b1278964d0d816fa7382c330961e39c1b31d914d9e8ec26102a67d",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows, UPX compressed",
+
+	 "classification": "Gen:Trojan.Heur.GM.0000026500",
+
+	 "virustotal": "https://www.virustotal.com/file/ee86ef3912b1278964d0d816fa7382c330961e39c1b31d914d9e8ec26102a67d/analysis/1498779905/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/69e99e0bf5f0d0b43c98d0452cfd0fd9"
+
+},
+
+{ 
+
 	 "date": "07/01/2017 09:45:01",
 
 	 "source": "cowrie 159.203.x.x",
