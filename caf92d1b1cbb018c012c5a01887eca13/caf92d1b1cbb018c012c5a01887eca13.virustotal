@@ -1,7 +1,158 @@
 {
     "results": [
         {
-            "data": "The file is in the queue and will be processed soon, please try again later",
+            "data": "VirusTotal Report for \u001b[1mcaf92d1b1cbb018c012c5a01887eca13\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "Generic.ServStart.A.78C188D2"
+                    ],
+                    [
+                        "AVG",
+                        "Win32:Malware-gen"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Generic.ServStart.A.78C188D2"
+                    ],
+                    [
+                        "AhnLab-V3",
+                        "Malware/Win32.Generic.C1984338"
+                    ],
+                    [
+                        "Antiy-AVL",
+                        "Trojan/Win32.AGeneric"
+                    ],
+                    [
+                        "Arcabit",
+                        "Generic.ServStart.A.78C188D2"
+                    ],
+                    [
+                        "Avast",
+                        "Win32:Malware-gen"
+                    ],
+                    [
+                        "Baidu",
+                        "Win32.Trojan.WisdomEyes.16070401.9500.9991"
+                    ],
+                    [
+                        "BitDefender",
+                        "Generic.ServStart.A.78C188D2"
+                    ],
+                    [
+                        "CrowdStrike",
+                        "malicious_confidence_100% (D)"
+                    ],
+                    [
+                        "DrWeb",
+                        "Trojan.AVKill.63151"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "Win32/ServStart.MS"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Generic.ServStart.A.78C188D2 (B)"
+                    ],
+                    [
+                        "Endgame",
+                        "malicious (moderate confidence)"
+                    ],
+                    [
+                        "F-Secure",
+                        "Generic.ServStart.A.78C188D2"
+                    ],
+                    [
+                        "Fortinet",
+                        "W32/Generic.AC.3F03D5"
+                    ],
+                    [
+                        "GData",
+                        "Generic.ServStart.A.78C188D2"
+                    ],
+                    [
+                        "Ikarus",
+                        "Trojan.Win32.ServStart"
+                    ],
+                    [
+                        "Invincea",
+                        "heuristic"
+                    ],
+                    [
+                        "Jiangmin",
+                        "Trojan.Generic.yvkr"
+                    ],
+                    [
+                        "K7AntiVirus",
+                        "Trojan ( 0050d7e71 )"
+                    ],
+                    [
+                        "K7GW",
+                        "Trojan ( 0050d7e71 )"
+                    ],
+                    [
+                        "Kaspersky",
+                        "HEUR:Trojan.Win32.Generic"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Generic.ServStart.A.78C188D2"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Trojan.Win32.AVKill.eorhjc"
+                    ],
+                    [
+                        "Rising",
+                        "Malware.Generic.5!tfe (thunder:mQgF6EXcNCC)"
+                    ],
+                    [
+                        "Symantec",
+                        "ML.Attribute.HighConfidence"
+                    ],
+                    [
+                        "TrendMicro",
+                        "HT_SERVSTART_GF080059.UVPM"
+                    ],
+                    [
+                        "Webroot",
+                        "W32.Malware.Heur"
+                    ],
+                    [
+                        "Yandex",
+                        "Trojan.Agent!ERm4egxJzpM"
+                    ],
+                    [
+                        "Zillya",
+                        "Trojan.ServStart.Win32.15417"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "HEUR:Trojan.Win32.Generic"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "32 out of 62 antivirus detected \u001b[1mcaf92d1b1cbb018c012c5a01887eca13\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/4c1a3e215611d8e506577934b2a9ee6530c1f6865ea89d7910b915f58b4ff315/analysis/1499099407/\n",
             "type": "info"
         },
         {

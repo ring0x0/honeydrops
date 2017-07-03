@@ -12,9 +12,9 @@
 
 	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
 
-	 "classification": "nondeterministic",
+	 "classification": "Generic.ServStart.A.78C188D2",
 
-	 "virustotal": "" ,
+	 "virustotal": "https://www.virustotal.com/file/4c1a3e215611d8e506577934b2a9ee6530c1f6865ea89d7910b915f58b4ff315/analysis/1499099407/" ,
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/caf92d1b1cbb018c012c5a01887eca13"
 
