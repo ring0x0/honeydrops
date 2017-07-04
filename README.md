@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "07/04/2017 06:25:01",
+
+	 "source": "deonaea 192.241.x.x",
+
+	 "name": "802385019eac7a847e8c90ffc95d9ac6",
+
+	 "hash": "0a621f50d7db2918fc4a5b7915ff00c7712b82aeb76096589c19d85f67673fb8",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows, UPX compressed",
+
+	 "classification": "Trojan.Agent.BYGG",
+
+	 "virustotal": "https://www.virustotal.com/file/0a621f50d7db2918fc4a5b7915ff00c7712b82aeb76096589c19d85f67673fb8/analysis/1498907551/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/802385019eac7a847e8c90ffc95d9ac6"
+
+},
+
+{ 
+
 	 "date": "07/04/2017 02:50:01",
 
 	 "source": "deonaea 159.203.x.x",
