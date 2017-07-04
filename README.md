@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "07/04/2017 11:15:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "9e474106160d817b132d04bc3370dcd13f3df16a78ce3a43e40aa2bde1805ff2",
+
+	 "hash": "9e474106160d817b132d04bc3370dcd13f3df16a78ce3a43e40aa2bde1805ff2",
+
+	 "type": "Bourne-Again shell script, ASCII text executable",
+
+	 "classification": "Trojan.Downloader.BashAgent.YW",
+
+	 "virustotal": "https://www.virustotal.com/file/9e474106160d817b132d04bc3370dcd13f3df16a78ce3a43e40aa2bde1805ff2/analysis/1495073864/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/9e474106160d817b132d04bc3370dcd13f3df16a78ce3a43e40aa2bde1805ff2"
+
+},
+
+{ 
+
 	 "date": "07/04/2017 09:20:01",
 
 	 "source": "deonaea 159.203.x.x",
