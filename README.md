@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "07/04/2017 01:00:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "734b9d9c351de21090ef3f0f63cc79597726b880572a1e8b785fe2a494eac9f4",
+
+	 "hash": "734b9d9c351de21090ef3f0f63cc79597726b880572a1e8b785fe2a494eac9f4",
+
+	 "type": "POSIX shell script, ASCII text executable, with CRLF line terminators",
+
+	 "classification": "HEUR:Trojan-Downloader.Shell.Agent.p",
+
+	 "virustotal": "https://www.virustotal.com/file/734b9d9c351de21090ef3f0f63cc79597726b880572a1e8b785fe2a494eac9f4/analysis/1499030338/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/734b9d9c351de21090ef3f0f63cc79597726b880572a1e8b785fe2a494eac9f4"
+
+},
+
+{ 
+
 	 "date": "07/03/2017 16:25:01",
 
 	 "source": "deonaea 192.241.x.x",
