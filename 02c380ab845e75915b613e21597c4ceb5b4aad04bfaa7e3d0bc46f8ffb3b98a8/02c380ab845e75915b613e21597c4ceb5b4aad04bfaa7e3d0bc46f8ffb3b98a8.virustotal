@@ -28,6 +28,10 @@
                         "Generic.Bash.MiraiA.81FD3F35"
                     ],
                     [
+                        "AegisLab",
+                        "Troj.Downloader.Shell!c"
+                    ],
+                    [
                         "Arcabit",
                         "Generic.Bash.MiraiA.81FD3F35"
                     ],
@@ -38,6 +42,10 @@
                     [
                         "BitDefender",
                         "Generic.Bash.MiraiA.81FD3F35"
+                    ],
+                    [
+                        "Comodo",
+                        "UnclassifiedMalware"
                     ],
                     [
                         "DrWeb",
@@ -64,12 +72,20 @@
                         "Generic.Bash.MiraiA.81FD3F35"
                     ],
                     [
+                        "Ikarus",
+                        "Trojan-Downloader.Linux.Sh"
+                    ],
+                    [
                         "Kaspersky",
                         "HEUR:Trojan-Downloader.Shell.Agent.p"
                     ],
                     [
                         "MicroWorld-eScan",
                         "Generic.Bash.MiraiA.81FD3F35"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Trojan.Script.Ric.eqiwnb"
                     ],
                     [
                         "Sophos",
@@ -80,6 +96,14 @@
                         "Downloader.Trojan"
                     ],
                     [
+                        "Tencent",
+                        "Win32.Trojan-downloader.Agent.Dvzx"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "Suspicious_GEN.F47V0622"
+                    ],
+                    [
                         "ZoneAlarm",
                         "HEUR:Trojan-Downloader.Shell.Agent.p"
                     ]
@@ -88,11 +112,11 @@
             "type": "table"
         },
         {
-            "data": "17 out of 57 antivirus detected \u001b[1m117d9bcb502cceebede1921f137fa98d\u001b[0m as malicious.",
+            "data": "23 out of 57 antivirus detected \u001b[1m117d9bcb502cceebede1921f137fa98d\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/02c380ab845e75915b613e21597c4ceb5b4aad04bfaa7e3d0bc46f8ffb3b98a8/analysis/1498079385/\n",
+            "data": "https://www.virustotal.com/file/02c380ab845e75915b613e21597c4ceb5b4aad04bfaa7e3d0bc46f8ffb3b98a8/analysis/1498941975/\n",
             "type": "info"
         },
         {
