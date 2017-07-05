@@ -16,6 +16,10 @@
                 ],
                 "rows": [
                     [
+                        "ALYac",
+                        "Gen:Variant.Graftor.212189"
+                    ],
+                    [
                         "AVG",
                         "Win32:Adware-gen [Adw]"
                     ],
@@ -70,6 +74,10 @@
                     [
                         "CrowdStrike",
                         "malicious_confidence_100% (W)"
+                    ],
+                    [
+                        "Cyren",
+                        "W32/Trojan.OSVW-2899"
                     ],
                     [
                         "DrWeb",
@@ -152,10 +160,6 @@
                         "HEUR/QVM07.1.1598.Malware.Gen"
                     ],
                     [
-                        "Rising",
-                        "Worm.VBInjectEx!1.99E6 (cloud:UJKPSFXNtuV)"
-                    ],
-                    [
                         "SentinelOne",
                         "static engine - malicious"
                     ],
@@ -204,11 +208,11 @@
             "type": "table"
         },
         {
-            "data": "46 out of 61 antivirus detected \u001b[1m0691174ba66d9c7371de94a981c06066\u001b[0m as malicious.",
+            "data": "47 out of 62 antivirus detected \u001b[1m0691174ba66d9c7371de94a981c06066\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/194b4c9051a87f81bd9aabdf7b5379217fe21986bfd00da3ff3898bbb2e53a73/analysis/1498602281/\n",
+            "data": "https://www.virustotal.com/file/194b4c9051a87f81bd9aabdf7b5379217fe21986bfd00da3ff3898bbb2e53a73/analysis/1498787804/\n",
             "type": "info"
         },
         {
