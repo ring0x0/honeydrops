@@ -1,0 +1,127 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m916c1838fd51d3c30eda7eeb5403cf73\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "Generic.Bash.MiraiA.F8122B6D"
+                    ],
+                    [
+                        "AVG",
+                        "BV:Downloader-IB [Drp]"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Generic.Bash.MiraiA.F8122B6D"
+                    ],
+                    [
+                        "Arcabit",
+                        "Generic.Bash.MiraiA.F8122B6D"
+                    ],
+                    [
+                        "Avast",
+                        "BV:Downloader-IB [Drp]"
+                    ],
+                    [
+                        "BitDefender",
+                        "Generic.Bash.MiraiA.F8122B6D"
+                    ],
+                    [
+                        "Comodo",
+                        "UnclassifiedMalware"
+                    ],
+                    [
+                        "Cyren",
+                        "Trojan.HYJA-7"
+                    ],
+                    [
+                        "DrWeb",
+                        "Linux.DownLoader.275"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "Linux/TrojanDownloader.SH.S"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Generic.Bash.MiraiA.F8122B6D (B)"
+                    ],
+                    [
+                        "F-Secure",
+                        "Generic.Bash.MiraiA.F8122B6D"
+                    ],
+                    [
+                        "Fortinet",
+                        "Linux/ShellDLoader.RMF!tr"
+                    ],
+                    [
+                        "GData",
+                        "Generic.Bash.MiraiA.F8122B6D"
+                    ],
+                    [
+                        "Ikarus",
+                        "Trojan.Linux.Downloader"
+                    ],
+                    [
+                        "Kaspersky",
+                        "HEUR:Trojan-Downloader.Shell.Agent.p"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Generic.Bash.MiraiA.F8122B6D"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Trojan.Script.Agent.eplmql"
+                    ],
+                    [
+                        "Qihoo-360",
+                        "Win32/Trojan.Downloader.ef5"
+                    ],
+                    [
+                        "Sophos",
+                        "Mal/ShellDl-A"
+                    ],
+                    [
+                        "Symantec",
+                        "Downloader.Trojan"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "Suspicious_GEN.F47V0531"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "HEUR:Trojan-Downloader.Shell.Agent.p"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "23 out of 56 antivirus detected \u001b[1m916c1838fd51d3c30eda7eeb5403cf73\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/797ac7df7463fb009808a682fee625035ecb710bb2b417bdf7e703573654cb7e/analysis/1497894440/\n",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
+            "type": "info"
+        }
+    ]
+}
