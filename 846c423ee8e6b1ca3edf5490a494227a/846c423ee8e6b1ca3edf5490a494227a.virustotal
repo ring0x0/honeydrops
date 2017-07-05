@@ -1,0 +1,179 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m846c423ee8e6b1ca3edf5490a494227a\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "Trojan.GenericKD.5546466"
+                    ],
+                    [
+                        "AVG",
+                        "Win32:Malware-gen"
+                    ],
+                    [
+                        "AVware",
+                        "Trojan-GameThief.Win32.Magania"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Trojan.GenericKD.5546466"
+                    ],
+                    [
+                        "AegisLab",
+                        "Troj.W32.Gen.mvaa"
+                    ],
+                    [
+                        "AhnLab-V3",
+                        "Trojan/Win32.Magania.C2023846"
+                    ],
+                    [
+                        "Antiy-AVL",
+                        "Trojan[GameThief]/Win32.Magania"
+                    ],
+                    [
+                        "Arcabit",
+                        "Trojan.Generic.D54A1E2"
+                    ],
+                    [
+                        "Avast",
+                        "Win32:Malware-gen"
+                    ],
+                    [
+                        "Avira",
+                        "TR/Fuery.ownwz"
+                    ],
+                    [
+                        "Baidu",
+                        "Win32.Trojan.WisdomEyes.16070401.9500.9518"
+                    ],
+                    [
+                        "BitDefender",
+                        "Trojan.GenericKD.5546466"
+                    ],
+                    [
+                        "CrowdStrike",
+                        "malicious_confidence_98% (W)"
+                    ],
+                    [
+                        "Cyren",
+                        "W32/Trojan.BFXM-0502"
+                    ],
+                    [
+                        "DrWeb",
+                        "BackDoor.IRC.Sdbot.34272"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "a variant of Win32/Packed.Themida suspicious"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Trojan.GenericKD.5546466 (B)"
+                    ],
+                    [
+                        "F-Secure",
+                        "Trojan.GenericKD.5546466"
+                    ],
+                    [
+                        "GData",
+                        "Trojan.GenericKD.5546466"
+                    ],
+                    [
+                        "K7AntiVirus",
+                        "Trojan ( 004b897a1 )"
+                    ],
+                    [
+                        "K7GW",
+                        "Trojan ( 004b897a1 )"
+                    ],
+                    [
+                        "Kaspersky",
+                        "Trojan-GameThief.Win32.Magania.uhju"
+                    ],
+                    [
+                        "MAX",
+                        "malware (ai score=81)"
+                    ],
+                    [
+                        "McAfee",
+                        "Artemis!846C423EE8E6"
+                    ],
+                    [
+                        "McAfee-GW-Edition",
+                        "BehavesLike.Win32.BadFile.dc"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Trojan.GenericKD.5546466"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Trojan.Win32.Magania.eqqnfe"
+                    ],
+                    [
+                        "Paloalto",
+                        "generic.ml"
+                    ],
+                    [
+                        "Panda",
+                        "Trj/CI.A"
+                    ],
+                    [
+                        "Rising",
+                        "Malware.Heuristic!ET#80% (rdm+)"
+                    ],
+                    [
+                        "SentinelOne",
+                        "static engine - malicious"
+                    ],
+                    [
+                        "Sophos",
+                        "Generic PUA CB (PUA)"
+                    ],
+                    [
+                        "Symantec",
+                        "Trojan.Gen.2"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "TROJ_GEN.R021H07G417"
+                    ],
+                    [
+                        "VIPRE",
+                        "Trojan-GameThief.Win32.Magania"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "Trojan-GameThief.Win32.Magania.uhju"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "36 out of 63 antivirus detected \u001b[1m846c423ee8e6b1ca3edf5490a494227a\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/4162b540dce3c242da7d06870c4d9d1ffe8107c3f34f387f0be57c6fb15f50f5/analysis/1499202020/\n",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
+            "type": "info"
+        }
+    ]
+}
