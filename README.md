@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "07/05/2017 14:20:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "dc5e4fbcab1ca411173b26864a0e9b88a892777a150bd7e98d9c5807dc69d912",
+
+	 "hash": "dc5e4fbcab1ca411173b26864a0e9b88a892777a150bd7e98d9c5807dc69d912",
+
+	 "type": "ASCII text",
+
+	 "classification": "Trojan.Downloader.BashAgent.AFM",
+
+	 "virustotal": "https://www.virustotal.com/file/dc5e4fbcab1ca411173b26864a0e9b88a892777a150bd7e98d9c5807dc69d912/analysis/1499256394/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/dc5e4fbcab1ca411173b26864a0e9b88a892777a150bd7e98d9c5807dc69d912"
+
+},
+
+{ 
+
 	 "date": "07/05/2017 13:30:01",
 
 	 "source": "cowrie 159.203.x.x",
