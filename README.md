@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "07/06/2017 22:15:01",
+
+	 "source": "deonaea 192.241.x.x",
+
+	 "name": "ee3f05042167f588979576698c9211f7",
+
+	 "hash": "ee82d7a86b34c6bf30ff4f400839052cf913050b06a919be66aeec24ed248143",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
+
+	 "classification": "Dropped:Generic.Malware.PPkg.7C5743D6",
+
+	 "virustotal": "https://www.virustotal.com/file/ee82d7a86b34c6bf30ff4f400839052cf913050b06a919be66aeec24ed248143/analysis/1499344401/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/ee3f05042167f588979576698c9211f7"
+
+},
+
+{ 
+
 	 "date": "07/06/2017 18:30:01",
 
 	 "source": "deonaea 192.241.x.x",
