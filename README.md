@@ -2,6 +2,66 @@
 
 { 
 
+	 "date": "07/06/2017 08:30:01",
+
+	 "source": "deonaea 192.241.x.x",
+
+	 "name": "584488fe46d8691983982aa42ed6ae44",
+
+	 "hash": "aba38643f2ad554218be20f599d8053d45e0778b3192fe2f92b3161a44cb8edb",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
+
+	 "classification": "Gen:Win32.NetworkWorm.fq0@ayq73ukb",
+
+	 "virustotal": "https://www.virustotal.com/file/aba38643f2ad554218be20f599d8053d45e0778b3192fe2f92b3161a44cb8edb/analysis/1499327440/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/584488fe46d8691983982aa42ed6ae44"
+
+},
+
+{ 
+
+	 "date": "07/06/2017 08:20:01",
+
+	 "source": "deonaea 192.241.x.x",
+
+	 "name": "93d6351c6a31aeec9b6b869ba8e9f9a1",
+
+	 "hash": "d110ddc88899292adfb903451a7d8e94c340f6a45b9e3957a67f815fcbea94b8",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
+
+	 "classification": "Win32.Virtob.Gen.12",
+
+	 "virustotal": "https://www.virustotal.com/file/d110ddc88899292adfb903451a7d8e94c340f6a45b9e3957a67f815fcbea94b8/analysis/1499323840/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/93d6351c6a31aeec9b6b869ba8e9f9a1"
+
+},
+
+{ 
+
+	 "date": "07/06/2017 08:15:01",
+
+	 "source": "deonaea 159.203.x.x",
+
+	 "name": "smb-si1lwp2t.tmp",
+
+	 "hash": "7b2f8c43b4c92fb2add9fce264e92668dac2530493c51c5d6b45dcb764e208ed",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
+
+	 "classification": "Gen:Win32.SMTP-Mailer.dqW@aqb@WXmG",
+
+	 "virustotal": "https://www.virustotal.com/file/7b2f8c43b4c92fb2add9fce264e92668dac2530493c51c5d6b45dcb764e208ed/analysis/1499314057/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/smb-si1lwp2t.tmp"
+
+},
+
+{ 
+
 	 "date": "07/06/2017 03:00:01",
 
 	 "source": "cowrie 159.203.x.x",
