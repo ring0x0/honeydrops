@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "07/07/2017 15:50:01",
+
+	 "source": "deonaea 192.241.x.x",
+
+	 "name": "b13bcb41c942fc2923aaea287f9ac8dd",
+
+	 "hash": "aeaa5c38e6daa0753533e37be6857b3140b9a57458dff4f4e4e4b103a304c14c",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
+
+	 "classification": "Gen:Trojan.Heur.RP.fmW@aa!s1df",
+
+	 "virustotal": "https://www.virustotal.com/file/aeaa5c38e6daa0753533e37be6857b3140b9a57458dff4f4e4e4b103a304c14c/analysis/1499404181/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/b13bcb41c942fc2923aaea287f9ac8dd"
+
+},
+
+{ 
+
 	 "date": "07/07/2017 14:35:01",
 
 	 "source": "deonaea 192.241.x.x",
