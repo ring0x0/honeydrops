@@ -32,9 +32,9 @@
 
 	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
 
-	 "classification": "nondeterministic",
+	 "classification": "Gen:Variant.Graftor.154198",
 
-	 "virustotal": "" ,
+	 "virustotal": "https://www.virustotal.com/file/d9ce5b90fd6787ce746f71d156687f786fc9160e9ac21ce78487f1be4c900ebb/analysis/1499405406/" ,
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/http-ZkweIw"
 
