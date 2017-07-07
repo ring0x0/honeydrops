@@ -2,6 +2,46 @@
 
 { 
 
+	 "date": "07/07/2017 05:25:01",
+
+	 "source": "deonaea 192.241.x.x",
+
+	 "name": "5a957607b4991206fad0d48ab40b676a",
+
+	 "hash": "f778c65675c2d18f24f99521e93073cb9e485ac723e18e111dfc559a37880b25",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
+
+	 "classification": "Gen:Variant.Graftor.154198",
+
+	 "virustotal": "https://www.virustotal.com/file/f778c65675c2d18f24f99521e93073cb9e485ac723e18e111dfc559a37880b25/analysis/1499366114/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/5a957607b4991206fad0d48ab40b676a"
+
+},
+
+{ 
+
+	 "date": "07/07/2017 05:20:01",
+
+	 "source": "deonaea 192.241.x.x",
+
+	 "name": "http-ZkweIw",
+
+	 "hash": "d9ce5b90fd6787ce746f71d156687f786fc9160e9ac21ce78487f1be4c900ebb",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
+
+	 "classification": "nondeterministic",
+
+	 "virustotal": "" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/http-ZkweIw"
+
+},
+
+{ 
+
 	 "date": "07/07/2017 04:05:01",
 
 	 "source": "cowrie 159.203.x.x",
