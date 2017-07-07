@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "07/07/2017 04:05:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "f6064f426c93e4bfb3f319b2017d68e5780c7861d49a595d6ce4beb5274bc3fe",
+
+	 "hash": "f6064f426c93e4bfb3f319b2017d68e5780c7861d49a595d6ce4beb5274bc3fe",
+
+	 "type": "ASCII text",
+
+	 "classification": "BV:Downloader-II [Trj]",
+
+	 "virustotal": "https://www.virustotal.com/file/f6064f426c93e4bfb3f319b2017d68e5780c7861d49a595d6ce4beb5274bc3fe/analysis/1499390425/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/f6064f426c93e4bfb3f319b2017d68e5780c7861d49a595d6ce4beb5274bc3fe"
+
+},
+
+{ 
+
 	 "date": "07/06/2017 22:15:01",
 
 	 "source": "deonaea 192.241.x.x",
