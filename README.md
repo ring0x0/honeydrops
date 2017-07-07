@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "07/07/2017 12:30:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "00268b762f9be5d53621ff104360984eb060f2c423ddcffa2f9d241aa3a0a2b4",
+
+	 "hash": "00268b762f9be5d53621ff104360984eb060f2c423ddcffa2f9d241aa3a0a2b4",
+
+	 "type": "ASCII text",
+
+	 "classification": "BV:Downloader-KB [Drp]",
+
+	 "virustotal": "https://www.virustotal.com/file/00268b762f9be5d53621ff104360984eb060f2c423ddcffa2f9d241aa3a0a2b4/analysis/1499247818/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/00268b762f9be5d53621ff104360984eb060f2c423ddcffa2f9d241aa3a0a2b4"
+
+},
+
+{ 
+
 	 "date": "07/07/2017 11:50:01",
 
 	 "source": "cowrie 159.203.x.x",
@@ -12,9 +32,9 @@
 
 	 "type": "Bourne-Again shell script, ASCII text executable",
 
-	 "classification": "nondeterministic",
+	 "classification": "Generic.Bash.MiraiA.2AE5F1AA",
 
-	 "virustotal": "" ,
+	 "virustotal": "https://www.virustotal.com/file/0f144e03022b4c0fdbcda53d21be400830f3fe37b7977753c7e41bd360e6d9a3/analysis/1499428806/" ,
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/0f144e03022b4c0fdbcda53d21be400830f3fe37b7977753c7e41bd360e6d9a3"
 
@@ -217,26 +237,6 @@
 	 "virustotal": "https://www.virustotal.com/file/7b2f8c43b4c92fb2add9fce264e92668dac2530493c51c5d6b45dcb764e208ed/analysis/1499314057/" ,
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/smb-si1lwp2t.tmp"
-
-},
-
-{ 
-
-	 "date": "07/06/2017 03:00:01",
-
-	 "source": "cowrie 159.203.x.x",
-
-	 "name": "00268b762f9be5d53621ff104360984eb060f2c423ddcffa2f9d241aa3a0a2b4",
-
-	 "hash": "00268b762f9be5d53621ff104360984eb060f2c423ddcffa2f9d241aa3a0a2b4",
-
-	 "type": "ASCII text",
-
-	 "classification": "BV:Downloader-KB [Drp]",
-
-	 "virustotal": "https://www.virustotal.com/file/00268b762f9be5d53621ff104360984eb060f2c423ddcffa2f9d241aa3a0a2b4/analysis/1499247818/" ,
-
-	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/00268b762f9be5d53621ff104360984eb060f2c423ddcffa2f9d241aa3a0a2b4"
 
 },
 
