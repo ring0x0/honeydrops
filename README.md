@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "07/08/2017 06:20:01",
+
+	 "source": "deonaea 192.241.x.x",
+
+	 "name": "7042a6023da45057efd42cc8eb911250",
+
+	 "hash": "55f6446a3f07f8b9013a9974770701344514b77239324d11b96ae78efe2b2285",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
+
+	 "classification": "nondeterministic",
+
+	 "virustotal": "" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/7042a6023da45057efd42cc8eb911250"
+
+},
+
+{ 
+
 	 "date": "07/08/2017 04:35:01",
 
 	 "source": "deonaea 159.203.x.x",
