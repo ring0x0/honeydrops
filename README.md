@@ -12,9 +12,9 @@
 
 	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows, UPX compressed",
 
-	 "classification": "nondeterministic",
+	 "classification": "Generic.Mulinex.C50F1994",
 
-	 "virustotal": "" ,
+	 "virustotal": "https://www.virustotal.com/file/131783fe63a4454d9543dbbfc0e42e8fd9b5555ad58f86d5224ababe11f04c53/analysis/1499506206/" ,
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/d6933e14604af38dc6d00d0fce723ae1"
 
