@@ -2,6 +2,66 @@
 
 { 
 
+	 "date": "07/08/2017 04:35:01",
+
+	 "source": "deonaea 159.203.x.x",
+
+	 "name": "f6aa2279de681631d951bd2caec01d3e",
+
+	 "hash": "ba20237ddef6de99dd105523b14e5e439c2fa5410aeaad072171ea0d507e8050",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
+
+	 "classification": "Gen:Variant.Symmi.65839",
+
+	 "virustotal": "https://www.virustotal.com/file/ba20237ddef6de99dd105523b14e5e439c2fa5410aeaad072171ea0d507e8050/analysis/1499274726/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/f6aa2279de681631d951bd2caec01d3e"
+
+},
+
+{ 
+
+	 "date": "07/08/2017 04:35:01",
+
+	 "source": "deonaea 159.203.x.x",
+
+	 "name": "6cb1f49e00da550293803456ff61eabc",
+
+	 "hash": "f6e88c9553eae4aea019cf6b96955a2d3a428c97eccb661048130b24a5d82e96",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
+
+	 "classification": "W32/Agent.EW.gen!Eldorado",
+
+	 "virustotal": "https://www.virustotal.com/file/f6e88c9553eae4aea019cf6b96955a2d3a428c97eccb661048130b24a5d82e96/analysis/1499478800/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/6cb1f49e00da550293803456ff61eabc"
+
+},
+
+{ 
+
+	 "date": "07/08/2017 04:35:01",
+
+	 "source": "deonaea 159.203.x.x",
+
+	 "name": "368dbaa22a7006b92d0165706fc78b47",
+
+	 "hash": "f685ce44137ae97fb87e6975f98b2823a62e14074059513afef5261cd643c1ee",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
+
+	 "classification": "Gen:Trojan.Heur.Qy0@uiiCfPfi",
+
+	 "virustotal": "https://www.virustotal.com/file/f685ce44137ae97fb87e6975f98b2823a62e14074059513afef5261cd643c1ee/analysis/1499442946/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/368dbaa22a7006b92d0165706fc78b47"
+
+},
+
+{ 
+
 	 "date": "07/08/2017 00:30:01",
 
 	 "source": "cowrie 159.203.x.x",
