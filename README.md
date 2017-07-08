@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "07/08/2017 18:05:01",
+
+	 "source": "deonaea 192.241.x.x",
+
+	 "name": "61cc30244754023eb3a0d55a229e4ba3",
+
+	 "hash": "297e09158058d61fa47c753e1a8ce20df3c2284b996c6dbcec915e7bae71f1dc",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
+
+	 "classification": "Gen:Variant.Symmi.57816",
+
+	 "virustotal": "https://www.virustotal.com/file/297e09158058d61fa47c753e1a8ce20df3c2284b996c6dbcec915e7bae71f1dc/analysis/1499509061/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/61cc30244754023eb3a0d55a229e4ba3"
+
+},
+
+{ 
+
 	 "date": "07/08/2017 17:35:01",
 
 	 "source": "deonaea 192.241.x.x",
@@ -12,9 +32,9 @@
 
 	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
 
-	 "classification": "nondeterministic",
+	 "classification": "Gen:Variant.Graftor.164266",
 
-	 "virustotal": "" ,
+	 "virustotal": "https://www.virustotal.com/file/521fef6975eda779c96f50e4154edd9fb343313e6322cac6947c357825fe7458/analysis/1499536849/" ,
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/http-RXB3ht"
 
@@ -32,9 +52,9 @@
 
 	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
 
-	 "classification": "nondeterministic",
+	 "classification": "Gen:Variant.Graftor.164266",
 
-	 "virustotal": "" ,
+	 "virustotal": "https://www.virustotal.com/file/f2019e55c654d9fd587b0b3050e7ca09fac99b2647657d091dba5007faccea67/analysis/1499536807/" ,
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/http-4hwvVI"
 

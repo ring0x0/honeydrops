@@ -1,7 +1,118 @@
 {
     "results": [
         {
-            "data": "The file is in the queue and will be processed soon, please try again later",
+            "data": "VirusTotal Report for \u001b[1m52779cc0c3ef3cb7916f0de6311209ab\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "Gen:Variant.Graftor.164266"
+                    ],
+                    [
+                        "AVG",
+                        "Win32:Agent-BADD [Trj]"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Gen:Variant.Graftor.164266"
+                    ],
+                    [
+                        "Arcabit",
+                        "Trojan.Graftor.D281AA"
+                    ],
+                    [
+                        "Avast",
+                        "Win32:Agent-BADD [Trj]"
+                    ],
+                    [
+                        "Baidu",
+                        "Win32.Trojan.Farfli.ai"
+                    ],
+                    [
+                        "BitDefender",
+                        "Gen:Variant.Graftor.164266"
+                    ],
+                    [
+                        "Comodo",
+                        "TrojWare.Win32.Farfli.ARG"
+                    ],
+                    [
+                        "Cyren",
+                        "W32/Damaged_File.gen!Eldorado"
+                    ],
+                    [
+                        "DrWeb",
+                        "Trojan.DownLoader24.31995"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Gen:Variant.Graftor.164266 (B)"
+                    ],
+                    [
+                        "Endgame",
+                        "malicious (high confidence)"
+                    ],
+                    [
+                        "F-Prot",
+                        "W32/Damaged_File.gen!Eldorado"
+                    ],
+                    [
+                        "F-Secure",
+                        "Gen:Variant.Graftor.164266"
+                    ],
+                    [
+                        "Fortinet",
+                        "W32/Ramnit.DAM"
+                    ],
+                    [
+                        "GData",
+                        "Gen:Variant.Graftor.164266"
+                    ],
+                    [
+                        "Ikarus",
+                        "Trojan-Dropper.Agent"
+                    ],
+                    [
+                        "Invincea",
+                        "heuristic"
+                    ],
+                    [
+                        "MAX",
+                        "malware (ai score=87)"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Gen:Variant.Graftor.164266"
+                    ],
+                    [
+                        "Rising",
+                        "Virus.Ramnit!1.A7EB (classic)"
+                    ],
+                    [
+                        "TheHacker",
+                        "W32/Behav-Heuristic-CorruptFile-EP"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "22 out of 62 antivirus detected \u001b[1m52779cc0c3ef3cb7916f0de6311209ab\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/521fef6975eda779c96f50e4154edd9fb343313e6322cac6947c357825fe7458/analysis/1499536849/\n",
             "type": "info"
         },
         {
