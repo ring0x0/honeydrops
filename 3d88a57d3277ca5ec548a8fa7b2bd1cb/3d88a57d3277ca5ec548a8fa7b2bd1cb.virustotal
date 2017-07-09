@@ -92,10 +92,6 @@
                         "Gen:Variant.Zusy.215725 (B)"
                     ],
                     [
-                        "F-Prot",
-                        "W32/Farfli.AI"
-                    ],
-                    [
                         "F-Secure",
                         "Gen:Variant.Zusy.215725"
                     ],
@@ -126,6 +122,10 @@
                     [
                         "Kaspersky",
                         "Trojan.Win32.Miancha.hhv"
+                    ],
+                    [
+                        "MAX",
+                        "malware (ai score=88)"
                     ],
                     [
                         "Malwarebytes",
@@ -200,8 +200,16 @@
                         "Trojan.Win32.Z.Miancha.73728.AC"
                     ],
                     [
+                        "Webroot",
+                        "W32.Trojan.Gen"
+                    ],
+                    [
                         "Yandex",
                         "Trojan.Miancha!"
+                    ],
+                    [
+                        "Zillya",
+                        "Trojan.Miancha.Win32.185"
                     ],
                     [
                         "ZoneAlarm",
@@ -216,11 +224,11 @@
             "type": "table"
         },
         {
-            "data": "49 out of 61 antivirus detected \u001b[1m3d88a57d3277ca5ec548a8fa7b2bd1cb\u001b[0m as malicious.",
+            "data": "51 out of 64 antivirus detected \u001b[1m3d88a57d3277ca5ec548a8fa7b2bd1cb\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/0939198ff23f9e2fe0203b64ed0cefb6bfb340bb9d82a892c40e37930377ff2f/analysis/1498942239/\n",
+            "data": "https://www.virustotal.com/file/0939198ff23f9e2fe0203b64ed0cefb6bfb340bb9d82a892c40e37930377ff2f/analysis/1499380762/\n",
             "type": "info"
         },
         {
