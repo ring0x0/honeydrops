@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "07/09/2017 11:35:01",
+
+	 "source": "deonaea 192.241.x.x",
+
+	 "name": "dff091e8d49824eb69e45d5abd0639d3",
+
+	 "hash": "0bb8e496f29d0eedaa7c4518a5f08de6866a177ba13b09fca092390d4f970cda",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows, UPX compressed",
+
+	 "classification": "Trojan.Ranapama.JH",
+
+	 "virustotal": "https://www.virustotal.com/file/0bb8e496f29d0eedaa7c4518a5f08de6866a177ba13b09fca092390d4f970cda/analysis/1499521608/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/dff091e8d49824eb69e45d5abd0639d3"
+
+},
+
+{ 
+
 	 "date": "07/09/2017 08:20:01",
 
 	 "source": "deonaea 192.241.x.x",
