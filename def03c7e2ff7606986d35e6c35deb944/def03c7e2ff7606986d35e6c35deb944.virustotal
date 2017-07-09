@@ -1,0 +1,207 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1mdef03c7e2ff7606986d35e6c35deb944\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "Gen:Variant.Symmi.57816"
+                    ],
+                    [
+                        "AVG",
+                        "Win32:Malware-gen"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Gen:Variant.Symmi.57816"
+                    ],
+                    [
+                        "AhnLab-V3",
+                        "Trojan/Win32.Siscos.C1987192"
+                    ],
+                    [
+                        "Antiy-AVL",
+                        "Trojan/Win32.Siscos"
+                    ],
+                    [
+                        "Arcabit",
+                        "Trojan.Symmi.DE1D8"
+                    ],
+                    [
+                        "Avast",
+                        "Win32:Malware-gen"
+                    ],
+                    [
+                        "Avira",
+                        "TR/Dropper.Gen7"
+                    ],
+                    [
+                        "Baidu",
+                        "Win32.Trojan.WisdomEyes.16070401.9500.9999"
+                    ],
+                    [
+                        "BitDefender",
+                        "Gen:Variant.Symmi.57816"
+                    ],
+                    [
+                        "CrowdStrike",
+                        "malicious_confidence_100% (D)"
+                    ],
+                    [
+                        "Cylance",
+                        "Unsafe"
+                    ],
+                    [
+                        "Cyren",
+                        "W32/Trojan.BBT.gen!Eldorado"
+                    ],
+                    [
+                        "DrWeb",
+                        "Trojan.DownLoader24.63647"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "a variant of Win32/Kryptik.FHSE"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Gen:Variant.Symmi.57816 (B)"
+                    ],
+                    [
+                        "Endgame",
+                        "malicious (high confidence)"
+                    ],
+                    [
+                        "F-Prot",
+                        "W32/Trojan.BBT.gen!Eldorado"
+                    ],
+                    [
+                        "F-Secure",
+                        "Gen:Variant.Symmi.57816"
+                    ],
+                    [
+                        "Fortinet",
+                        "W32/Generic.AC.3F1A10!tr"
+                    ],
+                    [
+                        "GData",
+                        "Gen:Variant.Symmi.57816"
+                    ],
+                    [
+                        "Jiangmin",
+                        "Trojan.Siscos.ck"
+                    ],
+                    [
+                        "K7AntiVirus",
+                        "Trojan ( 004fbf8e1 )"
+                    ],
+                    [
+                        "K7GW",
+                        "Trojan ( 004fbf8e1 )"
+                    ],
+                    [
+                        "Kaspersky",
+                        "Trojan.Win32.Siscos.wef"
+                    ],
+                    [
+                        "MAX",
+                        "malware (ai score=89)"
+                    ],
+                    [
+                        "Malwarebytes",
+                        "Trojan.MalPack"
+                    ],
+                    [
+                        "McAfee",
+                        "Packed-MW!DEF03C7E2FF7"
+                    ],
+                    [
+                        "McAfee-GW-Edition",
+                        "Packed-MW!DEF03C7E2FF7"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Gen:Variant.Symmi.57816"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Trojan.Win32.Kryptik.epqkng"
+                    ],
+                    [
+                        "Panda",
+                        "Trj/GdSda.A"
+                    ],
+                    [
+                        "Qihoo-360",
+                        "Win32/Trojan.Dropper.fae"
+                    ],
+                    [
+                        "Rising",
+                        "Trojan.Kryptik!1.AAD1 (cloud:S1ecMfoqFCM)"
+                    ],
+                    [
+                        "SUPERAntiSpyware",
+                        "Trojan.Agent/Gen-Malagent"
+                    ],
+                    [
+                        "SentinelOne",
+                        "static engine - malicious"
+                    ],
+                    [
+                        "TrendMicro",
+                        "BKDR_ZEGOST.SM34"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "BKDR_ZEGOST.SM34"
+                    ],
+                    [
+                        "VBA32",
+                        "Trojan.Siscos"
+                    ],
+                    [
+                        "Webroot",
+                        "W32.Malware.gen"
+                    ],
+                    [
+                        "Yandex",
+                        "Trojan.Siscos!0NXIKeeera8"
+                    ],
+                    [
+                        "Zillya",
+                        "Trojan.Siscos.Win32.4816"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "Trojan.Win32.Siscos.wef"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "43 out of 64 antivirus detected \u001b[1mdef03c7e2ff7606986d35e6c35deb944\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/2caf4cc89f5993db28a42ccfd5960e6b8e0c8c396347271fab0fbb95b902d3d5/analysis/1499583903/\n",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
+            "type": "info"
+        }
+    ]
+}

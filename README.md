@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "07/09/2017 08:20:01",
+
+	 "source": "deonaea 192.241.x.x",
+
+	 "name": "def03c7e2ff7606986d35e6c35deb944",
+
+	 "hash": "2caf4cc89f5993db28a42ccfd5960e6b8e0c8c396347271fab0fbb95b902d3d5",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
+
+	 "classification": "Gen:Variant.Symmi.57816",
+
+	 "virustotal": "https://www.virustotal.com/file/2caf4cc89f5993db28a42ccfd5960e6b8e0c8c396347271fab0fbb95b902d3d5/analysis/1499583903/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/def03c7e2ff7606986d35e6c35deb944"
+
+},
+
+{ 
+
 	 "date": "07/09/2017 05:00:01",
 
 	 "source": "cowrie 159.203.x.x",
