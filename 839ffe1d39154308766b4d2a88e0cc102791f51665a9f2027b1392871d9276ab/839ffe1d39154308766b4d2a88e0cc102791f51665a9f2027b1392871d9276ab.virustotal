@@ -1,7 +1,106 @@
 {
     "results": [
         {
-            "data": "The file is in the queue and will be processed soon, please try again later",
+            "data": "VirusTotal Report for \u001b[1m74cdb5540b86889b7ad943248d5c50e2\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "Generic.Bash.MiraiA.00170B02"
+                    ],
+                    [
+                        "AVG",
+                        "BV:Gafgyt-AI [Drp]"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Generic.Bash.MiraiA.00170B02"
+                    ],
+                    [
+                        "Arcabit",
+                        "Generic.Bash.MiraiA.00170B02"
+                    ],
+                    [
+                        "Avast",
+                        "BV:Gafgyt-AI [Drp]"
+                    ],
+                    [
+                        "BitDefender",
+                        "Generic.Bash.MiraiA.00170B02"
+                    ],
+                    [
+                        "DrWeb",
+                        "Linux.DownLoader.37"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Generic.Bash.MiraiA.00170B02 (B)"
+                    ],
+                    [
+                        "F-Secure",
+                        "Generic.Bash.MiraiA.00170B02"
+                    ],
+                    [
+                        "Fortinet",
+                        "Linux/TrojanDownloader.BZ!tr"
+                    ],
+                    [
+                        "GData",
+                        "Generic.Bash.MiraiA.00170B02"
+                    ],
+                    [
+                        "Ikarus",
+                        "Trojan.Linux.Downloader"
+                    ],
+                    [
+                        "Kaspersky",
+                        "Trojan-Downloader.Shell.Agent.n"
+                    ],
+                    [
+                        "MAX",
+                        "malware (ai score=89)"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Generic.Bash.MiraiA.00170B02"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Trojan.Script.Agent.ehdsug"
+                    ],
+                    [
+                        "Sophos",
+                        "Mal/ShellDl-A"
+                    ],
+                    [
+                        "Symantec",
+                        "Trojan.Malscript"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "Trojan-Downloader.Shell.Agent.n"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "19 out of 58 antivirus detected \u001b[1m74cdb5540b86889b7ad943248d5c50e2\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/839ffe1d39154308766b4d2a88e0cc102791f51665a9f2027b1392871d9276ab/analysis/1499605206/\n",
             "type": "info"
         },
         {

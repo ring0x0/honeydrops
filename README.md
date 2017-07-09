@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "07/09/2017 13:15:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "13ed835c8779b02f603873cf1997f27ba1f10fff6c85261997c6010d2c895c9b",
+
+	 "hash": "13ed835c8779b02f603873cf1997f27ba1f10fff6c85261997c6010d2c895c9b",
+
+	 "type": "ASCII text",
+
+	 "classification": "nondeterministic",
+
+	 "virustotal": "" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/13ed835c8779b02f603873cf1997f27ba1f10fff6c85261997c6010d2c895c9b"
+
+},
+
+{ 
+
 	 "date": "07/09/2017 13:00:01",
 
 	 "source": "cowrie 159.203.x.x",
@@ -12,9 +32,9 @@
 
 	 "type": "ASCII text",
 
-	 "classification": "nondeterministic",
+	 "classification": "Generic.Bash.MiraiA.00170B02",
 
-	 "virustotal": "" ,
+	 "virustotal": "https://www.virustotal.com/file/839ffe1d39154308766b4d2a88e0cc102791f51665a9f2027b1392871d9276ab/analysis/1499605206/" ,
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/839ffe1d39154308766b4d2a88e0cc102791f51665a9f2027b1392871d9276ab"
 
