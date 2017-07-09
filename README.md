@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "07/09/2017 22:05:01",
+
+	 "source": "deonaea 192.241.x.x",
+
+	 "name": "2ae81302ee475219b0bcf0f177bfae7e",
+
+	 "hash": "fd11c90894e9f9461ddb3071c62cbcd471b74a521f8bc3043618d95b17bec004",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
+
+	 "classification": "Gen:Variant.Zegost.10",
+
+	 "virustotal": "https://www.virustotal.com/file/fd11c90894e9f9461ddb3071c62cbcd471b74a521f8bc3043618d95b17bec004/analysis/1499402282/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/2ae81302ee475219b0bcf0f177bfae7e"
+
+},
+
+{ 
+
 	 "date": "07/09/2017 21:30:01",
 
 	 "source": "cowrie 159.203.x.x",
