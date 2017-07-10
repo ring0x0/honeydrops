@@ -1,0 +1,131 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m26b19058978e0dfee4d81f3e37bba036\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "Ad-Aware",
+                        "Gen:Trojan.Heur.RP.fmW@auSNRri"
+                    ],
+                    [
+                        "AhnLab-V3",
+                        "Trojan/Win32.Snojan.C2003863"
+                    ],
+                    [
+                        "Antiy-AVL",
+                        "Trojan/Win32.Snojan"
+                    ],
+                    [
+                        "Arcabit",
+                        "Trojan.Heur.RP.E8A656"
+                    ],
+                    [
+                        "Baidu",
+                        "Win32.Trojan.WisdomEyes.16070401.9500.9917"
+                    ],
+                    [
+                        "BitDefender",
+                        "Gen:Trojan.Heur.RP.fmW@auSNRri"
+                    ],
+                    [
+                        "CrowdStrike",
+                        "malicious_confidence_100% (D)"
+                    ],
+                    [
+                        "Cylance",
+                        "Unsafe"
+                    ],
+                    [
+                        "DrWeb",
+                        "Trojan.Inject2.54498"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "a variant of Win32/Poebot.NCA"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Gen:Trojan.Heur.RP.fmW@auSNRri (B)"
+                    ],
+                    [
+                        "Endgame",
+                        "malicious (high confidence)"
+                    ],
+                    [
+                        "F-Secure",
+                        "Gen:Trojan.Heur.RP.fmW@auSNRri"
+                    ],
+                    [
+                        "Fortinet",
+                        "W32/Injector.LSH!tr"
+                    ],
+                    [
+                        "GData",
+                        "Gen:Trojan.Heur.RP.fmW@auSNRri"
+                    ],
+                    [
+                        "Invincea",
+                        "heuristic"
+                    ],
+                    [
+                        "MAX",
+                        "malware (ai score=89)"
+                    ],
+                    [
+                        "McAfee-GW-Edition",
+                        "BehavesLike.Win32.Downloader.mc"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Gen:Trojan.Heur.RP.fmW@auSNRri"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Trojan.Win32.Snojan.epzdsi"
+                    ],
+                    [
+                        "Panda",
+                        "Trj/GdSda.A"
+                    ],
+                    [
+                        "Rising",
+                        "Malware.Generic.5!tfe (thunder:FtY4QUyeBnL)"
+                    ],
+                    [
+                        "SentinelOne",
+                        "static engine - malicious"
+                    ],
+                    [
+                        "VBA32",
+                        "SScope.Injector.MY"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "24 out of 63 antivirus detected \u001b[1m26b19058978e0dfee4d81f3e37bba036\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/42639212b0728c72583b726d6c67926783ef9e8034353b2bb32bad8f4f7e9cf9/analysis/1499659750/\n",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
+            "type": "info"
+        }
+    ]
+}
