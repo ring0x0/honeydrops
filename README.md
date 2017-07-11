@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "07/11/2017 11:00:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "8f4d1460fdd209b9540d0e2c7ac06675f2d4c72d532fb53f77dca13380cd304b",
+
+	 "hash": "8f4d1460fdd209b9540d0e2c7ac06675f2d4c72d532fb53f77dca13380cd304b",
+
+	 "type": "ELF 32-bit MSB executable, MIPS, MIPS-I version 1 (SYSV), dynamically linked, interpreter /lib/ld-uClibc.so.0, not stripped",
+
+	 "classification": "HEUR:Backdoor.Linux.Gafgyt.ba",
+
+	 "virustotal": "https://www.virustotal.com/file/8f4d1460fdd209b9540d0e2c7ac06675f2d4c72d532fb53f77dca13380cd304b/analysis/1499716313/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/8f4d1460fdd209b9540d0e2c7ac06675f2d4c72d532fb53f77dca13380cd304b"
+
+},
+
+{ 
+
 	 "date": "07/11/2017 03:45:01",
 
 	 "source": "deonaea 159.203.x.x",
