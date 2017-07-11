@@ -1,0 +1,59 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1mf10bfe74b97bf785207038774a4064dc\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "Avira",
+                        "HTML/Rce.Gen3"
+                    ],
+                    [
+                        "Ikarus",
+                        "Trojan-Downloader.HTML.Adodb"
+                    ],
+                    [
+                        "Microsoft",
+                        "TrojanDownloader:HTML/Adodb.gen!A"
+                    ],
+                    [
+                        "Panda",
+                        "VBS/Psyme.C"
+                    ],
+                    [
+                        "TheHacker",
+                        "VBS/Psyme"
+                    ],
+                    [
+                        "Yandex",
+                        "HTML.Psyme.Gen"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "6 out of 58 antivirus detected \u001b[1mf10bfe74b97bf785207038774a4064dc\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/b4cf25e434bb7ac579bf966875f462d68973a5851c5e2af214c18084200a2b99/analysis/1499795594/\n",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
+            "type": "info"
+        }
+    ]
+}
