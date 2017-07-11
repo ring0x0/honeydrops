@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "07/11/2017 03:45:01",
+
+	 "source": "deonaea 159.203.x.x",
+
+	 "name": "1398a1fe6fde28200077650b9c1df8a7",
+
+	 "hash": "379fc7da73f4db5de76b6dcdb4eea4c892e793fdff583628ffd5193d96e80776",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
+
+	 "classification": "Trojan.GenericKD.12001439",
+
+	 "virustotal": "https://www.virustotal.com/file/379fc7da73f4db5de76b6dcdb4eea4c892e793fdff583628ffd5193d96e80776/analysis/1499717862/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/1398a1fe6fde28200077650b9c1df8a7"
+
+},
+
+{ 
+
 	 "date": "07/11/2017 03:00:01",
 
 	 "source": "deonaea 159.203.x.x",
