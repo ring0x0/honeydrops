@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "07/11/2017 03:00:01",
+
+	 "source": "deonaea 159.203.x.x",
+
+	 "name": "smb-vfwhlm26.tmp",
+
+	 "hash": "db5ce44e4c4ce6271d2e0a056e5abafdd7045f00d55c78450e64a87c2ed86efb",
+
+	 "type": "data",
+
+	 "classification": "Trojan.GenericKD.4484531",
+
+	 "virustotal": "https://www.virustotal.com/file/db5ce44e4c4ce6271d2e0a056e5abafdd7045f00d55c78450e64a87c2ed86efb/analysis/1499659306/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/smb-vfwhlm26.tmp"
+
+},
+
+{ 
+
 	 "date": "07/10/2017 22:30:01",
 
 	 "source": "cowrie 159.203.x.x",
