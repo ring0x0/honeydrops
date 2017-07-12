@@ -1,0 +1,26 @@
+{
+    "results": {
+        "default": [
+            {
+                "crc32": "90E883E4",
+                "created_at": "2017-06-27 14:04:26.557184",
+                "id": 16,
+                "md5": "8fa6326f0c296e69bb0bc5d28bc34f48",
+                "name": "smb-ay2rbatu.tmp",
+                "sha1": "faf133f0fd335b22070e70db3c7ef73cdbf86e93",
+                "sha256": "f1e2de87293afbc0725518f30116c8488548359cbb2275db4bb2b45d73c92349",
+                "sha512": "059419dc60c2463818b6e61239e4ab0cf02db2c65797c530a2de3a5131756989ff26145b76b38815ba92e11b7f6fb31396022f2daffdc48018762dfa2a0dba3d",
+                "size": 1048576,
+                "ssdeep": "24576:AwI9lDYv8V6E6CuBpI0M4WYCjka2igt5EncNU8Q3gakZeOHguQMeNt:AwILu8V6J0kCQi5nEUnTkZesguQMeNt",
+                "tags": [
+                    "new",
+                    "192.241.x.x",
+                    "deonaea",
+                    "07/12/2017",
+                    "00:20:01"
+                ],
+                "type": "PE32 executable (GUI) Intel 80386, for MS Windows"
+            }
+        ]
+    }
+}

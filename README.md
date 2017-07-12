@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "07/12/2017 00:20:01",
+
+	 "source": "deonaea 192.241.x.x",
+
+	 "name": "smb-ay2rbatu.tmp",
+
+	 "hash": "f1e2de87293afbc0725518f30116c8488548359cbb2275db4bb2b45d73c92349",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
+
+	 "classification": "nondeterministic",
+
+	 "virustotal": "" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/smb-ay2rbatu.tmp"
+
+},
+
+{ 
+
 	 "date": "07/11/2017 18:10:01",
 
 	 "source": "deonaea 192.241.x.x",
