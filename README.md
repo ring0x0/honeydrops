@@ -2,6 +2,66 @@
 
 { 
 
+	 "date": "07/18/2017 12:30:02",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "18f46eb021834317a4e27a57c84623e681830f7a8b81c03921de3108e2680b6a",
+
+	 "hash": "18f46eb021834317a4e27a57c84623e681830f7a8b81c03921de3108e2680b6a",
+
+	 "type": "Bourne-Again shell script, ASCII text executable",
+
+	 "classification": "Generic.Bash.MiraiA.75A7B7D7",
+
+	 "virustotal": "https://www.virustotal.com/file/18f46eb021834317a4e27a57c84623e681830f7a8b81c03921de3108e2680b6a/analysis/1500143862/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/18f46eb021834317a4e27a57c84623e681830f7a8b81c03921de3108e2680b6a"
+
+},
+
+{ 
+
+	 "date": "07/18/2017 12:30:02",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "00268b762f9be5d53621ff104360984eb060f2c423ddcffa2f9d241aa3a0a2b4",
+
+	 "hash": "00268b762f9be5d53621ff104360984eb060f2c423ddcffa2f9d241aa3a0a2b4",
+
+	 "type": "ASCII text",
+
+	 "classification": "HEUR:Trojan-Downloader.Shell.Agent.as",
+
+	 "virustotal": "https://www.virustotal.com/file/00268b762f9be5d53621ff104360984eb060f2c423ddcffa2f9d241aa3a0a2b4/analysis/1500143846/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/00268b762f9be5d53621ff104360984eb060f2c423ddcffa2f9d241aa3a0a2b4"
+
+},
+
+{ 
+
+	 "date": "07/18/2017 12:30:01",
+
+	 "source": "deonaea 192.241.x.x",
+
+	 "name": "4267db22761f0a1923a96866aefc5533",
+
+	 "hash": "237cdeea164bc68b53fffffd6ca8c0d37318ca9a70ccb418abd85a612980945b",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
+
+	 "classification": "Gen:Variant.Zegost.6",
+
+	 "virustotal": "https://www.virustotal.com/file/237cdeea164bc68b53fffffd6ca8c0d37318ca9a70ccb418abd85a612980945b/analysis/1498979664/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/4267db22761f0a1923a96866aefc5533"
+
+},
+
+{ 
+
 	 "date": "07/12/2017 00:20:01",
 
 	 "source": "deonaea 192.241.x.x",
@@ -37,46 +97,6 @@
 	 "virustotal": "https://www.virustotal.com/file/b4cf25e434bb7ac579bf966875f462d68973a5851c5e2af214c18084200a2b99/analysis/1499795594/" ,
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/f10bfe74b97bf785207038774a4064dc"
-
-},
-
-{ 
-
-	 "date": "07/11/2017 14:00:01",
-
-	 "source": "cowrie 159.203.x.x",
-
-	 "name": "18f46eb021834317a4e27a57c84623e681830f7a8b81c03921de3108e2680b6a",
-
-	 "hash": "18f46eb021834317a4e27a57c84623e681830f7a8b81c03921de3108e2680b6a",
-
-	 "type": "Bourne-Again shell script, ASCII text executable",
-
-	 "classification": "Generic.Bash.MiraiA.75A7B7D7",
-
-	 "virustotal": "https://www.virustotal.com/file/18f46eb021834317a4e27a57c84623e681830f7a8b81c03921de3108e2680b6a/analysis/1498006803/" ,
-
-	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/18f46eb021834317a4e27a57c84623e681830f7a8b81c03921de3108e2680b6a"
-
-},
-
-{ 
-
-	 "date": "07/11/2017 14:00:01",
-
-	 "source": "cowrie 159.203.x.x",
-
-	 "name": "00268b762f9be5d53621ff104360984eb060f2c423ddcffa2f9d241aa3a0a2b4",
-
-	 "hash": "00268b762f9be5d53621ff104360984eb060f2c423ddcffa2f9d241aa3a0a2b4",
-
-	 "type": "ASCII text",
-
-	 "classification": "BV:Downloader-KB [Drp]",
-
-	 "virustotal": "https://www.virustotal.com/file/00268b762f9be5d53621ff104360984eb060f2c423ddcffa2f9d241aa3a0a2b4/analysis/1499247818/" ,
-
-	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/00268b762f9be5d53621ff104360984eb060f2c423ddcffa2f9d241aa3a0a2b4"
 
 },
 
@@ -2537,26 +2557,6 @@
 	 "virustotal": "https://www.virustotal.com/file/083cfe033ee0b1d3ab2ea0fee852904c147f09c8daab76989fa46c2afaa9b8fb/analysis/1497473043/" ,
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/083cfe033ee0b1d3ab2ea0fee852904c147f09c8daab76989fa46c2afaa9b8fb"
-
-},
-
-{ 
-
-	 "date": "06/25/2017 02:25:01",
-
-	 "source": "deonaea 192.241.x.x",
-
-	 "name": "4267db22761f0a1923a96866aefc5533",
-
-	 "hash": "237cdeea164bc68b53fffffd6ca8c0d37318ca9a70ccb418abd85a612980945b",
-
-	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
-
-	 "classification": "Gen:Variant.Zegost.6",
-
-	 "virustotal": "https://www.virustotal.com/file/237cdeea164bc68b53fffffd6ca8c0d37318ca9a70ccb418abd85a612980945b/analysis/1494805288/" ,
-
-	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/4267db22761f0a1923a96866aefc5533"
 
 },
 

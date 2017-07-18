@@ -16,12 +16,20 @@
                 ],
                 "rows": [
                     [
+                        "ALYac",
+                        "Generic.Bash.MiraiA.75A7B7D7"
+                    ],
+                    [
                         "AVG",
                         "BV:Downloader-JS [Drp]"
                     ],
                     [
                         "Ad-Aware",
                         "Generic.Bash.MiraiA.75A7B7D7"
+                    ],
+                    [
+                        "AegisLab",
+                        "Troj.Downloader.Shell!c"
                     ],
                     [
                         "Arcabit",
@@ -34,6 +42,10 @@
                     [
                         "BitDefender",
                         "Generic.Bash.MiraiA.75A7B7D7"
+                    ],
+                    [
+                        "Comodo",
+                        "UnclassifiedMalware"
                     ],
                     [
                         "DrWeb",
@@ -60,12 +72,24 @@
                         "Generic.Bash.MiraiA.75A7B7D7"
                     ],
                     [
+                        "Ikarus",
+                        "Trojan-Downloader.Linux.Sh"
+                    ],
+                    [
                         "Kaspersky",
                         "HEUR:Trojan-Downloader.Shell.Agent.p"
                     ],
                     [
+                        "MAX",
+                        "malware (ai score=83)"
+                    ],
+                    [
                         "MicroWorld-eScan",
                         "Generic.Bash.MiraiA.75A7B7D7"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Trojan.Script.Agent.eqfcvq"
                     ],
                     [
                         "Sophos",
@@ -76,6 +100,14 @@
                         "Downloader.Trojan"
                     ],
                     [
+                        "Tencent",
+                        "Win32.Trojan-downloader.Agent.Liqj"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "Suspicious_GEN.F47V0621"
+                    ],
+                    [
                         "ZoneAlarm",
                         "HEUR:Trojan-Downloader.Shell.Agent.p"
                     ]
@@ -84,11 +116,11 @@
             "type": "table"
         },
         {
-            "data": "16 out of 56 antivirus detected \u001b[1m32815f83fe37f6dbf847a29552ecbe39\u001b[0m as malicious.",
+            "data": "24 out of 58 antivirus detected \u001b[1m32815f83fe37f6dbf847a29552ecbe39\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/18f46eb021834317a4e27a57c84623e681830f7a8b81c03921de3108e2680b6a/analysis/1498006803/\n",
+            "data": "https://www.virustotal.com/file/18f46eb021834317a4e27a57c84623e681830f7a8b81c03921de3108e2680b6a/analysis/1500143862/\n",
             "type": "info"
         },
         {

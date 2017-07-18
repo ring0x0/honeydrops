@@ -16,8 +16,12 @@
                 ],
                 "rows": [
                     [
+                        "ALYac",
+                        "Gen:Variant.Zegost.6"
+                    ],
+                    [
                         "AVG",
-                        "Dropper.Generic2.AEOB"
+                        "Win32:Zegost-C [Trj]"
                     ],
                     [
                         "AVware",
@@ -34,6 +38,10 @@
                     [
                         "AhnLab-V3",
                         "Trojan/Win32.Bjlog.R1421"
+                    ],
+                    [
+                        "Antiy-AVL",
+                        "Trojan[PSW]/Win32.Bjlog.aabz"
                     ],
                     [
                         "Arcabit",
@@ -77,7 +85,7 @@
                     ],
                     [
                         "CrowdStrike",
-                        "malicious_confidence_100% (W)"
+                        "malicious_confidence_100% (D)"
                     ],
                     [
                         "Cyren",
@@ -121,7 +129,7 @@
                     ],
                     [
                         "Invincea",
-                        "backdoor.win32.zegost.b"
+                        "heuristic"
                     ],
                     [
                         "Jiangmin",
@@ -153,7 +161,7 @@
                     ],
                     [
                         "McAfee-GW-Edition",
-                        "BehavesLike.Win32.Backdoor.ch"
+                        "BehavesLike.Win32.Pate.ch"
                     ],
                     [
                         "MicroWorld-eScan",
@@ -181,7 +189,7 @@
                     ],
                     [
                         "Rising",
-                        "Backdoor.Win32.GenFxj.d (cloud:aCfBF4bGwzR) "
+                        "Backdoor.Win32.GenFxj.d (classic)"
                     ],
                     [
                         "SentinelOne",
@@ -225,7 +233,7 @@
                     ],
                     [
                         "ViRobot",
-                        "Trojan.Win32.A.PSW-Bjlog.208896[h]"
+                        "Trojan.Win32.A.PSW-Bjlog.208896"
                     ],
                     [
                         "Webroot",
@@ -234,6 +242,10 @@
                     [
                         "Yandex",
                         "Trojan.Zegost.Gen.3"
+                    ],
+                    [
+                        "Zillya",
+                        "Backdoor.Zegost.Win32.5280"
                     ],
                     [
                         "ZoneAlarm",
@@ -248,11 +260,11 @@
             "type": "table"
         },
         {
-            "data": "57 out of 60 antivirus detected \u001b[1m4267db22761f0a1923a96866aefc5533\u001b[0m as malicious.",
+            "data": "60 out of 62 antivirus detected \u001b[1m4267db22761f0a1923a96866aefc5533\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/237cdeea164bc68b53fffffd6ca8c0d37318ca9a70ccb418abd85a612980945b/analysis/1494805288/\n",
+            "data": "https://www.virustotal.com/file/237cdeea164bc68b53fffffd6ca8c0d37318ca9a70ccb418abd85a612980945b/analysis/1498979664/\n",
             "type": "info"
         },
         {
