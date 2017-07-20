@@ -2,6 +2,66 @@
 
 { 
 
+	 "date": "07/19/2017 23:50:01",
+
+	 "source": "deonaea 192.241.x.x",
+
+	 "name": "6521a92292ce620a276fc7209dc016de",
+
+	 "hash": "656c6324142ebbc7184792130f9299c6e2a0bfc451f2609ca5947d2bcc5cb288",
+
+	 "type": "ASCII text, with CRLF line terminators",
+
+	 "classification": "Trojan.Script.474857",
+
+	 "virustotal": "https://www.virustotal.com/file/656c6324142ebbc7184792130f9299c6e2a0bfc451f2609ca5947d2bcc5cb288/analysis/1494519226/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/6521a92292ce620a276fc7209dc016de"
+
+},
+
+{ 
+
+	 "date": "07/19/2017 23:50:01",
+
+	 "source": "deonaea 192.241.x.x",
+
+	 "name": "52f4cc475bb2d26643911e24a0fbcd2e",
+
+	 "hash": "33b840aad4985d882b0c3f693b2f809b6f90f3ad5824db70f8721ade9befe1f2",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
+
+	 "classification": "Gen:Heur.RI.1",
+
+	 "virustotal": "https://www.virustotal.com/file/33b840aad4985d882b0c3f693b2f809b6f90f3ad5824db70f8721ade9befe1f2/analysis/1500490497/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/52f4cc475bb2d26643911e24a0fbcd2e"
+
+},
+
+{ 
+
+	 "date": "07/19/2017 23:50:01",
+
+	 "source": "deonaea 192.241.x.x",
+
+	 "name": "033438e83f7195912faa9b0058760b49",
+
+	 "hash": "ef7ac83aadde88745fcfb68c716360ee9f5c363077c4c329ffe7da3ef21e54b7",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows, PECompact2 compressed",
+
+	 "classification": "Trojan.GenericKD.5045544",
+
+	 "virustotal": "https://www.virustotal.com/file/ef7ac83aadde88745fcfb68c716360ee9f5c363077c4c329ffe7da3ef21e54b7/analysis/1495573805/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/033438e83f7195912faa9b0058760b49"
+
+},
+
+{ 
+
 	 "date": "07/19/2017 23:05:01",
 
 	 "source": "cowrie 159.203.x.x",
