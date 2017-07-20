@@ -1,0 +1,119 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m63855ded640246757df10a5a46ee6109\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "Gen:Variant.Graftor.340943"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Gen:Variant.Graftor.340943"
+                    ],
+                    [
+                        "Arcabit",
+                        "Trojan.Graftor.D533CF"
+                    ],
+                    [
+                        "Baidu",
+                        "Win32.Trojan.WisdomEyes.16070401.9500.9999"
+                    ],
+                    [
+                        "BitDefender",
+                        "Gen:Variant.Graftor.340943"
+                    ],
+                    [
+                        "Bkav",
+                        "W32.eHeur.Malware08"
+                    ],
+                    [
+                        "Comodo",
+                        "TrojWare.Win32.TrojanDownloader.Redosdru.FG"
+                    ],
+                    [
+                        "CrowdStrike",
+                        "malicious_confidence_80% (D)"
+                    ],
+                    [
+                        "Cylance",
+                        "Unsafe"
+                    ],
+                    [
+                        "DrWeb",
+                        "Trojan.DownLoader25.7446"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "a variant of Win32/Kryptik.FPCG"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Gen:Variant.Graftor.340943 (B)"
+                    ],
+                    [
+                        "Endgame",
+                        "malicious (high confidence)"
+                    ],
+                    [
+                        "F-Secure",
+                        "Gen:Variant.Graftor.340943"
+                    ],
+                    [
+                        "Fortinet",
+                        "W32/Agent.BPB!tr"
+                    ],
+                    [
+                        "GData",
+                        "Gen:Variant.Graftor.340943"
+                    ],
+                    [
+                        "Ikarus",
+                        "Trojan-Downloader.Win32.Redosdru"
+                    ],
+                    [
+                        "MAX",
+                        "malware (ai score=88)"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Gen:Variant.Graftor.340943"
+                    ],
+                    [
+                        "Rising",
+                        "Malware.Heuristic!ET#97% (rdm+)"
+                    ],
+                    [
+                        "SentinelOne",
+                        "static engine - malicious"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "21 out of 64 antivirus detected \u001b[1m63855ded640246757df10a5a46ee6109\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/513521d25250a584144d27ff0d0950714b2d2459f9d91b07ba9f0bf24e458700/analysis/1500551815/\n",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
+            "type": "info"
+        }
+    ]
+}
