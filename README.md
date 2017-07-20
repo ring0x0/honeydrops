@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "07/20/2017 12:45:01",
+
+	 "source": "deonaea 192.241.x.x",
+
+	 "name": "49f6bb9dc62521d42ea0d6cac534b57a",
+
+	 "hash": "fa95b571fc2575dcd96389d7964aec1c0bf8626eb087c030d28dbfee6bbb2126",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows, UPX compressed",
+
+	 "classification": "Win32.Virtob.Gen.12",
+
+	 "virustotal": "https://www.virustotal.com/file/fa95b571fc2575dcd96389d7964aec1c0bf8626eb087c030d28dbfee6bbb2126/analysis/1500475667/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/49f6bb9dc62521d42ea0d6cac534b57a"
+
+},
+
+{ 
+
 	 "date": "07/20/2017 09:30:01",
 
 	 "source": "cowrie 159.203.x.x",
