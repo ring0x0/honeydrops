@@ -40,6 +40,10 @@
                         "Trojan/Win32.Zegost.R197417"
                     ],
                     [
+                        "Antiy-AVL",
+                        "Trojan/Win32.TSGeneric"
+                    ],
+                    [
                         "Arcabit",
                         "Trojan.Symmi.D1012F"
                     ],
@@ -65,11 +69,7 @@
                     ],
                     [
                         "CrowdStrike",
-                        "malicious_confidence_100% (D)"
-                    ],
-                    [
-                        "Cylance",
-                        "Unsafe"
+                        "malicious_confidence_90% (W)"
                     ],
                     [
                         "Cyren",
@@ -145,7 +145,7 @@
                     ],
                     [
                         "McAfee-GW-Edition",
-                        "BehavesLike.Win32.Backdoor.ch"
+                        "GenericRXBV-NR!CDF4F3626054"
                     ],
                     [
                         "MicroWorld-eScan",
@@ -153,11 +153,15 @@
                     ],
                     [
                         "Microsoft",
-                        "PWS:Win32/Bzub.gen"
+                        "Backdoor:Win32/Zegost"
                     ],
                     [
                         "NANO-Antivirus",
                         "Trojan.Win32.Magania.emsaow"
+                    ],
+                    [
+                        "Paloalto",
+                        "generic.ml"
                     ],
                     [
                         "Panda",
@@ -165,7 +169,7 @@
                     ],
                     [
                         "Qihoo-360",
-                        "HEUR/QVM07.1.91C8.Malware.Gen"
+                        "Win32/Trojan.43a"
                     ],
                     [
                         "Rising",
@@ -177,11 +181,19 @@
                     ],
                     [
                         "Symantec",
-                        "ML.Attribute.HighConfidence"
+                        "Backdoor.Trojan"
+                    ],
+                    [
+                        "Tencent",
+                        "Win32.Trojan-gamethief.Magania.Tdzg"
                     ],
                     [
                         "TrendMicro",
-                        "HT_GENKRYPTIK_GC310078.UVPM"
+                        "TROJ_GEN.R047C0DGJ17"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "TROJ_GEN.R047C0DGJ17"
                     ],
                     [
                         "VBA32",
@@ -190,6 +202,10 @@
                     [
                         "VIPRE",
                         "Trojan.Win32.Generic!BT"
+                    ],
+                    [
+                        "ViRobot",
+                        "Trojan.Win32.Z.Magania.184320.AO"
                     ],
                     [
                         "Webroot",
@@ -212,11 +228,11 @@
             "type": "table"
         },
         {
-            "data": "48 out of 64 antivirus detected \u001b[1mcdf4f36260549df807f21ed17dbeb630\u001b[0m as malicious.",
+            "data": "52 out of 64 antivirus detected \u001b[1mcdf4f36260549df807f21ed17dbeb630\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/3b40c4406b48811800f9641cde1bcc43df64b4cd39ae892f2a2ba7b3b101442d/analysis/1500408601/\n",
+            "data": "https://www.virustotal.com/file/3b40c4406b48811800f9641cde1bcc43df64b4cd39ae892f2a2ba7b3b101442d/analysis/1500524637/\n",
             "type": "info"
         },
         {
