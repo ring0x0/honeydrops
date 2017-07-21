@@ -52,9 +52,9 @@
 
 	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows, UPX compressed",
 
-	 "classification": "nondeterministic",
+	 "classification": "Dropped:Trojan.VBS.UNN",
 
-	 "virustotal": "" ,
+	 "virustotal": "https://www.virustotal.com/file/a8ca7e74c1c1789cf30fc3a6b3c0b148f1dfa5cac498eca547124ffd476d8102/analysis/1500636607/" ,
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/21a9ac0b2c24a45823e27ab34a994eea"
 
