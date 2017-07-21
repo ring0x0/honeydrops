@@ -1,0 +1,135 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1me23cb5945546eedcbe35d45db8aef67f\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "Gen:Variant.Graftor.389234"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Gen:Variant.Graftor.389234"
+                    ],
+                    [
+                        "AegisLab",
+                        "Troj.W32.Temr.mDOx"
+                    ],
+                    [
+                        "Arcabit",
+                        "Trojan.Graftor.D5F072"
+                    ],
+                    [
+                        "BitDefender",
+                        "Gen:Variant.Graftor.389234"
+                    ],
+                    [
+                        "CrowdStrike",
+                        "malicious_confidence_100% (W)"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "a variant of Win32/TrojanDownloader.Agent.DHP"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Gen:Variant.Graftor.389234 (B)"
+                    ],
+                    [
+                        "Endgame",
+                        "malicious (high confidence)"
+                    ],
+                    [
+                        "F-Secure",
+                        "Gen:Variant.Graftor.389234"
+                    ],
+                    [
+                        "GData",
+                        "Gen:Variant.Graftor.389234"
+                    ],
+                    [
+                        "Kaspersky",
+                        "Trojan.Win32.Agent.nfajpn"
+                    ],
+                    [
+                        "MAX",
+                        "malware (ai score=81)"
+                    ],
+                    [
+                        "McAfee",
+                        "Artemis!E23CB5945546"
+                    ],
+                    [
+                        "McAfee-GW-Edition",
+                        "BehavesLike.Win32.BadFile.nz"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Gen:Variant.Graftor.389234"
+                    ],
+                    [
+                        "Paloalto",
+                        "generic.ml"
+                    ],
+                    [
+                        "Panda",
+                        "Trj/GdSda.A"
+                    ],
+                    [
+                        "Rising",
+                        "Malware.Heuristic!ET#100% (rdm+)"
+                    ],
+                    [
+                        "SentinelOne",
+                        "static engine - malicious"
+                    ],
+                    [
+                        "Tencent",
+                        "Win32.Trojan-downloader.Agent.Ahei"
+                    ],
+                    [
+                        "TrendMicro",
+                        "BKDR_ZEGOST.SM17"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "BKDR_ZEGOST.SM17"
+                    ],
+                    [
+                        "VBA32",
+                        "suspected of Trojan.Downloader.gen.h"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "Trojan.Win32.Agent.nfajpn"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "25 out of 64 antivirus detected \u001b[1me23cb5945546eedcbe35d45db8aef67f\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/c91d1520d4e88f1d3eb3d5ba00bf21530fac979ec7cec4256f12c1664f4d6925/analysis/1500606739/\n",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
+            "type": "info"
+        }
+    ]
+}
