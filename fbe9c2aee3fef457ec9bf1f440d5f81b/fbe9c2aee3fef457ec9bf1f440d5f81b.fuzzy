@@ -1,0 +1,1 @@
+{"results": [{"data": "\u001b[1m1\u001b[0m relevant matches found", "type": "info"}, {"data": {"header": ["Score", "Name", "SHA256"], "rows": [["75%", "eebf3d63bc995b3dda4988670751bfb8", "26d3841cb8b67e8913b01f6a204217ea1cf52f33d50649428bc261ad85997db9"]]}, "type": "table"}]}
