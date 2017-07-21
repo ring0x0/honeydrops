@@ -16,12 +16,8 @@
                 ],
                 "rows": [
                     [
-                        "ALYac",
-                        "Gen:Variant.Zegost.6"
-                    ],
-                    [
                         "AVG",
-                        "Dropper.Generic2.AEOB"
+                        "Win32:Zegost-C [Trj]"
                     ],
                     [
                         "AVware",
@@ -38,6 +34,10 @@
                     [
                         "AhnLab-V3",
                         "Trojan/Win32.Bjlog.R1421"
+                    ],
+                    [
+                        "Antiy-AVL",
+                        "Trojan[PSW]/Win32.Bjlog.aabz"
                     ],
                     [
                         "Arcabit",
@@ -68,6 +68,10 @@
                         "TrojanDropper.Zegost.C5"
                     ],
                     [
+                        "CMC",
+                        "Trojan-PSW.Win32.Bjlog!O"
+                    ],
+                    [
                         "ClamAV",
                         "Win.Spyware.80656-1"
                     ],
@@ -78,6 +82,10 @@
                     [
                         "CrowdStrike",
                         "malicious_confidence_100% (W)"
+                    ],
+                    [
+                        "Cylance",
+                        "Unsafe"
                     ],
                     [
                         "Cyren",
@@ -121,7 +129,7 @@
                     ],
                     [
                         "Invincea",
-                        "backdoor.win32.zegost.b"
+                        "heuristic"
                     ],
                     [
                         "Jiangmin",
@@ -140,16 +148,12 @@
                         "Trojan-PSW.Win32.Bjlog.nqi"
                     ],
                     [
-                        "Malwarebytes",
-                        "Backdoor.Zegost"
-                    ],
-                    [
                         "McAfee",
                         "BackDoor-CEP.gen.cn"
                     ],
                     [
                         "McAfee-GW-Edition",
-                        "BehavesLike.Win32.Virut.ch"
+                        "BehavesLike.Win32.Backdoor.ch"
                     ],
                     [
                         "MicroWorld-eScan",
@@ -164,10 +168,6 @@
                         "Trojan.Win32.Dwn.cmrroa"
                     ],
                     [
-                        "Paloalto",
-                        "generic.ml"
-                    ],
-                    [
                         "Panda",
                         "Generic Malware"
                     ],
@@ -177,7 +177,7 @@
                     ],
                     [
                         "Rising",
-                        "Trojan.Generic (cloud:wRrImk4PY5T) "
+                        "Trojan.Generic (cloud:wRrImk4PY5T)"
                     ],
                     [
                         "SUPERAntiSpyware",
@@ -197,7 +197,7 @@
                     ],
                     [
                         "Tencent",
-                        "Win32.Trojan-qqpass.Qqrob.Dzuf"
+                        "Backdoor.Win32.Gh0st.s"
                     ],
                     [
                         "TheHacker",
@@ -225,7 +225,7 @@
                     ],
                     [
                         "ViRobot",
-                        "Trojan.Win32.A.PSW-Bjlog.208896[h]"
+                        "Trojan.Win32.A.PSW-Bjlog.208896"
                     ],
                     [
                         "Webroot",
@@ -252,11 +252,15 @@
             "type": "table"
         },
         {
-            "data": "58 out of 60 antivirus detected \u001b[1m1a89371ea1bfae68ce3242ce40d80bd3\u001b[0m as malicious.",
+            "data": "58 out of 62 antivirus detected \u001b[1m1a89371ea1bfae68ce3242ce40d80bd3\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/63aa88704c956057cc93188a7d167951604934217332bed7a6902dc5201996a9/analysis/1496637362/\n",
+            "data": "https://www.virustotal.com/file/63aa88704c956057cc93188a7d167951604934217332bed7a6902dc5201996a9/analysis/1499910205/\n",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
             "type": "info"
         }
     ]
