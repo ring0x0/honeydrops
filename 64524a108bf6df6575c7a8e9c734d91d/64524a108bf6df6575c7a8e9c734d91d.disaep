@@ -1,0 +1,6 @@
+68186a0000f8599086c0
+push dword 0x6a18
+clc 
+pop ecx
+nop 
+xchg al,al
