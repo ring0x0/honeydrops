@@ -2,6 +2,66 @@
 
 { 
 
+	 "date": "07/22/2017 15:00:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "d640ba3de97dde44312fa1a14e8cab90868096b12ffbed24efcc7e1c0a57266d",
+
+	 "hash": "d640ba3de97dde44312fa1a14e8cab90868096b12ffbed24efcc7e1c0a57266d",
+
+	 "type": "HTML document, ASCII text, with very long lines, with CRLF line terminators",
+
+	 "classification": "nondeterministic",
+
+	 "virustotal": "" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/d640ba3de97dde44312fa1a14e8cab90868096b12ffbed24efcc7e1c0a57266d"
+
+},
+
+{ 
+
+	 "date": "07/22/2017 15:00:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "35491c98b2e7c55cef889bdad3574019fcba3eec33817bdcff9524de77baf41e",
+
+	 "hash": "35491c98b2e7c55cef889bdad3574019fcba3eec33817bdcff9524de77baf41e",
+
+	 "type": "POSIX shell script, ASCII text executable",
+
+	 "classification": "BV:Downloader-JQ [Drp]",
+
+	 "virustotal": "https://www.virustotal.com/file/35491c98b2e7c55cef889bdad3574019fcba3eec33817bdcff9524de77baf41e/analysis/1500735470/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/35491c98b2e7c55cef889bdad3574019fcba3eec33817bdcff9524de77baf41e"
+
+},
+
+{ 
+
+	 "date": "07/22/2017 14:55:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "bbd20572592a6cf69fd31e3707f9be4d79818c1d6fca25c53417262f73f30c13",
+
+	 "hash": "bbd20572592a6cf69fd31e3707f9be4d79818c1d6fca25c53417262f73f30c13",
+
+	 "type": "Python script, ASCII text executable",
+
+	 "classification": "nondeterministic",
+
+	 "virustotal": "https://www.virustotal.com/file/bbd20572592a6cf69fd31e3707f9be4d79818c1d6fca25c53417262f73f30c13/analysis/1472728387/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/bbd20572592a6cf69fd31e3707f9be4d79818c1d6fca25c53417262f73f30c13"
+
+},
+
+{ 
+
 	 "date": "07/22/2017 14:30:01",
 
 	 "source": "cowrie 159.203.x.x",
@@ -12,9 +72,9 @@
 
 	 "type": "POSIX shell script, ASCII text executable, with CRLF line terminators",
 
-	 "classification": "nondeterministic",
+	 "classification": "BV:Downloader-JQ [Drp]",
 
-	 "virustotal": "" ,
+	 "virustotal": "https://www.virustotal.com/file/56becb29e27ef288f9065e8c0adc36fa33bf96bf07a527b24f04d36df7971aae/analysis/1500733710/" ,
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/56becb29e27ef288f9065e8c0adc36fa33bf96bf07a527b24f04d36df7971aae"
 

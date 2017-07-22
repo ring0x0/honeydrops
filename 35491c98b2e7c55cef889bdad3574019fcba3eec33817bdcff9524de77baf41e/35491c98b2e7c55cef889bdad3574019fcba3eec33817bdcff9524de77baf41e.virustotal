@@ -1,7 +1,7 @@
 {
     "results": [
         {
-            "data": "VirusTotal Report for \u001b[1me9d1a6952714cbbf9e1af09ff88121d3\u001b[0m:",
+            "data": "VirusTotal Report for \u001b[1m786c716bcd9ef7c3ec67c3e26c1c1c64\u001b[0m:",
             "type": "success"
         },
         {
@@ -25,7 +25,7 @@
                     ],
                     [
                         "DrWeb",
-                        "Linux.DownLoader.281"
+                        "Linux.DownLoader.318"
                     ],
                     [
                         "ESET-NOD32",
@@ -40,11 +40,11 @@
             "type": "table"
         },
         {
-            "data": "5 out of 58 antivirus detected \u001b[1me9d1a6952714cbbf9e1af09ff88121d3\u001b[0m as malicious.",
+            "data": "5 out of 57 antivirus detected \u001b[1m786c716bcd9ef7c3ec67c3e26c1c1c64\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/56becb29e27ef288f9065e8c0adc36fa33bf96bf07a527b24f04d36df7971aae/analysis/1500733710/\n",
+            "data": "https://www.virustotal.com/file/35491c98b2e7c55cef889bdad3574019fcba3eec33817bdcff9524de77baf41e/analysis/1500735470/\n",
             "type": "info"
         },
         {
