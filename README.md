@@ -32,9 +32,9 @@
 
 	 "type": "ASCII text",
 
-	 "classification": "nondeterministic",
+	 "classification": "BV:Downloader-KB [Drp]",
 
-	 "virustotal": "" ,
+	 "virustotal": "https://www.virustotal.com/file/41c0e6efd029125a402d9a90b028209efb6fc56c74baf58f17f1764c887356e2/analysis/1500751848/" ,
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/41c0e6efd029125a402d9a90b028209efb6fc56c74baf58f17f1764c887356e2"
 
