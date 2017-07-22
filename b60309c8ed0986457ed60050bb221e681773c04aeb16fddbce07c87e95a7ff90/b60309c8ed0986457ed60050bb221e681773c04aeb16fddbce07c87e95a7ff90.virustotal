@@ -20,6 +20,10 @@
                         "BV:Downloader-JV [Drp]"
                     ],
                     [
+                        "AegisLab",
+                        "Bv.Downloader.Jv!c"
+                    ],
+                    [
                         "Avast",
                         "BV:Downloader-JV [Drp]"
                     ],
@@ -32,27 +36,43 @@
                         "Linux.DownLoader.158"
                     ],
                     [
+                        "ESET-NOD32",
+                        "Linux/Tsunami.NJH"
+                    ],
+                    [
                         "Ikarus",
                         "Trojan.Linux.Downloader"
+                    ],
+                    [
+                        "Kaspersky",
+                        "HEUR:Trojan-Downloader.Shell.Agent.as"
                     ],
                     [
                         "Qihoo-360",
                         "Win32/Trojan.Downloader.304"
                     ],
                     [
+                        "Sophos",
+                        "Mal/ShellDl-A"
+                    ],
+                    [
                         "TrendMicro-HouseCall",
                         "Suspicious_GEN.F47V0429"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "HEUR:Trojan-Downloader.Shell.Agent.as"
                     ]
                 ]
             },
             "type": "table"
         },
         {
-            "data": "7 out of 57 antivirus detected \u001b[1mf76b1732f0c24a0ecda8f75a215a8053\u001b[0m as malicious.",
+            "data": "12 out of 58 antivirus detected \u001b[1mf76b1732f0c24a0ecda8f75a215a8053\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/b60309c8ed0986457ed60050bb221e681773c04aeb16fddbce07c87e95a7ff90/analysis/1498619978/\n",
+            "data": "https://www.virustotal.com/file/b60309c8ed0986457ed60050bb221e681773c04aeb16fddbce07c87e95a7ff90/analysis/1499587699/\n",
             "type": "info"
         },
         {

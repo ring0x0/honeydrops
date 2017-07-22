@@ -2,6 +2,46 @@
 
 { 
 
+	 "date": "07/22/2017 17:00:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "b60309c8ed0986457ed60050bb221e681773c04aeb16fddbce07c87e95a7ff90",
+
+	 "hash": "b60309c8ed0986457ed60050bb221e681773c04aeb16fddbce07c87e95a7ff90",
+
+	 "type": "ASCII text",
+
+	 "classification": "HEUR:Trojan-Downloader.Shell.Agent.as",
+
+	 "virustotal": "https://www.virustotal.com/file/b60309c8ed0986457ed60050bb221e681773c04aeb16fddbce07c87e95a7ff90/analysis/1499587699/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/b60309c8ed0986457ed60050bb221e681773c04aeb16fddbce07c87e95a7ff90"
+
+},
+
+{ 
+
+	 "date": "07/22/2017 17:00:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "77684687e4b29f675a98ad3103ab5700d4e8e761dbf5ffd43cf03f50b50248a1",
+
+	 "hash": "77684687e4b29f675a98ad3103ab5700d4e8e761dbf5ffd43cf03f50b50248a1",
+
+	 "type": "ASCII text",
+
+	 "classification": "HEUR:Trojan-Downloader.Shell.Agent.p",
+
+	 "virustotal": "https://www.virustotal.com/file/77684687e4b29f675a98ad3103ab5700d4e8e761dbf5ffd43cf03f50b50248a1/analysis/1500167170/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/77684687e4b29f675a98ad3103ab5700d4e8e761dbf5ffd43cf03f50b50248a1"
+
+},
+
+{ 
+
 	 "date": "07/22/2017 15:00:01",
 
 	 "source": "cowrie 159.203.x.x",
@@ -2357,46 +2397,6 @@
 	 "virustotal": "https://www.virustotal.com/file/a29d02251f54567edb1d32f7c17ce4c04d5c54e317eb3b2bea2a068da728e59a/analysis/1498795444/" ,
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/smb-f5qhhwaj.tmp"
-
-},
-
-{ 
-
-	 "date": "06/30/2017 21:00:01",
-
-	 "source": "cowrie 159.203.x.x",
-
-	 "name": "b60309c8ed0986457ed60050bb221e681773c04aeb16fddbce07c87e95a7ff90",
-
-	 "hash": "b60309c8ed0986457ed60050bb221e681773c04aeb16fddbce07c87e95a7ff90",
-
-	 "type": "ASCII text",
-
-	 "classification": "BV:Downloader-JV [Drp]",
-
-	 "virustotal": "https://www.virustotal.com/file/b60309c8ed0986457ed60050bb221e681773c04aeb16fddbce07c87e95a7ff90/analysis/1498619978/" ,
-
-	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/b60309c8ed0986457ed60050bb221e681773c04aeb16fddbce07c87e95a7ff90"
-
-},
-
-{ 
-
-	 "date": "06/30/2017 21:00:01",
-
-	 "source": "cowrie 159.203.x.x",
-
-	 "name": "77684687e4b29f675a98ad3103ab5700d4e8e761dbf5ffd43cf03f50b50248a1",
-
-	 "hash": "77684687e4b29f675a98ad3103ab5700d4e8e761dbf5ffd43cf03f50b50248a1",
-
-	 "type": "ASCII text",
-
-	 "classification": "HEUR:Trojan-Downloader.Shell.Agent.p",
-
-	 "virustotal": "https://www.virustotal.com/file/77684687e4b29f675a98ad3103ab5700d4e8e761dbf5ffd43cf03f50b50248a1/analysis/1498840669/" ,
-
-	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/77684687e4b29f675a98ad3103ab5700d4e8e761dbf5ffd43cf03f50b50248a1"
 
 },
 

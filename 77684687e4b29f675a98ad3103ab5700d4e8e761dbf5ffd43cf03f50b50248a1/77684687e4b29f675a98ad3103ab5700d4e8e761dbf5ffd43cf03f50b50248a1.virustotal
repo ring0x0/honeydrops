@@ -32,8 +32,16 @@
                         "Unix.Malware.Agent-6318284-0"
                     ],
                     [
+                        "Cyren",
+                        "Trojan.XUZK-3"
+                    ],
+                    [
                         "DrWeb",
                         "Linux.DownLoader.37"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "Linux/Tsunami.NJH"
                     ],
                     [
                         "GData",
@@ -64,11 +72,11 @@
             "type": "table"
         },
         {
-            "data": "11 out of 57 antivirus detected \u001b[1m3975d8d7ed8a976923edd2e0c3dc9bac\u001b[0m as malicious.",
+            "data": "13 out of 58 antivirus detected \u001b[1m3975d8d7ed8a976923edd2e0c3dc9bac\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/77684687e4b29f675a98ad3103ab5700d4e8e761dbf5ffd43cf03f50b50248a1/analysis/1498840669/\n",
+            "data": "https://www.virustotal.com/file/77684687e4b29f675a98ad3103ab5700d4e8e761dbf5ffd43cf03f50b50248a1/analysis/1500167170/\n",
             "type": "info"
         },
         {
