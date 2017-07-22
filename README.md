@@ -12,9 +12,9 @@
 
 	 "type": "ASCII text",
 
-	 "classification": "nondeterministic",
+	 "classification": "HEUR:Trojan-Downloader.Shell.Agent.p",
 
-	 "virustotal": "" ,
+	 "virustotal": "https://www.virustotal.com/file/8306118c1564f58c3f1527d3baf9820518a4848a43e0538126aea8a34a5db1b0/analysis/1500696006/" ,
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/8306118c1564f58c3f1527d3baf9820518a4848a43e0538126aea8a34a5db1b0"
 
