@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "07/23/2017 01:20:01",
+
+	 "source": "deonaea 192.241.x.x",
+
+	 "name": "42b39e3f50727b778af0da0faafc30e6",
+
+	 "hash": "723c93132bb5889c08106b875c1ae6f64ce3bc3d081b5b4d8c7c0f1f928134f7",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
+
+	 "classification": "Gen:Variant.Barys.1661",
+
+	 "virustotal": "https://www.virustotal.com/file/723c93132bb5889c08106b875c1ae6f64ce3bc3d081b5b4d8c7c0f1f928134f7/analysis/1500612695/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/42b39e3f50727b778af0da0faafc30e6"
+
+},
+
+{ 
+
 	 "date": "07/23/2017 01:00:01",
 
 	 "source": "cowrie 159.203.x.x",
