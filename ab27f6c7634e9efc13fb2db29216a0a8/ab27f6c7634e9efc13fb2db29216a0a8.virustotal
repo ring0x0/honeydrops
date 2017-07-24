@@ -9,7 +9,11 @@
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/c071278f921475bc6f252b10b771dda4948596ef6d81b689bd936a2a9058b5cc/analysis/1496637531/\n",
+            "data": "https://www.virustotal.com/file/c071278f921475bc6f252b10b771dda4948596ef6d81b689bd936a2a9058b5cc/analysis/1498852693/\n",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
             "type": "info"
         }
     ]
