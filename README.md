@@ -2,6 +2,66 @@
 
 { 
 
+	 "date": "07/24/2017 21:15:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "ef64576422f2d898394c20491c1a42c022b362461bd9d2b6a8e9177bb25c74c7",
+
+	 "hash": "ef64576422f2d898394c20491c1a42c022b362461bd9d2b6a8e9177bb25c74c7",
+
+	 "type": "ASCII text",
+
+	 "classification": "nondeterministic",
+
+	 "virustotal": "" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/ef64576422f2d898394c20491c1a42c022b362461bd9d2b6a8e9177bb25c74c7"
+
+},
+
+{ 
+
+	 "date": "07/24/2017 21:15:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "d37579ef8ece175b0368dd8d76da99950b8f10752b7485d3d85dd880e694560e",
+
+	 "hash": "d37579ef8ece175b0368dd8d76da99950b8f10752b7485d3d85dd880e694560e",
+
+	 "type": "Bourne-Again shell script, ASCII text executable",
+
+	 "classification": "nondeterministic",
+
+	 "virustotal": "" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/d37579ef8ece175b0368dd8d76da99950b8f10752b7485d3d85dd880e694560e"
+
+},
+
+{ 
+
+	 "date": "07/24/2017 21:10:01",
+
+	 "source": "deonaea 192.241.x.x",
+
+	 "name": "af09317971cc46ebf8affbad4c323372",
+
+	 "hash": "dc09f353aa22afadd6d3908b935ea9da88278b3de6e31dd8be2a4e0634b4db0d",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
+
+	 "classification": "Gen:Variant.Zusy.173420",
+
+	 "virustotal": "https://www.virustotal.com/file/dc09f353aa22afadd6d3908b935ea9da88278b3de6e31dd8be2a4e0634b4db0d/analysis/1500916573/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/af09317971cc46ebf8affbad4c323372"
+
+},
+
+{ 
+
 	 "date": "07/24/2017 16:05:01",
 
 	 "source": "deonaea 192.241.x.x",
