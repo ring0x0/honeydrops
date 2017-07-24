@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "07/24/2017 21:35:01",
+
+	 "source": "deonaea 192.241.x.x",
+
+	 "name": "http-mXD1Z8",
+
+	 "hash": "73b573a61609aa706c0fc4855fe356c75096f8c34f6ad109180c145e8b7a5d87",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
+
+	 "classification": "nondeterministic",
+
+	 "virustotal": "" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/http-mXD1Z8"
+
+},
+
+{ 
+
 	 "date": "07/24/2017 21:15:01",
 
 	 "source": "cowrie 159.203.x.x",
@@ -12,9 +32,9 @@
 
 	 "type": "ASCII text",
 
-	 "classification": "nondeterministic",
+	 "classification": "Generic.Bash.MiraiA.C00E9AD6",
 
-	 "virustotal": "" ,
+	 "virustotal": "https://www.virustotal.com/file/ef64576422f2d898394c20491c1a42c022b362461bd9d2b6a8e9177bb25c74c7/analysis/1500931889/" ,
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/ef64576422f2d898394c20491c1a42c022b362461bd9d2b6a8e9177bb25c74c7"
 
@@ -32,9 +52,9 @@
 
 	 "type": "Bourne-Again shell script, ASCII text executable",
 
-	 "classification": "nondeterministic",
+	 "classification": "Generic.Bash.MiraiA.D9AF5169",
 
-	 "virustotal": "" ,
+	 "virustotal": "https://www.virustotal.com/file/d37579ef8ece175b0368dd8d76da99950b8f10752b7485d3d85dd880e694560e/analysis/1500931848/" ,
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/d37579ef8ece175b0368dd8d76da99950b8f10752b7485d3d85dd880e694560e"
 
