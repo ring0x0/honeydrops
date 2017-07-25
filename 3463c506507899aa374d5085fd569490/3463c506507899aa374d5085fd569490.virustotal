@@ -1,0 +1,147 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m3463c506507899aa374d5085fd569490\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "Gen:Variant.Mikey.68272"
+                    ],
+                    [
+                        "AVware",
+                        "Trojan.Win32.Rimecud.d (v)"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Gen:Variant.Mikey.68272"
+                    ],
+                    [
+                        "Arcabit",
+                        "Trojan.Mikey.D10AB0"
+                    ],
+                    [
+                        "Avira",
+                        "TR/Crypt.XPACK.Gen7"
+                    ],
+                    [
+                        "Baidu",
+                        "Win32.Trojan.WisdomEyes.16070401.9500.9864"
+                    ],
+                    [
+                        "BitDefender",
+                        "Gen:Variant.Mikey.68272"
+                    ],
+                    [
+                        "Comodo",
+                        "TrojWare.Win32.TrojanProxy.Horst.~O"
+                    ],
+                    [
+                        "CrowdStrike",
+                        "malicious_confidence_100% (D)"
+                    ],
+                    [
+                        "Cylance",
+                        "Unsafe"
+                    ],
+                    [
+                        "DrWeb",
+                        "Trojan.DownLoader25.12080"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "a variant of Win32/Kryptik.FTBW"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Gen:Variant.Mikey.68272 (B)"
+                    ],
+                    [
+                        "Endgame",
+                        "malicious (high confidence)"
+                    ],
+                    [
+                        "F-Secure",
+                        "Gen:Variant.Mikey.68272"
+                    ],
+                    [
+                        "GData",
+                        "Gen:Variant.Mikey.68272"
+                    ],
+                    [
+                        "Invincea",
+                        "heuristic"
+                    ],
+                    [
+                        "Kaspersky",
+                        "UDS:DangerousObject.Multi.Generic"
+                    ],
+                    [
+                        "MAX",
+                        "malware (ai score=86)"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Gen:Variant.Mikey.68272"
+                    ],
+                    [
+                        "Panda",
+                        "Trj/GdSda.A"
+                    ],
+                    [
+                        "Qihoo-360",
+                        "Win32/Trojan.90b"
+                    ],
+                    [
+                        "Rising",
+                        "Malware.Generic.5!tfe (thunder:WEDFEuSSYQC)"
+                    ],
+                    [
+                        "SentinelOne",
+                        "static engine - malicious"
+                    ],
+                    [
+                        "Symantec",
+                        "ML.Attribute.HighConfidence"
+                    ],
+                    [
+                        "Tencent",
+                        "Win32.Backdoor.Bp-plite.Jaiu"
+                    ],
+                    [
+                        "VIPRE",
+                        "Trojan.Win32.Rimecud.d (v)"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "UDS:DangerousObject.Multi.Generic"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "28 out of 63 antivirus detected \u001b[1m3463c506507899aa374d5085fd569490\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/eaea386fdc99da892851dd80aad7751034fa1a41e05c3196c45997892e434bb6/analysis/1501008941/\n",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
+            "type": "info"
+        }
+    ]
+}
