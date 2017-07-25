@@ -14,7 +14,7 @@
 
 	 "classification": "nondeterministic",
 
-	 "virustotal": "" ,
+	 "virustotal": "https://www.virustotal.com/file/00cc4e3731e8f8e35aa556c83e8cf3db305c0ce2283fed0f39b78d4c03a62747/analysis/1500994814/" ,
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/1a8f6b3695bee966e9f75dbcfb2c5c98"
 
