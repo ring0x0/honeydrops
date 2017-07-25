@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "07/25/2017 05:00:01",
+
+	 "source": "deonaea 192.241.x.x",
+
+	 "name": "1a89371ea1bfae68ce3242ce40d80bd3",
+
+	 "hash": "63aa88704c956057cc93188a7d167951604934217332bed7a6902dc5201996a9",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
+
+	 "classification": "Gen:Variant.Zegost.6",
+
+	 "virustotal": "https://www.virustotal.com/file/63aa88704c956057cc93188a7d167951604934217332bed7a6902dc5201996a9/analysis/1499910205/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/1a89371ea1bfae68ce3242ce40d80bd3"
+
+},
+
+{ 
+
 	 "date": "07/25/2017 02:00:01",
 
 	 "source": "cowrie 159.203.x.x",
@@ -797,26 +817,6 @@
 	 "virustotal": "https://www.virustotal.com/file/a8ca7e74c1c1789cf30fc3a6b3c0b148f1dfa5cac498eca547124ffd476d8102/analysis/1500636607/" ,
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/21a9ac0b2c24a45823e27ab34a994eea"
-
-},
-
-{ 
-
-	 "date": "07/21/2017 10:00:01",
-
-	 "source": "deonaea 192.241.x.x",
-
-	 "name": "1a89371ea1bfae68ce3242ce40d80bd3",
-
-	 "hash": "63aa88704c956057cc93188a7d167951604934217332bed7a6902dc5201996a9",
-
-	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
-
-	 "classification": "Gen:Variant.Zegost.6",
-
-	 "virustotal": "https://www.virustotal.com/file/63aa88704c956057cc93188a7d167951604934217332bed7a6902dc5201996a9/analysis/1499910205/" ,
-
-	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/1a89371ea1bfae68ce3242ce40d80bd3"
 
 },
 
