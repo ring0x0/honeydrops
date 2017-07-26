@@ -1,0 +1,4 @@
+90ba99bd17086899bd17
+nop 
+mov edx,0x817bd99
+push dword 0x17bd99

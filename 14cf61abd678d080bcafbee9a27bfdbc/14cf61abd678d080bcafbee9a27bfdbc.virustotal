@@ -1,0 +1,259 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m14cf61abd678d080bcafbee9a27bfdbc\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "Win32.Parite.C"
+                    ],
+                    [
+                        "AVG",
+                        "Win32:Parite"
+                    ],
+                    [
+                        "AVware",
+                        "Win32.Parite.c (v)"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Win32.Parite.C"
+                    ],
+                    [
+                        "AhnLab-V3",
+                        "Win32/Parite"
+                    ],
+                    [
+                        "Antiy-AVL",
+                        "Virus/Win32.Parite.c"
+                    ],
+                    [
+                        "Arcabit",
+                        "Win32.Parite.C"
+                    ],
+                    [
+                        "Avast",
+                        "Win32:Parite"
+                    ],
+                    [
+                        "Avira",
+                        "W32/Parite"
+                    ],
+                    [
+                        "Baidu",
+                        "Win32.Virus.Parite.d"
+                    ],
+                    [
+                        "BitDefender",
+                        "Win32.Parite.C"
+                    ],
+                    [
+                        "Bkav",
+                        "W32.PariteB.PE"
+                    ],
+                    [
+                        "CAT-QuickHeal",
+                        "W32.Perite.A"
+                    ],
+                    [
+                        "ClamAV",
+                        "Heuristics.W32.Parite.B"
+                    ],
+                    [
+                        "Comodo",
+                        "TrojWare.Win32.TrojanProxy.Horst.~O"
+                    ],
+                    [
+                        "CrowdStrike",
+                        "malicious_confidence_100% (D)"
+                    ],
+                    [
+                        "Cylance",
+                        "Unsafe"
+                    ],
+                    [
+                        "Cyren",
+                        "W32/Parite.C"
+                    ],
+                    [
+                        "DrWeb",
+                        "Trojan.DownLoader25.12080"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "Win32/Parite.C"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Win32.Parite.C (B)"
+                    ],
+                    [
+                        "Endgame",
+                        "malicious (high confidence)"
+                    ],
+                    [
+                        "F-Prot",
+                        "W32/Parite.C"
+                    ],
+                    [
+                        "F-Secure",
+                        "Win32.Parite.C"
+                    ],
+                    [
+                        "Fortinet",
+                        "W32/Parite.C"
+                    ],
+                    [
+                        "GData",
+                        "Win32.Parite.C"
+                    ],
+                    [
+                        "Ikarus",
+                        "Virus.Win32.Parite"
+                    ],
+                    [
+                        "Invincea",
+                        "heuristic"
+                    ],
+                    [
+                        "Jiangmin",
+                        "Win32/Parite.c"
+                    ],
+                    [
+                        "K7AntiVirus",
+                        "Virus ( 00001b711 )"
+                    ],
+                    [
+                        "K7GW",
+                        "Virus ( 00001b711 )"
+                    ],
+                    [
+                        "Kaspersky",
+                        "Virus.Win32.Parite.c"
+                    ],
+                    [
+                        "MAX",
+                        "malware (ai score=81)"
+                    ],
+                    [
+                        "McAfee",
+                        "W32/Pate.c"
+                    ],
+                    [
+                        "McAfee-GW-Edition",
+                        "BehavesLike.Win32.Pate.fc"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Win32.Parite.C"
+                    ],
+                    [
+                        "Microsoft",
+                        "Virus:Win32/Parite.C"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Virus.Win32.Parite.bysj"
+                    ],
+                    [
+                        "Panda",
+                        "W32/Parite.A"
+                    ],
+                    [
+                        "Qihoo-360",
+                        "Virus.Win32.Parite.I"
+                    ],
+                    [
+                        "Rising",
+                        "Win32.Parite.c (classic)"
+                    ],
+                    [
+                        "SentinelOne",
+                        "static engine - malicious"
+                    ],
+                    [
+                        "Sophos",
+                        "W32/Parite-C"
+                    ],
+                    [
+                        "Symantec",
+                        "W32.Pinfi.B"
+                    ],
+                    [
+                        "TheHacker",
+                        "W32/Pate.C"
+                    ],
+                    [
+                        "TotalDefense",
+                        "Win32/Pinfi.A"
+                    ],
+                    [
+                        "TrendMicro",
+                        "PE_PARITE.A"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "PE_PARITE.A"
+                    ],
+                    [
+                        "VBA32",
+                        "Virus.Parite.C"
+                    ],
+                    [
+                        "VIPRE",
+                        "Win32.Parite.c (v)"
+                    ],
+                    [
+                        "ViRobot",
+                        "Win32.Parite.C"
+                    ],
+                    [
+                        "Yandex",
+                        "Win32.Parite.C"
+                    ],
+                    [
+                        "Zillya",
+                        "Virus.Parite.Win32.2"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "Virus.Win32.Parite.c"
+                    ],
+                    [
+                        "Zoner",
+                        "Win32.Parite.B"
+                    ],
+                    [
+                        "nProtect",
+                        "Virus/W32.Parite.C"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "56 out of 64 antivirus detected \u001b[1m14cf61abd678d080bcafbee9a27bfdbc\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/4e6a8870ee55b5481cfd27eac710a2a71f906f766c292f4034938e1f64db76ef/analysis/1501032534/\n",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
+            "type": "info"
+        }
+    ]
+}
