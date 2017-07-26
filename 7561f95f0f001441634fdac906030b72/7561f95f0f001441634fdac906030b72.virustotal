@@ -1,0 +1,187 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m7561f95f0f001441634fdac906030b72\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "Generic.ServStart.B.6930BC22"
+                    ],
+                    [
+                        "AVG",
+                        "Win32:Malware-gen"
+                    ],
+                    [
+                        "AVware",
+                        "Trojan.Win32.Generic!BT"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Generic.ServStart.B.6930BC22"
+                    ],
+                    [
+                        "AhnLab-V3",
+                        "Worm/Win32.Nitol.C1378586"
+                    ],
+                    [
+                        "Antiy-AVL",
+                        "Trojan/Win32.AGeneric"
+                    ],
+                    [
+                        "Arcabit",
+                        "Generic.ServStart.B.6930BC22"
+                    ],
+                    [
+                        "Avast",
+                        "Win32:Malware-gen"
+                    ],
+                    [
+                        "Avira",
+                        "BDS/Backdoor.Gen2"
+                    ],
+                    [
+                        "Baidu",
+                        "Win32.Trojan.WisdomEyes.16070401.9500.9957"
+                    ],
+                    [
+                        "BitDefender",
+                        "Generic.ServStart.B.6930BC22"
+                    ],
+                    [
+                        "CrowdStrike",
+                        "malicious_confidence_100% (D)"
+                    ],
+                    [
+                        "Cylance",
+                        "Unsafe"
+                    ],
+                    [
+                        "DrWeb",
+                        "Trojan.DownLoader24.22238"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "a variant of Win32/Agent.RTQ"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Generic.ServStart.B.6930BC22 (B)"
+                    ],
+                    [
+                        "Endgame",
+                        "malicious (high confidence)"
+                    ],
+                    [
+                        "F-Secure",
+                        "Generic.ServStart.B.6930BC22"
+                    ],
+                    [
+                        "Fortinet",
+                        "W32/Agent.RTQ!tr"
+                    ],
+                    [
+                        "GData",
+                        "Win32.Trojan-DDoS.Mysis.A"
+                    ],
+                    [
+                        "Invincea",
+                        "heuristic"
+                    ],
+                    [
+                        "K7AntiVirus",
+                        "Trojan ( 000170ae1 )"
+                    ],
+                    [
+                        "K7GW",
+                        "Trojan ( 000170ae1 )"
+                    ],
+                    [
+                        "Kaspersky",
+                        "HEUR:Trojan.Win32.Generic"
+                    ],
+                    [
+                        "MAX",
+                        "malware (ai score=86)"
+                    ],
+                    [
+                        "Malwarebytes",
+                        "Trojan.Agent"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Generic.ServStart.B.6930BC22"
+                    ],
+                    [
+                        "Panda",
+                        "Trj/GdSda.A"
+                    ],
+                    [
+                        "Qihoo-360",
+                        "HEUR/QVM07.1.BA54.Malware.Gen"
+                    ],
+                    [
+                        "Rising",
+                        "Malware.Generic.5!tfe (thunder:HkNo7rHdUTE)"
+                    ],
+                    [
+                        "SentinelOne",
+                        "static engine - malicious"
+                    ],
+                    [
+                        "Symantec",
+                        "ML.Attribute.HighConfidence"
+                    ],
+                    [
+                        "TrendMicro",
+                        "TROJ_NITOL.SMD"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "TROJ_NITOL.SMD"
+                    ],
+                    [
+                        "VIPRE",
+                        "Trojan.Win32.Generic!BT"
+                    ],
+                    [
+                        "Yandex",
+                        "Trojan.Agent!F/db5PXWg34"
+                    ],
+                    [
+                        "Zillya",
+                        "Trojan.Agent.Win32.786523"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "HEUR:Trojan.Win32.Generic"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "38 out of 64 antivirus detected \u001b[1m7561f95f0f001441634fdac906030b72\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/e35347b1bc4a3fdb5a795f2435dc7aeec4ec0fa616914eb2a815a0501f965275/analysis/1501027299/\n",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
+            "type": "info"
+        }
+    ]
+}
