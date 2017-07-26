@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "07/26/2017 12:00:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "94b59b4761147519fecf662cecba7219ac2f70682ae02685081a181758cb705f",
+
+	 "hash": "94b59b4761147519fecf662cecba7219ac2f70682ae02685081a181758cb705f",
+
+	 "type": "ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), statically linked, for GNU/Linux 2.6.9, not stripped",
+
+	 "classification": "Gen:Variant.Trojan.Linux.XorDDoS.2",
+
+	 "virustotal": "https://www.virustotal.com/file/94b59b4761147519fecf662cecba7219ac2f70682ae02685081a181758cb705f/analysis/1500781565/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/94b59b4761147519fecf662cecba7219ac2f70682ae02685081a181758cb705f"
+
+},
+
+{ 
+
 	 "date": "07/26/2017 06:00:01",
 
 	 "source": "cowrie 159.203.x.x",
@@ -1477,26 +1497,6 @@
 	 "virustotal": "https://www.virustotal.com/file/8152b1e1f3cacb9d8a631b40278e22cfd8f113d22206f44c782f207bb789f714/analysis/1499924544/" ,
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/1811285337a25c9e1f1a67452cbdf405"
-
-},
-
-{ 
-
-	 "date": "07/18/2017 14:20:02",
-
-	 "source": "cowrie 159.203.x.x",
-
-	 "name": "94b59b4761147519fecf662cecba7219ac2f70682ae02685081a181758cb705f",
-
-	 "hash": "94b59b4761147519fecf662cecba7219ac2f70682ae02685081a181758cb705f",
-
-	 "type": "ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), statically linked, for GNU/Linux 2.6.9, not stripped",
-
-	 "classification": "Gen:Variant.Trojan.Linux.XorDDoS.2",
-
-	 "virustotal": "https://www.virustotal.com/file/94b59b4761147519fecf662cecba7219ac2f70682ae02685081a181758cb705f/analysis/1500286099/" ,
-
-	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/94b59b4761147519fecf662cecba7219ac2f70682ae02685081a181758cb705f"
 
 },
 

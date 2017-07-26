@@ -164,6 +164,10 @@
                         "ELF_XORDDOS.SM"
                     ],
                     [
+                        "Zillya",
+                        "Trojan.Xorddos.Linux.34"
+                    ],
+                    [
                         "ZoneAlarm",
                         "HEUR:Trojan-DDoS.Linux.Xarcen.a"
                     ]
@@ -172,11 +176,11 @@
             "type": "table"
         },
         {
-            "data": "38 out of 57 antivirus detected \u001b[1mcaeeadeea0762565473ac39681101c29\u001b[0m as malicious.",
+            "data": "39 out of 56 antivirus detected \u001b[1mcaeeadeea0762565473ac39681101c29\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/94b59b4761147519fecf662cecba7219ac2f70682ae02685081a181758cb705f/analysis/1500286099/\n",
+            "data": "https://www.virustotal.com/file/94b59b4761147519fecf662cecba7219ac2f70682ae02685081a181758cb705f/analysis/1500781565/\n",
             "type": "info"
         },
         {
