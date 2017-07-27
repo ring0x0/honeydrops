@@ -12,9 +12,9 @@
 
 	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
 
-	 "classification": "nondeterministic",
+	 "classification": "Gen:Trojan.Heur.Qy1@uiiCfPfi",
 
-	 "virustotal": "" ,
+	 "virustotal": "https://www.virustotal.com/file/1faff4cf4bfe0d40af1555dc2ca749c5a382197b51b327ad89c4734d6ba75ee3/analysis/1501124408/" ,
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/5e960ba61a82c5340650e2ce975bb4c9"
 
