@@ -1,0 +1,75 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1mf7ee0505967821fc02d096ef808e2e51\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "AVG",
+                        "ELF:DDoS-Y [Trj]"
+                    ],
+                    [
+                        "Avast",
+                        "ELF:DDoS-Y [Trj]"
+                    ],
+                    [
+                        "ClamAV",
+                        "Unix.Trojan.Mirai-5607483-0"
+                    ],
+                    [
+                        "DrWeb",
+                        "Linux.BackDoor.Fgt.205"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "a variant of Linux/Gafgyt.LT"
+                    ],
+                    [
+                        "Ikarus",
+                        "Trojan.Linux.Gafgyt"
+                    ],
+                    [
+                        "Kaspersky",
+                        "HEUR:Backdoor.Linux.Gafgyt.aj"
+                    ],
+                    [
+                        "TrendMicro",
+                        "Possible_BASHLITE.SMLBN2"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "Possible_BASHLITE.SMLBN2"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "HEUR:Backdoor.Linux.Gafgyt.aj"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "10 out of 57 antivirus detected \u001b[1mf7ee0505967821fc02d096ef808e2e51\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/ebd43292c03c06b55769f3ee2bf27bcc4916256effa546ff98dc94a5ca8d225f/analysis/1501633604/\n",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
+            "type": "info"
+        }
+    ]
+}

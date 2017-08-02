@@ -2,6 +2,46 @@
 
 { 
 
+	 "date": "08/02/2017 00:15:01",
+
+	 "source": "deonaea 159.203.x.x",
+
+	 "name": "786ff80edb366d73b338f3be43104502",
+
+	 "hash": "c4aa075303d617a486086e927be6032c8163e21534cb872f6440134da8b0109d",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
+
+	 "classification": "Gen:Variant.Mikey.68767",
+
+	 "virustotal": "https://www.virustotal.com/file/c4aa075303d617a486086e927be6032c8163e21534cb872f6440134da8b0109d/analysis/1501632019/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/786ff80edb366d73b338f3be43104502"
+
+},
+
+{ 
+
+	 "date": "08/02/2017 00:08:05",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "GHssfjfgvj",
+
+	 "hash": "ebd43292c03c06b55769f3ee2bf27bcc4916256effa546ff98dc94a5ca8d225f",
+
+	 "type": "ELF 32-bit MSB executable, MIPS, MIPS-I version 1 (SYSV), statically linked, not stripped",
+
+	 "classification": "Possible_BASHLITE.SMLBN2",
+
+	 "virustotal": "https://www.virustotal.com/file/ebd43292c03c06b55769f3ee2bf27bcc4916256effa546ff98dc94a5ca8d225f/analysis/1501633604/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/GHssfjfgvj"
+
+},
+
+{ 
+
 	 "date": "07/27/2017 04:20:01",
 
 	 "source": "cowrie 159.203.x.x",

