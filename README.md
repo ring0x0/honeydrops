@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "08/03/2017 09:30:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "f5efc46fb45ca067c88641aaacac652fc9e87c7056534a7eda14d1b42353aeed",
+
+	 "hash": "f5efc46fb45ca067c88641aaacac652fc9e87c7056534a7eda14d1b42353aeed",
+
+	 "type": "Bourne-Again shell script, ASCII text executable",
+
+	 "classification": "Generic.Bash.MiraiA.98179AC9",
+
+	 "virustotal": "https://www.virustotal.com/file/f5efc46fb45ca067c88641aaacac652fc9e87c7056534a7eda14d1b42353aeed/analysis/1501424079/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/f5efc46fb45ca067c88641aaacac652fc9e87c7056534a7eda14d1b42353aeed"
+
+},
+
+{ 
+
 	 "date": "08/03/2017 02:35:01",
 
 	 "source": "cowrie 159.203.x.x",
@@ -1037,26 +1057,6 @@
 	 "virustotal": "https://www.virustotal.com/file/56becb29e27ef288f9065e8c0adc36fa33bf96bf07a527b24f04d36df7971aae/analysis/1500733710/" ,
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/56becb29e27ef288f9065e8c0adc36fa33bf96bf07a527b24f04d36df7971aae"
-
-},
-
-{ 
-
-	 "date": "07/22/2017 13:00:01",
-
-	 "source": "cowrie 159.203.x.x",
-
-	 "name": "f5efc46fb45ca067c88641aaacac652fc9e87c7056534a7eda14d1b42353aeed",
-
-	 "hash": "f5efc46fb45ca067c88641aaacac652fc9e87c7056534a7eda14d1b42353aeed",
-
-	 "type": "Bourne-Again shell script, ASCII text executable",
-
-	 "classification": "HEUR:Trojan-Downloader.Shell.Agent.p",
-
-	 "virustotal": "https://www.virustotal.com/file/f5efc46fb45ca067c88641aaacac652fc9e87c7056534a7eda14d1b42353aeed/analysis/1497296636/" ,
-
-	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/f5efc46fb45ca067c88641aaacac652fc9e87c7056534a7eda14d1b42353aeed"
 
 },
 
