@@ -1,0 +1,63 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m4c566ce7ff5ad1f284091dcd71fb3102\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "AVG",
+                        "BV:Downloader-JQ [Drp]"
+                    ],
+                    [
+                        "Avast",
+                        "BV:Downloader-JQ [Drp]"
+                    ],
+                    [
+                        "DrWeb",
+                        "Linux.DownLoader.454"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "Linux/Mirai.AG"
+                    ],
+                    [
+                        "Kaspersky",
+                        "HEUR:Trojan-Downloader.Shell.Mirai.a"
+                    ],
+                    [
+                        "Sophos",
+                        "Mal/ShellDl-A"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "HEUR:Trojan-Downloader.Shell.Mirai.a"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "7 out of 59 antivirus detected \u001b[1m4c566ce7ff5ad1f284091dcd71fb3102\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/4bbc1877f06c5b562179c5b83e8e930bfc68427681ffedc2f8748fd332a8cb9a/analysis/1501789008/\n",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
+            "type": "info"
+        }
+    ]
+}

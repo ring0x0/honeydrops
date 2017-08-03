@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "08/03/2017 19:50:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "4bbc1877f06c5b562179c5b83e8e930bfc68427681ffedc2f8748fd332a8cb9a",
+
+	 "hash": "4bbc1877f06c5b562179c5b83e8e930bfc68427681ffedc2f8748fd332a8cb9a",
+
+	 "type": "POSIX shell script, ASCII text executable",
+
+	 "classification": "HEUR:Trojan-Downloader.Shell.Mirai.a",
+
+	 "virustotal": "https://www.virustotal.com/file/4bbc1877f06c5b562179c5b83e8e930bfc68427681ffedc2f8748fd332a8cb9a/analysis/1501789008/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/4bbc1877f06c5b562179c5b83e8e930bfc68427681ffedc2f8748fd332a8cb9a"
+
+},
+
+{ 
+
 	 "date": "08/03/2017 19:30:01",
 
 	 "source": "deonaea 159.203.x.x",
@@ -12,9 +32,9 @@
 
 	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows, UPX compressed",
 
-	 "classification": "nondeterministic",
+	 "classification": "Win32.Ramnit",
 
-	 "virustotal": "" ,
+	 "virustotal": "https://www.virustotal.com/file/dcdb84366de9249f6b31eeeb0b355b1687e09a8757fdc7c14b7ccae44f3f32a9/analysis/1501788606/" ,
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/93f418aaee713ef0b373cf13253c8e41"
 
