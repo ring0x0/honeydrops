@@ -1,0 +1,203 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m7a1a46ee84e1d2689317ef2f0999830f\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "Generic.Keylogger.2.C51E4859"
+                    ],
+                    [
+                        "AVG",
+                        "Win32:Agent-AQGZ [Trj]"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Generic.Keylogger.2.C51E4859"
+                    ],
+                    [
+                        "Antiy-AVL",
+                        "Trojan[Backdoor]/Win32.Farfli"
+                    ],
+                    [
+                        "Arcabit",
+                        "Generic.Keylogger.2.C51E4859"
+                    ],
+                    [
+                        "Avast",
+                        "Win32:Agent-AQGZ [Trj]"
+                    ],
+                    [
+                        "Baidu",
+                        "Win32.Backdoor.Farfli.b"
+                    ],
+                    [
+                        "BitDefender",
+                        "Generic.Keylogger.2.C51E4859"
+                    ],
+                    [
+                        "CAT-QuickHeal",
+                        "Trojan.Zenshirsh.SL7"
+                    ],
+                    [
+                        "ClamAV",
+                        "Win.Trojan.Generic-6305873-0"
+                    ],
+                    [
+                        "Comodo",
+                        "TrojWare.Win32.Farfli.AEV"
+                    ],
+                    [
+                        "CrowdStrike",
+                        "malicious_confidence_100% (D)"
+                    ],
+                    [
+                        "Cylance",
+                        "Unsafe"
+                    ],
+                    [
+                        "Cyren",
+                        "W32/KillAV.AU.gen!Eldorado"
+                    ],
+                    [
+                        "DrWeb",
+                        "Trojan.DownLoader25.211"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "a variant of Win32/Farfli.AQL"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Generic.Keylogger.2.C51E4859 (B)"
+                    ],
+                    [
+                        "Endgame",
+                        "malicious (high confidence)"
+                    ],
+                    [
+                        "F-Prot",
+                        "W32/KillAV.AU.gen!Eldorado"
+                    ],
+                    [
+                        "F-Secure",
+                        "Generic.Keylogger.2.C51E4859"
+                    ],
+                    [
+                        "Fortinet",
+                        "W32/Farfli.AIL!tr"
+                    ],
+                    [
+                        "GData",
+                        "Generic.Keylogger.2.C51E4859"
+                    ],
+                    [
+                        "Ikarus",
+                        "Trojan.Win32.Veslorn"
+                    ],
+                    [
+                        "Invincea",
+                        "heuristic"
+                    ],
+                    [
+                        "Jiangmin",
+                        "Heur:Trojan/Agent"
+                    ],
+                    [
+                        "K7AntiVirus",
+                        "Trojan ( 004dbda61 )"
+                    ],
+                    [
+                        "K7GW",
+                        "Hacktool ( 655367771 )"
+                    ],
+                    [
+                        "Kaspersky",
+                        "Backdoor.Win32.Farfli.auga"
+                    ],
+                    [
+                        "MAX",
+                        "malware (ai score=84)"
+                    ],
+                    [
+                        "McAfee",
+                        "Trojan-FJYJ!7A1A46EE84E1"
+                    ],
+                    [
+                        "McAfee-GW-Edition",
+                        "BehavesLike.Win32.Worm.jh"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Generic.Keylogger.2.C51E4859"
+                    ],
+                    [
+                        "Microsoft",
+                        "Trojan:Win32/Beaugrit.gen!AAA"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Trojan.Win32.Farfli.epvsay"
+                    ],
+                    [
+                        "Panda",
+                        "Generic Suspicious"
+                    ],
+                    [
+                        "Rising",
+                        "Backdoor.Farfli!1.64D7 (classic)"
+                    ],
+                    [
+                        "SentinelOne",
+                        "static engine - malicious"
+                    ],
+                    [
+                        "Symantec",
+                        "ML.Attribute.HighConfidence"
+                    ],
+                    [
+                        "VBA32",
+                        "Backdoor.Farfli"
+                    ],
+                    [
+                        "Webroot",
+                        "W32.Malware.gen"
+                    ],
+                    [
+                        "Zillya",
+                        "Backdoor.Farfli.Win32.6548"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "Backdoor.Win32.Farfli.auga"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "42 out of 63 antivirus detected \u001b[1m7a1a46ee84e1d2689317ef2f0999830f\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/0e6e23e8a8757ff06139f7835d659eab9ed405ff192d1f3227638dd159678493/analysis/1501715826/\n",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
+            "type": "info"
+        }
+    ]
+}
