@@ -1,0 +1,167 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m033f2173f21e7670a4a438a86b0a2cce\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "Gen:Variant.Graftor.126536"
+                    ],
+                    [
+                        "AVG",
+                        "Win32:Malware-gen"
+                    ],
+                    [
+                        "AVware",
+                        "Trojan.Win32.Redosdru.C (v)"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Gen:Variant.Graftor.126536"
+                    ],
+                    [
+                        "Arcabit",
+                        "Trojan.Graftor.D1EE48"
+                    ],
+                    [
+                        "Avast",
+                        "Win32:Malware-gen"
+                    ],
+                    [
+                        "Baidu",
+                        "Win32.Trojan.Farfli.ai"
+                    ],
+                    [
+                        "BitDefender",
+                        "Gen:Variant.Graftor.126536"
+                    ],
+                    [
+                        "ClamAV",
+                        "Win.Worm.Agent-5819819-0"
+                    ],
+                    [
+                        "Comodo",
+                        "TrojWare.Win32.Dialer.I"
+                    ],
+                    [
+                        "CrowdStrike",
+                        "malicious_confidence_100% (D)"
+                    ],
+                    [
+                        "Cylance",
+                        "Unsafe"
+                    ],
+                    [
+                        "DrWeb",
+                        "DLOADER.Trojan"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "a variant of Win32/Fusing.AA"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Gen:Variant.Graftor.126536 (B)"
+                    ],
+                    [
+                        "Endgame",
+                        "malicious (high confidence)"
+                    ],
+                    [
+                        "F-Secure",
+                        "Gen:Variant.Graftor.126536"
+                    ],
+                    [
+                        "Fortinet",
+                        "W32/Farfli.PZ!tr"
+                    ],
+                    [
+                        "GData",
+                        "Gen:Variant.Graftor.126536"
+                    ],
+                    [
+                        "Ikarus",
+                        "Backdoor.Win32.Zegost"
+                    ],
+                    [
+                        "Jiangmin",
+                        "Heur:Backdoor/Ghost"
+                    ],
+                    [
+                        "Kaspersky",
+                        "Trojan.Win32.Snojan.bpcj"
+                    ],
+                    [
+                        "MAX",
+                        "malware (ai score=88)"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Gen:Variant.Graftor.126536"
+                    ],
+                    [
+                        "Microsoft",
+                        "Backdoor:Win32/Zegost"
+                    ],
+                    [
+                        "Qihoo-360",
+                        "HEUR/QVM07.1.F0A3.Malware.Gen"
+                    ],
+                    [
+                        "Rising",
+                        "Malware.Heuristic!ET#94% (rdm+)"
+                    ],
+                    [
+                        "SentinelOne",
+                        "static engine - malicious"
+                    ],
+                    [
+                        "Symantec",
+                        "ML.Attribute.HighConfidence"
+                    ],
+                    [
+                        "VBA32",
+                        "BScope.P2P-Worm.Palevo"
+                    ],
+                    [
+                        "VIPRE",
+                        "Trojan.Win32.Redosdru.C (v)"
+                    ],
+                    [
+                        "Webroot",
+                        "W32.Malware.Gen"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "Trojan.Win32.Snojan.bpcj"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "33 out of 64 antivirus detected \u001b[1m033f2173f21e7670a4a438a86b0a2cce\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/8d70971460676b3cf2e6b63386b4ebae2b3c7f0f102ce8b6a63075fb3739903d/analysis/1501859186/\n",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
+            "type": "info"
+        }
+    ]
+}
