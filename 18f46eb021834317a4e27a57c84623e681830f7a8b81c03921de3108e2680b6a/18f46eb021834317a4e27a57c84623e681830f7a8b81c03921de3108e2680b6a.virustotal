@@ -28,8 +28,8 @@
                         "Generic.Bash.MiraiA.75A7B7D7"
                     ],
                     [
-                        "Arcabit",
-                        "Generic.Bash.MiraiA.75A7B7D7"
+                        "AegisLab",
+                        "Troj.Downloader.Shell!c"
                     ],
                     [
                         "Avast",
@@ -112,8 +112,8 @@
                         "Win32.Trojan-downloader.Agent.Liqj"
                     ],
                     [
-                        "TotalDefense",
-                        "Generic.Bash.MiraiA.75A7B7D7"
+                        "TrendMicro-HouseCall",
+                        "Suspicious_GEN.F47V0621"
                     ],
                     [
                         "ZoneAlarm",
@@ -124,11 +124,11 @@
             "type": "table"
         },
         {
-            "data": "26 out of 56 antivirus detected \u001b[1m32815f83fe37f6dbf847a29552ecbe39\u001b[0m as malicious.",
+            "data": "26 out of 58 antivirus detected \u001b[1m32815f83fe37f6dbf847a29552ecbe39\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/18f46eb021834317a4e27a57c84623e681830f7a8b81c03921de3108e2680b6a/analysis/1501706739/\n",
+            "data": "https://www.virustotal.com/file/18f46eb021834317a4e27a57c84623e681830f7a8b81c03921de3108e2680b6a/analysis/1501897958/\n",
             "type": "info"
         },
         {
