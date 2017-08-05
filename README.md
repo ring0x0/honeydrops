@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "08/05/2017 00:00:01",
+
+	 "source": "deonaea 159.203.x.x",
+
+	 "name": "169f547395f772e450ba811b97a9e798",
+
+	 "hash": "9946d6d2a061e6de59136f49e33722f35c312d9166774a1bfbf47a3defa52379",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
+
+	 "classification": "Win32.Ramnit",
+
+	 "virustotal": "https://www.virustotal.com/file/9946d6d2a061e6de59136f49e33722f35c312d9166774a1bfbf47a3defa52379/analysis/1501798696/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/169f547395f772e450ba811b97a9e798"
+
+},
+
+{ 
+
 	 "date": "08/04/2017 21:45:01",
 
 	 "source": "deonaea 159.203.x.x",
