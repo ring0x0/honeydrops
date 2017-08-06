@@ -1,0 +1,207 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m0a2c841961c6b4b6b09a9bfc9a79a94c\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "Gen:Variant.Midie.34768"
+                    ],
+                    [
+                        "AVG",
+                        "Win32:Trojan-gen"
+                    ],
+                    [
+                        "AVware",
+                        "Trojan-Downloader.Win32.Zegost.al (v)"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Gen:Variant.Midie.34768"
+                    ],
+                    [
+                        "AegisLab",
+                        "Troj.Downloader.W32.Agent.tnwO"
+                    ],
+                    [
+                        "AhnLab-V3",
+                        "Trojan/Win32.Fareit.R138107"
+                    ],
+                    [
+                        "Arcabit",
+                        "Trojan.Midie.D87D0"
+                    ],
+                    [
+                        "Avast",
+                        "Win32:Trojan-gen"
+                    ],
+                    [
+                        "Avira",
+                        "BDS/Backdoor.Gen7"
+                    ],
+                    [
+                        "Baidu",
+                        "Win32.Trojan.WisdomEyes.16070401.9500.9936"
+                    ],
+                    [
+                        "BitDefender",
+                        "Gen:Variant.Midie.34768"
+                    ],
+                    [
+                        "CAT-QuickHeal",
+                        "TjnDownldr.Far.S330992"
+                    ],
+                    [
+                        "CrowdStrike",
+                        "malicious_confidence_100% (D)"
+                    ],
+                    [
+                        "Cylance",
+                        "Unsafe"
+                    ],
+                    [
+                        "DrWeb",
+                        "Trojan.DownLoader23.58352"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "a variant of Win32/TrojanDownloader.Agent.DNB"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Gen:Variant.Midie.34768 (B)"
+                    ],
+                    [
+                        "Endgame",
+                        "malicious (high confidence)"
+                    ],
+                    [
+                        "F-Secure",
+                        "Gen:Variant.Midie.34768"
+                    ],
+                    [
+                        "Fortinet",
+                        "W32/Agent.BPB!tr"
+                    ],
+                    [
+                        "GData",
+                        "Gen:Variant.Midie.34768"
+                    ],
+                    [
+                        "Ikarus",
+                        "Trojan-Downloader.Win32.Agent"
+                    ],
+                    [
+                        "Jiangmin",
+                        "TrojanDownloader.Agent.fkru"
+                    ],
+                    [
+                        "K7AntiVirus",
+                        "Trojan-Downloader ( 004c808c1 )"
+                    ],
+                    [
+                        "K7GW",
+                        "Trojan-Downloader ( 004c808c1 )"
+                    ],
+                    [
+                        "Kaspersky",
+                        "Trojan-Downloader.Win32.Agent.silfwq"
+                    ],
+                    [
+                        "MAX",
+                        "malware (ai score=87)"
+                    ],
+                    [
+                        "Malwarebytes",
+                        "Trojan.Graftor"
+                    ],
+                    [
+                        "McAfee",
+                        "Trojan-FJYJ!0A2C841961C6"
+                    ],
+                    [
+                        "McAfee-GW-Edition",
+                        "Trojan-FJYJ!0A2C841961C6"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Gen:Variant.Midie.34768"
+                    ],
+                    [
+                        "Microsoft",
+                        "TrojanDownloader:Win32/Farfli.K!bit"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Trojan.Win32.Agent.eljjbh"
+                    ],
+                    [
+                        "Panda",
+                        "Trj/Genetic.gen"
+                    ],
+                    [
+                        "Qihoo-360",
+                        "Win32/Trojan.2ff"
+                    ],
+                    [
+                        "Rising",
+                        "Malware.Generic.5!tfe (thunder:YHkyr8SWMNI)"
+                    ],
+                    [
+                        "SentinelOne",
+                        "static engine - malicious"
+                    ],
+                    [
+                        "Symantec",
+                        "ML.Attribute.HighConfidence"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "BKDR_ZEGOST.SM17"
+                    ],
+                    [
+                        "VBA32",
+                        "TrojanDownloader.Agent"
+                    ],
+                    [
+                        "VIPRE",
+                        "Trojan-Downloader.Win32.Zegost.al (v)"
+                    ],
+                    [
+                        "Zillya",
+                        "Downloader.Agent.Win32.318914"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "Trojan-Downloader.Win32.Agent.silfwq"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "43 out of 65 antivirus detected \u001b[1m0a2c841961c6b4b6b09a9bfc9a79a94c\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/2e3fbb5eea5e23c9ca42ee1639c555f43f9892c0a80ba9364c871624a483fdf4/analysis/1501924767/\n",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
+            "type": "info"
+        }
+    ]
+}

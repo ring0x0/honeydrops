@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "08/06/2017 05:35:01",
+
+	 "source": "deonaea 159.203.x.x",
+
+	 "name": "0a2c841961c6b4b6b09a9bfc9a79a94c",
+
+	 "hash": "2e3fbb5eea5e23c9ca42ee1639c555f43f9892c0a80ba9364c871624a483fdf4",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
+
+	 "classification": "Gen:Variant.Midie.34768",
+
+	 "virustotal": "https://www.virustotal.com/file/2e3fbb5eea5e23c9ca42ee1639c555f43f9892c0a80ba9364c871624a483fdf4/analysis/1501924767/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/0a2c841961c6b4b6b09a9bfc9a79a94c"
+
+},
+
+{ 
+
 	 "date": "08/05/2017 18:50:01",
 
 	 "source": "cowrie 159.203.x.x",
