@@ -28,6 +28,10 @@
                         "Generic.Bash.MiraiA.06FD0788"
                     ],
                     [
+                        "AegisLab",
+                        "Troj.Downloader.Shell!c"
+                    ],
+                    [
                         "Arcabit",
                         "Generic.Bash.MiraiA.06FD0788"
                     ],
@@ -38,6 +42,14 @@
                     [
                         "BitDefender",
                         "Generic.Bash.MiraiA.06FD0788"
+                    ],
+                    [
+                        "Comodo",
+                        "UnclassifiedMalware"
+                    ],
+                    [
+                        "Cyren",
+                        "Trojan.EFHU-1"
                     ],
                     [
                         "DrWeb",
@@ -73,11 +85,19 @@
                     ],
                     [
                         "MAX",
-                        "malware (ai score=83)"
+                        "malware (ai score=100)"
                     ],
                     [
                         "MicroWorld-eScan",
                         "Generic.Bash.MiraiA.06FD0788"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Trojan.Script.Agent.equajz"
+                    ],
+                    [
+                        "Qihoo-360",
+                        "Win32/Trojan.Downloader.72e"
                     ],
                     [
                         "Rising",
@@ -92,6 +112,14 @@
                         "Downloader.Trojan"
                     ],
                     [
+                        "Tencent",
+                        "Win32.Trojan-downloader.Agent.Alip"
+                    ],
+                    [
+                        "TotalDefense",
+                        "Generic.Bash.MiraiA.06FD0788"
+                    ],
+                    [
                         "ZoneAlarm",
                         "HEUR:Trojan-Downloader.Shell.Agent.p"
                     ]
@@ -100,11 +128,11 @@
             "type": "table"
         },
         {
-            "data": "20 out of 58 antivirus detected \u001b[1mef1b6d4191b64595e46cef40e032cd8e\u001b[0m as malicious.",
+            "data": "27 out of 57 antivirus detected \u001b[1mef1b6d4191b64595e46cef40e032cd8e\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/db24ade75ab960e1d48ca4d7c56eb90e6c7dcfbe2cf4ebcdfe9553f5f582a1e9/analysis/1499517320/\n",
+            "data": "https://www.virustotal.com/file/db24ade75ab960e1d48ca4d7c56eb90e6c7dcfbe2cf4ebcdfe9553f5f582a1e9/analysis/1501985170/\n",
             "type": "info"
         },
         {
