@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "08/06/2017 19:15:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "329e18f081111f343aa8ca8cba950a56423c997d0a44d14fc4ea0b32cb42619c",
+
+	 "hash": "329e18f081111f343aa8ca8cba950a56423c997d0a44d14fc4ea0b32cb42619c",
+
+	 "type": "POSIX shell script, ASCII text executable",
+
+	 "classification": "HEUR:Trojan-Downloader.Shell.Mirai.a",
+
+	 "virustotal": "https://www.virustotal.com/file/329e18f081111f343aa8ca8cba950a56423c997d0a44d14fc4ea0b32cb42619c/analysis/1502046827/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/329e18f081111f343aa8ca8cba950a56423c997d0a44d14fc4ea0b32cb42619c"
+
+},
+
+{ 
+
 	 "date": "08/06/2017 10:30:01",
 
 	 "source": "cowrie 159.203.x.x",
