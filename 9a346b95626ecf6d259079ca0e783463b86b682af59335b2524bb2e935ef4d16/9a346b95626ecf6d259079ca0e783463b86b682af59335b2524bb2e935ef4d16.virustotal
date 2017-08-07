@@ -1,0 +1,83 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1mdfeba568125db9ea411b51bdc32332c4\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "Generic.Bash.MiraiA.D4D18BE6"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Generic.Bash.MiraiA.D4D18BE6"
+                    ],
+                    [
+                        "Arcabit",
+                        "Generic.Bash.MiraiA.D4D18BE6"
+                    ],
+                    [
+                        "BitDefender",
+                        "Generic.Bash.MiraiA.D4D18BE6"
+                    ],
+                    [
+                        "DrWeb",
+                        "Linux.DownLoader.37"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Generic.Bash.MiraiA.D4D18BE6 (B)"
+                    ],
+                    [
+                        "F-Secure",
+                        "Generic.Bash.MiraiA.D4D18BE6"
+                    ],
+                    [
+                        "GData",
+                        "Generic.Bash.MiraiA.D4D18BE6"
+                    ],
+                    [
+                        "Kaspersky",
+                        "HEUR:Trojan-Downloader.Shell.Agent.p"
+                    ],
+                    [
+                        "MAX",
+                        "malware (ai score=81)"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Generic.Bash.MiraiA.D4D18BE6"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "HEUR:Trojan-Downloader.Shell.Agent.p"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "12 out of 59 antivirus detected \u001b[1mdfeba568125db9ea411b51bdc32332c4\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/9a346b95626ecf6d259079ca0e783463b86b682af59335b2524bb2e935ef4d16/analysis/1502071443/\n",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
+            "type": "info"
+        }
+    ]
+}

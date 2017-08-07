@@ -1,0 +1,47 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1mac19ceae7b32b406cc06151c1ba514fa\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "Kaspersky",
+                        "HEUR:Trojan-Downloader.Shell.Agent.as"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Trojan.Script.Agent.ekbkzw"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "HEUR:Trojan-Downloader.Shell.Agent.as"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "3 out of 58 antivirus detected \u001b[1mac19ceae7b32b406cc06151c1ba514fa\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/62ef49123ed8bd1dd5601b8f203ac2fa7f0d43c95ecf7b76dcc1e5c76e4ed8ba/analysis/1502006645/\n",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
+            "type": "info"
+        }
+    ]
+}

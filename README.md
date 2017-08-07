@@ -2,6 +2,66 @@
 
 { 
 
+	 "date": "08/07/2017 08:20:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "62ef49123ed8bd1dd5601b8f203ac2fa7f0d43c95ecf7b76dcc1e5c76e4ed8ba",
+
+	 "hash": "62ef49123ed8bd1dd5601b8f203ac2fa7f0d43c95ecf7b76dcc1e5c76e4ed8ba",
+
+	 "type": "ASCII text",
+
+	 "classification": "HEUR:Trojan-Downloader.Shell.Agent.as",
+
+	 "virustotal": "https://www.virustotal.com/file/62ef49123ed8bd1dd5601b8f203ac2fa7f0d43c95ecf7b76dcc1e5c76e4ed8ba/analysis/1502006645/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/62ef49123ed8bd1dd5601b8f203ac2fa7f0d43c95ecf7b76dcc1e5c76e4ed8ba"
+
+},
+
+{ 
+
+	 "date": "08/07/2017 08:15:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "9a346b95626ecf6d259079ca0e783463b86b682af59335b2524bb2e935ef4d16",
+
+	 "hash": "9a346b95626ecf6d259079ca0e783463b86b682af59335b2524bb2e935ef4d16",
+
+	 "type": "ASCII text",
+
+	 "classification": "Generic.Bash.MiraiA.D4D18BE6",
+
+	 "virustotal": "https://www.virustotal.com/file/9a346b95626ecf6d259079ca0e783463b86b682af59335b2524bb2e935ef4d16/analysis/1502071443/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/9a346b95626ecf6d259079ca0e783463b86b682af59335b2524bb2e935ef4d16"
+
+},
+
+{ 
+
+	 "date": "08/07/2017 08:05:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "43ac11104d3abb819445ddda5e2728823324a048d823fe797511be48c04d542c",
+
+	 "hash": "43ac11104d3abb819445ddda5e2728823324a048d823fe797511be48c04d542c",
+
+	 "type": "ASCII text",
+
+	 "classification": "Generic.Bash.MiraiA.58EF0F54",
+
+	 "virustotal": "https://www.virustotal.com/file/43ac11104d3abb819445ddda5e2728823324a048d823fe797511be48c04d542c/analysis/1501247167/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/43ac11104d3abb819445ddda5e2728823324a048d823fe797511be48c04d542c"
+
+},
+
+{ 
+
 	 "date": "08/07/2017 00:00:01",
 
 	 "source": "cowrie 159.203.x.x",
