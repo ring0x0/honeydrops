@@ -2,7 +2,7 @@
 
 { 
 
-	 "date": "08/08/2017 16:00:01",
+	 "date": "08/08/2017 17:00:01",
 
 	 "source": "cowrie 159.203.x.x",
 
@@ -17,6 +17,26 @@
 	 "virustotal": "https://www.virustotal.com/file/b33b30c3cc7e027320e4d203303cc36a4e84b44451278bbb524ec54d5f61a4d6/analysis/1497288623/" ,
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/b33b30c3cc7e027320e4d203303cc36a4e84b44451278bbb524ec54d5f61a4d6"
+
+},
+
+{ 
+
+	 "date": "08/08/2017 16:50:01",
+
+	 "source": "deonaea 159.203.x.x",
+
+	 "name": "eccb44e2a6cb4ece00f17f2a56d918f4",
+
+	 "hash": "f63bc58b8211b84e9f0bd1529c7180801767f3aeb401944d8e87844169057835",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
+
+	 "classification": "Gen:Variant.Symmi.55449",
+
+	 "virustotal": "https://www.virustotal.com/file/f63bc58b8211b84e9f0bd1529c7180801767f3aeb401944d8e87844169057835/analysis/1500343612/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/eccb44e2a6cb4ece00f17f2a56d918f4"
 
 },
 
