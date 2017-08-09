@@ -1,0 +1,191 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1md6362bdf13a789790e7cadcd110b9e4d\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "Trojan.Downloader.smsb"
+                    ],
+                    [
+                        "AVG",
+                        "Agent_r.CIK"
+                    ],
+                    [
+                        "AVware",
+                        "Trojan.Win32.Generic!BT"
+                    ],
+                    [
+                        "AegisLab",
+                        "Agent.R.Cik!c"
+                    ],
+                    [
+                        "AhnLab-V3",
+                        "Unwanted/Win32.HackTool.C1321346"
+                    ],
+                    [
+                        "Antiy-AVL",
+                        "Trojan[Backdoor]/Win32.Agent"
+                    ],
+                    [
+                        "Avast",
+                        "Win32:Malware-gen"
+                    ],
+                    [
+                        "Avira",
+                        "TR/Agent.oyyq"
+                    ],
+                    [
+                        "Baidu",
+                        "Win32.Trojan.WisdomEyes.16070401.9500.9999"
+                    ],
+                    [
+                        "Bkav",
+                        "W32.Clod430.Trojan.9ba4"
+                    ],
+                    [
+                        "CAT-QuickHeal",
+                        "Backdoor.Agent"
+                    ],
+                    [
+                        "Comodo",
+                        "UnclassifiedMalware"
+                    ],
+                    [
+                        "Cyren",
+                        "W32/Downloader-Web-based!Maximu"
+                    ],
+                    [
+                        "DrWeb",
+                        "Tool.Netcat.414"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "a variant of Win32/Agent.SII"
+                    ],
+                    [
+                        "Endgame",
+                        "malicious (moderate confidence)"
+                    ],
+                    [
+                        "F-Prot",
+                        "W32/Downloader-Web-based!Maximu"
+                    ],
+                    [
+                        "Fortinet",
+                        "W32/Agent.SII!tr"
+                    ],
+                    [
+                        "Ikarus",
+                        "Trojan.Win32.Agent"
+                    ],
+                    [
+                        "Jiangmin",
+                        "Backdoor.Agent.ll"
+                    ],
+                    [
+                        "K7AntiVirus",
+                        "Trojan ( 004d698c1 )"
+                    ],
+                    [
+                        "K7GW",
+                        "Trojan ( 004d698c1 )"
+                    ],
+                    [
+                        "Kaspersky",
+                        "Backdoor.Win32.Agent.dorm"
+                    ],
+                    [
+                        "McAfee",
+                        "RDN/Generic.dx"
+                    ],
+                    [
+                        "McAfee-GW-Edition",
+                        "RDN/Generic.dx"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Riskware.Win32.Netcat.dzdkoy"
+                    ],
+                    [
+                        "Panda",
+                        "Trj/GdSda.A"
+                    ],
+                    [
+                        "Qihoo-360",
+                        "Trojan.Generic"
+                    ],
+                    [
+                        "Rising",
+                        "Trojan.Generic (cloud:zaJi1Yx7pZR) "
+                    ],
+                    [
+                        "Sophos",
+                        "Mal/Generic-S"
+                    ],
+                    [
+                        "Symantec",
+                        "Trojan.Gen.2"
+                    ],
+                    [
+                        "Tencent",
+                        "Win32.Backdoor.Agent.Wpsw"
+                    ],
+                    [
+                        "VBA32",
+                        "Backdoor.Agent"
+                    ],
+                    [
+                        "VIPRE",
+                        "Trojan.Win32.Generic!BT"
+                    ],
+                    [
+                        "Webroot",
+                        "W32.Malware.Gen"
+                    ],
+                    [
+                        "Yandex",
+                        "Trojan.Agent!FOGu0f/o64g"
+                    ],
+                    [
+                        "Zillya",
+                        "Backdoor.Agent.Win32.58641"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "Backdoor.Win32.Agent.dorm"
+                    ],
+                    [
+                        "nProtect",
+                        "Backdoor/W32.Agent.67584.AZ"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "39 out of 60 antivirus detected \u001b[1md6362bdf13a789790e7cadcd110b9e4d\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/1dce77bcddf265fb61abaa92ccf30a93fc9831c82eafd3dec13bbe1f635f2666/analysis/1489236078/\n",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
+            "type": "info"
+        }
+    ]
+}

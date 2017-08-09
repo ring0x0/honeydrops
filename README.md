@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "08/09/2017 02:15:01",
+
+	 "source": "deonaea 159.203.x.x",
+
+	 "name": "d6362bdf13a789790e7cadcd110b9e4d",
+
+	 "hash": "1dce77bcddf265fb61abaa92ccf30a93fc9831c82eafd3dec13bbe1f635f2666",
+
+	 "type": "PE32 executable (DLL) (GUI) Intel 80386, for MS Windows",
+
+	 "classification": "W32/Downloader-Web-based!Maximu",
+
+	 "virustotal": "https://www.virustotal.com/file/1dce77bcddf265fb61abaa92ccf30a93fc9831c82eafd3dec13bbe1f635f2666/analysis/1489236078/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/d6362bdf13a789790e7cadcd110b9e4d"
+
+},
+
+{ 
+
 	 "date": "08/09/2017 00:45:01",
 
 	 "source": "cowrie 159.203.x.x",
@@ -12,9 +32,9 @@
 
 	 "type": "POSIX shell script, ASCII text executable",
 
-	 "classification": "nondeterministic",
+	 "classification": "BV:Downloader-JQ [Drp]",
 
-	 "virustotal": "" ,
+	 "virustotal": "https://www.virustotal.com/file/9558df28f3790b1201029f84fd377fe8b62f98a9e8096c079ce7d81897ab90ac/analysis/1502233443/" ,
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/9558df28f3790b1201029f84fd377fe8b62f98a9e8096c079ce7d81897ab90ac"
 
