@@ -1,0 +1,255 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m7d67727677c531db74f356d4f60d5338\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "AVG",
+                        "Win32:Vitro"
+                    ],
+                    [
+                        "AVware",
+                        "Virus.Win32.Virut.ce (v)"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Win32.Virtob.Gen.12"
+                    ],
+                    [
+                        "AhnLab-V3",
+                        "Win32/Virut.F"
+                    ],
+                    [
+                        "Antiy-AVL",
+                        "Virus/Win32.Virut.ce"
+                    ],
+                    [
+                        "Arcabit",
+                        "Win32.Virtob.Gen.12"
+                    ],
+                    [
+                        "Avast",
+                        "Win32:Vitro"
+                    ],
+                    [
+                        "Avira",
+                        "W32/Virut.Gen"
+                    ],
+                    [
+                        "Baidu",
+                        "Win32.Virus.Virut.gen"
+                    ],
+                    [
+                        "BitDefender",
+                        "Win32.Virtob.Gen.12"
+                    ],
+                    [
+                        "Bkav",
+                        "W32.Vetor.PE"
+                    ],
+                    [
+                        "CAT-QuickHeal",
+                        "W32.Virut.G"
+                    ],
+                    [
+                        "CMC",
+                        "Virus.Win32.Virut.1!O"
+                    ],
+                    [
+                        "Comodo",
+                        "TrojWare.Win32.TrojanProxy.Horst.~O"
+                    ],
+                    [
+                        "CrowdStrike",
+                        "malicious_confidence_100% (D)"
+                    ],
+                    [
+                        "Cylance",
+                        "Unsafe"
+                    ],
+                    [
+                        "Cyren",
+                        "W32/Virut.AM"
+                    ],
+                    [
+                        "DrWeb",
+                        "Win32.Virut.56"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "Win32/Virut.NBP"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Win32.Virtob.Gen.12 (B)"
+                    ],
+                    [
+                        "Endgame",
+                        "malicious (high confidence)"
+                    ],
+                    [
+                        "F-Prot",
+                        "W32/Virut.AM"
+                    ],
+                    [
+                        "F-Secure",
+                        "Win32.Virtob.Gen.12"
+                    ],
+                    [
+                        "Fortinet",
+                        "W32/Virut.HL"
+                    ],
+                    [
+                        "GData",
+                        "Win32.Virtob.Gen.12"
+                    ],
+                    [
+                        "Ikarus",
+                        "Virus.Win32.Virut"
+                    ],
+                    [
+                        "Invincea",
+                        "heuristic"
+                    ],
+                    [
+                        "Jiangmin",
+                        "Win32/Virut.bt"
+                    ],
+                    [
+                        "K7AntiVirus",
+                        "Virus ( f10002001 )"
+                    ],
+                    [
+                        "K7GW",
+                        "Virus ( f10002001 )"
+                    ],
+                    [
+                        "Kaspersky",
+                        "Virus.Win32.Virut.ce"
+                    ],
+                    [
+                        "MAX",
+                        "malware (ai score=86)"
+                    ],
+                    [
+                        "McAfee",
+                        "W32/Virut.n.gen"
+                    ],
+                    [
+                        "McAfee-GW-Edition",
+                        "BehavesLike.Win32.Virut.mh"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Win32.Virtob.Gen.12"
+                    ],
+                    [
+                        "Microsoft",
+                        "TrojanDownloader:Win32/Farfli.PK!bit"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Virus.Win32.Virut.hpeg"
+                    ],
+                    [
+                        "Panda",
+                        "W32/Sality.AO"
+                    ],
+                    [
+                        "Qihoo-360",
+                        "Virus.Win32.VirutChangeEntry.A"
+                    ],
+                    [
+                        "Rising",
+                        "Virus.Virut!1.A08B (classic)"
+                    ],
+                    [
+                        "SentinelOne",
+                        "static engine - malicious"
+                    ],
+                    [
+                        "Sophos",
+                        "W32/Scribble-B"
+                    ],
+                    [
+                        "Symantec",
+                        "W32.Virut.CF"
+                    ],
+                    [
+                        "Tencent",
+                        "Virus.Win32.Virut.Gen.200006"
+                    ],
+                    [
+                        "TheHacker",
+                        "W32/Virtob.Gen(F)"
+                    ],
+                    [
+                        "TotalDefense",
+                        "Win32/Virut.17408"
+                    ],
+                    [
+                        "TrendMicro",
+                        "PE_VIRUX.S-3"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "PE_VIRUX.S-3"
+                    ],
+                    [
+                        "VBA32",
+                        "Virus.Virut.14"
+                    ],
+                    [
+                        "VIPRE",
+                        "Virus.Win32.Virut.ce (v)"
+                    ],
+                    [
+                        "ViRobot",
+                        "Win32.Virut.Gen.C"
+                    ],
+                    [
+                        "Yandex",
+                        "Win32.Virut.AB.Gen"
+                    ],
+                    [
+                        "Zillya",
+                        "Virus.Virut.Win32.1939"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "Virus.Win32.Virut.ce"
+                    ],
+                    [
+                        "nProtect",
+                        "Virus/W32.Virut.Gen"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "55 out of 65 antivirus detected \u001b[1m7d67727677c531db74f356d4f60d5338\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/38ad20c78abaabe09f0cf26b586d710c9268868af1c02b4a8d242baee1887ba3/analysis/1502386697/\n",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
+            "type": "info"
+        }
+    ]
+}

@@ -1,0 +1,5 @@
+689eba2e035990be2080
+push dword 0x32eba9e
+pop ecx
+nop 
+mov esi,0x1008020

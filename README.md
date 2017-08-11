@@ -2,6 +2,46 @@
 
 { 
 
+	 "date": "08/11/2017 01:55:01",
+
+	 "source": "deonaea 159.203.x.x",
+
+	 "name": "a60b7c4d815fb56354240c817799e66d",
+
+	 "hash": "256b0c2059ac9b512dd190ac83760c8b6e019a00484e763d2f50cafcc5d552e4",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
+
+	 "classification": "Win32.Parite.B",
+
+	 "virustotal": "https://www.virustotal.com/file/256b0c2059ac9b512dd190ac83760c8b6e019a00484e763d2f50cafcc5d552e4/analysis/1502399174/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/a60b7c4d815fb56354240c817799e66d"
+
+},
+
+{ 
+
+	 "date": "08/11/2017 01:55:01",
+
+	 "source": "deonaea 159.203.x.x",
+
+	 "name": "7d67727677c531db74f356d4f60d5338",
+
+	 "hash": "38ad20c78abaabe09f0cf26b586d710c9268868af1c02b4a8d242baee1887ba3",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
+
+	 "classification": "Win32.Virtob.Gen.12",
+
+	 "virustotal": "https://www.virustotal.com/file/38ad20c78abaabe09f0cf26b586d710c9268868af1c02b4a8d242baee1887ba3/analysis/1502386697/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/7d67727677c531db74f356d4f60d5338"
+
+},
+
+{ 
+
 	 "date": "08/10/2017 06:25:01",
 
 	 "source": "deonaea 159.203.x.x",
