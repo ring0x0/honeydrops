@@ -1,0 +1,151 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m4258a22f4c8a646f6d64401fb8d9fbe5\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "AVG",
+                        "Win32:Malware-gen"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Gen:Variant.Graftor.401735"
+                    ],
+                    [
+                        "Antiy-AVL",
+                        "Trojan/Win32.TSGeneric"
+                    ],
+                    [
+                        "Arcabit",
+                        "Trojan.Graftor.D62147"
+                    ],
+                    [
+                        "Avast",
+                        "Win32:Malware-gen"
+                    ],
+                    [
+                        "Avira",
+                        "TR/Crypt.Xpack.ladka"
+                    ],
+                    [
+                        "BitDefender",
+                        "Gen:Variant.Graftor.401735"
+                    ],
+                    [
+                        "CrowdStrike",
+                        "malicious_confidence_100% (D)"
+                    ],
+                    [
+                        "Cylance",
+                        "Unsafe"
+                    ],
+                    [
+                        "DrWeb",
+                        "BackDoor.Spy.422"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "a variant of Win32/Injector.CNPM"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Gen:Variant.Graftor.401735 (B)"
+                    ],
+                    [
+                        "Endgame",
+                        "malicious (high confidence)"
+                    ],
+                    [
+                        "F-Secure",
+                        "Gen:Variant.Graftor.401735"
+                    ],
+                    [
+                        "GData",
+                        "Gen:Variant.Graftor.401735"
+                    ],
+                    [
+                        "Ikarus",
+                        "Backdoor.Win32.Farfli"
+                    ],
+                    [
+                        "Invincea",
+                        "heuristic"
+                    ],
+                    [
+                        "K7AntiVirus",
+                        "Trojan ( 003c0f321 )"
+                    ],
+                    [
+                        "K7GW",
+                        "Trojan ( 003c0f321 )"
+                    ],
+                    [
+                        "Kaspersky",
+                        "Trojan-GameThief.Win32.Magania.uhtu"
+                    ],
+                    [
+                        "MAX",
+                        "malware (ai score=83)"
+                    ],
+                    [
+                        "McAfee",
+                        "GenericR-KEN!4258A22F4C8A"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Gen:Variant.Graftor.401735"
+                    ],
+                    [
+                        "Panda",
+                        "Trj/GdSda.A"
+                    ],
+                    [
+                        "Qihoo-360",
+                        "Win32/Trojan.132"
+                    ],
+                    [
+                        "Rising",
+                        "Trojan.Injector!8.C4 (cloud:PK1sQuGdqZT)"
+                    ],
+                    [
+                        "SentinelOne",
+                        "static engine - malicious"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "Trojan-GameThief.Win32.Magania.uhtu"
+                    ],
+                    [
+                        "nProtect",
+                        "Trojan-PWS/W32.OnLineGames.323599"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "29 out of 65 antivirus detected \u001b[1m4258a22f4c8a646f6d64401fb8d9fbe5\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/e02c07653adbe877496e145fa7a3091d5f8435c9791f6117119f8373bc0fca49/analysis/1502522257/\n",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
+            "type": "info"
+        }
+    ]
+}
