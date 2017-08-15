@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "08/15/2017 03:00:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "f6064f426c93e4bfb3f319b2017d68e5780c7861d49a595d6ce4beb5274bc3fe",
+
+	 "hash": "f6064f426c93e4bfb3f319b2017d68e5780c7861d49a595d6ce4beb5274bc3fe",
+
+	 "type": "ASCII text",
+
+	 "classification": "Trojan.GenericKD.12000009",
+
+	 "virustotal": "https://www.virustotal.com/file/f6064f426c93e4bfb3f319b2017d68e5780c7861d49a595d6ce4beb5274bc3fe/analysis/1502579004/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/f6064f426c93e4bfb3f319b2017d68e5780c7861d49a595d6ce4beb5274bc3fe"
+
+},
+
+{ 
+
 	 "date": "08/15/2017 01:15:01",
 
 	 "source": "cowrie 159.203.x.x",
@@ -3497,26 +3517,6 @@
 	 "virustotal": "https://www.virustotal.com/file/d9ce5b90fd6787ce746f71d156687f786fc9160e9ac21ce78487f1be4c900ebb/analysis/1499405406/" ,
 
 	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/http-ZkweIw"
-
-},
-
-{ 
-
-	 "date": "07/07/2017 04:05:01",
-
-	 "source": "cowrie 159.203.x.x",
-
-	 "name": "f6064f426c93e4bfb3f319b2017d68e5780c7861d49a595d6ce4beb5274bc3fe",
-
-	 "hash": "f6064f426c93e4bfb3f319b2017d68e5780c7861d49a595d6ce4beb5274bc3fe",
-
-	 "type": "ASCII text",
-
-	 "classification": "BV:Downloader-II [Trj]",
-
-	 "virustotal": "https://www.virustotal.com/file/f6064f426c93e4bfb3f319b2017d68e5780c7861d49a595d6ce4beb5274bc3fe/analysis/1499390425/" ,
-
-	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/f6064f426c93e4bfb3f319b2017d68e5780c7861d49a595d6ce4beb5274bc3fe"
 
 },
 
