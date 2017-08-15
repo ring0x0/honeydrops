@@ -2,6 +2,46 @@
 
 { 
 
+	 "date": "08/15/2017 01:15:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "94ee059335e587e501cc4bf90613e0814f00a7b08bc7c648fd865a2af6a22cc2",
+
+	 "hash": "94ee059335e587e501cc4bf90613e0814f00a7b08bc7c648fd865a2af6a22cc2",
+
+	 "type": "ASCII text, with no line terminators",
+
+	 "classification": "nondeterministic",
+
+	 "virustotal": "https://www.virustotal.com/file/94ee059335e587e501cc4bf90613e0814f00a7b08bc7c648fd865a2af6a22cc2/analysis/1502758278/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/94ee059335e587e501cc4bf90613e0814f00a7b08bc7c648fd865a2af6a22cc2"
+
+},
+
+{ 
+
+	 "date": "08/15/2017 01:05:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "4d30e9edb4b04a369f4d1e1c2b8a57b20ce921f0e1dd432126a5491f5471b76d",
+
+	 "hash": "4d30e9edb4b04a369f4d1e1c2b8a57b20ce921f0e1dd432126a5491f5471b76d",
+
+	 "type": "ASCII text, with very long lines",
+
+	 "classification": "nondeterministic",
+
+	 "virustotal": "https://www.virustotal.com/file/4d30e9edb4b04a369f4d1e1c2b8a57b20ce921f0e1dd432126a5491f5471b76d/analysis/1502370367/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/4d30e9edb4b04a369f4d1e1c2b8a57b20ce921f0e1dd432126a5491f5471b76d"
+
+},
+
+{ 
+
 	 "date": "08/14/2017 22:35:01",
 
 	 "source": "deonaea 159.203.x.x",
