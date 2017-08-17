@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "08/17/2017 03:00:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "12f034b641ce4e5145aaebecbaf672c3091a9b77ec5ae0afd01d35a3f59e5c22",
+
+	 "hash": "12f034b641ce4e5145aaebecbaf672c3091a9b77ec5ae0afd01d35a3f59e5c22",
+
+	 "type": "Bourne-Again shell script, ASCII text executable",
+
+	 "classification": "nondeterministic",
+
+	 "virustotal": "" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/12f034b641ce4e5145aaebecbaf672c3091a9b77ec5ae0afd01d35a3f59e5c22"
+
+},
+
+{ 
+
 	 "date": "08/16/2017 19:40:01",
 
 	 "source": "cowrie 159.203.x.x",
