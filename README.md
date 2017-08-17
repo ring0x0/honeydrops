@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "08/17/2017 23:30:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "6b7194e83ebdf0d72494e7e9a212f1ba9d5c7d751e9bfb6a7b0a88c6f2450a88",
+
+	 "hash": "6b7194e83ebdf0d72494e7e9a212f1ba9d5c7d751e9bfb6a7b0a88c6f2450a88",
+
+	 "type": "POSIX shell script, ASCII text executable",
+
+	 "classification": "nondeterministic",
+
+	 "virustotal": "" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/6b7194e83ebdf0d72494e7e9a212f1ba9d5c7d751e9bfb6a7b0a88c6f2450a88"
+
+},
+
+{ 
+
 	 "date": "08/17/2017 19:50:01",
 
 	 "source": "cowrie 159.203.x.x",
