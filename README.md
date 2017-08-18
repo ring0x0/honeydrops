@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "08/18/2017 20:45:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "6d794385c6fe6b2f4ccd33c3240bd45639139f86e77a5452cb309e099c985e2f",
+
+	 "hash": "6d794385c6fe6b2f4ccd33c3240bd45639139f86e77a5452cb309e099c985e2f",
+
+	 "type": "POSIX shell script, ASCII text executable",
+
+	 "classification": "BV:Downloader-JQ [Drp]",
+
+	 "virustotal": "https://www.virustotal.com/file/6d794385c6fe6b2f4ccd33c3240bd45639139f86e77a5452cb309e099c985e2f/analysis/1502317553/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/6d794385c6fe6b2f4ccd33c3240bd45639139f86e77a5452cb309e099c985e2f"
+
+},
+
+{ 
+
 	 "date": "08/18/2017 17:20:01",
 
 	 "source": "deonaea 159.203.x.x",
