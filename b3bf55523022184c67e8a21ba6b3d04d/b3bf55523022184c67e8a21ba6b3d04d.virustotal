@@ -1,0 +1,135 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1mb3bf55523022184c67e8a21ba6b3d04d\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "AVG",
+                        "Win32:Malware-gen"
+                    ],
+                    [
+                        "AVware",
+                        "Trojan-Downloader.Win32.Zegost.al (v)"
+                    ],
+                    [
+                        "Avast",
+                        "Win32:Malware-gen"
+                    ],
+                    [
+                        "Baidu",
+                        "Win32.Trojan-Downloader.Agent.bh"
+                    ],
+                    [
+                        "CrowdStrike",
+                        "malicious_confidence_80% (D)"
+                    ],
+                    [
+                        "Cylance",
+                        "Unsafe"
+                    ],
+                    [
+                        "Cyren",
+                        "W32/Redosdru.J.gen!Eldorado"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "a variant of Win32/TrojanDownloader.Agent.CUL"
+                    ],
+                    [
+                        "Endgame",
+                        "malicious (high confidence)"
+                    ],
+                    [
+                        "F-Prot",
+                        "W32/Redosdru.J.gen!Eldorado"
+                    ],
+                    [
+                        "Fortinet",
+                        "W32/Agent.BKJ!tr"
+                    ],
+                    [
+                        "Ikarus",
+                        "Trojan.Win32.Redosdru"
+                    ],
+                    [
+                        "Jiangmin",
+                        "Backdoor.Generic.abfr"
+                    ],
+                    [
+                        "Kaspersky",
+                        "HEUR:Backdoor.Win32.Generic"
+                    ],
+                    [
+                        "McAfee",
+                        "Downloader-FBPC!B3BF55523022"
+                    ],
+                    [
+                        "McAfee-GW-Edition",
+                        "Downloader-FBPC!B3BF55523022"
+                    ],
+                    [
+                        "Microsoft",
+                        "TrojanDownloader:Win32/Farfli.F!bit"
+                    ],
+                    [
+                        "Panda",
+                        "Trj/GdSda.A"
+                    ],
+                    [
+                        "Qihoo-360",
+                        "Win32/Backdoor.d55"
+                    ],
+                    [
+                        "SentinelOne",
+                        "static engine - malicious"
+                    ],
+                    [
+                        "TrendMicro",
+                        "BKDR_ZEGOST.SM14"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "BKDR_ZEGOST.SM14"
+                    ],
+                    [
+                        "VBA32",
+                        "suspected of Trojan.Downloader.gen.h"
+                    ],
+                    [
+                        "VIPRE",
+                        "Trojan-Downloader.Win32.Zegost.al (v)"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "HEUR:Backdoor.Win32.Generic"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "25 out of 62 antivirus detected \u001b[1mb3bf55523022184c67e8a21ba6b3d04d\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/9aae4c55c656d800a6f51fcac3a61d00ce99a5d1f203b97aecc367e11a596f0c/analysis/1503076222/\n",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
+            "type": "info"
+        }
+    ]
+}

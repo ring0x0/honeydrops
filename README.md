@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "08/18/2017 17:20:01",
+
+	 "source": "deonaea 159.203.x.x",
+
+	 "name": "b3bf55523022184c67e8a21ba6b3d04d",
+
+	 "hash": "9aae4c55c656d800a6f51fcac3a61d00ce99a5d1f203b97aecc367e11a596f0c",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
+
+	 "classification": "Win32:Malware-gen",
+
+	 "virustotal": "https://www.virustotal.com/file/9aae4c55c656d800a6f51fcac3a61d00ce99a5d1f203b97aecc367e11a596f0c/analysis/1503076222/" ,
+
+	 "sample": "https://github.com/dfarmer03/honeydrops/tree/master/b3bf55523022184c67e8a21ba6b3d04d"
+
+},
+
+{ 
+
 	 "date": "08/18/2017 16:30:01",
 
 	 "source": "cowrie 159.203.x.x",
