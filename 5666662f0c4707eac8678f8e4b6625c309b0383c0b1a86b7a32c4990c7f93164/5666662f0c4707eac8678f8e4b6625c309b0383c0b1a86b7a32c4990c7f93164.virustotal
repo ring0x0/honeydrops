@@ -1,7 +1,110 @@
 {
     "results": [
         {
-            "data": "The file is in the queue and will be processed soon, please try again later",
+            "data": "VirusTotal Report for \u001b[1mfe3863087f57e58b064f6c12c2762385\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "Generic.Bash.MiraiA.476F93DE"
+                    ],
+                    [
+                        "AVG",
+                        "?"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Generic.Bash.MiraiA.476F93DE"
+                    ],
+                    [
+                        "Arcabit",
+                        "Generic.Bash.MiraiA.476F93DE"
+                    ],
+                    [
+                        "Avast",
+                        "?"
+                    ],
+                    [
+                        "BitDefender",
+                        "Generic.Bash.MiraiA.476F93DE"
+                    ],
+                    [
+                        "Cyren",
+                        "Trojan.RUEO-6"
+                    ],
+                    [
+                        "DrWeb",
+                        "Linux.DownLoader.275"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "Linux/TrojanDownloader.SH.S"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Generic.Bash.MiraiA.476F93DE (B)"
+                    ],
+                    [
+                        "F-Secure",
+                        "Generic.Bash.MiraiA.476F93DE"
+                    ],
+                    [
+                        "Fortinet",
+                        "Linux/ShellDLoader.RMF!tr"
+                    ],
+                    [
+                        "GData",
+                        "Generic.Bash.MiraiA.476F93DE"
+                    ],
+                    [
+                        "Ikarus",
+                        "Trojan.Linux.Downloader"
+                    ],
+                    [
+                        "Kaspersky",
+                        "HEUR:Trojan-Downloader.Shell.Agent.p"
+                    ],
+                    [
+                        "MAX",
+                        "malware (ai score=81)"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Generic.Bash.MiraiA.476F93DE"
+                    ],
+                    [
+                        "Sophos",
+                        "Mal/ShellDl-A"
+                    ],
+                    [
+                        "Symantec",
+                        "Downloader.Trojan"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "HEUR:Trojan-Downloader.Shell.Agent.p"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "20 out of 57 antivirus detected \u001b[1mfe3863087f57e58b064f6c12c2762385\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/5666662f0c4707eac8678f8e4b6625c309b0383c0b1a86b7a32c4990c7f93164/analysis/1503144006/\n",
             "type": "info"
         },
         {
