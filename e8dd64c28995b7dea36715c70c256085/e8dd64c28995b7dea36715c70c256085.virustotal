@@ -1,7 +1,7 @@
 {
     "results": [
         {
-            "data": "VirusTotal Report for \u001b[1m621c0b356c49edc5ce4cf3ee88c30f82\u001b[0m:",
+            "data": "VirusTotal Report for \u001b[1me8dd64c28995b7dea36715c70c256085\u001b[0m:",
             "type": "success"
         },
         {
@@ -17,59 +17,63 @@
                 "rows": [
                     [
                         "ALYac",
-                        "Gen:Variant.Zusy.227790"
+                        "Generic.Mulinex.8F4FB5BB"
                     ],
                     [
                         "AVG",
-                        "Win32:Malware-gen"
+                        "Win32:Farfli-AH [Trj]"
                     ],
                     [
                         "AVware",
-                        "Trojan.Win32.Generic!BT"
+                        "Trojan.Win32.Generic.pak!cobra"
                     ],
                     [
                         "Ad-Aware",
-                        "Gen:Variant.Zusy.227790"
+                        "Generic.Mulinex.8F4FB5BB"
                     ],
                     [
                         "AegisLab",
-                        "Troj.W32.Generic!c"
+                        "Troj.W32.Gen.lLFP"
                     ],
                     [
                         "AhnLab-V3",
-                        "Downloader/Win32.Infostealer.R200963"
-                    ],
-                    [
-                        "Antiy-AVL",
-                        "Trojan/Win32.AGeneric"
+                        "Backdoor/Win32.Farfli.R118584"
                     ],
                     [
                         "Arcabit",
-                        "Trojan.Zusy.D379CE"
+                        "Generic.Mulinex.8F4FB5BB"
                     ],
                     [
                         "Avast",
-                        "Win32:Malware-gen"
+                        "NSIS:Downloader-AP [Drp]"
                     ],
                     [
                         "Avira",
-                        "TR/Crypt.ZPACK.vgfvv"
+                        "TR/Downloader.Gen"
+                    ],
+                    [
+                        "Baidu",
+                        "Win32.Trojan.Farfli.bd"
                     ],
                     [
                         "BitDefender",
-                        "Gen:Variant.Zusy.227790"
+                        "Generic.Mulinex.8F4FB5BB"
                     ],
                     [
                         "CAT-QuickHeal",
-                        "Downldr.Farfli.S640563"
+                        "Backdoor.Zegost.BZ4"
+                    ],
+                    [
+                        "ClamAV",
+                        "Win.Trojan.Generic-6305873-0"
                     ],
                     [
                         "Comodo",
-                        "UnclassifiedMalware"
+                        "TrojWare.Win32.Agent.PDSB"
                     ],
                     [
                         "CrowdStrike",
-                        "malicious_confidence_60% (W)"
+                        "malicious_confidence_100% (D)"
                     ],
                     [
                         "Cylance",
@@ -77,51 +81,63 @@
                     ],
                     [
                         "Cyren",
-                        "W32/Trojan.RBBZ-6602"
+                        "W32/KillAV.AU.gen!Eldorado"
+                    ],
+                    [
+                        "DrWeb",
+                        "Trojan.DownLoader12.47262"
                     ],
                     [
                         "ESET-NOD32",
-                        "Win32/TrojanDownloader.Agent.DHB"
+                        "a variant of Win32/Farfli.BAB"
                     ],
                     [
                         "Emsisoft",
-                        "Gen:Variant.Zusy.227790 (B)"
+                        "Generic.Mulinex.8F4FB5BB (B)"
                     ],
                     [
                         "Endgame",
-                        "malicious (moderate confidence)"
+                        "malicious (high confidence)"
+                    ],
+                    [
+                        "F-Prot",
+                        "W32/KillAV.AU.gen!Eldorado"
                     ],
                     [
                         "F-Secure",
-                        "Gen:Variant.Zusy.227790"
+                        "Generic.Mulinex.8F4FB5BB"
                     ],
                     [
                         "Fortinet",
-                        "W32/GenKryptik.AGWJ!tr"
+                        "W32/Farfli.BAB!tr"
                     ],
                     [
                         "GData",
-                        "Gen:Variant.Zusy.227790"
+                        "Generic.Mulinex.8F4FB5BB"
                     ],
                     [
                         "Ikarus",
-                        "Trojan-Downloader.Win32.Agent"
+                        "Trojan.Win32.Redosdru"
+                    ],
+                    [
+                        "Invincea",
+                        "heuristic"
                     ],
                     [
                         "Jiangmin",
-                        "Trojan.Generic.atzgy"
+                        "Trojan/PSW.Magania.bgyu"
                     ],
                     [
                         "K7AntiVirus",
-                        "Riskware ( 0040eff71 )"
+                        "Trojan ( 0049fe3c1 )"
                     ],
                     [
                         "K7GW",
-                        "Riskware ( 0040eff71 )"
+                        "Trojan ( 0049fe3c1 )"
                     ],
                     [
                         "Kaspersky",
-                        "HEUR:Trojan.Win32.Generic"
+                        "Trojan.Win32.Csfrsys.qa"
                     ],
                     [
                         "MAX",
@@ -129,94 +145,114 @@
                     ],
                     [
                         "Malwarebytes",
-                        "Backdoor.Farfli"
+                        "Trojan.AVDis"
                     ],
                     [
                         "McAfee",
-                        "GenericRXBE-DO!621C0B356C49"
+                        "BackDoor-FDFE!E8DD64C28995"
                     ],
                     [
                         "McAfee-GW-Edition",
-                        "GenericRXBE-DO!621C0B356C49"
+                        "BehavesLike.Win32.Dropper.nm"
                     ],
                     [
                         "MicroWorld-eScan",
-                        "Gen:Variant.Zusy.227790"
+                        "Generic.Mulinex.8F4FB5BB"
                     ],
                     [
                         "Microsoft",
-                        "TrojanDownloader:Win32/Farfli.F!bit"
+                        "Backdoor:Win32/Zegost"
                     ],
                     [
                         "NANO-Antivirus",
-                        "Trojan.Win32.Farfli.emphhc"
-                    ],
-                    [
-                        "Paloalto",
-                        "generic.ml"
+                        "Trojan.Win32.Dwn.denvkl"
                     ],
                     [
                         "Panda",
-                        "Trj/Downloader.ABT"
+                        "Trj/Genetic.gen"
                     ],
                     [
                         "Qihoo-360",
-                        "HEUR/QVM10.1.3230.Malware.Gen"
+                        "HEUR/QVM07.1.3259.Malware.Gen"
                     ],
                     [
                         "Rising",
-                        "Malware.Generic.5!tfe (cloud:s8GMqW9WO9O)"
+                        "Backdoor.Farfli!1.64B3 (classic)"
+                    ],
+                    [
+                        "SentinelOne",
+                        "static engine - malicious"
                     ],
                     [
                         "Sophos",
-                        "Mal/Generic-S"
+                        "Troj/Zegost-JJ"
                     ],
                     [
                         "Symantec",
-                        "Trojan.Gen"
+                        "SMG.Heur!gen"
                     ],
                     [
                         "Tencent",
-                        "Win32.Backdoor.Gh0stx.Auto"
+                        "Win32.Trojan.Csfrsys.Anfx"
+                    ],
+                    [
+                        "TheHacker",
+                        "Trojan/Farfli.bab"
                     ],
                     [
                         "TrendMicro",
-                        "TROJ_GEN.R047C0DD217"
+                        "BKDR_FARFLI.SMP"
                     ],
                     [
                         "TrendMicro-HouseCall",
-                        "TROJ_GEN.R047C0DD217"
+                        "BKDR_FARFLI.SMP"
+                    ],
+                    [
+                        "VBA32",
+                        "TrojanPSW.Magania"
                     ],
                     [
                         "VIPRE",
-                        "Trojan.Win32.Generic!BT"
+                        "Trojan.Win32.Generic.pak!cobra"
+                    ],
+                    [
+                        "ViRobot",
+                        "Trojan.Win32.Agent.103748"
                     ],
                     [
                         "Webroot",
-                        "W32.Malware.Gen"
+                        "W32.Malware.gen"
                     ],
                     [
                         "Yandex",
-                        "Trojan.Agent!dY/fI+TZ9tU"
+                        "Trojan.Farfli!K+N1YaL5Spo"
                     ],
                     [
                         "Zillya",
-                        "Downloader.Agent.Win32.325791"
+                        "Trojan.Magania.Win32.65948"
                     ],
                     [
                         "ZoneAlarm",
-                        "HEUR:Trojan.Win32.Generic"
+                        "Trojan.Win32.Csfrsys.qa"
+                    ],
+                    [
+                        "Zoner",
+                        "Trojan.Farfli.BOU"
+                    ],
+                    [
+                        "nProtect",
+                        "Trojan-PWS/W32.WebGame.98304.MI"
                     ]
                 ]
             },
             "type": "table"
         },
         {
-            "data": "48 out of 63 antivirus detected \u001b[1m621c0b356c49edc5ce4cf3ee88c30f82\u001b[0m as malicious.",
+            "data": "57 out of 65 antivirus detected \u001b[1me8dd64c28995b7dea36715c70c256085\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/cd0bce4eb015f2eeebf13d9c07e2700417e3ed6766ce71c107e7e827ce5433bd/analysis/1500926348/\n",
+            "data": "https://www.virustotal.com/file/68383c386467465b73ff3aaf193d75d74a847e15b972c7196f89f5c98dba511a/analysis/1502895745/\n",
             "type": "info"
         },
         {
