@@ -17,7 +17,7 @@
                 "rows": [
                     [
                         "AVG",
-                        "BV:Downloader-JV [Drp]"
+                        "?"
                     ],
                     [
                         "AegisLab",
@@ -25,7 +25,7 @@
                     ],
                     [
                         "Avast",
-                        "BV:Downloader-JV [Drp]"
+                        "?"
                     ],
                     [
                         "ClamAV",
@@ -56,8 +56,8 @@
                         "Mal/ShellDl-A"
                     ],
                     [
-                        "TrendMicro-HouseCall",
-                        "Suspicious_GEN.F47V0429"
+                        "ViRobot",
+                        "HTML.Z.Agent.1109"
                     ],
                     [
                         "ZoneAlarm",
@@ -68,11 +68,11 @@
             "type": "table"
         },
         {
-            "data": "12 out of 58 antivirus detected \u001b[1mf76b1732f0c24a0ecda8f75a215a8053\u001b[0m as malicious.",
+            "data": "12 out of 57 antivirus detected \u001b[1mf76b1732f0c24a0ecda8f75a215a8053\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/b60309c8ed0986457ed60050bb221e681773c04aeb16fddbce07c87e95a7ff90/analysis/1499587699/\n",
+            "data": "https://www.virustotal.com/file/b60309c8ed0986457ed60050bb221e681773c04aeb16fddbce07c87e95a7ff90/analysis/1503093269/\n",
             "type": "info"
         },
         {
