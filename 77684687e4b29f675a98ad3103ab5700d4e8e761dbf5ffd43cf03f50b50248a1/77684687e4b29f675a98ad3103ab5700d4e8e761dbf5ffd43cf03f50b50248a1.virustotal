@@ -17,7 +17,7 @@
                 "rows": [
                     [
                         "AVG",
-                        "?"
+                        "BV:Downloader-JW [Drp]"
                     ],
                     [
                         "AegisLab",
@@ -25,7 +25,7 @@
                     ],
                     [
                         "Avast",
-                        "?"
+                        "BV:Downloader-JW [Drp]"
                     ],
                     [
                         "ClamAV",
@@ -64,6 +64,10 @@
                         "Mal/ShellDl-A"
                     ],
                     [
+                        "Tencent",
+                        "Win32.Trojan-downloader.Agent.Lkxp"
+                    ],
+                    [
                         "ViRobot",
                         "HTML.Z.Agent.1456.A"
                     ],
@@ -76,11 +80,11 @@
             "type": "table"
         },
         {
-            "data": "14 out of 57 antivirus detected \u001b[1m3975d8d7ed8a976923edd2e0c3dc9bac\u001b[0m as malicious.",
+            "data": "15 out of 58 antivirus detected \u001b[1m3975d8d7ed8a976923edd2e0c3dc9bac\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/77684687e4b29f675a98ad3103ab5700d4e8e761dbf5ffd43cf03f50b50248a1/analysis/1503093269/\n",
+            "data": "https://www.virustotal.com/file/77684687e4b29f675a98ad3103ab5700d4e8e761dbf5ffd43cf03f50b50248a1/analysis/1503519324/\n",
             "type": "info"
         },
         {
