@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "08/24/2017 12:17:59",
+
+	 "source": "manual 192.241.x.x",
+
+	 "name": "rat.exe",
+
+	 "hash": "682e0632436e9aae1690b715f0c8dc6472fe823386945894ea97f0c1eca12a25",
+
+	 "type": "MS-DOS executable, MZ for MS-DOS",
+
+	 "classification": "nondeterministic",
+
+	 "virustotal": "https://www.virustotal.com/file/682e0632436e9aae1690b715f0c8dc6472fe823386945894ea97f0c1eca12a25/analysis/1503574978/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/rat.exe"
+
+},
+
+{ 
+
 	 "date": "08/24/2017 11:35:01",
 
 	 "source": "deonaea 192.241.x.x",

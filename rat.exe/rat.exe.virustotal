@@ -1,0 +1,39 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m007d2cd9da901790a77457d48ea75437\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ClamAV",
+                        "Win.Trojan.Bladabindi-6016609-0"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "1 out of 60 antivirus detected \u001b[1m007d2cd9da901790a77457d48ea75437\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/682e0632436e9aae1690b715f0c8dc6472fe823386945894ea97f0c1eca12a25/analysis/1503574978/\n",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
+            "type": "info"
+        }
+    ]
+}
