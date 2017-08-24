@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "08/24/2017 11:35:01",
+
+	 "source": "deonaea 192.241.x.x",
+
+	 "name": "90575ec2147b274c35f3c088dd9d7ecf",
+
+	 "hash": "0563da1f2cdc8976e5024ed6ae8b6ac6ab9a1dabf4c9cbde82533be8c3dc32e3",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows, UPX compressed",
+
+	 "classification": "Win32:Malware-gen",
+
+	 "virustotal": "https://www.virustotal.com/file/0563da1f2cdc8976e5024ed6ae8b6ac6ab9a1dabf4c9cbde82533be8c3dc32e3/analysis/1503574424/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/90575ec2147b274c35f3c088dd9d7ecf"
+
+},
+
+{ 
+
 	 "date": "08/24/2017 05:00:01",
 
 	 "source": "cowrie 159.203.x.x",
