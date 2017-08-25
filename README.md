@@ -2,6 +2,86 @@
 
 { 
 
+	 "date": "08/25/2017 18:45:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "fa71cfb9453f4ba8104a396e5ade45b23401d7c39bebd2ab0f24be058a7c7b15",
+
+	 "hash": "fa71cfb9453f4ba8104a396e5ade45b23401d7c39bebd2ab0f24be058a7c7b15",
+
+	 "type": "ASCII text",
+
+	 "classification": "nondeterministic",
+
+	 "virustotal": "" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/fa71cfb9453f4ba8104a396e5ade45b23401d7c39bebd2ab0f24be058a7c7b15"
+
+},
+
+{ 
+
+	 "date": "08/25/2017 18:45:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "901a58ced6553605e980162af4520c2d41688bdb1d6dd75a81a98750b8491802",
+
+	 "hash": "901a58ced6553605e980162af4520c2d41688bdb1d6dd75a81a98750b8491802",
+
+	 "type": "Bourne-Again shell script, ASCII text executable",
+
+	 "classification": "Generic.Bash.MiraiA.C7305BBE",
+
+	 "virustotal": "https://www.virustotal.com/file/901a58ced6553605e980162af4520c2d41688bdb1d6dd75a81a98750b8491802/analysis/1503685553/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/901a58ced6553605e980162af4520c2d41688bdb1d6dd75a81a98750b8491802"
+
+},
+
+{ 
+
+	 "date": "08/25/2017 18:35:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "a04a8f7feb5e20427834d2c1a29c685763d6c357af7144bfd588e0fdb3cf1b01",
+
+	 "hash": "a04a8f7feb5e20427834d2c1a29c685763d6c357af7144bfd588e0fdb3cf1b01",
+
+	 "type": "Bourne-Again shell script, ASCII text executable",
+
+	 "classification": "nondeterministic",
+
+	 "virustotal": "" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/a04a8f7feb5e20427834d2c1a29c685763d6c357af7144bfd588e0fdb3cf1b01"
+
+},
+
+{ 
+
+	 "date": "08/25/2017 18:35:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "6cde664990b1d1cdbaa9842d4938e870a5d0e4d9ca0f920a60a457be2d23326e",
+
+	 "hash": "6cde664990b1d1cdbaa9842d4938e870a5d0e4d9ca0f920a60a457be2d23326e",
+
+	 "type": "ASCII text",
+
+	 "classification": "nondeterministic",
+
+	 "virustotal": "" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/6cde664990b1d1cdbaa9842d4938e870a5d0e4d9ca0f920a60a457be2d23326e"
+
+},
+
+{ 
+
 	 "date": "08/25/2017 17:35:01",
 
 	 "source": "deonaea 192.241.x.x",
