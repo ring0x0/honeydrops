@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "08/25/2017 12:00:01",
+
+	 "source": "deonaea 192.241.x.x",
+
+	 "name": "060088b29f15ecb8a3edd0b1fa039e6f",
+
+	 "hash": "215d0deac05cb1c703ae7fbe8593ae06b4f8dcbce3bfcc96ebc9328f4b721a25",
+
+	 "type": "PE32 executable (console) Intel 80386, for MS Windows, UPX compressed",
+
+	 "classification": "Gen:Win32.Malware.wmKfa4mxPNjb",
+
+	 "virustotal": "https://www.virustotal.com/file/215d0deac05cb1c703ae7fbe8593ae06b4f8dcbce3bfcc96ebc9328f4b721a25/analysis/1503662184/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/060088b29f15ecb8a3edd0b1fa039e6f"
+
+},
+
+{ 
+
 	 "date": "08/25/2017 08:20:01",
 
 	 "source": "deonaea 192.241.x.x",
