@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "08/25/2017 21:30:01",
+
+	 "source": "deonaea 192.241.x.x",
+
+	 "name": "d21f48ba215faa68388323950b2edcc2",
+
+	 "hash": "23e6483293dd63bb12c3fe2050fe47fc0c534954a0989acfc2bdfebd4e9dd9d2",
+
+	 "type": "PE32 executable (GUI) Intel 80386 (stripped to external PDB), for MS Windows",
+
+	 "classification": "Gen:Trojan.Heur.ny3@vaebXVd",
+
+	 "virustotal": "https://www.virustotal.com/file/23e6483293dd63bb12c3fe2050fe47fc0c534954a0989acfc2bdfebd4e9dd9d2/analysis/1503453804/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/d21f48ba215faa68388323950b2edcc2"
+
+},
+
+{ 
+
 	 "date": "08/25/2017 19:30:02",
 
 	 "source": "cowrie 159.203.x.x",
