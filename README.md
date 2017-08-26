@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "08/26/2017 07:50:01",
+
+	 "source": "deonaea 159.203.x.x",
+
+	 "name": "smb-i_i4x7ih.tmp",
+
+	 "hash": "2dc4d045b8a0c66dc003a0c92c8305c53b7fc8f7b7347befdf59d4b16e26135a",
+
+	 "type": "data",
+
+	 "classification": "Worm.Generic.230976",
+
+	 "virustotal": "https://www.virustotal.com/file/2dc4d045b8a0c66dc003a0c92c8305c53b7fc8f7b7347befdf59d4b16e26135a/analysis/1503721037/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/smb-i_i4x7ih.tmp"
+
+},
+
+{ 
+
 	 "date": "08/26/2017 06:20:01",
 
 	 "source": "cowrie 159.203.x.x",
