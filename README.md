@@ -2,6 +2,46 @@
 
 { 
 
+	 "date": "08/26/2017 21:10:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "81f4ea257f97d73e1acd69683907e7c782b48f94d1e16a181ec2b2206606c280",
+
+	 "hash": "81f4ea257f97d73e1acd69683907e7c782b48f94d1e16a181ec2b2206606c280",
+
+	 "type": "Bourne-Again shell script, ASCII text executable",
+
+	 "classification": "Generic.Bash.MiraiA.CE70CA48",
+
+	 "virustotal": "https://www.virustotal.com/file/81f4ea257f97d73e1acd69683907e7c782b48f94d1e16a181ec2b2206606c280/analysis/1503782142/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/81f4ea257f97d73e1acd69683907e7c782b48f94d1e16a181ec2b2206606c280"
+
+},
+
+{ 
+
+	 "date": "08/26/2017 21:10:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "512ca07264a06a91d5fbe00301a05949575574fda9c0d4a6a8737e1a8197c789",
+
+	 "hash": "512ca07264a06a91d5fbe00301a05949575574fda9c0d4a6a8737e1a8197c789",
+
+	 "type": "ASCII text",
+
+	 "classification": "nondeterministic",
+
+	 "virustotal": "" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/512ca07264a06a91d5fbe00301a05949575574fda9c0d4a6a8737e1a8197c789"
+
+},
+
+{ 
+
 	 "date": "08/26/2017 18:45:01",
 
 	 "source": "cowrie 159.203.x.x",
