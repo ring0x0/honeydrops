@@ -1,0 +1,195 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1me4c57e18a10cbfeaa66e871ada03615c\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "AVG",
+                        "BV:Sshscan-E [Trj]"
+                    ],
+                    [
+                        "AegisLab",
+                        "Exp.Spy.Gen!c"
+                    ],
+                    [
+                        "AhnLab-V3",
+                        "Linux/Pscanner"
+                    ],
+                    [
+                        "Antiy-AVL",
+                        "HackTool/Linux.WuScan.b"
+                    ],
+                    [
+                        "Arcabit",
+                        "Linux.CornelGEN.225"
+                    ],
+                    [
+                        "Avast",
+                        "BV:Sshscan-E [Trj]"
+                    ],
+                    [
+                        "Avira",
+                        "EXP/Spy.233"
+                    ],
+                    [
+                        "BitDefender",
+                        "Trojan.Hacktool.Linux.Pscan.A"
+                    ],
+                    [
+                        "CAT-QuickHeal",
+                        "Exploit.Linux.Nukerea"
+                    ],
+                    [
+                        "ClamAV",
+                        "Win.Trojan.Linux-11"
+                    ],
+                    [
+                        "Comodo",
+                        "UnclassifiedMalware"
+                    ],
+                    [
+                        "Cyren",
+                        "Unix/Shark.A"
+                    ],
+                    [
+                        "DrWeb",
+                        "Tool.Linux.PortScanner.8"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "Linux/HackTool.Scanner.K potentially unsafe"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Trojan.Hacktool.Linux.Pscan.A (B)"
+                    ],
+                    [
+                        "F-Prot",
+                        "Unix/Shark.A"
+                    ],
+                    [
+                        "F-Secure",
+                        "Trojan.Hacktool.Linux.Pscan.A"
+                    ],
+                    [
+                        "Fortinet",
+                        "Riskware/Linuxportscan"
+                    ],
+                    [
+                        "GData",
+                        "Trojan.Hacktool.Linux.Pscan.A"
+                    ],
+                    [
+                        "Jiangmin",
+                        "HackTool.Linux.ae"
+                    ],
+                    [
+                        "K7AntiVirus",
+                        "Hacktool ( 00339ca31 )"
+                    ],
+                    [
+                        "K7GW",
+                        "Hacktool ( 00339ca31 )"
+                    ],
+                    [
+                        "Kaspersky",
+                        "HackTool.Linux.WuScan.b"
+                    ],
+                    [
+                        "MAX",
+                        "malware (ai score=80)"
+                    ],
+                    [
+                        "McAfee",
+                        "Exploit-Generic"
+                    ],
+                    [
+                        "McAfee-GW-Edition",
+                        "Linux/Portscan"
+                    ],
+                    [
+                        "Microsoft",
+                        "HackTool:Linux/Pscan.A"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Trojan.Unix.WuScan.ebdnmb"
+                    ],
+                    [
+                        "Panda",
+                        "Linux/BannerScan"
+                    ],
+                    [
+                        "Qihoo-360",
+                        "virus.elf.shark.a"
+                    ],
+                    [
+                        "Rising",
+                        "Hack.Linux.Sshscan.a (classic)"
+                    ],
+                    [
+                        "Sophos",
+                        "Troj/SysComp-A"
+                    ],
+                    [
+                        "Symantec",
+                        "Trojan.Gen.NPE"
+                    ],
+                    [
+                        "Tencent",
+                        "Linux.Hacktool.Wuscan.Alij"
+                    ],
+                    [
+                        "TrendMicro",
+                        "TROJ_Generic.ZA"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "Suspicious_GEN.F47V0421"
+                    ],
+                    [
+                        "ViRobot",
+                        "Linux.S.Agent.21407"
+                    ],
+                    [
+                        "Yandex",
+                        "Hacktool.Linux.Sshcan.A"
+                    ],
+                    [
+                        "Zillya",
+                        "Downloader.OpenConnection.JS.5509"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "HackTool.Linux.WuScan.b"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "40 out of 60 antivirus detected \u001b[1me4c57e18a10cbfeaa66e871ada03615c\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/296af9b4fbe555567572f14349ac85e2fc0996ff199c77b6261cd5e60de137dc/analysis/1500664208/\n",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
+            "type": "info"
+        }
+    ]
+}

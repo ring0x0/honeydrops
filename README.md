@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "08/27/2017 11:30:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "296af9b4fbe555567572f14349ac85e2fc0996ff199c77b6261cd5e60de137dc",
+
+	 "hash": "296af9b4fbe555567572f14349ac85e2fc0996ff199c77b6261cd5e60de137dc",
+
+	 "type": "Zip archive data, at least v1.0 to extract",
+
+	 "classification": "Trojan.Hacktool.Linux.Pscan.A",
+
+	 "virustotal": "https://www.virustotal.com/file/296af9b4fbe555567572f14349ac85e2fc0996ff199c77b6261cd5e60de137dc/analysis/1500664208/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/296af9b4fbe555567572f14349ac85e2fc0996ff199c77b6261cd5e60de137dc"
+
+},
+
+{ 
+
 	 "date": "08/27/2017 10:05:01",
 
 	 "source": "cowrie 159.203.x.x",
