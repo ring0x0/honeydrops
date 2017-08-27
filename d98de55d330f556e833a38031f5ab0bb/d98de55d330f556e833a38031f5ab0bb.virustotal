@@ -1,0 +1,155 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1md98de55d330f556e833a38031f5ab0bb\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "Gen:Variant.Zusy.247887"
+                    ],
+                    [
+                        "AVG",
+                        "Win32:Malware-gen"
+                    ],
+                    [
+                        "AVware",
+                        "Trojan.Win32.Rimecud.d (v)"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Gen:Variant.Zusy.247887"
+                    ],
+                    [
+                        "AegisLab",
+                        "Gen.Variant.Zusy!c"
+                    ],
+                    [
+                        "Arcabit",
+                        "Trojan.Zusy.D3C84F"
+                    ],
+                    [
+                        "Avast",
+                        "Win32:Malware-gen"
+                    ],
+                    [
+                        "Avira",
+                        "TR/AD.Nitol.faqqw"
+                    ],
+                    [
+                        "Baidu",
+                        "Win32.Trojan.WisdomEyes.16070401.9500.9993"
+                    ],
+                    [
+                        "BitDefender",
+                        "Gen:Variant.Zusy.247887"
+                    ],
+                    [
+                        "Comodo",
+                        "TrojWare.Win32.TrojanProxy.Horst.~O"
+                    ],
+                    [
+                        "CrowdStrike",
+                        "malicious_confidence_60% (W)"
+                    ],
+                    [
+                        "Cylance",
+                        "Unsafe"
+                    ],
+                    [
+                        "DrWeb",
+                        "Trojan.DownLoader25.25250"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Gen:Variant.Zusy.247887 (B)"
+                    ],
+                    [
+                        "Endgame",
+                        "malicious (high confidence)"
+                    ],
+                    [
+                        "F-Secure",
+                        "Gen:Variant.Zusy.247887"
+                    ],
+                    [
+                        "GData",
+                        "Gen:Variant.Zusy.247887"
+                    ],
+                    [
+                        "Kaspersky",
+                        "Trojan.Win32.ServStart.abpu"
+                    ],
+                    [
+                        "MAX",
+                        "malware (ai score=81)"
+                    ],
+                    [
+                        "McAfee",
+                        "Artemis!D98DE55D330F"
+                    ],
+                    [
+                        "McAfee-GW-Edition",
+                        "Artemis"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Gen:Variant.Zusy.247887"
+                    ],
+                    [
+                        "Paloalto",
+                        "generic.ml"
+                    ],
+                    [
+                        "Rising",
+                        "Malware.Heuristic!ET#85% (rdm+)"
+                    ],
+                    [
+                        "SentinelOne",
+                        "static engine - malicious"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "TROJ_GEN.R047H09HO17"
+                    ],
+                    [
+                        "VIPRE",
+                        "Trojan.Win32.Rimecud.d (v)"
+                    ],
+                    [
+                        "ViRobot",
+                        "Trojan.Win32.Z.Zusy.160272"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "Trojan.Win32.ServStart.abpu"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "30 out of 64 antivirus detected \u001b[1md98de55d330f556e833a38031f5ab0bb\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/5076fb4730d7b3509c5a490f543f6deff3b0d47be1522649bd71bf55e0cd531c/analysis/1503642060/\n",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
+            "type": "info"
+        }
+    ]
+}

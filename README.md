@@ -2,6 +2,46 @@
 
 { 
 
+	 "date": "08/27/2017 12:00:01",
+
+	 "source": "deonaea 192.241.x.x",
+
+	 "name": "ab27f6c7634e9efc13fb2db29216a0a8",
+
+	 "hash": "c071278f921475bc6f252b10b771dda4948596ef6d81b689bd936a2a9058b5cc",
+
+	 "type": "ELF 64-bit LSB shared object, x86-64, version 1 (SYSV), dynamically linked, stripped",
+
+	 "classification": "nondeterministic",
+
+	 "virustotal": "https://www.virustotal.com/file/c071278f921475bc6f252b10b771dda4948596ef6d81b689bd936a2a9058b5cc/analysis/1502696400/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/ab27f6c7634e9efc13fb2db29216a0a8"
+
+},
+
+{ 
+
+	 "date": "08/27/2017 11:40:01",
+
+	 "source": "deonaea 159.203.x.x",
+
+	 "name": "d98de55d330f556e833a38031f5ab0bb",
+
+	 "hash": "5076fb4730d7b3509c5a490f543f6deff3b0d47be1522649bd71bf55e0cd531c",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
+
+	 "classification": "Gen:Variant.Zusy.247887",
+
+	 "virustotal": "https://www.virustotal.com/file/5076fb4730d7b3509c5a490f543f6deff3b0d47be1522649bd71bf55e0cd531c/analysis/1503642060/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/d98de55d330f556e833a38031f5ab0bb"
+
+},
+
+{ 
+
 	 "date": "08/27/2017 11:30:01",
 
 	 "source": "cowrie 159.203.x.x",
@@ -3337,26 +3377,6 @@
 	 "virustotal": "https://www.virustotal.com/file/2e979158d066a4e5324d831c56da95c733e009a5533a787b9a976b065f21c39a/analysis/1500585945/" ,
 
 	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/2e979158d066a4e5324d831c56da95c733e009a5533a787b9a976b065f21c39a"
-
-},
-
-{ 
-
-	 "date": "07/24/2017 05:00:01",
-
-	 "source": "deonaea 192.241.x.x",
-
-	 "name": "ab27f6c7634e9efc13fb2db29216a0a8",
-
-	 "hash": "c071278f921475bc6f252b10b771dda4948596ef6d81b689bd936a2a9058b5cc",
-
-	 "type": "ELF 64-bit LSB shared object, x86-64, version 1 (SYSV), dynamically linked, stripped",
-
-	 "classification": "nondeterministic",
-
-	 "virustotal": "https://www.virustotal.com/file/c071278f921475bc6f252b10b771dda4948596ef6d81b689bd936a2a9058b5cc/analysis/1498852693/" ,
-
-	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/ab27f6c7634e9efc13fb2db29216a0a8"
 
 },
 

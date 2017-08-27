@@ -5,11 +5,30 @@
             "type": "success"
         },
         {
-            "data": "0 out of 56 antivirus detected \u001b[1mab27f6c7634e9efc13fb2db29216a0a8\u001b[0m as malicious.",
+            "data": "Detecting engines:",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/c071278f921475bc6f252b10b771dda4948596ef6d81b689bd936a2a9058b5cc/analysis/1498852693/\n",
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "Sophos",
+                        "MySQL UDF SYS library (PUA)"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "1 out of 58 antivirus detected \u001b[1mab27f6c7634e9efc13fb2db29216a0a8\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/c071278f921475bc6f252b10b771dda4948596ef6d81b689bd936a2a9058b5cc/analysis/1502696400/\n",
             "type": "info"
         },
         {
