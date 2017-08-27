@@ -52,9 +52,9 @@
 
 	 "type": "a /usr/bin/perl script, UTF-8 Unicode text executable, with escape sequences",
 
-	 "classification": "nondeterministic",
+	 "classification": "Perl:Flooder-A [Trj]",
 
-	 "virustotal": "" ,
+	 "virustotal": "https://www.virustotal.com/file/64879160f088c0570f86dfa8e68678152ba99468c4143cdc4a2cf591b8b8d99a/analysis/1503822729/" ,
 
 	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/64879160f088c0570f86dfa8e68678152ba99468c4143cdc4a2cf591b8b8d99a"
 
