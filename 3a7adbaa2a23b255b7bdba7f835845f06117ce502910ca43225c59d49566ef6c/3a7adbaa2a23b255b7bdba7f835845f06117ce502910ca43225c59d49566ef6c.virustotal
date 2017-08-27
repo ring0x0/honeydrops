@@ -1,0 +1,55 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m3995e6ed31ec042b8001254890e904e9\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "AVG",
+                        "BV:Downloader-IQ [Trj]"
+                    ],
+                    [
+                        "Avast",
+                        "BV:Downloader-IQ [Trj]"
+                    ],
+                    [
+                        "DrWeb",
+                        "Linux.DownLoader.211"
+                    ],
+                    [
+                        "Kaspersky",
+                        "HEUR:Trojan-Downloader.Shell.Agent.p"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "HEUR:Trojan-Downloader.Shell.Agent.p"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "5 out of 58 antivirus detected \u001b[1m3995e6ed31ec042b8001254890e904e9\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/3a7adbaa2a23b255b7bdba7f835845f06117ce502910ca43225c59d49566ef6c/analysis/1503828122/\n",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
+            "type": "info"
+        }
+    ]
+}

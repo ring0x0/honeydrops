@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "08/27/2017 10:05:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "3a7adbaa2a23b255b7bdba7f835845f06117ce502910ca43225c59d49566ef6c",
+
+	 "hash": "3a7adbaa2a23b255b7bdba7f835845f06117ce502910ca43225c59d49566ef6c",
+
+	 "type": "ASCII text",
+
+	 "classification": "HEUR:Trojan-Downloader.Shell.Agent.p",
+
+	 "virustotal": "https://www.virustotal.com/file/3a7adbaa2a23b255b7bdba7f835845f06117ce502910ca43225c59d49566ef6c/analysis/1503828122/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/3a7adbaa2a23b255b7bdba7f835845f06117ce502910ca43225c59d49566ef6c"
+
+},
+
+{ 
+
 	 "date": "08/27/2017 09:35:01",
 
 	 "source": "cowrie 159.203.x.x",
@@ -12,9 +32,9 @@
 
 	 "type": "Bourne-Again shell script, ASCII text executable",
 
-	 "classification": "nondeterministic",
+	 "classification": "Generic.Bash.MiraiA.2F34CC12",
 
-	 "virustotal": "" ,
+	 "virustotal": "https://www.virustotal.com/file/70f5beff057e2261dd8eec991cd866dc01cafb5b0f0ba08cd884bd238f1b3093/analysis/1503828048/" ,
 
 	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/70f5beff057e2261dd8eec991cd866dc01cafb5b0f0ba08cd884bd238f1b3093"
 
