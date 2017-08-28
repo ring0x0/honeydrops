@@ -2,6 +2,46 @@
 
 { 
 
+	 "date": "08/28/2017 08:30:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "5c8c41253aa68adeb955e7d1c7b8e084e06537f75eff12c3f3a0f3cb30cb2152",
+
+	 "hash": "5c8c41253aa68adeb955e7d1c7b8e084e06537f75eff12c3f3a0f3cb30cb2152",
+
+	 "type": "ELF 32-bit LSB executable, MIPS, MIPS-I version 1 (SYSV), statically linked, stripped",
+
+	 "classification": "Linux.Trojan.Agent.A",
+
+	 "virustotal": "https://www.virustotal.com/file/5c8c41253aa68adeb955e7d1c7b8e084e06537f75eff12c3f3a0f3cb30cb2152/analysis/1503539535/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/5c8c41253aa68adeb955e7d1c7b8e084e06537f75eff12c3f3a0f3cb30cb2152"
+
+},
+
+{ 
+
+	 "date": "08/28/2017 08:25:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "9c2848962733846bf50b490fd8f6c7ce9ecade2d3f2f530f5ecbba283af87d3a",
+
+	 "hash": "9c2848962733846bf50b490fd8f6c7ce9ecade2d3f2f530f5ecbba283af87d3a",
+
+	 "type": "ELF 32-bit LSB executable, ARM, version 1, statically linked, stripped",
+
+	 "classification": "Linux.Trojan.Agent.A",
+
+	 "virustotal": "https://www.virustotal.com/file/9c2848962733846bf50b490fd8f6c7ce9ecade2d3f2f530f5ecbba283af87d3a/analysis/1503539235/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/9c2848962733846bf50b490fd8f6c7ce9ecade2d3f2f530f5ecbba283af87d3a"
+
+},
+
+{ 
+
 	 "date": "08/28/2017 06:10:01",
 
 	 "source": "deonaea 192.241.x.x",
