@@ -1,0 +1,123 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m63e7b5139afc6a5d54bebf5a518b2daf\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "Gen:Win32.Malware.ir0@aO4@sApb"
+                    ],
+                    [
+                        "AVG",
+                        "Win32:Malware-gen"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Gen:Win32.Malware.ir0@aO4@sApb"
+                    ],
+                    [
+                        "Arcabit",
+                        "Gen:Win32.Malware.E55239"
+                    ],
+                    [
+                        "Avast",
+                        "Win32:Malware-gen"
+                    ],
+                    [
+                        "BitDefender",
+                        "Gen:Win32.Malware.ir0@aO4@sApb"
+                    ],
+                    [
+                        "CAT-QuickHeal",
+                        "Trojan.Generic.2919"
+                    ],
+                    [
+                        "ClamAV",
+                        "Win.Trojan.Generic-6260335-1"
+                    ],
+                    [
+                        "CrowdStrike",
+                        "malicious_confidence_100% (D)"
+                    ],
+                    [
+                        "Cylance",
+                        "Unsafe"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "a variant of Win32/Packed.FlyStudio.AA potentially unwanted"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Gen:Win32.Malware.ir0@aO4@sApb (B)"
+                    ],
+                    [
+                        "Endgame",
+                        "malicious (high confidence)"
+                    ],
+                    [
+                        "F-Secure",
+                        "Gen:Win32.Malware.ir0@aO4@sApb"
+                    ],
+                    [
+                        "GData",
+                        "Gen:Win32.Malware.ir0@aO4@sApb"
+                    ],
+                    [
+                        "Invincea",
+                        "heuristic"
+                    ],
+                    [
+                        "Kaspersky",
+                        "UDS:DangerousObject.Multi.Generic"
+                    ],
+                    [
+                        "MAX",
+                        "malware (ai score=88)"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Gen:Win32.Malware.ir0@aO4@sApb"
+                    ],
+                    [
+                        "Rising",
+                        "Trojan.Injector!1.A1C3 (classic)"
+                    ],
+                    [
+                        "TotalDefense",
+                        "Win32/Oflwr.A!crypt"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "UDS:DangerousObject.Multi.Generic"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "22 out of 64 antivirus detected \u001b[1m63e7b5139afc6a5d54bebf5a518b2daf\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/26fd2c3c123d9a18ec4311f5a82bbe79a4190a89bce0e4d73e251f357484468f/analysis/1503923645/\n",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
+            "type": "info"
+        }
+    ]
+}
