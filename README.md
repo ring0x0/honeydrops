@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "08/28/2017 06:10:01",
+
+	 "source": "deonaea 192.241.x.x",
+
+	 "name": "smb-w08rp2e8.tmp",
+
+	 "hash": "b351f7bf82243434071c478c357e8e57402cf222eb2136ea92f707b5fecb28bd",
+
+	 "type": "MS-DOS executable, MZ for MS-DOS",
+
+	 "classification": "GenPack:Generic.Malware.MW.2EBED77D",
+
+	 "virustotal": "https://www.virustotal.com/file/b351f7bf82243434071c478c357e8e57402cf222eb2136ea92f707b5fecb28bd/analysis/1503893163/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/smb-w08rp2e8.tmp"
+
+},
+
+{ 
+
 	 "date": "08/28/2017 05:00:01",
 
 	 "source": "cowrie 159.203.x.x",
