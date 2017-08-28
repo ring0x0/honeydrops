@@ -52,6 +52,10 @@
                         "Trojan.Script.Agent.ekbkzw"
                     ],
                     [
+                        "Qihoo-360",
+                        "Win32/Trojan.Downloader.d08"
+                    ],
+                    [
                         "TrendMicro-HouseCall",
                         "Suspicious_GEN.F47V0621"
                     ],
@@ -64,11 +68,11 @@
             "type": "table"
         },
         {
-            "data": "11 out of 58 antivirus detected \u001b[1m3ea0dd32204ef9458e5ab1c78bd71aab\u001b[0m as malicious.",
+            "data": "12 out of 58 antivirus detected \u001b[1m3ea0dd32204ef9458e5ab1c78bd71aab\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/00268b762f9be5d53621ff104360984eb060f2c423ddcffa2f9d241aa3a0a2b4/analysis/1500143846/\n",
+            "data": "https://www.virustotal.com/file/00268b762f9be5d53621ff104360984eb060f2c423ddcffa2f9d241aa3a0a2b4/analysis/1502736254/\n",
             "type": "info"
         },
         {

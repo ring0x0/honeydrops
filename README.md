@@ -2,6 +2,46 @@
 
 { 
 
+	 "date": "08/28/2017 03:00:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "5ebd8ecb53fd5b4a78bb438a136482f1c752d35dc7cba4cabfa76209c077f8b1",
+
+	 "hash": "5ebd8ecb53fd5b4a78bb438a136482f1c752d35dc7cba4cabfa76209c077f8b1",
+
+	 "type": "Bourne-Again shell script, ASCII text executable",
+
+	 "classification": "Generic.Bash.MiraiA.6D6DA601",
+
+	 "virustotal": "https://www.virustotal.com/file/5ebd8ecb53fd5b4a78bb438a136482f1c752d35dc7cba4cabfa76209c077f8b1/analysis/1503862252/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/5ebd8ecb53fd5b4a78bb438a136482f1c752d35dc7cba4cabfa76209c077f8b1"
+
+},
+
+{ 
+
+	 "date": "08/28/2017 03:00:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "00268b762f9be5d53621ff104360984eb060f2c423ddcffa2f9d241aa3a0a2b4",
+
+	 "hash": "00268b762f9be5d53621ff104360984eb060f2c423ddcffa2f9d241aa3a0a2b4",
+
+	 "type": "ASCII text",
+
+	 "classification": "HEUR:Trojan-Downloader.Shell.Agent.as",
+
+	 "virustotal": "https://www.virustotal.com/file/00268b762f9be5d53621ff104360984eb060f2c423ddcffa2f9d241aa3a0a2b4/analysis/1502736254/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/00268b762f9be5d53621ff104360984eb060f2c423ddcffa2f9d241aa3a0a2b4"
+
+},
+
+{ 
+
 	 "date": "08/28/2017 02:30:01",
 
 	 "source": "cowrie 159.203.x.x",
@@ -97,26 +137,6 @@
 	 "virustotal": "https://www.virustotal.com/file/2af4b918858ed0e9d25fbebd41efcce0a7dc43ccc390ee1bb52b41d85b9fe871/analysis/1503828007/" ,
 
 	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/2af4b918858ed0e9d25fbebd41efcce0a7dc43ccc390ee1bb52b41d85b9fe871"
-
-},
-
-{ 
-
-	 "date": "08/27/2017 23:35:01",
-
-	 "source": "cowrie 159.203.x.x",
-
-	 "name": "5ebd8ecb53fd5b4a78bb438a136482f1c752d35dc7cba4cabfa76209c077f8b1",
-
-	 "hash": "5ebd8ecb53fd5b4a78bb438a136482f1c752d35dc7cba4cabfa76209c077f8b1",
-
-	 "type": "Bourne-Again shell script, ASCII text executable",
-
-	 "classification": "Generic.Bash.MiraiA.6D6DA601",
-
-	 "virustotal": "https://www.virustotal.com/file/5ebd8ecb53fd5b4a78bb438a136482f1c752d35dc7cba4cabfa76209c077f8b1/analysis/1503862252/" ,
-
-	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/5ebd8ecb53fd5b4a78bb438a136482f1c752d35dc7cba4cabfa76209c077f8b1"
 
 },
 
@@ -1937,26 +1957,6 @@
 	 "virustotal": "https://www.virustotal.com/file/3b539e1f5a96760cbd086887df00390b065da9fa3d4cbf854db2646774153f37/analysis/1502656304/" ,
 
 	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/201f0db3a2edb294d0cc79524a54e3d4"
-
-},
-
-{ 
-
-	 "date": "08/13/2017 23:00:01",
-
-	 "source": "cowrie 159.203.x.x",
-
-	 "name": "00268b762f9be5d53621ff104360984eb060f2c423ddcffa2f9d241aa3a0a2b4",
-
-	 "hash": "00268b762f9be5d53621ff104360984eb060f2c423ddcffa2f9d241aa3a0a2b4",
-
-	 "type": "ASCII text",
-
-	 "classification": "HEUR:Trojan-Downloader.Shell.Agent.as",
-
-	 "virustotal": "https://www.virustotal.com/file/00268b762f9be5d53621ff104360984eb060f2c423ddcffa2f9d241aa3a0a2b4/analysis/1500143846/" ,
-
-	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/00268b762f9be5d53621ff104360984eb060f2c423ddcffa2f9d241aa3a0a2b4"
 
 },
 
