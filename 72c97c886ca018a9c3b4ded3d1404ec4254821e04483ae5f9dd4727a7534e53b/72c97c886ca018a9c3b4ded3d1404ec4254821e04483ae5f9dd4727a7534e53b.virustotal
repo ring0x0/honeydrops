@@ -1,7 +1,86 @@
 {
     "results": [
         {
-            "data": "The file is in the queue and will be processed soon, please try again later",
+            "data": "VirusTotal Report for \u001b[1m71acbe5808526d69e6d28b6d59ff23e4\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "Generic.Bash.MiraiA.68D865EB"
+                    ],
+                    [
+                        "AVG",
+                        "BV:Downloader-KB [Drp]"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Generic.Bash.MiraiA.68D865EB"
+                    ],
+                    [
+                        "Arcabit",
+                        "Generic.Bash.MiraiA.68D865EB"
+                    ],
+                    [
+                        "Avast",
+                        "BV:Downloader-KB [Drp]"
+                    ],
+                    [
+                        "BitDefender",
+                        "Generic.Bash.MiraiA.68D865EB"
+                    ],
+                    [
+                        "DrWeb",
+                        "Linux.DownLoader.320"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Generic.Bash.MiraiA.68D865EB (B)"
+                    ],
+                    [
+                        "F-Secure",
+                        "Generic.Bash.MiraiA.68D865EB"
+                    ],
+                    [
+                        "GData",
+                        "Generic.Bash.MiraiA.68D865EB"
+                    ],
+                    [
+                        "Ikarus",
+                        "Trojan.Linux.Downloader"
+                    ],
+                    [
+                        "MAX",
+                        "malware (ai score=84)"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Generic.Bash.MiraiA.68D865EB"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Trojan.Script.Agent.ekbkzw"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "14 out of 59 antivirus detected \u001b[1m71acbe5808526d69e6d28b6d59ff23e4\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/72c97c886ca018a9c3b4ded3d1404ec4254821e04483ae5f9dd4727a7534e53b/analysis/1503882009/\n",
             "type": "info"
         },
         {
