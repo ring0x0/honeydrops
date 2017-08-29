@@ -12,9 +12,9 @@
 
 	 "type": "ASCII text",
 
-	 "classification": "nondeterministic",
+	 "classification": "Generic.Bash.MiraiA.49D7EF85",
 
-	 "virustotal": "" ,
+	 "virustotal": "https://www.virustotal.com/file/1ecdc5afeaccef7ab4667d47ff783b7ea1e27d550b8632d21b6aafefe0ac1b5f/analysis/1503981006/" ,
 
 	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/1ecdc5afeaccef7ab4667d47ff783b7ea1e27d550b8632d21b6aafefe0ac1b5f"
 
