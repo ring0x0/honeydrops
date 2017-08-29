@@ -2,6 +2,46 @@
 
 { 
 
+	 "date": "08/29/2017 10:10:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "62d506fa403d2b42b02a1801e9947f578fd41fd099972d95a926e373c9e12dc1",
+
+	 "hash": "62d506fa403d2b42b02a1801e9947f578fd41fd099972d95a926e373c9e12dc1",
+
+	 "type": "Bourne-Again shell script, ASCII text executable",
+
+	 "classification": "Generic.Bash.MiraiA.21E12B94",
+
+	 "virustotal": "https://www.virustotal.com/file/62d506fa403d2b42b02a1801e9947f578fd41fd099972d95a926e373c9e12dc1/analysis/1503791517/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/62d506fa403d2b42b02a1801e9947f578fd41fd099972d95a926e373c9e12dc1"
+
+},
+
+{ 
+
+	 "date": "08/29/2017 10:10:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "0279d3f81c2f06e7691facfd6ca08e56e959181c1d352f6c6b6fb18581ebc860",
+
+	 "hash": "0279d3f81c2f06e7691facfd6ca08e56e959181c1d352f6c6b6fb18581ebc860",
+
+	 "type": "ASCII text",
+
+	 "classification": "BV:Downloader-KB [Drp]",
+
+	 "virustotal": "https://www.virustotal.com/file/0279d3f81c2f06e7691facfd6ca08e56e959181c1d352f6c6b6fb18581ebc860/analysis/1503846375/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/0279d3f81c2f06e7691facfd6ca08e56e959181c1d352f6c6b6fb18581ebc860"
+
+},
+
+{ 
+
 	 "date": "08/29/2017 09:00:01",
 
 	 "source": "deonaea 192.241.x.x",
