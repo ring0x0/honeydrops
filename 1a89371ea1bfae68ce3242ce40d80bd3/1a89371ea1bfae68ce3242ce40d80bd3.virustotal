@@ -16,6 +16,10 @@
                 ],
                 "rows": [
                     [
+                        "ALYac",
+                        "Gen:Variant.Zegost.6"
+                    ],
+                    [
                         "AVG",
                         "Win32:Zegost-C [Trj]"
                     ],
@@ -148,12 +152,16 @@
                         "Trojan-PSW.Win32.Bjlog.nqi"
                     ],
                     [
+                        "Malwarebytes",
+                        "Backdoor.Zegost"
+                    ],
+                    [
                         "McAfee",
                         "BackDoor-CEP.gen.cn"
                     ],
                     [
                         "McAfee-GW-Edition",
-                        "BehavesLike.Win32.Backdoor.ch"
+                        "BehavesLike.Win32.Pate.ch"
                     ],
                     [
                         "MicroWorld-eScan",
@@ -166,6 +174,10 @@
                     [
                         "NANO-Antivirus",
                         "Trojan.Win32.Dwn.cmrroa"
+                    ],
+                    [
+                        "Paloalto",
+                        "generic.ml"
                     ],
                     [
                         "Panda",
@@ -197,7 +209,7 @@
                     ],
                     [
                         "Tencent",
-                        "Backdoor.Win32.Gh0st.s"
+                        "Win32.Trojan-qqpass.Qqrob.Dzuf"
                     ],
                     [
                         "TheHacker",
@@ -232,6 +244,10 @@
                         "W32.Downloader.Gen"
                     ],
                     [
+                        "WhiteArmor",
+                        "Malware.HighConfidence"
+                    ],
+                    [
                         "Yandex",
                         "Trojan.PWS.Bjlog!CtS4YjFfEAo"
                     ],
@@ -252,11 +268,11 @@
             "type": "table"
         },
         {
-            "data": "58 out of 62 antivirus detected \u001b[1m1a89371ea1bfae68ce3242ce40d80bd3\u001b[0m as malicious.",
+            "data": "62 out of 65 antivirus detected \u001b[1m1a89371ea1bfae68ce3242ce40d80bd3\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/63aa88704c956057cc93188a7d167951604934217332bed7a6902dc5201996a9/analysis/1499910205/\n",
+            "data": "https://www.virustotal.com/file/63aa88704c956057cc93188a7d167951604934217332bed7a6902dc5201996a9/analysis/1501510089/\n",
             "type": "info"
         },
         {
