@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "08/29/2017 16:10:01",
+
+	 "source": "deonaea 192.241.x.x",
+
+	 "name": "cf5c39b02c8f38f92d9bbb672fd2f19f",
+
+	 "hash": "201a29ab2b047e1038aa6bfda29d011b66a815f512481fb116b231af206d6a03",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
+
+	 "classification": "Gen:Variant.Zusy.248352",
+
+	 "virustotal": "https://www.virustotal.com/file/201a29ab2b047e1038aa6bfda29d011b66a815f512481fb116b231af206d6a03/analysis/1504022745/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/cf5c39b02c8f38f92d9bbb672fd2f19f"
+
+},
+
+{ 
+
 	 "date": "08/29/2017 14:30:01",
 
 	 "source": "cowrie 159.203.x.x",
