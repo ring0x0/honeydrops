@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "08/30/2017 01:15:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "c35a8768c633b3631c9e0fd70b0b40ef19539043f8c0fc5f595c0e0b626595f1",
+
+	 "hash": "c35a8768c633b3631c9e0fd70b0b40ef19539043f8c0fc5f595c0e0b626595f1",
+
+	 "type": "ASCII text",
+
+	 "classification": "HEUR:Trojan-Downloader.Shell.Agent.p",
+
+	 "virustotal": "https://www.virustotal.com/file/c35a8768c633b3631c9e0fd70b0b40ef19539043f8c0fc5f595c0e0b626595f1/analysis/1504001907/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/c35a8768c633b3631c9e0fd70b0b40ef19539043f8c0fc5f595c0e0b626595f1"
+
+},
+
+{ 
+
 	 "date": "08/29/2017 16:10:01",
 
 	 "source": "deonaea 192.241.x.x",
