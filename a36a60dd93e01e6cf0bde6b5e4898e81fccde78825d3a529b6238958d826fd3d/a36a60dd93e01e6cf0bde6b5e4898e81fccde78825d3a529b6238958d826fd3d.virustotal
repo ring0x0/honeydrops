@@ -28,6 +28,10 @@
                         "Generic.Bash.MiraiA.0A00D346"
                     ],
                     [
+                        "AegisLab",
+                        "Troj.Downloader.Shell!c"
+                    ],
+                    [
                         "Arcabit",
                         "Generic.Bash.MiraiA.0A00D346"
                     ],
@@ -38,6 +42,10 @@
                     [
                         "BitDefender",
                         "Generic.Bash.MiraiA.0A00D346"
+                    ],
+                    [
+                        "Cyren",
+                        "Trojan.ZXXJ-"
                     ],
                     [
                         "DrWeb",
@@ -80,6 +88,10 @@
                         "Generic.Bash.MiraiA.0A00D346"
                     ],
                     [
+                        "Qihoo-360",
+                        "Win32/Trojan.Downloader.ef5"
+                    ],
+                    [
                         "Rising",
                         "Downloader.Shell!1.ABC3 (classic)"
                     ],
@@ -92,6 +104,18 @@
                         "Downloader.Trojan"
                     ],
                     [
+                        "Tencent",
+                        "Win32.Trojan-downloader.Agent.Phge"
+                    ],
+                    [
+                        "TotalDefense",
+                        "Generic.Bash.MiraiA.0A00D346"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "Suspicious_GEN.F47V0828"
+                    ],
+                    [
                         "ZoneAlarm",
                         "HEUR:Trojan-Downloader.Shell.Agent.p"
                     ]
@@ -100,11 +124,11 @@
             "type": "table"
         },
         {
-            "data": "20 out of 58 antivirus detected \u001b[1mb6c46188b0dc81381cdd108d7fbff23a\u001b[0m as malicious.",
+            "data": "26 out of 57 antivirus detected \u001b[1mb6c46188b0dc81381cdd108d7fbff23a\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/a36a60dd93e01e6cf0bde6b5e4898e81fccde78825d3a529b6238958d826fd3d/analysis/1503921842/\n",
+            "data": "https://www.virustotal.com/file/a36a60dd93e01e6cf0bde6b5e4898e81fccde78825d3a529b6238958d826fd3d/analysis/1504008036/\n",
             "type": "info"
         },
         {
