@@ -1,0 +1,103 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1mb8e6bbb0b54f7e65fc3fe81844ab93a7\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "Trojan.Hacktool.Flood.A"
+                    ],
+                    [
+                        "AVG",
+                        "Linux/Flooder.D"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Trojan.Hacktool.Flood.A"
+                    ],
+                    [
+                        "Arcabit",
+                        "Trojan.Hacktool.Flood.A"
+                    ],
+                    [
+                        "Avast",
+                        "Perl:Flooder-B [Trj]"
+                    ],
+                    [
+                        "Baidu",
+                        "Perl.HackTool.BBSXP.a"
+                    ],
+                    [
+                        "BitDefender",
+                        "Trojan.Hacktool.Flood.A"
+                    ],
+                    [
+                        "DrWeb",
+                        "Perl.Flood.4"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "Perl/HackTool.BBSXP.NAB"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Trojan.Hacktool.Flood.A (B)"
+                    ],
+                    [
+                        "F-Secure",
+                        "Trojan.Hacktool.Flood.A"
+                    ],
+                    [
+                        "GData",
+                        "Trojan.Hacktool.Flood.A"
+                    ],
+                    [
+                        "Ikarus",
+                        "Trojan.Perl.Hacktool"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Trojan.Hacktool.Flood.A"
+                    ],
+                    [
+                        "Qihoo-360",
+                        "Win32/Trojan.Flooder.96f"
+                    ],
+                    [
+                        "Tencent",
+                        "Win32.Trojan.Hacktool.Pitq"
+                    ],
+                    [
+                        "nProtect",
+                        "Trojan.Hacktool.Flood.A"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "17 out of 57 antivirus detected \u001b[1mb8e6bbb0b54f7e65fc3fe81844ab93a7\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/317aff19f01b6821906410784f5719669f451539ccf343b4883667569dc4d084/analysis/1462283148/\n",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
+            "type": "info"
+        }
+    ]
+}

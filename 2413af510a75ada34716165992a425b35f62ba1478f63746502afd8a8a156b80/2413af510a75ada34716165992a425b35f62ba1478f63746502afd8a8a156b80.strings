@@ -1,0 +1,2129 @@
+/lib/ld-linux.so.2
+__gmon_start__
+libncurses.so.5
+tgetnum
+_DYNAMIC
+tgoto
+tgetflag
+ospeed
+_init
+tputs
+tgetent
+_fini
+_GLOBAL_OFFSET_TABLE_
+_nc_timed_wait
+tgetstr
+libutempter.so.0
+addToUtmp
+removeLineFromUtmp
+libutil.so.1
+libcrypt.so.1
+crypt
+_IO_stdin_used
+libc.so.6
+strcpy
+unsetenv
+waitpid
+pause
+ioctl
+chown
+getgid
+printf
+__strtod_internal
+stdout
+getdtablesize
+cfgetospeed
+getlogin
+connect
+getutline
+sigemptyset
+utimes
+strerror
+fdopen
+geteuid
+getenv
+getegid
+__strtol_internal
+execve
+getpid
+fscanf
+fgets
+memcpy
+execl
+__cxa_finalize
+tcflush
+getuid
+getpass
+tcsendbreak
+malloc
+isatty
+sleep
+vsnprintf
+socket
+select
+readdir
+fflush
+ftruncate
+bzero
+abort
+chmod
+alarm
+pipe
+__lxstat
+cfsetispeed
+rename
+calloc
+rindex
+write
+environ
+fprintf
+kill
+ctime
+strcat
+inet_addr
+mkfifo
+__deregister_frame_info
+chdir
+setregid
+setsockopt
+cfsetospeed
+stdin
+wait
+umask
+unlockpt
+setgid
+read
+getspnam
+openlog
+closelog
+strncmp
+strncpy
+unlink
+setenv
+realloc
+bcopy
+fork
+sscanf
+sigaction
+killpg
+index
+gettimeofday
+setreuid
+localtime
+memset
+ftell
+grantpt
+inet_ntoa
+getppid
+tcgetattr
+time
+opendir
+syslog
+ptsname
+strcmp
+ttyname
+getpwuid
+getcwd
+gethostbyname
+getpwnam
+endspent
+gethostname
+sprintf
+fclose
+stderr
+pututline
+fwrite
+access
+__xstat
+freopen
+__errno_location
+exit
+__fxstat
+fopen
+_IO_putc
+fileno
+_exit
+__libc_start_main
+strlen
+open
+getrlimit
+setutent
+fputs
+setsid
+closedir
+fcntl
+setuid
+tcsetattr
+mkdir
+__register_frame_info
+close
+tcsetpgrp
+free
+__environ
+_environ
+_edata
+__bss_start
+_end
+GLIBC_2.0
+GLIBC_2.2
+GLIBC_2.1.3
+GLIBC_2.1
+PTRh
+[^_]
+>#u$
+[^_]
+scre
+8-u+
+C<atH<a
+;<nt
+2Vh@
+C<itV<i
+<0t-<0
+<1t-
+n<st7<s
+`<yt
+KShd
+SVh 
+j.h`
+SQRP
+[^_]
+[^_]
+[^_]
+[^h@
+[^_]
+[^_]
+ZYPV
+[^_]
+_ZPV
+[^_]
+<	w.
+,0<	v
+PSh9
+xDWSh=
+[^_]
+9H t
+9H u
+j%VS
+9H t
+9H u
+j%VP
+[^_]
+gfff
+j%VR
+[^_]
+[^_]
+B<.t
+Y[^_]
+PVWR
+PVWR
+[^_]
+j%VR
+[^_]
+[^_]
+VUUU
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+@Ph%
+[^_]
+[^_]
+[^_]
+SjShD
+[^_]
+9H t!
+9H u
+tX;H u
+;P u
+ZYPV
+VQWP
+[^_]
+HPVWSR
+[^_]
+PSVj
+HPSV
+SVSWP
+PSVSW
+[^_]
+[^_]
+[^_]
+[^_]
+ZYjwj
+C</u
+[^_]
+[^_]
+[^_]
+WPVS
+WVSQ
+[^_]
+[^_]
+3WVP
+7SPR
+7SPV
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+9H t
+9H u
+[^_]
+[^_]
+RPWV
+PSWV
+;s u=
+9P t
+9P u
+[^_]
+,0<	v
+B;QL}
+AHHPj
+@ 9p
+B;PL}
+@HHPj
+;p u
+[^_]
+[^_]
+[^_]
+:auU
+NSj=
+<; t
+ZYj=P
+^_Sj
+[^_]
+~	SSh`
+[^_]
+XZSV
+[^_]
+8YWV
+[^_]
+<	v(
+A< t
+[^_]
+I< t
+[^_]
+[^_]
+U 9U
+O< t
+B 9E
+u';u
+E 9E
+U 9U
+[^_]
+N< t
+[^_]
+[^_]
+Y(w&
+H9A u
+B @P
+ZYPW
+[^QR
+_XVS
+XZWV
+9P4ti
+q8Vh@
+[^_]
+@HH9E
+H49M
+@4)E
+I4)M
+[^_]
+9B4ti
+[^_]
+RPWV
+CF;]
+QRPW
+CCF;]
+[^_]
+K< t
+A 9E
+|6;M
+[^_]
+[^_]
+[^_]
+QSPR
+[^_]
+B</u
+[^_]
+<:t=<{
+<}t!
+<:t(
+wAAA
+[^_]
+9HHu
+9PLt
+[^_]
+WVS1
+[^_]
+t-;u
+B 9x
+B ;x
+[^_]
+[^_]
+[^_]
+|T;E
+[^_]
+,0<	v
+PSh`
+[^_]
+[^_]
+[^_]
+gsmt
+Phhg
+Phhw
+XZSWVh
+[^_]
+XDSh`
+[^_]
+[^_]
+F8QP
+F8WSP
+[^_]
+[^_]
+F8QP
+@WPS
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+_XVj
+Y[Rj
+Y_RS
+ZYPj
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+,0<	w>
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+_XSj
+[^_]
+[^_]
+[^_]
+[^_]
+AP[]
+SCPV
+[^_]
+[^_]
+ZYPS
+[^_]
+[^_]
+[^_]
+SWPVQ
+[^_]
+j%VP
+gfff
+[^_]
+^_j|S
+Hu61
+;5LQ
+;5LQ
+;5LQ
+;5LQ
+j	h!
+[^jwj
+ZYjWj
+[^_]
+j	h!
+[^_]
+9{$u
+C$9{ u
+t 9x
+;W4u
+[^_]
+Ph T
+[^_]
+SHEL
+@j|P
+[^_]
+[^_]
+PlRh
+<|u	C
+Bd-`
+[^_]
+[^_]
+9H u
+[^_]
+[^_]
+9H t
+9H u
+NDQh`
+[^_]
+[^_]
+tV@tSj
+tlBti
+,0<	
+,0<	v
+td<.t
+PSVW
+[^_]
+[^_]
+j VP
+[^_]
+j PS
+j Ph
+RPh+
+[^_]
+YXSh
+XZh`
+XZWV
+[^_]
+VUUU
+[^_]
+[^_]
+[^_]
+F4PS
+[^_]
+RWGH
+VWQR
+QWPR
+[^_]
+unsef
+RSRV
+[^_]
+[^_]
+RSRV
+[^_]
+{HWP
+Rj h#
+[^_]
+RSRV
+[^_]
+[^_]
+[^_]
+RSRV
+[^_]
+[^_]
+C[Cj
+[^_]
+[^_]
+[^_]
+[^_]
+<2.u
+[^_]
+[^_]
+[^_]
+scre
+ZYWP
+[^WQ
+vt10f
+TERM
+ZYWP
+[^_]
+\072
+[^_]
+:\u"
+[^_]
+[^_]
+!<\u
+ZYSV
+,0<	v
+[^_]
+A</~
+jdWS
+[^_]
+[^_]
+[^_]
+ChPS
+Ch;Cp
+HPQVR
+HPQVR
+HPQVR
+HPVh
+HPVR
+HPVR
+HPWR
+sl)u
+Ch9Cl}&
+{xWR
+9Kl~
+HPQVR
+ShRS
+[^_]
+zx~<9
+[^_]
+,0<	v
+[^_]
+gsmj
+ZYPW
+XZh T
+XZh0T
+ZYh 
+[^_]
+Yj,S
+[^_]
+j Vh
+[^_]
+[^_]
+[^_]
+[^_]
+F;P,t
+F;P,u
+;P,u
+;P0u
+[^_]
+[^_]
+[^_]
+QRPh
+RPWVj
+RPWV
+RPWV
+WSQR
+WVSj
+[^_]
+WVh(
+QRhA
+WVh`
+8-u%
+j]h@
+QPhk
+RPhr
+RPhr
+RPhr
+PWhr
+WPhf
+jdhi
++Phr
+8au!
+ADPh
+QDRh
+HDQh
+XZjwj
+^_jWj
+,0<	w3
+SWQh
+PWh@
+2VhL
+RPh 
+WVh`
+t!;S
+[^_]
+QRh\
+[^_]
+[^_]
+[^_]
+RPh 	
+,0<	w
+VSh`	
+[^_]
+,0<	v
+WVS1
+[^_]
+<\u<A
+[^_]
+e;X u
+;~4t
+9J$u
+[^_]
+BP+BL@P
+BH+BD@P
+@ 9p
+ZYPS
+^Xjwj
+Y[jWj
+t	;x 
+9GDu
+t	;x u
+t	;x$u
+[^_]
+@ 9H
+[^_]
+[^_]
+Y[h`
+PdBR
+@`@Ph
++Ph2
+0Pht
+0Ph|
+wDVPh
+[^_]
+tFHu#
+<atX<a
+$<0t0<0
+<1t,
+<1t0<1
+t(<0t
+[^_]
+A<:u
+[^_]
+[^_]
+R8RQ
+H8Qh
+[^_]
+[^_]
+[^_]
+<yt	<Yt
+YZPS
+YZPS
+4$hP
+_ZPV
+ZYPV
+C8^Q
+[^_]
+:0u#
+:0uY
+[^_]
+@ 9H
+[^_]
+)xL)x@
+[^_]
+[^_]
+[^_]
+9B@u
+BLH+
+CX0B
+C(,G
+CX0B
+C(,G
+[^_]
+S tW
+[^_]
+[^_]
+PLJ)
+[^_]
+@LHPj
+@LYHPj
+@LHPj
+BHH9B`
+BHHP
+BHH9B`}
+BHH9B`})
+Zd;Z\t>
+@HHP
+[<IuW
+BHA9
+J`|9
+JdH9
+;J\t
+[^_]
+t2;Pxt-
+;wL|\;wP
+W;_D|R
+t?;q
+|";Y
+[^_]
+;BHu 
+;AHu
+B\9E
+BX9E
+}e9E
+;B\~
+;BX}
+[^_]
+BLHP
+BHHP
+BHHPj
+BH9E
+JHI9
+BHH9E
+t	;]
+BLH9E
+t9;]
+[^_]
+BHH9
+[^_]
+BHH9E
+9B`u39rdu.
+BHH9E
+;wL|?;wP
+;GD|2
+xx;B
+[^_]
+@LHPj
+BHHP
+[^_]
+@HH9E
+[^_]
+[^_]
+[^_]
+;A\u&
+[^_]
+[^_]
+Z\;BX|
+;JX|
+;z\u
+;BX|
+;z\u
+9JXt$
+;Z\u
+9BXuk9
+BHHP
+;Z\uKNuH
+[^_]
+;JX|,;z\u'
+u	;z\
+[^_]
+;J\t
+BHHP
+[^_]
+Zi;]
+[^_]
+Bk;E
+uG;u
+tJ;}
+[^_]
+8Bit
+8Bkt
+8Bjt
+8Bit
+8Bkt
+8Bjt
+[^_]
+@LHPj
+CLHPj
+BLHP
+[^_]
+[^_]
+BLHP
+[^_]
+F;BH})
+F;BH|
+BLHP
+BHHPV
+BLHPV
+[^_]
+R RP
+BLHP
+BHHPj
+[^_]
+BHH9E
+BLH9
+WQRj
+[^_]
+BLH9E
+BHH9E
+;SL|];SP
+;KD|P;{H
+|';P
+BLH9E
+[^_]
+CP@9E
+@ Vj%
+[^QW
+[^_]
+BHH9
+9r`u@
+9Bdu8
+[^_]
+BHH9
+[^_]
+[^_]
+[^_]
+AHH9
+t#9}
+@HH9
+Y_RS
+_XSV
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+;B\u@
+BHH9
+[^_]
+@HH9
+[^_]
+BHH9B`u
+[^_]
+;JHu
+@LH9
+[^_]
+[^_]
+9Z\u
+BH9B`u
+;Z\u
+BH9B`u
+9Zdtw
+BHHPS
+BH9B`u
+9ZdtH9
+@LH9
+BLH9
+;Bxt
+[^_]
+[^_]
+9XHu
+9pLu
+9XHtj9pLt
+HLQS
+=9ZXu
+9r\t3
+XZVW
+[^_]
+;PD|F;PH
+A;HL|<;HP
++P<x-
+x!;H
+VSKP
+[^_]
+r`;JL
+BHHPj
+[^_]
+[^_]
+C<;E
+;8tR
+[^_]
+[^_]
+;F8}
+[^_]
+[^_]
+ZYSP
+[ZQP
+[^_]
+[^_]
+[^_]
+F<etK<e
+<-t3<-
+q<at*
+k<wtt<w
+<rtl
+]<xt
+Z[^_]
+<rtI<r
+%<-t1<-
+<wt#<x
+[^_]
+	<#t3
+<?tz
+t:< t6<	t2<,t.
+[^_]
+[^_]
+A<9E
+,[^_]
+G<=u
+VQSR
+[^PQ
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+WjPV
+[^_]
+YXSR
+[^_]
+PPhG
+ACB;M
+[^_]
+[^_]
+B ;H
+A ;X
+HPVS
+[^_]
+HPVS
+B ;X
+HPVS
+ t*;
+[^_]
+1[^]
+NGBC
+[^_]
+-u+j
+[^_]
+[^_]
+;C,~	
+[^_]
+9C,|
+K@;M
+[^_]
+[^_]
+t!;H
+[^_]
+QRSVP
+[^_]
+[^_]
+JxA9
+PWQVR
+WVWV
+[^_]
+[^_]
+[^_]
+[^_]
+|{;W
+[^_]
+|V;S
+PQVR
+[^_]
+[^_]
+[^_]
+|U;S
+[^_]
+[^_]
+t ;x
+[^_]
+[^_]
+[^_]
+9r4u
+[^_]
+ZYPV
+[^_]
+ZYPV
+8jt|
+8suS
+[^_]
+, <^v
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+;< t
+;< t
+[^_]
+$Id: screen.c,v 1.24 1994/09/06 17:00:20 mlschroe Exp $ FAU
+screen
+1-Sep-00
+%d.%.2d.%.2d%s (%s) %s
+Bell in window %n
+   Wuff,  Wuff!!  
+Activity in window %n
+screenlog.%n
+-- %n:%t -- time-stamp -- %M/%d/%y %c:%s --
+%3n %t
+/tmp/screen-xchg
+Specify a window to preselect with -p
+Specify an alternate rc-filename with -c
+Specify command characters with -e
+Two characters are required with -e option, not '%s'.
+Unknown flow option -%s
+-h: %s: negative scrollback size?
+Specify a new window-name with -t
+%s: Unknown suboption to -l
+Specify terminal-type with -T
+-T: terminal name too long. (max. 20 char)
+Specify shell with -s
+Specify session-name with -S
+Empty session-name?
+Screen version %s
+Unknown option %s
+Ridiculously long socketname - try again.
+SHELL
+HOME
+NETHACKOPTIONS
+%s/.nethackrc
+Must run suid root for multiuser support.
+Cannot identify account '%s'.
+home directory path too long
+getpwuid() can't identify your account!
+LoginName too long - sorry.
+Screen owner name too long - sorry.
+$HOME too long - sorry.
+Must be connected to a terminal.
+TtyName too long - sorry.
+Cannot access '%s'
+Cannot open your terminal '%s' - please check.
+TERM
+Please set a terminal type.
+$TERM too long - sorry.
+Cannot change umask to zero
+SCREENDIR
+Ridiculously long $SCREENDIR - try again.
+No $SCREENDIR with multi screens, please.
+/tmp/uscreens
+/tmp/screens
+%s/S-%s
+Cannot make directory '%s'.
+Cannot make directory '%s'
+'%s' must be a directory.
+Directory '%s' must be owned by root.
+Directory '%s' must have mode %03o.
+Cannot access %s
+%s is not a directory.
+%s is not the owner of %s.
+You are not the owner of %s.
+Directory %s must have mode 700.
+No Sockets found in %s.
+%d Socket%s in %s.
+power 
+[%s %sdetached.]
+fork
+%d.%s
+%d.%s.%s
+SCREEN
+Cannot reopen '%s' - please check.
+/dev/null
+Could not create user info
+Could not alloc display
+SYSSCREENRC
+/etc/screenrc
+Warning: NBLOCK fcntl failed
+Sorry, could not find a PTY.
+New screen...
+=== Window terminated (%s) ===
+core
+[screen caught signal %d.%s]
+Suspended (tty input)
+Suspended (tty output)
+Child has been stopped, restarting.
+[screen is terminating]
+[detached]
+[remote detached]
+[power detached]
+[remote power detached]
+detach
+STY=%s
+TERMCAP
+WINDOW
+SCREENCAP
+LINES
+COLUMNS
+SunMonTueWedThuFriSat
+JanFebMarAprMayJunJulAugSepOctNovDec
+%02d
+%3.3s
+%04d
+%02d:%02d
+%2d:%02d
+$Id: ansi.c,v 1.22 1994/05/31 12:31:25 mlschroe Exp $ FAU
+STATUS
+NONE
+PRIN4
+PRINCSI
+PRINESC
+PRIN
+STRESC
+ASTR
+BIBB01
+IB01
+BBBB02
+Error writing logfile
+[?%d;%dc
+[%d;%dR
+[%d;1;1;112;112;1;0x
+[>%d;%d;0c
+printing aborted
+Warning: no space for attr - turned off
+Warning: no space for font - turned off
+Warning: no space for color - turned off
+$Id: fileio.c,v 1.10 1994/05/31 12:32:01 mlschroe Exp $ FAU
+SCREENRC
+Rc: home too large
+%s/.screenrc
+xterm
+xn:f0=
+Op:f1=
+Oq:f2=
+Or:f3=
+Os:f4=
+Ot:f5=
+Ou:f6=
+Ov:f7=
+Ow:f8=
+Ox:f9=
+Oy:f.=
+On:f,=
+Ol:fe=
+OM:f+=
+Ok:f-=
+Om:f*=
+Oj:f/=
+Oo:fq=
+Unable to open "%s".
+echo
+%s: 'echo [-n] "string"' expected.
+sleep
+%s: sleep: one numeric argument expected.
+termcapinfo
+terminfo
+%s: %s: incorrect number of arguments.
+.termcap
+%s/hardcopy.%d
+hardcopy.%d
+/tmp/screen-xchg
+No write to links, please.
+Cannot open "%s"
+Termcap entry written to "%s".
+appended
+written
+Screen image %s to "%s".
+Copybuffer written to "%s".
+no %s -- no slurp
+no good %s -- no slurp
+Got only %d bytes from %s
+Slurped only %d characters (of %d) into buffer - try again
+Slurped %d characters into buffer
+not 
+%s %sremoved
+printing pipe
+printing fork
+printpipe setuid
+/bin/sh
+$Id: mark.c,v 1.6 1994/05/31 12:32:15 mlschroe Exp $ FAU
+Not enough memory... Sorry.
+Copy mode - Column %d Line %d(+%d) (%d,%d)
+Column %d Line %d(+%d)
+Column %d(%d..%d) Line %d(+%d)
+:set append
+:set noappend
+:set nonu
+:set nu
+Multiple lines (CR/LF)
+Multiple lines (LF)
+Lines joined
+Lines joined with blanks
+Lines joined with comma
+First mark set - Column %d Line %d
+Appended %d characters to buffer
+Copied %d characters into buffer
+Copy mode aborted
+$Id: misc.c,v 1.5 1994/05/31 12:32:19 mlschroe Exp $ FAU
+/dev/
+setreuid
+setregid
+TERM
+unknown
+COLUMNS
+LINES
+expand_vars: buffer overflow
+$Id: resize.c,v 1.5 1994/05/31 12:32:47 mlschroe Exp $ FAU
+Aborted because of window size change.
+No memory for history buffer - turned off
+$Id: socket.c,v 1.23 1994/05/31 12:33:00 mlschroe Exp $ FAU
+Cannot opendir %s
+There are screens on:
+There is a screen on:
+There are several screens on:
+There is a suitable screen on:
+There are several suitable screens on:
+	%s	(Attached)
+	%s	(Detached)
+	%s	(Multi, attached)
+	%s	(Multi, detached)
+	%s	(Dead ?%c?)
+	%s	(Removed)
+	%s	(Remote or dead)
+	%s	(Private)
+%d socket%s wiped out.
+Remove dead screens with 'screen -wipe'.
+There is already a screen running on %s.
+stat
+Unfortunatelly you are not its owner.
+To resume it, use "screen -r"
+It is not detached.
+mkfifo %s failed
+open fifo %s
+getcwd
+write
+BLOCK fcntl
+reopen fifo %s
+read
+Message %d of %d bytes too small
+Invalid message (magic 0x%08x).
+Attach attempt with bad pid(%d)!
+Attach: Could not open %s!
+Attaching from inside of screen?
+Attach msg ignored: coming from inside.
+Access to session denied.
+Attach: access denied for user %s.
+Could not make display.
+Attach: could not make display for user %s
+Warning: NBLOCK fcntl failed
+Invalid message (type %d).
+SYSSCREENRC
+/etc/screenrc
+reattach
+console %s is on window %d
+Screen password: 
+Password incorrect.
+Illegal reattach attempt from terminal %s.
+$Id: search.c,v 1.2 1994/05/31 12:32:57 mlschroe Exp $ FAU
+No previous pattern
+Pattern not found
+failing I-search: 
+I-search: 
+failing I-search backward: 
+I-search backward: 
+$Id: tty.sh,v 1.13 1994/05/31 12:33:17 mlschroe Exp $ FAU
+Cannot open line '%s' for R/W: open() blocked, aborted.
+Cannot open line '%s' for R/W
+'%s' is not a tty
+%s: ioctl TIOCEXCL failed
+SetTTY (fd %d): ioctl failed
+GetTTY (fd %d): ioctl failed
+ 	:;,
+istrip
+-istrip
+ixon
+-ixon
+ixoff
+-ixoff
+crtscts
+-crtscts
+cannot send BREAK (tcsendbreak SVR4)
+Cannot send BREAK (TCSBRK)
+Can't send BREAK (TIOCSBRK)
+BREAK stuck!!! -- HELP! (TIOCCBRK)
+Internal SendBreak error: method %d unknown
+Ouch, cannot reopen line %s, please try harder
+I need a display
+/dev/console
+too dangerous - screen is running on /dev/console
+%s: could not open detach pty master
+%s: could not open detach pty slave
+%s: ioctl TIOCCONS failed
+(CD)
+NO-TTY? %s
+!RTS 
+!CTS 
+!CTS) 
+!DTR 
+!DSR 
+!CD 
+!CD) 
+$Id: term.c,v 1.5 1994/09/06 17:00:23 mlschroe Exp $ FAU
+$Id: window.c,v 1.20 1994/05/31 12:33:24 mlschroe Exp $ FAU
+Press %s to destroy or %s to resurrect window
+No more windows.
+:screen (
+free
+//telnet
+telnet
+Cannot access line '%s' for R/W
+No more PTYs.
+TIOCPKT ioctl
+chown tty
+chmod tty
+fork
+Setuid/gid
+Cannot chdir to %s
+Cannot open %s
+Warning: clear NBLOCK fcntl failed
+fgtty
+SHELL=
+TERM=%s
+WINDOW=%d
+Cannot exec '%s'
+PATH
+(none)
+Filter running: %s
+You feel dead inside.
+Cannot only use commands as pseudo win.
+Warning: FreePseudowin: NBLOCK fcntl failed
+Window %d: silence for %d seconds
+$Id: utmp.c,v 1.7 1994/05/31 12:33:21 mlschroe Exp $ FAU
+Can only work with normal windows.
+This window is now logged in.
+This window should now be logged in.
+This window is already logged in.
+This window is already logged out
+This window is not logged in.
+What? Cannot remove Utmp slot?
+This window is no longer logged in.
+Could not write %s
+local
+:S.%d
+Utmp slot not found -> not removed
+/var/run/utmp
+$Id: loadav.c,v 1.5 1994/09/06 17:00:00 mlschroe Exp $ FAU
+/proc/loadavg
+%lf %lf %lf
+ %2.2f
+$Id: putenv.c,v 1.1.1.1 1993/06/16 23:51:15 jnweiger Exp $ FAU
+$Id: help.c,v 1.7 1994/05/31 12:32:04 mlschroe Exp $ FAU
+Use: %s [-opts] [cmd [args]]
+ or: %s -r [host.tty]
+Options:
+-a            Force all capabilities into each window's termcap.
+-A -[r|R]     Adapt all windows to the new display width & height.
+-c file       Read configuration file instead of '.screenrc'.
+-d (-r)       Detach the elsewhere running screen (and reattach here).
+-dmS name     Start as daemon: Screen session in detached mode.
+-D (-r)       Detach and logout remote (and reattach here).
+-D -RR        Do whatever is needed to get a screen session.
+-e xy         Change command characters.
+-f            Flow control on, -fn = off, -fa = auto.
+-h lines      Set the size of the scrollback history buffer.
+-i            Interrupt output sooner when flow control is on.
+/var/run/utmp
+-l            Login mode on (update %s), -ln = off.
+-list         or -ls. Do nothing, just list our SockDir.
+-L            Terminal's last character can be safely updated.
+-m            ignore $STY variable, do create a new screen session.
+-O            Choose optimal output rather than exact vt100 emulation.
+-p window     Preselect the named window if it exists.
+-q            Quiet startup. Exits with non-zero return code if unsuccessful.
+-r            Reattach to a detached screen process.
+-R            Reattach if possible, otherwise start a new session.
+-s shell      Shell to execute rather than $SHELL.
+-S sockname   Name this session <pid>.sockname instead of <pid>.<tty>.<host>.
+-t title      Set title. (window's name).
+-T term       Use term as $TERM for windows, rather than "screen".
+-v            Print "Screen version %s".
+-wipe         Do nothing, just clean up SockDir.
+-x            Attach to a not detached screen. (Multi display mode).
+Error: 
+Window height too small for help page
+Width too small
+Screen key bindings, page %d of %d.
+Command key:  %s   Literal %s:  %s
+for next page;
+[Press Space %s Return to end.]
+unset
+Screen version %v
+Copyright (c) 1993-2000 Juergen Weigert, Michael Schroeder
+Copyright (c) 1987 Oliver Laumann
+This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2, or (at your option) any later version.
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+You should have received a copy of the GNU General Public License along with this program (see the file COPYING); if not, write to the Free Software Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.
+Send bugreports, fixes, enhancements, t-shirts, money, beer & pizza to screen@uni-erlangen.de
+Window size too small for copyright page
+Window size too small for displays page
+term-type   size         user interface           window
+---------- ------- ---------- ----------------- ----------
+%-10.10s%4dx%-4d%10.10s@%-16.16s%s
+%3d(%.10s)%*s%c%c%c%c
+to refresh;
+Window height too small for bindkey page
+%s key bindings, page %d of %d.
+%s -> 
+$Id: termcap.c,v 1.9 1994/09/06 17:00:31 mlschroe Exp $ FAU
+	:DO=\E[%dB:LE=\E[%dD:RI=\E[%dC:UP=\E[%dA:bs:bt=\E[Z:\
+	:cd=\E[J:ce=\E[K:cl=\E[H\E[J:cm=\E[%i%d;%dH:ct=\E[3g:\
+	:do=^J:nd=\E[C:pt:rc=\E8:rs=\Ec:sc=\E7:st=\EH:up=\EM:\
+	:le=^H:bl=^G:cr=^M:it#8:ho=\E[H:nw=\EE:ta=^I:is=\E)0:
+Cannot find terminfo entry for '%s'.
+Illegal tc type in entry #%d
+You can't run screen on a hardcopy terminal.
+You can't run screen on a terminal that overstrikes.
+Clear screen capability required.
+Addressable cursor capability required.
+COLUMNS
+LINES
+[3%p1%dm
+[4%p1%dm
+[39;49m
+xterm-color
+xterm
+rxvt
+Warning: 'so' but no 'se' capability.
+Warning: 'us' but no 'ue' capability.
+Warning: 'm?' but no 'me' capability.
+(%p1%c
+l+m+k+j+u+t+v+w+q-x|n+o~s_p"r#`+a:f'g#~o.v-^+<,>h#I#0#y<z>
+sjis
+Warning: escape char set back to ^A
+TERMCAP overflow - sorry.
+vt100
+SCREENCAP
+TERMCAP=%s
+TERM=screen
+screen
+TERM=
+%s.%s
+%s-w
+Warning: smir and ich1 set in %s terminfo entry
+too_long
+TERMCAP=SC|%s|VT 100/ANSI X3.64 virtual terminal:
+li#%d:co#%d:
+sr=\EM:
+al=\E[L:
+AL=\E[%dL:
+cs=\E[%i%d;%dr:
+dl=\E[M:
+DL=\E[%dM:
+dc=\E[P:
+DC=\E[%dP:
+im=\E[4h:
+ei=\E[4l:
+IC=\E[%d@:
+ks=\E[?1h\E=:
+ke=\E[?1l\E>:
+vi=\E[?25l:
+ve=\E[34h\E[?25h:
+vs=\E[34l:
+us=\E[4m:
+ue=\E[24m:
+so=\E[3m:
+se=\E[23m:
+mb=\E[5m:
+md=\E[1m:
+mh=\E[2m:
+mr=\E[7m:
+me=\E[m:ms:
+Co#8:pa#64:AF=\E[3%dm:AB=\E[4%dm:op=\E[39;49m:AX:
+vb=\Eg:
+as=\E(0:
+ae=\E(B:
+ac=\140\140aaffggjjkkllmmnnooppqqrrssttuuvvwwxxyyzz{{||}}~~..--++,,hhII00:
+po=\E[5i:
+pf=\E[4i:
+Z0=\E[?3h:
+Z1=\E[?3l:
+WS=\E[8;%d;%dt:
+\072
+\%03o
+$Id: input.c,v 1.2 1994/05/31 12:32:08 mlschroe Exp $ FAU
+Width %d chars too small
+$Id: attacher.c,v 1.8 1994/05/31 12:31:32 mlschroe Exp $ FAU
+chmod %s
+Sorry, cannot contact session "%s" again.
+detach
+resum
+attach
+There is no screen to be %sed matching %s.
+There is no screen to be %sed.
+Type "screen [-d] -r [pid.]tty.host" to resume one of them.
+stat %s
+Socket is in wrong mode (%03o)
+already 
+not 
+That screen is %sdetached.
+write
+Cannot contact screen again. Sigh.
+LINES
+COLUMNS
+Suddenly the Dungeon collapses!! - You die...
+LOCKPRG
+builtin
+SCREEN-LOCK
+Cannot lock terminal - fork failed
+Lock
+ (Core dumped)
+Lock: %s: Killed by signal: %d%s
+Key:   
+Again: 
+Passwords don't match.
+Getpass error.
+Screen used by %s <%s>.
+Password:
+$Id: pty.c,v 1.6 1994/05/31 12:32:44 mlschroe Exp $ FAU
+/dev/ptmx
+$Id: process.c,v 1.28 1994/09/06 17:00:12 mlschroe Exp $ FAU
+OOPS
+four
+three
+%s: %s: %s, %s, %s or %s argument%s required
+%s: %s: %s, %s or %s argument%s required
+%s: %s: %s or %s argument%s required
+%s: %s: %s argument%s required
+%s: %s: at least %s argument%s required
+%s: %s: display required
+%s: %s: window required
+%s: %s: display or window required
+%s: %s: permission denied (user %s)
+Default autonuke turned %s
+Autonuke turned %s
+Default limit set to %d
+Limit is %d, current buffer size is %d
+Limit set to %d
+Really kill this filter [y/n]
+Really kill this window [y/n]
+Filter removed.
+Window %d (%s) killed.
+Really quit and kill all your windows [y/n]
+Sorry, screen was compiled without -DDEBUG option.
+%s:zombie: one or two characters expected.
+%s: %s
+command from %s: %s %s
+/dev/
+/dev/tty
+%s: at '%s': no such window.
+%s: at [identifier][%%|*|#] command [args]
+Copy to register:
+%s: copyreg: character, ^x, or (octal) \032 expected.
+%s: register: character, ^x, or (octal) \032 expected.
+Process register:
+%s: process: character, ^x, or (octal) \032 expected.
+%s: stuff: invalid option %s
+%s: stuff: unknown key '%s'
+screen %s
+tcsendbreak
+TCSBRK
+TIOCSBRK
+%s invalid, chose one of %s, %s or %s
+breaktype set to (%d) %s
+breaktype is (%d) %s
+Illegal width
+Your termcap does not specify how to change the terminal's width to %d.
+Illegal height
+Your termcap does not specify how to change the terminal's height to %d.
+%cwrap
+(auto)
+%cflow%s
+auto
+writelock %s
+Window %d (%s) is now being monitored for all activity.
+Window %d (%s) is no longer being monitored for activity.
+Must be on a window layer
+Paste from register:
+%s: paste destination: character, ^x, or (octal) \032 expected.
+empty buffer
+%s: two characters required after escape.
+%s: two characters required after defescape.
+<cwd>
+hardcopydir is %s
+flush
+log flush timeout set to %ds
+logfile is '%s'
+timestamps turned %s
+string
+logfile timestamp is '%s'
+after
+timestamp printed after %ds
+usage: logtstamp [after [n]|string [str]|on|off]
+Sorry, too late now. Place that in your .screenrc file.
+%s: term: argument too long ( < 20)
+%s: 'echo [-n] "string"' expected.
+bell_msg is '%s'
+/tmp/screen-xchg
+Bufferfile is now '%s'
+pow_detach_msg is '%s'
+on't
+W%s echo command when creating windows.
+always
+lastline
+ignore
+message
+hardstatus string is '%s'
+%s: usage: hardstatus [always]lastline|ignore|message|string [string]
+hardstatus line
+window
+messages displayed on %s
+splitonly
+caption string is '%s'
+%s: usage: caption always|splitonly|string <string>
+%s: releasing console %s
+%s: stealing console %s from window %d (%s)
+%s: grabbing console %s
+No refresh on window change!
+Window specific refresh
+switched to audible bell.
+switched to visual bell.
+vbellwait set to %d seconds
+msgwait set to %d seconds
+msgminwait set to %d seconds
+silencewait set to %d seconds
+This is window %d (%s).
+The window is now being monitored for %d sec. silence.
+The window is no longer being monitored for silence.
+scrollback set to %d
+This session is named '%s'
+%s: bad session name '%s'
+%d.%s
+%s: inappropriate path: '%s'.
+%s: failed to rename(%s, %s)
+Slowpaste in window %d is %d milliseconds.
+Slowpaste in window %d is unset.
+Slowpaste in window %d set to %d milliseconds.
+Slowpaste in window %d now unset.
+%s: markkeys: syntax error.
+not 
+Will %spaste font settings
+%scompacting history lines
+vbell_msg is '%s'
+octal
+%s: mode: Invalid tty mode %o
+Ttymode set to %03o
+none
+Password checking disabled
+%s: password: window required
+New screen password:
+%s: bind: character, ^x, or (octal) \032 expected.
+%s: bind: unknown command '%s'
+%s: bindkey: invalid option %s
+%s: bindkey: -d does not work with -m
+Edit mode
+Default
+User
+%s: bindkey: -a only works with -k
+%s: bindkey: no more room for keybinding
+%s: bindkey: keybinding not found
+%s: bindkey: unknown key '%s'
+%s: bindkey: unknown command '%s'
+%s: maptimeout: illegal time %d
+maptimeout is %dms
+%s removed from acl database
+User %s joined acl-group %s
+User %s does not exist.
+%s's group%s: %s.
+umask: %s
+enabled
+disabled
+Multiuser mode %s
+display set to %sblocking mode.
+Will %suse GR
+Will %suse C1
+Will %serase with background color
+sjis
+kanji: illegal argument (%s)
+defkanji: illegal argument (%s)
+using '%s' as print command
+using termcap entries for printing
+Enter digraph: 
+default hstatus is '%s'
+default charset is '%s'
+%s: %s: string has illegal size.
+%s: %s: illegal mapping number.
+sorendition: bad standout attributes
+sorendition: bad standout color
+Standout attributes 0x%02x  color 0x%02x
+%s:%s screen login
+down
+bottom
+%s: usage: focus [up|down|top|bottom]
+resize # lines: 
+%s: unknown command '%s'
+exec
+%s: too many tokens.
+%s: Missing quote.
+%s: %s: invalid argument. Give 'on' or 'off'
+%s: %s: one argument required.
+%s: %s: invalid argument. Give one argument.
+%s: %s: invalid argument. Give numeric argument.
+%s: %s: invalid argument. Give window number or name.
+%s: %s: empty argument.
+%s: %s: argument is not %s.
+This IS window %d (%s).
+Access to window %d denied.
+No window available
+No other window.
+already
+You are %s logging.
+Logfile "%s" closed.
+Error opening logfile "%s"
+Creating logfile "%s".
+Appending to logfile "%s".
+%2d:%02d:%02d %s
+(%d,%d)/(%d,%d) no window
+(%d,%d)/(%d,%d)
+ %c%sflow
+ -wrap
+ ins
+ org
+ app
+ log
+ mon
+ mouse
+ bce
+ -c1
+ nored
+ G%c%c[
+ G%c[
+ sjis
+ euc
+%s %d(%s)
+Set window's title to: 
+Switch to window: 
+Enter value for %s: 
+Setenv: Enter variable name: 
+%s: screen: invalid option -%c.
+%s: illegal screen number %d.
+Detach aborted.
+Copied %d characters into register %c
+ins_reg_fn: Warning: pasting real register '.'!
+Empty register.
+Screen User: 
+User's UNIX Password: 
+User's Screen Password: 
+Retype new password:
+[ Passwords don't match - checking turned off ]
+[ No password - no secure ]
+[ Password moved into copybuffer ]
+Unknown digraph
+resize: need more than one region
+$Id: display.c,v 1.16 1994/05/31 12:31:50 mlschroe Exp $ FAU
+[?9l
+[?1000l
+[?9h
+[?1000h
+Out of memory
+Error writing output to display
+$Id: comm.c,v 1.10 1993/11/30 19:28:07 mlschroe Exp $ FAU
+zombie
+xoff
+writelock
+writebuf
+wrap
+windows
+width
+wall
+version
+verbose
+vbellwait
+vbell_msg
+vbell
+unsetenv
+umask
+title
+time
+terminfo
+termcapinfo
+termcap
+term
+suspend
+stuff
+startup_message
+split
+sorendition
+slowpaste
+sleep
+silencewait
+silence
+shelltitle
+shell
+setenv
+sessionname
+select
+scrollback
+screen
+resize
+reset
+removebuf
+remove
+register
+redisplay
+readreg
+readbuf
+quit
+process
+printcmd
+prev
+pow_detach_msg
+pow_detach
+pow_break
+pastefont
+paste
+password
+partial
+other
+only
+obuflimit
+number
+nonblock
+next
+nethack
+multiuser
+msgwait
+msgminwait
+monitor
+meta
+markkeys
+maptimeout
+mapnotnext
+mapdefault
+logtstamp
+login
+logfile
+lockscreen
+license
+lastmsg
+kill
+kanji
+info
+hstatus
+history
+help
+height
+hardstatus
+hardcopydir
+hardcopy_append
+hardcopy
+focus
+flow
+exec
+escape
+echo
+dumptermcap
+displays
+digraph
+detach
+defwritelock
+defwrap
+defslowpaste
+defsilence
+defshell
+defscrollback
+defobuflimit
+defmonitor
+defmode
+deflogin
+defkanji
+defhstatus
+defgr
+defflow
+defescape
+defcharset
+defc1
+defbreaktype
+defbce
+defautonuke
+debug
+crlf
+copy
+console
+compacthist
+command
+colon
+clear
+chdir
+charset
+chacl
+caption
+bufferfile
+breaktype
+break
+bindkey
+bind
+bell_msg
+bell
+bd_width
+bd_upper_right
+bd_upper_left
+bd_type
+bd_start_braille
+bd_skip
+bd_scroll
+bd_port
+bd_ncrc
+bd_lower_right
+bd_lower_left
+bd_link
+bd_info
+bd_eightdot
+bd_braille_table
+bd_bell
+bd_bc_up
+bd_bc_right
+bd_bc_left
+bd_bc_down
+autonuke
+autodetach
+allpartial
+addacl
+activity
+aclumask
+aclgrp
+acldel
+aclchg
+acladd
+[24~
+[23~
+[21~
+[20~
+[19~
+[18~
+[17~
+[15~
+[10~
+$Id: acls.c,v 1.12 1994/05/31 12:31:21 mlschroe Exp $ FAU
+none
+nobody
+-rwx
+detach
+displays
+version
+screen
+failed
+succeded
+%s: "su %s" %s for "%s"
+Sorry.
+Bad argument. Should be ``[user[,user...]{+|-}rwxn''.
+UsersAcl failed. Hmmm.
+$Id: braille.c,v 1.1 1995/09/06 15:45:26 jnweiger Exp jnweiger $
+navigator_40
+powerbraille_80
+powerbraille_40
+internal us-braille.tbl
+No entry for bd_type: %s 
+bd_port turned off
+Make sure that braille display is connected and turned on. 
+start_braille turned off
+Braille table not found: %s 
+%d %x %s
+%d cs8 -istrip ixon ixoff
+open comm port failed: %s 
+%02d%02d
+unknown msg
+**%-*.*s
+bc+sc
+none
+bd_bell is on.
+bd_bell is off.
+switched to %d-dots system.
+Out of range; 0 <= bd_info >= 3 
+bd_info is too large for braille display.
+bd_info is too large for bd_width.
+bd_info is %s.
+bd_link is on.
+bd_link is off.
+bd_skip is on.
+bd_skip is off.
+bd_scroll is on.
+bd_scroll is off.
+Out of range; 1 <= bd_ncrc >= %d
+bd_ncrc status is: %d 
+bd_braille_table is: %s 
+Cannot access braille device port %s
+not set
+bd_port is: %s 
+bd_type is: %s 
+bd_start_braille is on.
+bd_start_braille is off.
+Invalid value for bd_width: %d 
+bd_width is: %d 
+3330
+2301
+1032
+$Id: logfile.c,v 1.4 1994/05/31 12:32:12 jnweiger Exp $ FAU
+$Id: search.c,v 1.2 1994/05/31 12:32:57 mlschroe Exp $ FAU
+No memory for layer struct
+No memory for layer data
+$Id: sched.c,v 1.24 1994/09/06 17:00:20 mlschroe Exp $ FAU
+select
+$Id: teln.c,v 1.6 1994/05/31 12:32:15 mlschroe Exp $ FAU
+connected.
+TelOpen: socket
+TelOpen: setsockopt SO_OOBINLINE
+Usage: screen //telnet host [port]
+unknown host: %s
+Trying %s %d...
+Trying %s...
+TelOpen: connect
+Warning: telnet protocol overrun!
+%c%c%c%c%s%c%c
+%c%c%c%c%c%c%c%c%c
+$Id: nethack.c,v 1.01 1999/07/26 19:35:25 mlschroe Exp $ FAU
+%s is too hard to dig in
+Could not write %s
+'%s' tries to touch your session, but fails.
+Illegal reattach attempt from terminal %s.
+The dead screen%s touch%s you. Try 'screen -wipe'.
+Remove dead screens with 'screen -wipe'.
+You hear %d distant explosion%s.
+%d socket%s wiped out.
+You may wish for a screen, what do you want?
+There are several suitable screens on:
+You see here a good looking screen:
+There is a suitable screen on:
+Prove thyself worthy or perish:
+There are several screens on:
+There is a screen on:
+Your inventory:
+There are screens on:
+You regain consciousness.
+Child has been stopped, restarting.
+Be careful!  New screen tonight.
+New screen...
+This room is empty (%s).
+No Sockets found in %s.
+You must play from a terminal.
+Must be connected to a terminal.
+An alarm sounds through the dungeon...
+The Keystone Kops are after you!
+getpwuid() can't identify your account!
+Who was that Maude person anyway?
+Out of memory.
+KAABLAMM!!!  You triggered a land mine!
+Aborted because of window size change.
+[ Passwords don't match - your armor crumbles away ]
+[ Passwords don't match - checking turned off ]
+Empty register.
+The blast of disintegration whizzes by you!
+Detach aborted.
+You add to your scroll of logging named "%s".
+Appending to logfile "%s".
+You start writing on your scroll of logging named "%s".
+Creating logfile "%s".
+You don't seem to have a scroll of logging named "%s".
+Error opening logfile "%s"
+You put away your scroll of logging named "%s".
+Logfile "%s" closed.
+You cannot escape from window %d!
+No other window.
+You no longer sense the watcher's silence.
+The window is no longer being monitored for silence.
+You feel like someone is waiting for %d sec. silence...
+The window is now being monitored for %d sec. silence.
+Your bell is no longer invisible.
+switched to visual bell.
+Suddenly you can't see your bell!
+switched to audible bell.
+Nothing happens.
+empty buffer
+You no longer sense the watcher's presence.
+Window %d (%s) is no longer being monitored for activity.
+You feel like someone is watching you...
+Window %d (%s) is now being monitored for all activity.
+You destroy poor window %d (%s).
+Window %d (%s) killed.
+You have a sad feeling for a moment...
+Filter removed.
+You escaped the dungeon.
+Copy mode aborted
+You drop a magic marker - Column %d Line %d
+First mark set - Column %d Line %d
+Welcome to hacker's treasure zoo - Column %d Line %d(+%d) (%d,%d)
+Copy mode - Column %d Line %d(+%d) (%d,%d)
+You choke on your food: %d bytes from %s
+Got only %d bytes from %s
+Cannot fork terminal - lock failed
+Cannot lock terminal - fork failed
+Out of memory.
+/bin/sh
+:/usr/ucb:/bin:/usr/bin
+/var/run/utmp
+Welcome back to screen !!
+<+)/
+7>!, $(
+10#?
+9HACIYQK[SJZEGM]UO_WN^egzm}ujs{X8
+%':-=5*3;
+@nP|kioDw~al`dhLtBFRrbVvfTqpc
+S  b      swWdDc
+be c                    t      wsf xE  E
+.symtab
+.strtab
+.shstrtab
+.interp
+.note.ABI-tag
+.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rel.got
+.rel.bss
+.rel.plt
+.init
+.plt
+.text
+.fini
+.rodata
+.data
+.eh_frame
+.ctors
+.dtors
+.got
+.dynamic
+.sbss
+.bss

