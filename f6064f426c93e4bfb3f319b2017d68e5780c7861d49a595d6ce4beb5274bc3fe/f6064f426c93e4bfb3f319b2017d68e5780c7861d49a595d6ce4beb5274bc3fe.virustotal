@@ -92,6 +92,14 @@
                         "Trojan.GenericKD.12000009"
                     ],
                     [
+                        "NANO-Antivirus",
+                        "Trojan.Script.Agent.erwdkn"
+                    ],
+                    [
+                        "Qihoo-360",
+                        "Win32/Trojan.Downloader.d08"
+                    ],
+                    [
                         "Sophos",
                         "Mal/ShellDl-A"
                     ],
@@ -120,11 +128,11 @@
             "type": "table"
         },
         {
-            "data": "25 out of 58 antivirus detected \u001b[1m0de87c318cbaf71faf728ec38e7114bd\u001b[0m as malicious.",
+            "data": "27 out of 59 antivirus detected \u001b[1m0de87c318cbaf71faf728ec38e7114bd\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/f6064f426c93e4bfb3f319b2017d68e5780c7861d49a595d6ce4beb5274bc3fe/analysis/1502579004/\n",
+            "data": "https://www.virustotal.com/file/f6064f426c93e4bfb3f319b2017d68e5780c7861d49a595d6ce4beb5274bc3fe/analysis/1504010858/\n",
             "type": "info"
         },
         {

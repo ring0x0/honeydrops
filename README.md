@@ -2,6 +2,46 @@
 
 { 
 
+	 "date": "08/30/2017 09:00:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "f6064f426c93e4bfb3f319b2017d68e5780c7861d49a595d6ce4beb5274bc3fe",
+
+	 "hash": "f6064f426c93e4bfb3f319b2017d68e5780c7861d49a595d6ce4beb5274bc3fe",
+
+	 "type": "ASCII text",
+
+	 "classification": "Trojan.GenericKD.12000009",
+
+	 "virustotal": "https://www.virustotal.com/file/f6064f426c93e4bfb3f319b2017d68e5780c7861d49a595d6ce4beb5274bc3fe/analysis/1504010858/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/f6064f426c93e4bfb3f319b2017d68e5780c7861d49a595d6ce4beb5274bc3fe"
+
+},
+
+{ 
+
+	 "date": "08/30/2017 09:00:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "b60309c8ed0986457ed60050bb221e681773c04aeb16fddbce07c87e95a7ff90",
+
+	 "hash": "b60309c8ed0986457ed60050bb221e681773c04aeb16fddbce07c87e95a7ff90",
+
+	 "type": "ASCII text",
+
+	 "classification": "HEUR:Trojan-Downloader.Shell.Agent.as",
+
+	 "virustotal": "https://www.virustotal.com/file/b60309c8ed0986457ed60050bb221e681773c04aeb16fddbce07c87e95a7ff90/analysis/1504010859/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/b60309c8ed0986457ed60050bb221e681773c04aeb16fddbce07c87e95a7ff90"
+
+},
+
+{ 
+
 	 "date": "08/30/2017 08:30:01",
 
 	 "source": "cowrie 159.203.x.x",
@@ -1482,26 +1522,6 @@
 
 { 
 
-	 "date": "08/23/2017 21:30:02",
-
-	 "source": "cowrie 159.203.x.x",
-
-	 "name": "b60309c8ed0986457ed60050bb221e681773c04aeb16fddbce07c87e95a7ff90",
-
-	 "hash": "b60309c8ed0986457ed60050bb221e681773c04aeb16fddbce07c87e95a7ff90",
-
-	 "type": "ASCII text",
-
-	 "classification": "HEUR:Trojan-Downloader.Shell.Agent.as",
-
-	 "virustotal": "https://www.virustotal.com/file/b60309c8ed0986457ed60050bb221e681773c04aeb16fddbce07c87e95a7ff90/analysis/1503093269/" ,
-
-	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/b60309c8ed0986457ed60050bb221e681773c04aeb16fddbce07c87e95a7ff90"
-
-},
-
-{ 
-
 	 "date": "08/23/2017 21:00:01",
 
 	 "source": "cowrie 159.203.x.x",
@@ -2257,26 +2277,6 @@
 	 "virustotal": "https://www.virustotal.com/file/94ee059335e587e501cc4bf90613e0814f00a7b08bc7c648fd865a2af6a22cc2/analysis/1502823590/" ,
 
 	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/94ee059335e587e501cc4bf90613e0814f00a7b08bc7c648fd865a2af6a22cc2"
-
-},
-
-{ 
-
-	 "date": "08/15/2017 03:00:01",
-
-	 "source": "cowrie 159.203.x.x",
-
-	 "name": "f6064f426c93e4bfb3f319b2017d68e5780c7861d49a595d6ce4beb5274bc3fe",
-
-	 "hash": "f6064f426c93e4bfb3f319b2017d68e5780c7861d49a595d6ce4beb5274bc3fe",
-
-	 "type": "ASCII text",
-
-	 "classification": "Trojan.GenericKD.12000009",
-
-	 "virustotal": "https://www.virustotal.com/file/f6064f426c93e4bfb3f319b2017d68e5780c7861d49a595d6ce4beb5274bc3fe/analysis/1502579004/" ,
-
-	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/f6064f426c93e4bfb3f319b2017d68e5780c7861d49a595d6ce4beb5274bc3fe"
 
 },
 
