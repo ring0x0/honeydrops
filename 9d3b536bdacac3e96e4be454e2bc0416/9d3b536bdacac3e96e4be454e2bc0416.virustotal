@@ -1,0 +1,271 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m9d3b536bdacac3e96e4be454e2bc0416\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "AVG",
+                        "Win32:Vitro"
+                    ],
+                    [
+                        "AVware",
+                        "Virus.Win32.Virut.ce.5 (v)"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Win32.Virtob.Gen.12"
+                    ],
+                    [
+                        "AegisLab",
+                        "W32.Virut.lonJ"
+                    ],
+                    [
+                        "AhnLab-V3",
+                        "Win32/Virut.F"
+                    ],
+                    [
+                        "Antiy-AVL",
+                        "Virus/Win32.Virut.ce"
+                    ],
+                    [
+                        "Arcabit",
+                        "Win32.Virtob.Gen.12"
+                    ],
+                    [
+                        "Avast",
+                        "Win32:Vitro"
+                    ],
+                    [
+                        "Avira",
+                        "W32/Virut.Gen"
+                    ],
+                    [
+                        "Baidu",
+                        "Win32.Virus.Virut.gen"
+                    ],
+                    [
+                        "BitDefender",
+                        "Win32.Virtob.Gen.12"
+                    ],
+                    [
+                        "Bkav",
+                        "W32.Vetor.PE"
+                    ],
+                    [
+                        "CAT-QuickHeal",
+                        "W32.Virut.G"
+                    ],
+                    [
+                        "CMC",
+                        "Virus.Win32.Virut.1!O"
+                    ],
+                    [
+                        "ClamAV",
+                        "Win.Trojan.Nitol-6335025-0"
+                    ],
+                    [
+                        "Comodo",
+                        "Virus.Win32.Virut.CE"
+                    ],
+                    [
+                        "CrowdStrike",
+                        "malicious_confidence_100% (D)"
+                    ],
+                    [
+                        "Cylance",
+                        "Unsafe"
+                    ],
+                    [
+                        "Cyren",
+                        "W32/Virut.AM"
+                    ],
+                    [
+                        "DrWeb",
+                        "Win32.Virut.56"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "Win32/Virut.NBP"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Win32.Virtob.Gen.12 (B)"
+                    ],
+                    [
+                        "Endgame",
+                        "malicious (moderate confidence)"
+                    ],
+                    [
+                        "F-Prot",
+                        "W32/Virut.AM"
+                    ],
+                    [
+                        "F-Secure",
+                        "Win32.Virtob.Gen.12"
+                    ],
+                    [
+                        "Fortinet",
+                        "W32/Virut.CE"
+                    ],
+                    [
+                        "GData",
+                        "Win32.Virus.Virut.U"
+                    ],
+                    [
+                        "Ikarus",
+                        "DDoS.Win32.Nitol"
+                    ],
+                    [
+                        "Invincea",
+                        "heuristic"
+                    ],
+                    [
+                        "Jiangmin",
+                        "Win32/Virut.bt"
+                    ],
+                    [
+                        "K7AntiVirus",
+                        "Trojan ( 00386dc51 )"
+                    ],
+                    [
+                        "K7GW",
+                        "Trojan ( 00386dc51 )"
+                    ],
+                    [
+                        "Kaspersky",
+                        "Virus.Win32.Virut.ce"
+                    ],
+                    [
+                        "Kingsoft",
+                        "Win32.Virut.dd.368640"
+                    ],
+                    [
+                        "MAX",
+                        "malware (ai score=86)"
+                    ],
+                    [
+                        "McAfee",
+                        "W32/Virut.n.gen"
+                    ],
+                    [
+                        "McAfee-GW-Edition",
+                        "BehavesLike.Win32.Dropper.kc"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Win32.Virtob.Gen.12"
+                    ],
+                    [
+                        "Microsoft",
+                        "Virus:Win32/Virut.BN"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Virus.Win32.Virut.hpeg"
+                    ],
+                    [
+                        "Panda",
+                        "W32/Sality.AO"
+                    ],
+                    [
+                        "Qihoo-360",
+                        "Virus.Win32.Virut.M"
+                    ],
+                    [
+                        "Rising",
+                        "Virus.Virut!1.A08B (classic)"
+                    ],
+                    [
+                        "SentinelOne",
+                        "static engine - malicious"
+                    ],
+                    [
+                        "Sophos",
+                        "W32/Scribble-B"
+                    ],
+                    [
+                        "Symantec",
+                        "W32.Virut.CF"
+                    ],
+                    [
+                        "Tencent",
+                        "Virus.Win32.Virut.Gen.200001"
+                    ],
+                    [
+                        "TheHacker",
+                        "W32/Virtob.Gen(F)"
+                    ],
+                    [
+                        "TotalDefense",
+                        "Win32/Virut.17408"
+                    ],
+                    [
+                        "TrendMicro",
+                        "PE_VIRUX.R"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "PE_VIRUX.R"
+                    ],
+                    [
+                        "VBA32",
+                        "Virus.Virut.14"
+                    ],
+                    [
+                        "VIPRE",
+                        "Virus.Win32.Virut.ce.5 (v)"
+                    ],
+                    [
+                        "ViRobot",
+                        "Win32.Virut.Gen.C"
+                    ],
+                    [
+                        "WhiteArmor",
+                        "Malware.HighConfidence"
+                    ],
+                    [
+                        "Yandex",
+                        "Win32.Virut.AB.Gen"
+                    ],
+                    [
+                        "Zillya",
+                        "Virus.Virut.Win32.1938"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "Virus.Win32.Virut.ce"
+                    ],
+                    [
+                        "nProtect",
+                        "Virus/W32.Virut.Gen"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "59 out of 65 antivirus detected \u001b[1m9d3b536bdacac3e96e4be454e2bc0416\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/7febe84e9c0a846ea6bd1483b4edb517222db23f2785cbba45847cc4d484b903/analysis/1504573094/\n",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
+            "type": "info"
+        }
+    ]
+}

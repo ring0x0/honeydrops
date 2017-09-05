@@ -2,6 +2,46 @@
 
 { 
 
+	 "date": "09/05/2017 22:45:02",
+
+	 "source": "deonaea 192.241.x.x",
+
+	 "name": "9d3b536bdacac3e96e4be454e2bc0416",
+
+	 "hash": "7febe84e9c0a846ea6bd1483b4edb517222db23f2785cbba45847cc4d484b903",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows, UPX compressed",
+
+	 "classification": "Win32.Virtob.Gen.12",
+
+	 "virustotal": "https://www.virustotal.com/file/7febe84e9c0a846ea6bd1483b4edb517222db23f2785cbba45847cc4d484b903/analysis/1504573094/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/9d3b536bdacac3e96e4be454e2bc0416"
+
+},
+
+{ 
+
+	 "date": "09/05/2017 22:45:02",
+
+	 "source": "deonaea 192.241.x.x",
+
+	 "name": "30105ab4f90bc3ace18263c8c8de68e8",
+
+	 "hash": "dc88582bbdf0a165140ccf6ac094e57e32fe880acb70d72bf3e9bd661c3d4b37",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows, UPX compressed",
+
+	 "classification": "Gen:Win32.NetworkWorm.cmKfae2UFfhb",
+
+	 "virustotal": "https://www.virustotal.com/file/dc88582bbdf0a165140ccf6ac094e57e32fe880acb70d72bf3e9bd661c3d4b37/analysis/1504651364/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/30105ab4f90bc3ace18263c8c8de68e8"
+
+},
+
+{ 
+
 	 "date": "09/05/2017 22:30:01",
 
 	 "source": "cowrie 159.203.x.x",
