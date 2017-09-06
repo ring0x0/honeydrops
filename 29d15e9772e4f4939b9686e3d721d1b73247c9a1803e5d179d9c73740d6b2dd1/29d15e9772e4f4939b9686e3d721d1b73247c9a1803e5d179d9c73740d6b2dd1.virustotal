@@ -1,7 +1,15 @@
 {
     "results": [
         {
-            "data": "The file is in the queue and will be processed soon, please try again later",
+            "data": "VirusTotal Report for \u001b[1mf876d2bf9c8bc0f598cba88a8ef01b05\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "0 out of 59 antivirus detected \u001b[1mf876d2bf9c8bc0f598cba88a8ef01b05\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/29d15e9772e4f4939b9686e3d721d1b73247c9a1803e5d179d9c73740d6b2dd1/analysis/1504720807/\n",
             "type": "info"
         },
         {
