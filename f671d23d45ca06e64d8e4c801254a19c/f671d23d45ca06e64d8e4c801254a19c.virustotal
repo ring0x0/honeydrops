@@ -1,0 +1,59 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1mf671d23d45ca06e64d8e4c801254a19c\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "Baidu",
+                        "Win32.Trojan.Kryptik.te"
+                    ],
+                    [
+                        "CrowdStrike",
+                        "malicious_confidence_100% (D)"
+                    ],
+                    [
+                        "Cylance",
+                        "Unsafe"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "a variant of Win32/Kryptik.FDQG"
+                    ],
+                    [
+                        "Ikarus",
+                        "Trojan.Win32.Farfli"
+                    ],
+                    [
+                        "SentinelOne",
+                        "static engine - malicious"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "6 out of 64 antivirus detected \u001b[1mf671d23d45ca06e64d8e4c801254a19c\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/a3486a4162e45b9ff72d6b885daf7ce14d79183747b95242170b74103f0f4911/analysis/1504723825/\n",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
+            "type": "info"
+        }
+    ]
+}
