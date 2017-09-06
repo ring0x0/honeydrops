@@ -1,7 +1,7 @@
 {
     "results": [
         {
-            "data": "VirusTotal Report for \u001b[1mf85fa0a52acc1a98d69a7859a3953452\u001b[0m:",
+            "data": "VirusTotal Report for \u001b[1m87211dce8c4289e339b21e0e2356786b\u001b[0m:",
             "type": "success"
         },
         {
@@ -17,23 +17,23 @@
                 "rows": [
                     [
                         "ALYac",
-                        "Generic.Bash.MiraiA.912B5E4E"
+                        "Generic.Bash.MiraiA.C9704CF4"
                     ],
                     [
                         "AVG",
-                        "BV:Downloader-IB [Drp]"
+                        "BV:Downloader-JS [Drp]"
                     ],
                     [
                         "Ad-Aware",
-                        "Generic.Bash.MiraiA.912B5E4E"
+                        "Generic.Bash.MiraiA.C9704CF4"
                     ],
                     [
                         "Arcabit",
-                        "Generic.Bash.MiraiA.912B5E4E"
+                        "Generic.Bash.MiraiA.C9704CF4"
                     ],
                     [
                         "Avast",
-                        "BV:Downloader-IB [Drp]"
+                        "BV:Downloader-JS [Drp]"
                     ],
                     [
                         "Avira",
@@ -41,7 +41,7 @@
                     ],
                     [
                         "BitDefender",
-                        "Generic.Bash.MiraiA.912B5E4E"
+                        "Generic.Bash.MiraiA.C9704CF4"
                     ],
                     [
                         "DrWeb",
@@ -53,11 +53,11 @@
                     ],
                     [
                         "Emsisoft",
-                        "Generic.Bash.MiraiA.912B5E4E (B)"
+                        "Generic.Bash.MiraiA.C9704CF4 (B)"
                     ],
                     [
                         "F-Secure",
-                        "Generic.Bash.MiraiA.912B5E4E"
+                        "Generic.Bash.MiraiA.C9704CF4"
                     ],
                     [
                         "Fortinet",
@@ -65,11 +65,7 @@
                     ],
                     [
                         "GData",
-                        "Generic.Bash.MiraiA.912B5E4E"
-                    ],
-                    [
-                        "Ikarus",
-                        "Trojan.Linux.Downloader"
+                        "Generic.Bash.MiraiA.C9704CF4"
                     ],
                     [
                         "Kaspersky",
@@ -77,15 +73,11 @@
                     ],
                     [
                         "MAX",
-                        "malware (ai score=89)"
+                        "malware (ai score=85)"
                     ],
                     [
                         "MicroWorld-eScan",
-                        "Generic.Bash.MiraiA.912B5E4E"
-                    ],
-                    [
-                        "Rising",
-                        "Downloader.Shell!1.ABC3 (classic)"
+                        "Generic.Bash.MiraiA.C9704CF4"
                     ],
                     [
                         "Sophos",
@@ -104,11 +96,11 @@
             "type": "table"
         },
         {
-            "data": "21 out of 59 antivirus detected \u001b[1mf85fa0a52acc1a98d69a7859a3953452\u001b[0m as malicious.",
+            "data": "19 out of 57 antivirus detected \u001b[1m87211dce8c4289e339b21e0e2356786b\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/e393f326fec79acaf23efe1eedca09429a6c092586d02d2629230f240efb0216/analysis/1504668631/\n",
+            "data": "https://www.virustotal.com/file/273cf94d3e83df271c8ece71952a0e5d9b884701eb0feffc1f60eaa949668f56/analysis/1504669527/\n",
             "type": "info"
         },
         {
