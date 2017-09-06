@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "09/06/2017 15:50:01",
+
+	 "source": "deonaea 159.203.x.x",
+
+	 "name": "b27d50112838f18dc50f88f40f7af09d",
+
+	 "hash": "c078c0aec320623c59994f4de37068a5447ae5856bcce88f5250ad24d7d585b0",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
+
+	 "classification": "Generic.ServStart.A.778BC530",
+
+	 "virustotal": "https://www.virustotal.com/file/c078c0aec320623c59994f4de37068a5447ae5856bcce88f5250ad24d7d585b0/analysis/1504686259/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/b27d50112838f18dc50f88f40f7af09d"
+
+},
+
+{ 
+
 	 "date": "09/06/2017 15:30:01",
 
 	 "source": "cowrie 159.203.x.x",
