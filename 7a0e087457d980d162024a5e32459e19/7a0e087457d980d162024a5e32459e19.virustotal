@@ -1,0 +1,183 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m7a0e087457d980d162024a5e32459e19\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "Gen:Variant.Graftor.260915"
+                    ],
+                    [
+                        "AVG",
+                        "Win32:Malware-gen"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Gen:Variant.Graftor.260915"
+                    ],
+                    [
+                        "AhnLab-V3",
+                        "Backdoor/Win32.Agent.R98492"
+                    ],
+                    [
+                        "Arcabit",
+                        "Trojan.Graftor.D3FB33"
+                    ],
+                    [
+                        "Avast",
+                        "Win32:Malware-gen"
+                    ],
+                    [
+                        "Baidu",
+                        "Win32.Trojan.Farfli.bc"
+                    ],
+                    [
+                        "BitDefender",
+                        "Gen:Variant.Graftor.260915"
+                    ],
+                    [
+                        "CAT-QuickHeal",
+                        "Backdoor.Zegost.17525"
+                    ],
+                    [
+                        "CrowdStrike",
+                        "malicious_confidence_100% (D)"
+                    ],
+                    [
+                        "Cylance",
+                        "Unsafe"
+                    ],
+                    [
+                        "DrWeb",
+                        "Trojan.DownLoader17.42602"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "a variant of Win32/Farfli.BFJ"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Gen:Variant.Graftor.260915 (B)"
+                    ],
+                    [
+                        "Endgame",
+                        "malicious (high confidence)"
+                    ],
+                    [
+                        "F-Secure",
+                        "Gen:Variant.Graftor.260915"
+                    ],
+                    [
+                        "GData",
+                        "Gen:Variant.Graftor.260915"
+                    ],
+                    [
+                        "Ikarus",
+                        "Backdoor.Win32.Farfli"
+                    ],
+                    [
+                        "Invincea",
+                        "heuristic"
+                    ],
+                    [
+                        "K7AntiVirus",
+                        "Trojan ( 004afb1d1 )"
+                    ],
+                    [
+                        "K7GW",
+                        "Trojan ( 004afb1d1 )"
+                    ],
+                    [
+                        "Kaspersky",
+                        "HEUR:Trojan.Win32.Generic"
+                    ],
+                    [
+                        "MAX",
+                        "malware (ai score=80)"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Gen:Variant.Graftor.260915"
+                    ],
+                    [
+                        "Microsoft",
+                        "Backdoor:Win32/Zegost"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Trojan.Win32.Farfli.eqrhid"
+                    ],
+                    [
+                        "Paloalto",
+                        "generic.ml"
+                    ],
+                    [
+                        "Panda",
+                        "Trj/GdSda.A"
+                    ],
+                    [
+                        "Qihoo-360",
+                        "HEUR/QVM07.1.9FC7.Malware.Gen"
+                    ],
+                    [
+                        "Rising",
+                        "Backdoor.Zegost!8.177 (tfe:5:f8S2OOw3GuJ)"
+                    ],
+                    [
+                        "SentinelOne",
+                        "static engine - malicious"
+                    ],
+                    [
+                        "Sophos",
+                        "Mal/Zegost-AT"
+                    ],
+                    [
+                        "TrendMicro",
+                        "BKDR_ZEGOST.SM18"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "BKDR_ZEGOST.SM18"
+                    ],
+                    [
+                        "VBA32",
+                        "SScope.Trojan.Winlock.2113"
+                    ],
+                    [
+                        "Zillya",
+                        "Trojan.Farfli.Win32.30205"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "HEUR:Trojan.Win32.Generic"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "37 out of 65 antivirus detected \u001b[1m7a0e087457d980d162024a5e32459e19\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/dcc946703ce41e5a57cd88a56fe21ef93f8744e949c1e0e31a7aece0c6fa8d82/analysis/1504603585/\n",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
+            "type": "info"
+        }
+    ]
+}
