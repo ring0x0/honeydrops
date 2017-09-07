@@ -22,6 +22,26 @@
 
 { 
 
+	 "date": "09/07/2017 15:00:01",
+
+	 "source": "deonaea 192.241.x.x",
+
+	 "name": "842829beabd59500f9bcc572b0b3c7bb",
+
+	 "hash": "074aade813f3b41bfc1a8ce69cc2f12bb011d52c10412c233a2701a083c4c770",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
+
+	 "classification": "Gen:Variant.Strictor.144311",
+
+	 "virustotal": "https://www.virustotal.com/file/074aade813f3b41bfc1a8ce69cc2f12bb011d52c10412c233a2701a083c4c770/analysis/1504793366/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/842829beabd59500f9bcc572b0b3c7bb"
+
+},
+
+{ 
+
 	 "date": "09/07/2017 14:55:01",
 
 	 "source": "deonaea 192.241.x.x",
