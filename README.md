@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "09/07/2017 21:05:01",
+
+	 "source": "deonaea 159.203.x.x",
+
+	 "name": "25c7cc5b578cf167590fa8cd194b9bea",
+
+	 "hash": "124e282b9eba42164c898d49ff5570c935b11202ca906f56d0881a3e63e4a6c7",
+
+	 "type": "PE32 executable (console) Intel 80386, for MS Windows, UPX compressed",
+
+	 "classification": "Gen:Variant.Zusy.254911",
+
+	 "virustotal": "https://www.virustotal.com/file/124e282b9eba42164c898d49ff5570c935b11202ca906f56d0881a3e63e4a6c7/analysis/1504802523/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/25c7cc5b578cf167590fa8cd194b9bea"
+
+},
+
+{ 
+
 	 "date": "09/07/2017 20:45:02",
 
 	 "source": "cowrie 159.203.x.x",
