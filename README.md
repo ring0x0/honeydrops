@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "09/08/2017 17:00:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "aad89639064b44e35d1562c271435da358f8d7374e4f0367a43fbf512a344d9f",
+
+	 "hash": "aad89639064b44e35d1562c271435da358f8d7374e4f0367a43fbf512a344d9f",
+
+	 "type": "ASCII text",
+
+	 "classification": "Generic.Bash.MiraiA.D6459D7B",
+
+	 "virustotal": "https://www.virustotal.com/file/aad89639064b44e35d1562c271435da358f8d7374e4f0367a43fbf512a344d9f/analysis/1504890006/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/aad89639064b44e35d1562c271435da358f8d7374e4f0367a43fbf512a344d9f"
+
+},
+
+{ 
+
 	 "date": "09/08/2017 16:10:01",
 
 	 "source": "deonaea 159.203.x.x",
@@ -32,9 +52,9 @@
 
 	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
 
-	 "classification": "nondeterministic",
+	 "classification": "Win32.Ramnit",
 
-	 "virustotal": "" ,
+	 "virustotal": "https://www.virustotal.com/file/5671ad480776b06c298a5ec14d50d6a41be9a5aa7492cff62c22605cd2509235/analysis/1504888249/" ,
 
 	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/be7c41e32ac300293516aa44db2429b8"
 
