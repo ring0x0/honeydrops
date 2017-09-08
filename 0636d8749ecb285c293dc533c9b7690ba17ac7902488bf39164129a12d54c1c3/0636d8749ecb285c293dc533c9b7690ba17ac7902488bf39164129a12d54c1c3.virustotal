@@ -21,7 +21,7 @@
                     ],
                     [
                         "AVG",
-                        "ELF:Xorddos-E [Trj]"
+                        "?"
                     ],
                     [
                         "Ad-Aware",
@@ -45,7 +45,7 @@
                     ],
                     [
                         "Avast",
-                        "ELF:Xorddos-E [Trj]"
+                        "?"
                     ],
                     [
                         "Avira",
@@ -136,8 +136,8 @@
                         "ELF/XorDDos.A"
                     ],
                     [
-                        "Rising",
-                        "Trojan.DDoS-Xor/Linux!1.A3E4 (classic)"
+                        "Qihoo-360",
+                        "Win32/Virus.DDoS.c99"
                     ],
                     [
                         "Sophos",
@@ -149,15 +149,7 @@
                     ],
                     [
                         "Tencent",
-                        "Linux.Trojan-ddos.Xarcen.Syrk"
-                    ],
-                    [
-                        "TrendMicro",
-                        "ELF_XORDDOS.SM"
-                    ],
-                    [
-                        "TrendMicro-HouseCall",
-                        "ELF_XORDDOS.SM"
+                        "Trojan.Linux.XorDdos.a"
                     ],
                     [
                         "ZoneAlarm",
@@ -168,11 +160,11 @@
             "type": "table"
         },
         {
-            "data": "37 out of 59 antivirus detected \u001b[1mc3b424c0978555704a2395c2664ae673\u001b[0m as malicious.",
+            "data": "35 out of 56 antivirus detected \u001b[1mc3b424c0978555704a2395c2664ae673\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/0636d8749ecb285c293dc533c9b7690ba17ac7902488bf39164129a12d54c1c3/analysis/1502099211/\n",
+            "data": "https://www.virustotal.com/file/0636d8749ecb285c293dc533c9b7690ba17ac7902488bf39164129a12d54c1c3/analysis/1503280418/\n",
             "type": "info"
         },
         {
