@@ -1,0 +1,71 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m37fa82dd944b528d53f0826cb6fa4faf\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "AVG",
+                        "ELF:Agent-JE [Trj]"
+                    ],
+                    [
+                        "Antiy-AVL",
+                        "Trojan/Linux.Agent.dt"
+                    ],
+                    [
+                        "Avast",
+                        "ELF:Agent-JE [Trj]"
+                    ],
+                    [
+                        "DrWeb",
+                        "Linux.Siggen.182"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "a variant of Linux/Agent.DT"
+                    ],
+                    [
+                        "Ikarus",
+                        "Trojan.Linux.Agent"
+                    ],
+                    [
+                        "Kaspersky",
+                        "HEUR:Trojan.Linux.Agent.dt"
+                    ],
+                    [
+                        "Zillya",
+                        "Trojan.Agent.Linux.1346"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "HEUR:Trojan.Linux.Agent.dt"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "9 out of 58 antivirus detected \u001b[1m37fa82dd944b528d53f0826cb6fa4faf\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/1545a65c6b8564cbf26b399286a3b32ce204c6f650dbc4a5a64a6505f87cc723/analysis/1504807093/\n",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
+            "type": "info"
+        }
+    ]
+}

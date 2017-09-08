@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "09/08/2017 19:01:42",
+
+	 "source": "deonaea 192.241.x.x",
+
+	 "name": "1545a65c6b8564cbf26b399286a3b32ce204c6f650dbc4a5a64a6505f87cc723",
+
+	 "hash": "1545a65c6b8564cbf26b399286a3b32ce204c6f650dbc4a5a64a6505f87cc723",
+
+	 "type": "ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, stripped",
+
+	 "classification": "HEUR:Trojan.Linux.Agent.dt",
+
+	 "virustotal": "https://www.virustotal.com/file/1545a65c6b8564cbf26b399286a3b32ce204c6f650dbc4a5a64a6505f87cc723/analysis/1504807093/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/1545a65c6b8564cbf26b399286a3b32ce204c6f650dbc4a5a64a6505f87cc723"
+
+},
+
+{ 
+
 	 "date": "09/08/2017 17:00:01",
 
 	 "source": "cowrie 159.203.x.x",
