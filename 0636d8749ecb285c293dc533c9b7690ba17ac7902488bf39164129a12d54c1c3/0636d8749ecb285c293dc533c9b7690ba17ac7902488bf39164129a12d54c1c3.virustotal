@@ -21,7 +21,7 @@
                     ],
                     [
                         "AVG",
-                        "?"
+                        "ELF:Xorddos-E [Trj]"
                     ],
                     [
                         "Ad-Aware",
@@ -45,7 +45,7 @@
                     ],
                     [
                         "Avast",
-                        "?"
+                        "ELF:Xorddos-E [Trj]"
                     ],
                     [
                         "Avira",
@@ -140,6 +140,10 @@
                         "Win32/Virus.DDoS.c99"
                     ],
                     [
+                        "Rising",
+                        "Trojan.DDoS-Xor/Linux!1.A3E4 (classic)"
+                    ],
+                    [
                         "Sophos",
                         "Linux/DDoS-BH"
                     ],
@@ -152,6 +156,18 @@
                         "Trojan.Linux.XorDdos.a"
                     ],
                     [
+                        "TrendMicro",
+                        "ELF_XORDDOS.SM"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "ELF_XORDDOS.SM"
+                    ],
+                    [
+                        "Zillya",
+                        "Trojan.Xorddos.Linux.34"
+                    ],
+                    [
                         "ZoneAlarm",
                         "HEUR:Trojan-DDoS.Linux.Xarcen.a"
                     ]
@@ -160,11 +176,11 @@
             "type": "table"
         },
         {
-            "data": "35 out of 56 antivirus detected \u001b[1mc3b424c0978555704a2395c2664ae673\u001b[0m as malicious.",
+            "data": "39 out of 58 antivirus detected \u001b[1mc3b424c0978555704a2395c2664ae673\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/0636d8749ecb285c293dc533c9b7690ba17ac7902488bf39164129a12d54c1c3/analysis/1503280418/\n",
+            "data": "https://www.virustotal.com/file/0636d8749ecb285c293dc533c9b7690ba17ac7902488bf39164129a12d54c1c3/analysis/1504845706/\n",
             "type": "info"
         },
         {
