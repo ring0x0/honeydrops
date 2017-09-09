@@ -1,0 +1,83 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1meb3e131b337941e07dcdd51b1e04124d\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "AVG",
+                        "Win32:Trojan-gen"
+                    ],
+                    [
+                        "AegisLab",
+                        "Troj.W32.Small.toOI"
+                    ],
+                    [
+                        "Antiy-AVL",
+                        "Trojan/Win32.Small"
+                    ],
+                    [
+                        "Avast",
+                        "Win32:Trojan-gen"
+                    ],
+                    [
+                        "CrowdStrike",
+                        "malicious_confidence_80% (D)"
+                    ],
+                    [
+                        "Cylance",
+                        "Unsafe"
+                    ],
+                    [
+                        "DrWeb",
+                        "Tool.Winelevate.12"
+                    ],
+                    [
+                        "Jiangmin",
+                        "Trojan.Small.cl"
+                    ],
+                    [
+                        "Kaspersky",
+                        "Trojan.Win32.Small.cvg"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Trojan.Win32.Small.eakvsr"
+                    ],
+                    [
+                        "SentinelOne",
+                        "static engine - malicious"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "Trojan.Win32.Small.cvg"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "12 out of 65 antivirus detected \u001b[1meb3e131b337941e07dcdd51b1e04124d\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/a37c110e262a7e4773d31f17ff9e8c3780727ec11c5e2d35af32e908efc19f72/analysis/1504912838/\n",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
+            "type": "info"
+        }
+    ]
+}

@@ -2,6 +2,46 @@
 
 { 
 
+	 "date": "09/09/2017 01:30:01",
+
+	 "source": "deonaea 159.203.x.x",
+
+	 "name": "ed64809b8d2ae44b98266a8e7009b767",
+
+	 "hash": "aa05e85bcb2db0df54f4bbe9023e77ecb96a721abefea8f6c8a5c1406e2492e8",
+
+	 "type": "PE32 executable (console) Intel 80386, for MS Windows",
+
+	 "classification": "Trojan.Agent.CASE",
+
+	 "virustotal": "https://www.virustotal.com/file/aa05e85bcb2db0df54f4bbe9023e77ecb96a721abefea8f6c8a5c1406e2492e8/analysis/1497570067/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/ed64809b8d2ae44b98266a8e7009b767"
+
+},
+
+{ 
+
+	 "date": "09/09/2017 01:30:01",
+
+	 "source": "deonaea 159.203.x.x",
+
+	 "name": "eb3e131b337941e07dcdd51b1e04124d",
+
+	 "hash": "a37c110e262a7e4773d31f17ff9e8c3780727ec11c5e2d35af32e908efc19f72",
+
+	 "type": "PE32 executable (console) Intel 80386, for MS Windows",
+
+	 "classification": "Win32:Trojan-gen",
+
+	 "virustotal": "https://www.virustotal.com/file/a37c110e262a7e4773d31f17ff9e8c3780727ec11c5e2d35af32e908efc19f72/analysis/1504912838/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/eb3e131b337941e07dcdd51b1e04124d"
+
+},
+
+{ 
+
 	 "date": "09/09/2017 00:30:01",
 
 	 "source": "deonaea 159.203.x.x",
@@ -9937,26 +9977,6 @@
 	 "virustotal": "https://www.virustotal.com/file/4881209646afca418735a4ad6041dace3304dd6713b146df0acae576637169d8/analysis/1496358367/" ,
 
 	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/4881209646afca418735a4ad6041dace3304dd6713b146df0acae576637169d8"
-
-},
-
-{ 
-
-	 "date": "06/11/2017 19:30:01",
-
-	 "source": "deonaea 192.241.x.x",
-
-	 "name": "ed64809b8d2ae44b98266a8e7009b767",
-
-	 "hash": "aa05e85bcb2db0df54f4bbe9023e77ecb96a721abefea8f6c8a5c1406e2492e8",
-
-	 "type": "PE32 executable (console) Intel 80386, for MS Windows",
-
-	 "classification": "Trojan.Agent.CASE",
-
-	 "virustotal": "https://www.virustotal.com/file/aa05e85bcb2db0df54f4bbe9023e77ecb96a721abefea8f6c8a5c1406e2492e8/analysis/1496637648/" ,
-
-	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/ed64809b8d2ae44b98266a8e7009b767"
 
 },
 

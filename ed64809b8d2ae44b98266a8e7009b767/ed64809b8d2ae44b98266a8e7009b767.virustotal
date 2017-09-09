@@ -21,7 +21,7 @@
                     ],
                     [
                         "AVG",
-                        "Win32/DH{giw?}"
+                        "Win32:Malware-gen"
                     ],
                     [
                         "AVware",
@@ -40,6 +40,10 @@
                         "Trojan/Win32.Exploit.C831961"
                     ],
                     [
+                        "Antiy-AVL",
+                        "Trojan/Win32.Agentb"
+                    ],
+                    [
                         "Arcabit",
                         "Trojan.Agent.CASE"
                     ],
@@ -56,6 +60,10 @@
                         "Trojan.Agent.CASE"
                     ],
                     [
+                        "Bkav",
+                        "W32.Clodf69.Trojan.92e0"
+                    ],
+                    [
                         "CAT-QuickHeal",
                         "Trojan.Tarcloin"
                     ],
@@ -70,10 +78,6 @@
                     [
                         "Emsisoft",
                         "Trojan.Agent.CASE (B)"
-                    ],
-                    [
-                        "Endgame",
-                        "malicious (moderate confidence)"
                     ],
                     [
                         "F-Prot",
@@ -196,11 +200,15 @@
             "type": "table"
         },
         {
-            "data": "44 out of 61 antivirus detected \u001b[1med64809b8d2ae44b98266a8e7009b767\u001b[0m as malicious.",
+            "data": "45 out of 62 antivirus detected \u001b[1med64809b8d2ae44b98266a8e7009b767\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/aa05e85bcb2db0df54f4bbe9023e77ecb96a721abefea8f6c8a5c1406e2492e8/analysis/1496637648/\n",
+            "data": "https://www.virustotal.com/file/aa05e85bcb2db0df54f4bbe9023e77ecb96a721abefea8f6c8a5c1406e2492e8/analysis/1497570067/\n",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
             "type": "info"
         }
     ]

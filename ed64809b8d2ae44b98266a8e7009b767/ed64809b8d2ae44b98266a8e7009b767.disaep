@@ -3,3 +3,8 @@ push ebp
 mov ebp,esp
 push byte 0xffffffff
 push dword 0x4060d0
+558bec6aff68d0604000
+push ebp
+mov ebp,esp
+push byte 0xffffffff
+push dword 0x4060d0
