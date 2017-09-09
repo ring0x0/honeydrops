@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "09/09/2017 11:05:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "3ae6d7e742889f749a87de38eca2c04f62939f0c15ffe113f0d0d4faa778eeab",
+
+	 "hash": "3ae6d7e742889f749a87de38eca2c04f62939f0c15ffe113f0d0d4faa778eeab",
+
+	 "type": "MS Windows shortcut, Item id list present, Points to a file or directory, Has Relative path, Has Working directory, Archive, ctime=Fri Sep 8 20:30:51 2017, mtime=Fri Sep 8 20:24:57 2017, atime=Thu Feb 2 09:34:39 2017, length=1980, window=hide",
+
+	 "classification": "nondeterministic",
+
+	 "virustotal": "https://www.virustotal.com/file/3ae6d7e742889f749a87de38eca2c04f62939f0c15ffe113f0d0d4faa778eeab/analysis/1504956607/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/3ae6d7e742889f749a87de38eca2c04f62939f0c15ffe113f0d0d4faa778eeab"
+
+},
+
+{ 
+
 	 "date": "09/09/2017 11:00:01",
 
 	 "source": "cowrie 159.203.x.x",
