@@ -16,12 +16,36 @@
                 ],
                 "rows": [
                     [
+                        "AVG",
+                        "Win32:Malware-gen"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Trojan.GenericKD.5954824"
+                    ],
+                    [
+                        "Arcabit",
+                        "Trojan.Generic.D5ADD08"
+                    ],
+                    [
+                        "Avast",
+                        "Win32:Malware-gen"
+                    ],
+                    [
+                        "Avira",
+                        "TR/Kryptik.ejnvm"
+                    ],
+                    [
                         "Baidu",
                         "Win32.Trojan.Kryptik.te"
                     ],
                     [
+                        "BitDefender",
+                        "Trojan.GenericKD.5954824"
+                    ],
+                    [
                         "CrowdStrike",
-                        "malicious_confidence_100% (D)"
+                        "malicious_confidence_90% (W)"
                     ],
                     [
                         "Cylance",
@@ -32,23 +56,75 @@
                         "a variant of Win32/Kryptik.FDQG"
                     ],
                     [
+                        "Emsisoft",
+                        "Trojan.GenericKD.5954824 (B)"
+                    ],
+                    [
+                        "F-Secure",
+                        "Trojan.GenericKD.5954824"
+                    ],
+                    [
+                        "Fortinet",
+                        "W32/Kryptik.FDQG!tr"
+                    ],
+                    [
+                        "GData",
+                        "Trojan.GenericKD.5954824"
+                    ],
+                    [
                         "Ikarus",
                         "Trojan.Win32.Farfli"
                     ],
                     [
+                        "Kaspersky",
+                        "Trojan.Win32.Siscos.wkt"
+                    ],
+                    [
+                        "MAX",
+                        "malware (ai score=82)"
+                    ],
+                    [
+                        "McAfee",
+                        "Artemis!F671D23D45CA"
+                    ],
+                    [
+                        "McAfee-GW-Edition",
+                        "Artemis"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Trojan.GenericKD.5954824"
+                    ],
+                    [
+                        "Paloalto",
+                        "generic.ml"
+                    ],
+                    [
+                        "Rising",
+                        "Trojan.Kryptik!1.AAD1 (cloud:3iGHCEM3L8I)"
+                    ],
+                    [
                         "SentinelOne",
                         "static engine - malicious"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "Suspicious_GEN.F47V0907"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "Trojan.Win32.Siscos.wkt"
                     ]
                 ]
             },
             "type": "table"
         },
         {
-            "data": "6 out of 64 antivirus detected \u001b[1mf671d23d45ca06e64d8e4c801254a19c\u001b[0m as malicious.",
+            "data": "25 out of 65 antivirus detected \u001b[1mf671d23d45ca06e64d8e4c801254a19c\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/a3486a4162e45b9ff72d6b885daf7ce14d79183747b95242170b74103f0f4911/analysis/1504723825/\n",
+            "data": "https://www.virustotal.com/file/a3486a4162e45b9ff72d6b885daf7ce14d79183747b95242170b74103f0f4911/analysis/1504839760/\n",
             "type": "info"
         },
         {
