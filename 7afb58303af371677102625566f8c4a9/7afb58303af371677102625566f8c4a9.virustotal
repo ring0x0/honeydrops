@@ -1,0 +1,159 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m7afb58303af371677102625566f8c4a9\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "Gen:Variant.Zusy.187320"
+                    ],
+                    [
+                        "AVG",
+                        "Win32:Malware-gen"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Gen:Variant.Zusy.187320"
+                    ],
+                    [
+                        "AegisLab",
+                        "Gen.Variant.Zusy!c"
+                    ],
+                    [
+                        "Antiy-AVL",
+                        "Trojan/Win32.TSGeneric"
+                    ],
+                    [
+                        "Arcabit",
+                        "Trojan.Zusy.D2DBB8"
+                    ],
+                    [
+                        "Avast",
+                        "Win32:Malware-gen"
+                    ],
+                    [
+                        "Avira",
+                        "TR/AD.Zegost.qoscg"
+                    ],
+                    [
+                        "BitDefender",
+                        "Gen:Variant.Zusy.187320"
+                    ],
+                    [
+                        "Cylance",
+                        "Unsafe"
+                    ],
+                    [
+                        "Cyren",
+                        "W32/Trojan.LQGC-5615"
+                    ],
+                    [
+                        "DrWeb",
+                        "BackDoor.Siggen.52105"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "a variant of Win32/Kryptik.DGTP"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Gen:Variant.Zusy.187320 (B)"
+                    ],
+                    [
+                        "F-Secure",
+                        "Gen:Variant.Zusy.187320"
+                    ],
+                    [
+                        "Fortinet",
+                        "W32/Kryptik.FHSE!tr"
+                    ],
+                    [
+                        "GData",
+                        "Gen:Variant.Zusy.187320"
+                    ],
+                    [
+                        "Ikarus",
+                        "Trojan.Win32.Crypt"
+                    ],
+                    [
+                        "Kaspersky",
+                        "Trojan.Win32.StartServ.xsl"
+                    ],
+                    [
+                        "MAX",
+                        "malware (ai score=82)"
+                    ],
+                    [
+                        "McAfee",
+                        "Artemis!7AFB58303AF3"
+                    ],
+                    [
+                        "McAfee-GW-Edition",
+                        "Artemis"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Gen:Variant.Zusy.187320"
+                    ],
+                    [
+                        "Paloalto",
+                        "generic.ml"
+                    ],
+                    [
+                        "Panda",
+                        "Trj/GdSda.A"
+                    ],
+                    [
+                        "Rising",
+                        "Trojan.Kryptik!1.AAD1 (classic)"
+                    ],
+                    [
+                        "Sophos",
+                        "Mal/Generic-S"
+                    ],
+                    [
+                        "Symantec",
+                        "Trojan.Gen.2"
+                    ],
+                    [
+                        "Tencent",
+                        "Win32.Trojan.Zusy.Amcx"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "TROJ_GEN.R047H0CI817"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "Trojan.Win32.StartServ.xsl"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "31 out of 65 antivirus detected \u001b[1m7afb58303af371677102625566f8c4a9\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/8e647586c9980115fdbb250cd35a9bcfe80288800decfb116915fb8e8652c953/analysis/1504886532/\n",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
+            "type": "info"
+        }
+    ]
+}
