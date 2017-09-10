@@ -2,6 +2,86 @@
 
 { 
 
+	 "date": "09/10/2017 03:00:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "e8870d855c6592d00913d785affd6b7bd0496643450668d83b40d149c42d1239",
+
+	 "hash": "e8870d855c6592d00913d785affd6b7bd0496643450668d83b40d149c42d1239",
+
+	 "type": "Bourne-Again shell script, ASCII text executable",
+
+	 "classification": "Generic.Bash.MiraiA.89B90EB0",
+
+	 "virustotal": "https://www.virustotal.com/file/e8870d855c6592d00913d785affd6b7bd0496643450668d83b40d149c42d1239/analysis/1504989029/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/e8870d855c6592d00913d785affd6b7bd0496643450668d83b40d149c42d1239"
+
+},
+
+{ 
+
+	 "date": "09/10/2017 03:00:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "9bb350ee7f72e528918b4ef75de64c2d4935e570fbb9ca194879d60902a88719",
+
+	 "hash": "9bb350ee7f72e528918b4ef75de64c2d4935e570fbb9ca194879d60902a88719",
+
+	 "type": "ASCII text",
+
+	 "classification": "Generic.Bash.MiraiA.083103DB",
+
+	 "virustotal": "https://www.virustotal.com/file/9bb350ee7f72e528918b4ef75de64c2d4935e570fbb9ca194879d60902a88719/analysis/1505010652/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/9bb350ee7f72e528918b4ef75de64c2d4935e570fbb9ca194879d60902a88719"
+
+},
+
+{ 
+
+	 "date": "09/10/2017 03:00:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "0636d8749ecb285c293dc533c9b7690ba17ac7902488bf39164129a12d54c1c3",
+
+	 "hash": "0636d8749ecb285c293dc533c9b7690ba17ac7902488bf39164129a12d54c1c3",
+
+	 "type": "ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), statically linked, for GNU/Linux 2.6.9, not stripped",
+
+	 "classification": "Gen:Variant.Trojan.Linux.XorDDoS.2",
+
+	 "virustotal": "https://www.virustotal.com/file/0636d8749ecb285c293dc533c9b7690ba17ac7902488bf39164129a12d54c1c3/analysis/1504845706/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/0636d8749ecb285c293dc533c9b7690ba17ac7902488bf39164129a12d54c1c3"
+
+},
+
+{ 
+
+	 "date": "09/10/2017 02:45:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "c02d8ba1e0910204e282f36e31dc2cdce27b21052502c17ba6b858898a8d5925",
+
+	 "hash": "c02d8ba1e0910204e282f36e31dc2cdce27b21052502c17ba6b858898a8d5925",
+
+	 "type": "ASCII text",
+
+	 "classification": "HEUR:Trojan-Downloader.Shell.Agent.as",
+
+	 "virustotal": "https://www.virustotal.com/file/c02d8ba1e0910204e282f36e31dc2cdce27b21052502c17ba6b858898a8d5925/analysis/1504534536/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/c02d8ba1e0910204e282f36e31dc2cdce27b21052502c17ba6b858898a8d5925"
+
+},
+
+{ 
+
 	 "date": "09/10/2017 02:30:01",
 
 	 "source": "cowrie 159.203.x.x",
@@ -22,46 +102,6 @@
 
 { 
 
-	 "date": "09/10/2017 02:30:01",
-
-	 "source": "cowrie 159.203.x.x",
-
-	 "name": "0636d8749ecb285c293dc533c9b7690ba17ac7902488bf39164129a12d54c1c3",
-
-	 "hash": "0636d8749ecb285c293dc533c9b7690ba17ac7902488bf39164129a12d54c1c3",
-
-	 "type": "ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), statically linked, for GNU/Linux 2.6.9, not stripped",
-
-	 "classification": "nondeterministic",
-
-	 "virustotal": "" ,
-
-	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/0636d8749ecb285c293dc533c9b7690ba17ac7902488bf39164129a12d54c1c3"
-
-},
-
-{ 
-
-	 "date": "09/10/2017 02:15:01",
-
-	 "source": "cowrie 159.203.x.x",
-
-	 "name": "9bb350ee7f72e528918b4ef75de64c2d4935e570fbb9ca194879d60902a88719",
-
-	 "hash": "9bb350ee7f72e528918b4ef75de64c2d4935e570fbb9ca194879d60902a88719",
-
-	 "type": "ASCII text",
-
-	 "classification": "nondeterministic",
-
-	 "virustotal": "" ,
-
-	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/9bb350ee7f72e528918b4ef75de64c2d4935e570fbb9ca194879d60902a88719"
-
-},
-
-{ 
-
 	 "date": "09/10/2017 02:15:01",
 
 	 "source": "cowrie 159.203.x.x",
@@ -77,26 +117,6 @@
 	 "virustotal": "https://www.virustotal.com/file/90fd578040f184716245d6cf8cd5d56c2d561175749fe9b07574d662d786a9d4/analysis/1505009706/" ,
 
 	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/90fd578040f184716245d6cf8cd5d56c2d561175749fe9b07574d662d786a9d4"
-
-},
-
-{ 
-
-	 "date": "09/09/2017 23:00:01",
-
-	 "source": "cowrie 159.203.x.x",
-
-	 "name": "e8870d855c6592d00913d785affd6b7bd0496643450668d83b40d149c42d1239",
-
-	 "hash": "e8870d855c6592d00913d785affd6b7bd0496643450668d83b40d149c42d1239",
-
-	 "type": "Bourne-Again shell script, ASCII text executable",
-
-	 "classification": "Generic.Bash.MiraiA.89B90EB0",
-
-	 "virustotal": "https://www.virustotal.com/file/e8870d855c6592d00913d785affd6b7bd0496643450668d83b40d149c42d1239/analysis/1504989029/" ,
-
-	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/e8870d855c6592d00913d785affd6b7bd0496643450668d83b40d149c42d1239"
 
 },
 
