@@ -1,0 +1,47 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1mfb52f862e63846bbfaab221ff4bf8ab3\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "AVG",
+                        "BV:Downloader-JQ [Drp]"
+                    ],
+                    [
+                        "Avast",
+                        "BV:Downloader-JQ [Drp]"
+                    ],
+                    [
+                        "Sophos",
+                        "Mal/ShellDl-A"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "3 out of 59 antivirus detected \u001b[1mfb52f862e63846bbfaab221ff4bf8ab3\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/83219331d340ce16ffbf1de5c8b9b18fcbf5587603150d3ada1672f1bff5068b/analysis/1505032224/\n",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
+            "type": "info"
+        }
+    ]
+}
