@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "09/10/2017 01:00:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "8b8251b3cfaae580857b562689d648ae0105e9f129302efb8522379f1846430c",
+
+	 "hash": "8b8251b3cfaae580857b562689d648ae0105e9f129302efb8522379f1846430c",
+
+	 "type": "ASCII text",
+
+	 "classification": "Generic.Bash.MiraiA.343A5808",
+
+	 "virustotal": "https://www.virustotal.com/file/8b8251b3cfaae580857b562689d648ae0105e9f129302efb8522379f1846430c/analysis/1504989131/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/8b8251b3cfaae580857b562689d648ae0105e9f129302efb8522379f1846430c"
+
+},
+
+{ 
+
 	 "date": "09/10/2017 00:00:01",
 
 	 "source": "cowrie 159.203.x.x",
@@ -77,26 +97,6 @@
 	 "virustotal": "https://www.virustotal.com/file/94445f369ab2d2dfd7e49f8f9684923f704f2e02ba39f172c19827732f3ff896/analysis/1504926243/" ,
 
 	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/94445f369ab2d2dfd7e49f8f9684923f704f2e02ba39f172c19827732f3ff896"
-
-},
-
-{ 
-
-	 "date": "09/09/2017 23:00:01",
-
-	 "source": "cowrie 159.203.x.x",
-
-	 "name": "8b8251b3cfaae580857b562689d648ae0105e9f129302efb8522379f1846430c",
-
-	 "hash": "8b8251b3cfaae580857b562689d648ae0105e9f129302efb8522379f1846430c",
-
-	 "type": "ASCII text",
-
-	 "classification": "Generic.Bash.MiraiA.343A5808",
-
-	 "virustotal": "https://www.virustotal.com/file/8b8251b3cfaae580857b562689d648ae0105e9f129302efb8522379f1846430c/analysis/1504989131/" ,
-
-	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/8b8251b3cfaae580857b562689d648ae0105e9f129302efb8522379f1846430c"
 
 },
 
