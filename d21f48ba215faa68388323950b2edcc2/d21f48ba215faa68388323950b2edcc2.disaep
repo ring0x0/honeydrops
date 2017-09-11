@@ -3,3 +3,8 @@ push ebp
 mov ebp,esp
 sub esp,0x8
 mov dword [esp],0x740001
+5589e583ec08c7042401
+push ebp
+mov ebp,esp
+sub esp,0x8
+mov dword [esp],0x740001

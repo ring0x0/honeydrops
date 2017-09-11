@@ -108,10 +108,6 @@
                         "Backdoor:W32/Bifrose.GNT"
                     ],
                     [
-                        "Fortinet",
-                        "Riskware/BackDoor"
-                    ],
-                    [
                         "GData",
                         "Gen:Trojan.Heur.ny3@vaebXVd"
                     ],
@@ -149,7 +145,7 @@
                     ],
                     [
                         "McAfee-GW-Edition",
-                        "BehavesLike.Win32.Generic.dc"
+                        "BehavesLike.Win32.Jeefo.dc"
                     ],
                     [
                         "MicroWorld-eScan",
@@ -192,8 +188,16 @@
                         "Trojan.Gen"
                     ],
                     [
+                        "Tencent",
+                        "Win32.Trojan.Pornoblocker.Wnmd"
+                    ],
+                    [
                         "TotalDefense",
                         "Win32/Bifrose.ANR"
+                    ],
+                    [
+                        "TrendMicro",
+                        "Ransom_PornoBlocker.R047C0PHD17"
                     ],
                     [
                         "TrendMicro-HouseCall",
@@ -212,6 +216,10 @@
                         "Trojan.Win32.PSWAutoit.1582051"
                     ],
                     [
+                        "Zillya",
+                        "Trojan.PornoBlocker.Win32.12483"
+                    ],
+                    [
                         "ZoneAlarm",
                         "Trojan-Ransom.Win32.PornoBlocker.ejtx"
                     ],
@@ -224,11 +232,11 @@
             "type": "table"
         },
         {
-            "data": "51 out of 64 antivirus detected \u001b[1md21f48ba215faa68388323950b2edcc2\u001b[0m as malicious.",
+            "data": "53 out of 65 antivirus detected \u001b[1md21f48ba215faa68388323950b2edcc2\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/23e6483293dd63bb12c3fe2050fe47fc0c534954a0989acfc2bdfebd4e9dd9d2/analysis/1503453804/\n",
+            "data": "https://www.virustotal.com/file/23e6483293dd63bb12c3fe2050fe47fc0c534954a0989acfc2bdfebd4e9dd9d2/analysis/1505095169/\n",
             "type": "info"
         },
         {
