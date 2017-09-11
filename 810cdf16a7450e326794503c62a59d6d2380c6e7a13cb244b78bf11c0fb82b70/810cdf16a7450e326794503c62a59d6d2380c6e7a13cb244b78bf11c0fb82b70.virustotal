@@ -1,0 +1,20 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1mc2682b3167e570457e1442d194d3b736\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "0 out of 58 antivirus detected \u001b[1mc2682b3167e570457e1442d194d3b736\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/810cdf16a7450e326794503c62a59d6d2380c6e7a13cb244b78bf11c0fb82b70/analysis/1505143458/\n",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
+            "type": "info"
+        }
+    ]
+}

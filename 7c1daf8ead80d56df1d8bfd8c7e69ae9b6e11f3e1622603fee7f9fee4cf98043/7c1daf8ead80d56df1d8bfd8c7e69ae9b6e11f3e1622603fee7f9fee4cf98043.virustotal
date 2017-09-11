@@ -1,0 +1,43 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1mbf18a41edbd4bedf8250230ae10aa52b\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "AVG",
+                        "BV:Sshscan-E [Trj]"
+                    ],
+                    [
+                        "Avast",
+                        "BV:Sshscan-E [Trj]"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "2 out of 58 antivirus detected \u001b[1mbf18a41edbd4bedf8250230ae10aa52b\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/7c1daf8ead80d56df1d8bfd8c7e69ae9b6e11f3e1622603fee7f9fee4cf98043/analysis/1500651213/\n",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
+            "type": "info"
+        }
+    ]
+}

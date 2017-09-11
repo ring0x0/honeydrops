@@ -1,0 +1,99 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m8bb0f33cfe9b2e0eada28a736e4a0b49\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "AVG",
+                        "ELF:SSHBrute-C [PUP]"
+                    ],
+                    [
+                        "AegisLab",
+                        "Hacktool.Gen!c"
+                    ],
+                    [
+                        "Antiy-AVL",
+                        "HackTool/Linux.Sshbru.i"
+                    ],
+                    [
+                        "Avast",
+                        "ELF:SSHBrute-C [PUP]"
+                    ],
+                    [
+                        "CAT-QuickHeal",
+                        "Linux.HackTool.Sshbru.P897"
+                    ],
+                    [
+                        "DrWeb",
+                        "Tool.Linux.Sshscan.5"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "Linux/HackTool.Sshbrute.J potentially unsafe"
+                    ],
+                    [
+                        "GData",
+                        "Linux.Application.Agent.AINTJW"
+                    ],
+                    [
+                        "Ikarus",
+                        "HackTool.Linux.Sshbru"
+                    ],
+                    [
+                        "Jiangmin",
+                        "HackTool.Linux.ch"
+                    ],
+                    [
+                        "Kaspersky",
+                        "HackTool.Linux.Sshbru.i"
+                    ],
+                    [
+                        "Sophos",
+                        "Generic PUA DJ (PUA)"
+                    ],
+                    [
+                        "Symantec",
+                        "Hacktool"
+                    ],
+                    [
+                        "Tencent",
+                        "Linux.Hacktool.Sshbru.Edxo"
+                    ],
+                    [
+                        "Zillya",
+                        "Downloader.OpenConnection.JS.155807"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "HackTool.Linux.Sshbru.i"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "16 out of 57 antivirus detected \u001b[1m8bb0f33cfe9b2e0eada28a736e4a0b49\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/3c00611b670b128c1ca6d3c6f0e9522eea385e0670e74a9b2b26325b4e13c864/analysis/1502157233/\n",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
+            "type": "info"
+        }
+    ]
+}

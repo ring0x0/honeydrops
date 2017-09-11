@@ -1,0 +1,87 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m615c08bb1acdf2f21490450991766187\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "AegisLab",
+                        "Exp.Spy.Gen!c"
+                    ],
+                    [
+                        "Avast",
+                        "Unix:Malware-gen"
+                    ],
+                    [
+                        "Avira",
+                        "EXP/Spy.233"
+                    ],
+                    [
+                        "Comodo",
+                        "UnclassifiedMalware"
+                    ],
+                    [
+                        "Fortinet",
+                        "W32/SysComp.A!tr"
+                    ],
+                    [
+                        "GData",
+                        "Script.Trojan.Agent.Q5UP32"
+                    ],
+                    [
+                        "Ikarus",
+                        "Exploit.Spy"
+                    ],
+                    [
+                        "McAfee",
+                        "Exploit-Generic"
+                    ],
+                    [
+                        "McAfee-GW-Edition",
+                        "Exploit-Generic"
+                    ],
+                    [
+                        "Qihoo-360",
+                        "Win32/Trojan.Spy.f14"
+                    ],
+                    [
+                        "Sophos",
+                        "Troj/SysComp-A"
+                    ],
+                    [
+                        "Symantec",
+                        "Trojan.Gen.8!cloud"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "Suspicious_GEN.F47V0504"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "13 out of 57 antivirus detected \u001b[1m615c08bb1acdf2f21490450991766187\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/e7031aaa218f814ec442f7fc5cc545980a537d777db491c425d60f0be3366074/analysis/1495073360/\n",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
+            "type": "info"
+        }
+    ]
+}

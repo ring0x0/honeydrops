@@ -1,0 +1,39 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m4f52bd9f36ddfb9bfea2845da09b1963\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ESET-NOD32",
+                        "Linux/HackTool.Scanner.K potentially unsafe"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "1 out of 56 antivirus detected \u001b[1m4f52bd9f36ddfb9bfea2845da09b1963\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/f785a82daf1552e8bd89f56a899445dbfb25f7b535588bd38d725b38e7e49e0d/analysis/1495062508/\n",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
+            "type": "info"
+        }
+    ]
+}

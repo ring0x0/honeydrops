@@ -1,0 +1,183 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1macba0143d0cbcf8092b8b44d914d7983\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "Trojan.Hacktool.Linux.Pscan.A"
+                    ],
+                    [
+                        "AVG",
+                        "ELF:Portscan-G [PUP]"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Trojan.Hacktool.Linux.Pscan.A"
+                    ],
+                    [
+                        "AegisLab",
+                        "HackTool.Linux.WuScan.b!c"
+                    ],
+                    [
+                        "AhnLab-V3",
+                        "Linux/Pscanner"
+                    ],
+                    [
+                        "Antiy-AVL",
+                        "HackTool/Linux.WuScan.b"
+                    ],
+                    [
+                        "Arcabit",
+                        "Trojan.Hacktool.Linux.Pscan.A"
+                    ],
+                    [
+                        "Avast",
+                        "ELF:Portscan-G [PUP]"
+                    ],
+                    [
+                        "Avira",
+                        "SPR/Tool.Sshscan.b"
+                    ],
+                    [
+                        "BitDefender",
+                        "Trojan.Hacktool.Linux.Pscan.A"
+                    ],
+                    [
+                        "CAT-QuickHeal",
+                        "Exploit.Linux.Nukerea"
+                    ],
+                    [
+                        "ClamAV",
+                        "Win.Trojan.Linux-11"
+                    ],
+                    [
+                        "Comodo",
+                        "UnclassifiedMalware"
+                    ],
+                    [
+                        "DrWeb",
+                        "Tool.Linux.PortScanner.8"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "Linux/HackTool.Portscan.B potentially unsafe"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Trojan.Hacktool.Linux.Pscan.A (B)"
+                    ],
+                    [
+                        "F-Secure",
+                        "Trojan.Hacktool.Linux.Pscan.A"
+                    ],
+                    [
+                        "Fortinet",
+                        "Riskware/Linuxportscan"
+                    ],
+                    [
+                        "GData",
+                        "Trojan.Hacktool.Linux.Pscan.A"
+                    ],
+                    [
+                        "Jiangmin",
+                        "HackTool.Linux.af"
+                    ],
+                    [
+                        "Kaspersky",
+                        "HackTool.Linux.WuScan.b"
+                    ],
+                    [
+                        "MAX",
+                        "malware (ai score=81)"
+                    ],
+                    [
+                        "McAfee",
+                        "Linux/Portscan"
+                    ],
+                    [
+                        "McAfee-GW-Edition",
+                        "Linux/Portscan"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Trojan.Hacktool.Linux.Pscan.A"
+                    ],
+                    [
+                        "Microsoft",
+                        "HackTool:Linux/Pscan.A"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Trojan.Unix.WuScan.ebdnmb"
+                    ],
+                    [
+                        "Panda",
+                        "Linux/BannerScan"
+                    ],
+                    [
+                        "Qihoo-360",
+                        "Win32/Trojan.Hacktool.f6a"
+                    ],
+                    [
+                        "Sophos",
+                        "Troj/ScanA-Gen"
+                    ],
+                    [
+                        "Symantec",
+                        "Trojan Horse"
+                    ],
+                    [
+                        "Tencent",
+                        "Linux.Hacktool.Wuscan.Lqfa"
+                    ],
+                    [
+                        "TotalDefense",
+                        "Linux/Portscan.A"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "ELF_PORTSCAN.A"
+                    ],
+                    [
+                        "ViRobot",
+                        "Linux.S.Agent.21407"
+                    ],
+                    [
+                        "Zillya",
+                        "Downloader.OpenConnection.JS.5509"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "HackTool.Linux.WuScan.b"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "37 out of 58 antivirus detected \u001b[1macba0143d0cbcf8092b8b44d914d7983\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/cc3f6c535787c71bed14ec8ac3b6feb59fe3b09fc53c69f1fe592103f2632764/analysis/1502935031/\n",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
+            "type": "info"
+        }
+    ]
+}
