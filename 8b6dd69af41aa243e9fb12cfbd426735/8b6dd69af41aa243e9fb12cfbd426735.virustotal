@@ -1,0 +1,191 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m8b6dd69af41aa243e9fb12cfbd426735\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "Gen:Variant.Kazy.162222"
+                    ],
+                    [
+                        "AVG",
+                        "Win32:Adware-gen [Adw]"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Gen:Variant.Kazy.162222"
+                    ],
+                    [
+                        "AhnLab-V3",
+                        "Backdoor/Win32.Infostealer.R206818"
+                    ],
+                    [
+                        "Antiy-AVL",
+                        "Trojan[GameThief]/Win32.Magania"
+                    ],
+                    [
+                        "Arcabit",
+                        "Trojan.Kazy.D279AE"
+                    ],
+                    [
+                        "Avast",
+                        "Win32:Adware-gen [Adw]"
+                    ],
+                    [
+                        "Baidu",
+                        "Win32.Trojan.WisdomEyes.16070401.9500.9957"
+                    ],
+                    [
+                        "BitDefender",
+                        "Gen:Variant.Kazy.162222"
+                    ],
+                    [
+                        "CrowdStrike",
+                        "malicious_confidence_80% (D)"
+                    ],
+                    [
+                        "Cylance",
+                        "Unsafe"
+                    ],
+                    [
+                        "DrWeb",
+                        "Trojan.DownLoader25.20600"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "a variant of Win32/GenKryptik.ARXX"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Gen:Variant.Kazy.162222 (B)"
+                    ],
+                    [
+                        "Endgame",
+                        "malicious (moderate confidence)"
+                    ],
+                    [
+                        "F-Secure",
+                        "Gen:Variant.Kazy.162222"
+                    ],
+                    [
+                        "Fortinet",
+                        "W32/Generic.AC.3F650E!tr"
+                    ],
+                    [
+                        "GData",
+                        "Gen:Variant.Kazy.162222"
+                    ],
+                    [
+                        "Ikarus",
+                        "Trojan.Win32.Farfli"
+                    ],
+                    [
+                        "Invincea",
+                        "heuristic"
+                    ],
+                    [
+                        "Jiangmin",
+                        "Trojan.PSW.Magania.zr"
+                    ],
+                    [
+                        "K7AntiVirus",
+                        "Riskware ( 0040eff71 )"
+                    ],
+                    [
+                        "K7GW",
+                        "Riskware ( 0040eff71 )"
+                    ],
+                    [
+                        "Kaspersky",
+                        "Trojan-GameThief.Win32.Magania.uhuk"
+                    ],
+                    [
+                        "MAX",
+                        "malware (ai score=83)"
+                    ],
+                    [
+                        "McAfee",
+                        "Artemis!8B6DD69AF41A"
+                    ],
+                    [
+                        "McAfee-GW-Edition",
+                        "BehavesLike.Win32.Backdoor.cc"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Gen:Variant.Kazy.162222"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Trojan.Win32.Magania.eruzlc"
+                    ],
+                    [
+                        "Qihoo-360",
+                        "HEUR/QVM11.1.B4DF.Malware.Gen"
+                    ],
+                    [
+                        "Rising",
+                        "Backdoor.Zegost!8.177 (tfe:5:La9DsT1FB9T)"
+                    ],
+                    [
+                        "SentinelOne",
+                        "static engine - malicious"
+                    ],
+                    [
+                        "Symantec",
+                        "ML.Attribute.HighConfidence"
+                    ],
+                    [
+                        "Tencent",
+                        "Win32.Trojan-gamethief.Magania.Ecav"
+                    ],
+                    [
+                        "TheHacker",
+                        "Posible_Worm32"
+                    ],
+                    [
+                        "TrendMicro",
+                        "BKDR_ZEGOST.SM34"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "BKDR_ZEGOST.SM34"
+                    ],
+                    [
+                        "Zillya",
+                        "Trojan.Magania.Win32.71378"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "Trojan-GameThief.Win32.Magania.uhuk"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "39 out of 65 antivirus detected \u001b[1m8b6dd69af41aa243e9fb12cfbd426735\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/156268ea966642cff53b0d5ece4903fbaebddbcb5e3f446dff27780d30cb5a73/analysis/1505255585/\n",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
+            "type": "info"
+        }
+    ]
+}

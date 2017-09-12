@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "09/12/2017 22:35:01",
+
+	 "source": "deonaea 192.241.x.x",
+
+	 "name": "8b6dd69af41aa243e9fb12cfbd426735",
+
+	 "hash": "156268ea966642cff53b0d5ece4903fbaebddbcb5e3f446dff27780d30cb5a73",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows, UPX compressed",
+
+	 "classification": "Gen:Variant.Kazy.162222",
+
+	 "virustotal": "https://www.virustotal.com/file/156268ea966642cff53b0d5ece4903fbaebddbcb5e3f446dff27780d30cb5a73/analysis/1505255585/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/8b6dd69af41aa243e9fb12cfbd426735"
+
+},
+
+{ 
+
 	 "date": "09/12/2017 21:05:01",
 
 	 "source": "cowrie 159.203.x.x",
