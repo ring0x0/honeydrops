@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "09/12/2017 15:15:01",
+
+	 "source": "deonaea 192.241.x.x",
+
+	 "name": "075b94948fdc74af8bbe0d85e28b578a",
+
+	 "hash": "de63304488ed44ef212f6ea6fd754b715621ed67b752de66f6331aaebb270b19",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
+
+	 "classification": "Gen:Variant.Adware.Rukometa.Symmi.2",
+
+	 "virustotal": "https://www.virustotal.com/file/de63304488ed44ef212f6ea6fd754b715621ed67b752de66f6331aaebb270b19/analysis/1505178090/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/075b94948fdc74af8bbe0d85e28b578a"
+
+},
+
+{ 
+
 	 "date": "09/12/2017 14:00:01",
 
 	 "source": "cowrie 159.203.x.x",
