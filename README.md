@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "09/12/2017 20:20:01",
+
+	 "source": "deonaea 159.203.x.x",
+
+	 "name": "1477097d676039ec723218229a87b6b1",
+
+	 "hash": "6bd4d60eec00cef143e519b6b19c1769941e518c8ae3a01c22b9066ec6cd2282",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
+
+	 "classification": "Win32.Virtob.Gen.12",
+
+	 "virustotal": "https://www.virustotal.com/file/6bd4d60eec00cef143e519b6b19c1769941e518c8ae3a01c22b9066ec6cd2282/analysis/1505230876/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/1477097d676039ec723218229a87b6b1"
+
+},
+
+{ 
+
 	 "date": "09/12/2017 18:25:01",
 
 	 "source": "deonaea 192.241.x.x",
