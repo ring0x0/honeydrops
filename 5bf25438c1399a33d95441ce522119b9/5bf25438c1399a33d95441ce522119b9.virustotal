@@ -1,0 +1,267 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m5bf25438c1399a33d95441ce522119b9\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "Win32.Ramnit"
+                    ],
+                    [
+                        "AVG",
+                        "Win32:RmnDrp"
+                    ],
+                    [
+                        "AVware",
+                        "Virus.Win32.Ramnit.a (v)"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Win32.Ramnit"
+                    ],
+                    [
+                        "AegisLab",
+                        "W32.Nimnul.tn4U"
+                    ],
+                    [
+                        "AhnLab-V3",
+                        "Win32/Ramnit.B"
+                    ],
+                    [
+                        "Antiy-AVL",
+                        "Virus/Win32.Nimnul.a"
+                    ],
+                    [
+                        "Arcabit",
+                        "Win32.Ramnit"
+                    ],
+                    [
+                        "Avast",
+                        "Win32:RmnDrp"
+                    ],
+                    [
+                        "Avira",
+                        "W32/Ramnit.CD"
+                    ],
+                    [
+                        "Baidu",
+                        "Win32.Virus.Nimnul.a"
+                    ],
+                    [
+                        "BitDefender",
+                        "Win32.Ramnit"
+                    ],
+                    [
+                        "Bkav",
+                        "W32.RammitNNA.PE"
+                    ],
+                    [
+                        "CAT-QuickHeal",
+                        "W32.Ramnit.A"
+                    ],
+                    [
+                        "ClamAV",
+                        "Win.Trojan.Ramnit-1847"
+                    ],
+                    [
+                        "Comodo",
+                        "Packed.Win32.MUPX.Gen"
+                    ],
+                    [
+                        "CrowdStrike",
+                        "malicious_confidence_100% (D)"
+                    ],
+                    [
+                        "Cylance",
+                        "Unsafe"
+                    ],
+                    [
+                        "Cyren",
+                        "W32/Ramnit.B!Generic"
+                    ],
+                    [
+                        "DrWeb",
+                        "Win32.Rmnet"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "Win32/Ramnit.A"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Win32.Ramnit (B)"
+                    ],
+                    [
+                        "Endgame",
+                        "malicious (moderate confidence)"
+                    ],
+                    [
+                        "F-Prot",
+                        "W32/Ramnit.B!Generic"
+                    ],
+                    [
+                        "F-Secure",
+                        "Win32.Ramnit"
+                    ],
+                    [
+                        "Fortinet",
+                        "W32/Ramnit.A"
+                    ],
+                    [
+                        "GData",
+                        "Win32.Virus.Ramnit.C"
+                    ],
+                    [
+                        "Ikarus",
+                        "Virus.Win32.Ramnit"
+                    ],
+                    [
+                        "Invincea",
+                        "heuristic"
+                    ],
+                    [
+                        "Jiangmin",
+                        "Win32/PatchFile.et"
+                    ],
+                    [
+                        "K7AntiVirus",
+                        "Virus ( 002fe95d1 )"
+                    ],
+                    [
+                        "K7GW",
+                        "Virus ( 002fe95d1 )"
+                    ],
+                    [
+                        "Kaspersky",
+                        "Virus.Win32.Nimnul.a"
+                    ],
+                    [
+                        "Kingsoft",
+                        "Win32.Ramnit.la.30720"
+                    ],
+                    [
+                        "MAX",
+                        "malware (ai score=86)"
+                    ],
+                    [
+                        "McAfee",
+                        "W32/Ramnit.a"
+                    ],
+                    [
+                        "McAfee-GW-Edition",
+                        "BehavesLike.Win32.Ramnit.cc"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Win32.Ramnit"
+                    ],
+                    [
+                        "Microsoft",
+                        "Virus:Win32/Ramnit.A"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Virus.Win32.Nimnul.bpchjo"
+                    ],
+                    [
+                        "Panda",
+                        "W32/Cosmu.gen"
+                    ],
+                    [
+                        "Qihoo-360",
+                        "Virus.Win32.Ramnit.B"
+                    ],
+                    [
+                        "Rising",
+                        "Virus.Ramnit!1.9AA5 (classic)"
+                    ],
+                    [
+                        "SentinelOne",
+                        "static engine - malicious"
+                    ],
+                    [
+                        "Sophos",
+                        "W32/Patched-I"
+                    ],
+                    [
+                        "Symantec",
+                        "W32.Ramnit!inf"
+                    ],
+                    [
+                        "Tencent",
+                        "Virus.Win32.Nimnul.d"
+                    ],
+                    [
+                        "TotalDefense",
+                        "Win32/Ramnit.A"
+                    ],
+                    [
+                        "TrendMicro",
+                        "PE_RAMNIT.H"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "PE_RAMNIT.H"
+                    ],
+                    [
+                        "VBA32",
+                        "Virus.Win32.Nimnul.a"
+                    ],
+                    [
+                        "VIPRE",
+                        "Virus.Win32.Ramnit.a (v)"
+                    ],
+                    [
+                        "ViRobot",
+                        "Win32.Ramnit.E"
+                    ],
+                    [
+                        "WhiteArmor",
+                        "Malware.HighConfidence"
+                    ],
+                    [
+                        "Yandex",
+                        "Win32.Ramnit.Gen.3"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "Virus.Win32.Nimnul.a"
+                    ],
+                    [
+                        "Zoner",
+                        "Win32.Ramnit.A"
+                    ],
+                    [
+                        "nProtect",
+                        "Virus/W32.Ramnit.B"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "58 out of 63 antivirus detected \u001b[1m5bf25438c1399a33d95441ce522119b9\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/b276cde411eaf04726fa643c6ec55e18e832ae31587d0b3b6d89a8d69d944d0b/analysis/1505240584/\n",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
+            "type": "info"
+        }
+    ]
+}

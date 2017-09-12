@@ -1,0 +1,6 @@
+60e8000000005d8bc581
+pusha 
+call 0x41e006
+pop ebp
+mov eax,ebp
+add dword [eax],0x50000
