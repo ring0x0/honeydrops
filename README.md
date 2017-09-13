@@ -2,6 +2,46 @@
 
 { 
 
+	 "date": "09/13/2017 05:50:01",
+
+	 "source": "deonaea 192.241.x.x",
+
+	 "name": "8ebdc467517b67f52ebb5538902a089d",
+
+	 "hash": "e4e7427f17882fc7095ac8e770e5c4008b7a6111872e5ab29aa31144d626b0b0",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
+
+	 "classification": "Trojan.Generic.4863548",
+
+	 "virustotal": "https://www.virustotal.com/file/e4e7427f17882fc7095ac8e770e5c4008b7a6111872e5ab29aa31144d626b0b0/analysis/1505078053/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/8ebdc467517b67f52ebb5538902a089d"
+
+},
+
+{ 
+
+	 "date": "09/13/2017 05:50:01",
+
+	 "source": "deonaea 192.241.x.x",
+
+	 "name": "35586d981fbdb6841979b93acb78a5b3",
+
+	 "hash": "21db158a6ac5ba9ce76fb3cb202f3b04bffc3fcdaa8af1986dff246688cd815b",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
+
+	 "classification": "Gen:Variant.Zusy.256007",
+
+	 "virustotal": "https://www.virustotal.com/file/21db158a6ac5ba9ce76fb3cb202f3b04bffc3fcdaa8af1986dff246688cd815b/analysis/1505279803/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/35586d981fbdb6841979b93acb78a5b3"
+
+},
+
+{ 
+
 	 "date": "09/13/2017 03:00:01",
 
 	 "source": "cowrie 159.203.x.x",

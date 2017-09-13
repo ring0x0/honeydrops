@@ -1,0 +1,195 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m35586d981fbdb6841979b93acb78a5b3\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "Gen:Variant.Zusy.256007"
+                    ],
+                    [
+                        "AVG",
+                        "Win32:Malware-gen"
+                    ],
+                    [
+                        "AVware",
+                        "Trojan.Win32.Generic!BT"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Gen:Variant.Zusy.256007"
+                    ],
+                    [
+                        "AegisLab",
+                        "Troj.Downloader.W32.Agent!c"
+                    ],
+                    [
+                        "AhnLab-V3",
+                        "Malware/Win32.Generic.C2125653"
+                    ],
+                    [
+                        "Arcabit",
+                        "Trojan.Zusy.D3E807"
+                    ],
+                    [
+                        "Avast",
+                        "Win32:Malware-gen"
+                    ],
+                    [
+                        "Avira",
+                        "TR/AD.Farfli.wcbgh"
+                    ],
+                    [
+                        "Baidu",
+                        "Win32.Trojan.Kryptik.te"
+                    ],
+                    [
+                        "BitDefender",
+                        "Gen:Variant.Zusy.256007"
+                    ],
+                    [
+                        "CrowdStrike",
+                        "malicious_confidence_60% (W)"
+                    ],
+                    [
+                        "Cylance",
+                        "Unsafe"
+                    ],
+                    [
+                        "Cyren",
+                        "W32/Trojan.FMIE-2297"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "a variant of Win32/Kryptik.FDQG"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Gen:Variant.Zusy.256007 (B)"
+                    ],
+                    [
+                        "F-Secure",
+                        "Gen:Variant.Zusy.256007"
+                    ],
+                    [
+                        "Fortinet",
+                        "W32/Kryptik.FDQG!tr"
+                    ],
+                    [
+                        "GData",
+                        "Gen:Variant.Zusy.256007"
+                    ],
+                    [
+                        "Ikarus",
+                        "Trojan.Win32.Farfli"
+                    ],
+                    [
+                        "K7AntiVirus",
+                        "Trojan ( 005001511 )"
+                    ],
+                    [
+                        "K7GW",
+                        "Trojan ( 005001511 )"
+                    ],
+                    [
+                        "Kaspersky",
+                        "Trojan-Downloader.Win32.Agent.siloqg"
+                    ],
+                    [
+                        "MAX",
+                        "malware (ai score=80)"
+                    ],
+                    [
+                        "McAfee",
+                        "GenericR-KJO!35586D981FBD"
+                    ],
+                    [
+                        "McAfee-GW-Edition",
+                        "Artemis!Trojan"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Gen:Variant.Zusy.256007"
+                    ],
+                    [
+                        "Microsoft",
+                        "TrojanDownloader:Win32/Farfli.F!bit"
+                    ],
+                    [
+                        "Paloalto",
+                        "generic.ml"
+                    ],
+                    [
+                        "Panda",
+                        "Trj/CI.A"
+                    ],
+                    [
+                        "Qihoo-360",
+                        "HEUR/QVM07.1.CB63.Malware.Gen"
+                    ],
+                    [
+                        "Rising",
+                        "Trojan.Kryptik!1.AAD1 (cloud:uB2tr7aQVeP)"
+                    ],
+                    [
+                        "SentinelOne",
+                        "static engine - malicious"
+                    ],
+                    [
+                        "Sophos",
+                        "Mal/Generic-S"
+                    ],
+                    [
+                        "Symantec",
+                        "Trojan.Gen"
+                    ],
+                    [
+                        "Tencent",
+                        "Win32.Trojan-downloader.Agent.Liqq"
+                    ],
+                    [
+                        "TrendMicro",
+                        "TROJ_GEN.R002C0DIC17"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "TROJ_GEN.R002C0DIC17"
+                    ],
+                    [
+                        "VIPRE",
+                        "Trojan.Win32.Generic!BT"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "Trojan-Downloader.Win32.Agent.siloqg"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "40 out of 65 antivirus detected \u001b[1m35586d981fbdb6841979b93acb78a5b3\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/21db158a6ac5ba9ce76fb3cb202f3b04bffc3fcdaa8af1986dff246688cd815b/analysis/1505279803/\n",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
+            "type": "info"
+        }
+    ]
+}
