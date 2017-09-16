@@ -2,6 +2,46 @@
 
 { 
 
+	 "date": "09/16/2017 16:00:02",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "a3c3bc9ae9ff9ce96fb0598b2824978e35db84b8244528b0524d4eda114646c8",
+
+	 "hash": "a3c3bc9ae9ff9ce96fb0598b2824978e35db84b8244528b0524d4eda114646c8",
+
+	 "type": "Bourne-Again shell script, ASCII text executable",
+
+	 "classification": "Generic.Bash.MiraiA.3C559961",
+
+	 "virustotal": "https://www.virustotal.com/file/a3c3bc9ae9ff9ce96fb0598b2824978e35db84b8244528b0524d4eda114646c8/analysis/1505517322/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/a3c3bc9ae9ff9ce96fb0598b2824978e35db84b8244528b0524d4eda114646c8"
+
+},
+
+{ 
+
+	 "date": "09/16/2017 16:00:02",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "2815c35a00c6abadc22aa61b888cb144bc51458d08196794f15d06851d185b1d",
+
+	 "hash": "2815c35a00c6abadc22aa61b888cb144bc51458d08196794f15d06851d185b1d",
+
+	 "type": "ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), statically linked, for GNU/Linux 2.6.9, not stripped",
+
+	 "classification": "Gen:Variant.Trojan.Linux.XorDDoS.2",
+
+	 "virustotal": "https://www.virustotal.com/file/2815c35a00c6abadc22aa61b888cb144bc51458d08196794f15d06851d185b1d/analysis/1505367065/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/2815c35a00c6abadc22aa61b888cb144bc51458d08196794f15d06851d185b1d"
+
+},
+
+{ 
+
 	 "date": "09/16/2017 14:55:01",
 
 	 "source": "cowrie 159.203.x.x",
@@ -97,26 +137,6 @@
 	 "virustotal": "https://www.virustotal.com/file/5a5183c1f5fdab92e15f64f18c15a390717e313a9f049cd9de4fbb3f3adc4008/analysis/1505370504/" ,
 
 	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/5a5183c1f5fdab92e15f64f18c15a390717e313a9f049cd9de4fbb3f3adc4008"
-
-},
-
-{ 
-
-	 "date": "09/16/2017 12:00:01",
-
-	 "source": "cowrie 159.203.x.x",
-
-	 "name": "a3c3bc9ae9ff9ce96fb0598b2824978e35db84b8244528b0524d4eda114646c8",
-
-	 "hash": "a3c3bc9ae9ff9ce96fb0598b2824978e35db84b8244528b0524d4eda114646c8",
-
-	 "type": "Bourne-Again shell script, ASCII text executable",
-
-	 "classification": "Generic.Bash.MiraiA.3C559961",
-
-	 "virustotal": "https://www.virustotal.com/file/a3c3bc9ae9ff9ce96fb0598b2824978e35db84b8244528b0524d4eda114646c8/analysis/1505517322/" ,
-
-	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/a3c3bc9ae9ff9ce96fb0598b2824978e35db84b8244528b0524d4eda114646c8"
 
 },
 
@@ -5497,26 +5517,6 @@
 	 "virustotal": "https://www.virustotal.com/file/d69e3a0226a40cc905a20b5092f6169992c8b62912d823a70f5d93d680a80520/analysis/1502507041/" ,
 
 	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/1bda150b6499ef328e9f5210fc8a60b7"
-
-},
-
-{ 
-
-	 "date": "08/14/2017 15:40:01",
-
-	 "source": "cowrie 159.203.x.x",
-
-	 "name": "2815c35a00c6abadc22aa61b888cb144bc51458d08196794f15d06851d185b1d",
-
-	 "hash": "2815c35a00c6abadc22aa61b888cb144bc51458d08196794f15d06851d185b1d",
-
-	 "type": "ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), statically linked, for GNU/Linux 2.6.9, not stripped",
-
-	 "classification": "Gen:Variant.Trojan.Linux.XorDDoS.2",
-
-	 "virustotal": "https://www.virustotal.com/file/2815c35a00c6abadc22aa61b888cb144bc51458d08196794f15d06851d185b1d/analysis/1502104717/" ,
-
-	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/2815c35a00c6abadc22aa61b888cb144bc51458d08196794f15d06851d185b1d"
 
 },
 
