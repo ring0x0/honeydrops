@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "09/16/2017 14:55:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "119cb6eb0df6ddfcfb898d5dd37fc1580b3210640ad87573976c466a691f5083",
+
+	 "hash": "119cb6eb0df6ddfcfb898d5dd37fc1580b3210640ad87573976c466a691f5083",
+
+	 "type": "Bourne-Again shell script, ASCII text executable",
+
+	 "classification": "Generic.Bash.MiraiA.A83AC431",
+
+	 "virustotal": "https://www.virustotal.com/file/119cb6eb0df6ddfcfb898d5dd37fc1580b3210640ad87573976c466a691f5083/analysis/1505140871/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/119cb6eb0df6ddfcfb898d5dd37fc1580b3210640ad87573976c466a691f5083"
+
+},
+
+{ 
+
 	 "date": "09/16/2017 13:30:01",
 
 	 "source": "cowrie 159.203.x.x",
