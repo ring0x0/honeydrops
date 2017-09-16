@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "09/16/2017 13:30:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "4c47af16ed609b903111ed7dddf50984eb51ed354b71edfdfbb6b1e878e7a05e",
+
+	 "hash": "4c47af16ed609b903111ed7dddf50984eb51ed354b71edfdfbb6b1e878e7a05e",
+
+	 "type": "ASCII text",
+
+	 "classification": "HEUR:Trojan-Downloader.Shell.Agent.as",
+
+	 "virustotal": "https://www.virustotal.com/file/4c47af16ed609b903111ed7dddf50984eb51ed354b71edfdfbb6b1e878e7a05e/analysis/1505379403/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/4c47af16ed609b903111ed7dddf50984eb51ed354b71edfdfbb6b1e878e7a05e"
+
+},
+
+{ 
+
 	 "date": "09/16/2017 13:00:01",
 
 	 "source": "cowrie 159.203.x.x",
@@ -7317,26 +7337,6 @@
 	 "virustotal": "https://www.virustotal.com/file/8306118c1564f58c3f1527d3baf9820518a4848a43e0538126aea8a34a5db1b0/analysis/1500696006/" ,
 
 	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/8306118c1564f58c3f1527d3baf9820518a4848a43e0538126aea8a34a5db1b0"
-
-},
-
-{ 
-
-	 "date": "07/21/2017 18:30:01",
-
-	 "source": "cowrie 159.203.x.x",
-
-	 "name": "4c47af16ed609b903111ed7dddf50984eb51ed354b71edfdfbb6b1e878e7a05e",
-
-	 "hash": "4c47af16ed609b903111ed7dddf50984eb51ed354b71edfdfbb6b1e878e7a05e",
-
-	 "type": "ASCII text",
-
-	 "classification": "BV:Downloader-KB [Drp]",
-
-	 "virustotal": "https://www.virustotal.com/file/4c47af16ed609b903111ed7dddf50984eb51ed354b71edfdfbb6b1e878e7a05e/analysis/1499211007/" ,
-
-	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/4c47af16ed609b903111ed7dddf50984eb51ed354b71edfdfbb6b1e878e7a05e"
 
 },
 
