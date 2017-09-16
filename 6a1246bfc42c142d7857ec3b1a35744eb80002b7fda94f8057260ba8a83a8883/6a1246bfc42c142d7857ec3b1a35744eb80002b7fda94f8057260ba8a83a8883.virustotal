@@ -1,0 +1,7 @@
+{
+    "results": [
+        {
+            "message": "Unable to complete the command: virustotal -s -v -c captured from honeypot on 09/16/2017 21:30:01 and submitted via viper malware framework"
+        }
+    ]
+}
