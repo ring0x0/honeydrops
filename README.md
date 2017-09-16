@@ -2,6 +2,66 @@
 
 { 
 
+	 "date": "09/16/2017 03:00:01",
+
+	 "source": "deonaea 192.241.x.x",
+
+	 "name": "d98de55d330f556e833a38031f5ab0bb",
+
+	 "hash": "5076fb4730d7b3509c5a490f543f6deff3b0d47be1522649bd71bf55e0cd531c",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
+
+	 "classification": "Gen:Variant.Zusy.247887",
+
+	 "virustotal": "https://www.virustotal.com/file/5076fb4730d7b3509c5a490f543f6deff3b0d47be1522649bd71bf55e0cd531c/analysis/1505367788/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/d98de55d330f556e833a38031f5ab0bb"
+
+},
+
+{ 
+
+	 "date": "09/16/2017 02:35:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "fedaeeed62bbc675e1c439de84ee08a955fca86460d5f0eafa22f9ce56678a8e",
+
+	 "hash": "fedaeeed62bbc675e1c439de84ee08a955fca86460d5f0eafa22f9ce56678a8e",
+
+	 "type": "ASCII text",
+
+	 "classification": "Generic.Bash.MiraiA.D6B5FF93",
+
+	 "virustotal": "https://www.virustotal.com/file/fedaeeed62bbc675e1c439de84ee08a955fca86460d5f0eafa22f9ce56678a8e/analysis/1505361267/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/fedaeeed62bbc675e1c439de84ee08a955fca86460d5f0eafa22f9ce56678a8e"
+
+},
+
+{ 
+
+	 "date": "09/16/2017 02:35:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "77aac0b78967b65b542a7005c42c20c8f025775f6c8ce28bbf527f94fcef9ad1",
+
+	 "hash": "77aac0b78967b65b542a7005c42c20c8f025775f6c8ce28bbf527f94fcef9ad1",
+
+	 "type": "Bourne-Again shell script, ASCII text executable",
+
+	 "classification": "Generic.Bash.MiraiA.180C90EA",
+
+	 "virustotal": "https://www.virustotal.com/file/77aac0b78967b65b542a7005c42c20c8f025775f6c8ce28bbf527f94fcef9ad1/analysis/1505361261/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/77aac0b78967b65b542a7005c42c20c8f025775f6c8ce28bbf527f94fcef9ad1"
+
+},
+
+{ 
+
 	 "date": "09/16/2017 01:52:00",
 
 	 "source": "cowrie 159.203.x.x",
@@ -3937,26 +3997,6 @@
 	 "virustotal": "https://www.virustotal.com/file/81f4ea257f97d73e1acd69683907e7c782b48f94d1e16a181ec2b2206606c280/analysis/1503782142/" ,
 
 	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/20170827165857_4578afcdb717_0_http___80_211_225_15_cunty_sh"
-
-},
-
-{ 
-
-	 "date": "08/27/2017 11:40:01",
-
-	 "source": "deonaea 159.203.x.x",
-
-	 "name": "d98de55d330f556e833a38031f5ab0bb",
-
-	 "hash": "5076fb4730d7b3509c5a490f543f6deff3b0d47be1522649bd71bf55e0cd531c",
-
-	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
-
-	 "classification": "Gen:Variant.Zusy.247887",
-
-	 "virustotal": "https://www.virustotal.com/file/5076fb4730d7b3509c5a490f543f6deff3b0d47be1522649bd71bf55e0cd531c/analysis/1503642060/" ,
-
-	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/d98de55d330f556e833a38031f5ab0bb"
 
 },
 

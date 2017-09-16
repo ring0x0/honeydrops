@@ -36,6 +36,10 @@
                         "Gen.Variant.Zusy!c"
                     ],
                     [
+                        "AhnLab-V3",
+                        "Trojan/Win32.ServStart.C2111082"
+                    ],
+                    [
                         "Arcabit",
                         "Trojan.Zusy.D3C84F"
                     ],
@@ -56,6 +60,10 @@
                         "Gen:Variant.Zusy.247887"
                     ],
                     [
+                        "CAT-QuickHeal",
+                        "Genvariant.Zusy"
+                    ],
+                    [
                         "Comodo",
                         "TrojWare.Win32.TrojanProxy.Horst.~O"
                     ],
@@ -68,12 +76,16 @@
                         "Unsafe"
                     ],
                     [
+                        "Cyren",
+                        "W32/Trojan.YMBW-1073"
+                    ],
+                    [
                         "DrWeb",
                         "Trojan.DownLoader25.25250"
                     ],
                     [
-                        "Emsisoft",
-                        "Gen:Variant.Zusy.247887 (B)"
+                        "ESET-NOD32",
+                        "Win32/ServStart.IK"
                     ],
                     [
                         "Endgame",
@@ -84,8 +96,28 @@
                         "Gen:Variant.Zusy.247887"
                     ],
                     [
+                        "Fortinet",
+                        "W32/ServStart.ABPU!tr"
+                    ],
+                    [
                         "GData",
                         "Gen:Variant.Zusy.247887"
+                    ],
+                    [
+                        "Ikarus",
+                        "Trojan.Win32.ServStart"
+                    ],
+                    [
+                        "Jiangmin",
+                        "Trojan.ServStart.xb"
+                    ],
+                    [
+                        "K7AntiVirus",
+                        "Riskware ( 0040eff71 )"
+                    ],
+                    [
+                        "K7GW",
+                        "Riskware ( 0040eff71 )"
                     ],
                     [
                         "Kaspersky",
@@ -97,31 +129,59 @@
                     ],
                     [
                         "McAfee",
-                        "Artemis!D98DE55D330F"
+                        "RDN/Generic.dx"
                     ],
                     [
                         "McAfee-GW-Edition",
-                        "Artemis"
+                        "RDN/Generic.dx"
                     ],
                     [
                         "MicroWorld-eScan",
                         "Gen:Variant.Zusy.247887"
                     ],
                     [
+                        "Microsoft",
+                        "DDoS:Win32/Nitol.A"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Trojan.Win32.ServStart.eseijq"
+                    ],
+                    [
                         "Paloalto",
                         "generic.ml"
                     ],
                     [
+                        "Panda",
+                        "Trj/GdSda.A"
+                    ],
+                    [
                         "Rising",
-                        "Malware.Heuristic!ET#85% (rdm+)"
+                        "Trojan.ServStart!8.107 (cloud:pA6zyfbL35K)"
                     ],
                     [
                         "SentinelOne",
                         "static engine - malicious"
                     ],
                     [
+                        "Sophos",
+                        "Mal/Generic-S"
+                    ],
+                    [
+                        "Symantec",
+                        "Trojan.Gen.2"
+                    ],
+                    [
+                        "Tencent",
+                        "Win32.Trojan.Servstart.Wstx"
+                    ],
+                    [
+                        "TrendMicro",
+                        "TROJ_GEN.R00XC0DHR17"
+                    ],
+                    [
                         "TrendMicro-HouseCall",
-                        "TROJ_GEN.R047H09HO17"
+                        "TROJ_GEN.R00XC0DHR17"
                     ],
                     [
                         "VIPRE",
@@ -132,6 +192,18 @@
                         "Trojan.Win32.Z.Zusy.160272"
                     ],
                     [
+                        "Webroot",
+                        "W32.Trojan.Gen"
+                    ],
+                    [
+                        "Yandex",
+                        "Trojan.ServStart!aAYnBKctL7k"
+                    ],
+                    [
+                        "Zillya",
+                        "Trojan.ServStart.Win32.17141"
+                    ],
+                    [
                         "ZoneAlarm",
                         "Trojan.Win32.ServStart.abpu"
                     ]
@@ -140,11 +212,11 @@
             "type": "table"
         },
         {
-            "data": "30 out of 64 antivirus detected \u001b[1md98de55d330f556e833a38031f5ab0bb\u001b[0m as malicious.",
+            "data": "48 out of 63 antivirus detected \u001b[1md98de55d330f556e833a38031f5ab0bb\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/5076fb4730d7b3509c5a490f543f6deff3b0d47be1522649bd71bf55e0cd531c/analysis/1503642060/\n",
+            "data": "https://www.virustotal.com/file/5076fb4730d7b3509c5a490f543f6deff3b0d47be1522649bd71bf55e0cd531c/analysis/1505367788/\n",
             "type": "info"
         },
         {

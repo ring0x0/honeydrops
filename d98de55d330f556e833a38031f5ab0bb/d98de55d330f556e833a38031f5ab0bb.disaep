@@ -1,3 +1,6 @@
 e8d7330000e978feffff
 call 0x405eec
 jmp 0x402992
+e8d7330000e978feffff
+call 0x405eec
+jmp 0x402992
