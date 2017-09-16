@@ -1,0 +1,167 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m7f3c6506647fa95083d6a0f38f2eeb4c\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "Gen:Variant.Graftor.170215"
+                    ],
+                    [
+                        "AVG",
+                        "Win32:Malware-gen"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Gen:Variant.Graftor.170215"
+                    ],
+                    [
+                        "AegisLab",
+                        "Troj.Downloader.W32.Agent!c"
+                    ],
+                    [
+                        "Antiy-AVL",
+                        "Trojan/Win32.TSGeneric"
+                    ],
+                    [
+                        "Arcabit",
+                        "Trojan.Graftor.D298E7"
+                    ],
+                    [
+                        "Avast",
+                        "Win32:Malware-gen"
+                    ],
+                    [
+                        "Avira",
+                        "TR/AD.Farfli.yhtwe"
+                    ],
+                    [
+                        "Baidu",
+                        "Win32.Trojan.Kryptik.te"
+                    ],
+                    [
+                        "BitDefender",
+                        "Gen:Variant.Graftor.170215"
+                    ],
+                    [
+                        "CrowdStrike",
+                        "malicious_confidence_90% (D)"
+                    ],
+                    [
+                        "Cylance",
+                        "Unsafe"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "a variant of Win32/Injector.BEWN"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Gen:Variant.Graftor.170215 (B)"
+                    ],
+                    [
+                        "Endgame",
+                        "malicious (high confidence)"
+                    ],
+                    [
+                        "F-Secure",
+                        "Gen:Variant.Graftor.170215"
+                    ],
+                    [
+                        "Fortinet",
+                        "W32/Injector.BEWN!tr"
+                    ],
+                    [
+                        "GData",
+                        "Gen:Variant.Graftor.170215"
+                    ],
+                    [
+                        "Ikarus",
+                        "Trojan-GameThief.Win32.Magania"
+                    ],
+                    [
+                        "K7AntiVirus",
+                        "Trojan ( 00516e661 )"
+                    ],
+                    [
+                        "K7GW",
+                        "Trojan ( 00516e661 )"
+                    ],
+                    [
+                        "Kaspersky",
+                        "Trojan-Downloader.Win32.Agent.silotb"
+                    ],
+                    [
+                        "MAX",
+                        "malware (ai score=82)"
+                    ],
+                    [
+                        "McAfee",
+                        "GenericR-KKQ!7F3C6506647F"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Gen:Variant.Graftor.170215"
+                    ],
+                    [
+                        "Microsoft",
+                        "TrojanDownloader:Win32/Farfli.F!bit"
+                    ],
+                    [
+                        "Paloalto",
+                        "generic.ml"
+                    ],
+                    [
+                        "Panda",
+                        "Trj/GdSda.A"
+                    ],
+                    [
+                        "Qihoo-360",
+                        "HEUR/QVM07.1.E27B.Malware.Gen"
+                    ],
+                    [
+                        "Rising",
+                        "Trojan.Kryptik!1.AAD1 (classic)"
+                    ],
+                    [
+                        "SentinelOne",
+                        "static engine - malicious"
+                    ],
+                    [
+                        "Tencent",
+                        "Win32.Trojan-downloader.Agent.Ajma"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "Trojan-Downloader.Win32.Agent.silotb"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "33 out of 64 antivirus detected \u001b[1m7f3c6506647fa95083d6a0f38f2eeb4c\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/f42f065c19e1883bacdbd8aae6931c60c59b1decfd551acbaf1fb3f5a54779ed/analysis/1505582166/\n",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
+            "type": "info"
+        }
+    ]
+}

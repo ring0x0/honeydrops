@@ -2,7 +2,7 @@
 
 { 
 
-	 "date": "09/16/2017 18:00:01",
+	 "date": "09/16/2017 18:30:01",
 
 	 "source": "cowrie 159.203.x.x",
 
@@ -17,6 +17,26 @@
 	 "virustotal": "https://www.virustotal.com/file/5bb37913970e5f93e7872068972ef503be8ba8d902872183d0e7438a5651fc74/analysis/1505262714/" ,
 
 	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/5bb37913970e5f93e7872068972ef503be8ba8d902872183d0e7438a5651fc74"
+
+},
+
+{ 
+
+	 "date": "09/16/2017 18:25:01",
+
+	 "source": "deonaea 192.241.x.x",
+
+	 "name": "7f3c6506647fa95083d6a0f38f2eeb4c",
+
+	 "hash": "f42f065c19e1883bacdbd8aae6931c60c59b1decfd551acbaf1fb3f5a54779ed",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
+
+	 "classification": "Gen:Variant.Graftor.170215",
+
+	 "virustotal": "https://www.virustotal.com/file/f42f065c19e1883bacdbd8aae6931c60c59b1decfd551acbaf1fb3f5a54779ed/analysis/1505582166/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/7f3c6506647fa95083d6a0f38f2eeb4c"
 
 },
 
