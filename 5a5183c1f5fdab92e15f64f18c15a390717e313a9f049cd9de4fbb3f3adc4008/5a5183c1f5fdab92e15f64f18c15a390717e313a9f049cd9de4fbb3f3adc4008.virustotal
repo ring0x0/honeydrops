@@ -40,6 +40,10 @@
                         "BV:Downloader-JS [Drp]"
                     ],
                     [
+                        "Avira",
+                        "HTML/ExpKit.Gen2"
+                    ],
+                    [
                         "BitDefender",
                         "Generic.Bash.MiraiA.F8B643B6"
                     ],
@@ -112,6 +116,10 @@
                         "Win32.Trojan-downloader.Agent.Dyfw"
                     ],
                     [
+                        "TotalDefense",
+                        "Generic.Bash.MiraiA.F8B643B6"
+                    ],
+                    [
                         "TrendMicro-HouseCall",
                         "Suspicious_GEN.F47V0705"
                     ],
@@ -124,11 +132,11 @@
             "type": "table"
         },
         {
-            "data": "26 out of 57 antivirus detected \u001b[1m8700e746bed91f2604bfeb4df60772f3\u001b[0m as malicious.",
+            "data": "28 out of 58 antivirus detected \u001b[1m8700e746bed91f2604bfeb4df60772f3\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/5a5183c1f5fdab92e15f64f18c15a390717e313a9f049cd9de4fbb3f3adc4008/analysis/1502675265/\n",
+            "data": "https://www.virustotal.com/file/5a5183c1f5fdab92e15f64f18c15a390717e313a9f049cd9de4fbb3f3adc4008/analysis/1505370504/\n",
             "type": "info"
         },
         {
