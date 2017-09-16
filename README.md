@@ -51457,7 +51457,6 @@
 
 	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/8e40ad1ced365a25ff67e4fa71cdeb31"
 
-},
 }
 
 ]
