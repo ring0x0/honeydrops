@@ -2,6 +2,46 @@
 
 { 
 
+	 "date": "09/17/2017 01:00:01",
+
+	 "source": "deonaea 192.241.x.x",
+
+	 "name": "1a89371ea1bfae68ce3242ce40d80bd3",
+
+	 "hash": "63aa88704c956057cc93188a7d167951604934217332bed7a6902dc5201996a9",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
+
+	 "classification": "Gen:Variant.Zegost.6",
+
+	 "virustotal": "https://www.virustotal.com/file/63aa88704c956057cc93188a7d167951604934217332bed7a6902dc5201996a9/analysis/1504921767/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/1a89371ea1bfae68ce3242ce40d80bd3"
+
+},
+
+{ 
+
+	 "date": "09/17/2017 00:50:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "297ef5fe627fdd1e0e0a2c447e5496e9ff131f29c0dc35b1499380c5e71cd578",
+
+	 "hash": "297ef5fe627fdd1e0e0a2c447e5496e9ff131f29c0dc35b1499380c5e71cd578",
+
+	 "type": "Bourne-Again shell script, ASCII text executable",
+
+	 "classification": "Generic.Bash.MiraiA.75E1CBFD",
+
+	 "virustotal": "https://www.virustotal.com/file/297ef5fe627fdd1e0e0a2c447e5496e9ff131f29c0dc35b1499380c5e71cd578/analysis/1505610050/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/297ef5fe627fdd1e0e0a2c447e5496e9ff131f29c0dc35b1499380c5e71cd578"
+
+},
+
+{ 
+
 	 "date": "09/17/2017 00:30:01",
 
 	 "source": "deonaea 192.241.x.x",
@@ -3577,26 +3617,6 @@
 	 "virustotal": "https://www.virustotal.com/file/09692a806cd30ffe17ddb78b04db751641a0cd94d89a196c054f8811ea0a9b07/analysis/1503921606/" ,
 
 	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/09692a806cd30ffe17ddb78b04db751641a0cd94d89a196c054f8811ea0a9b07"
-
-},
-
-{ 
-
-	 "date": "08/30/2017 07:00:01",
-
-	 "source": "deonaea 159.203.x.x",
-
-	 "name": "1a89371ea1bfae68ce3242ce40d80bd3",
-
-	 "hash": "63aa88704c956057cc93188a7d167951604934217332bed7a6902dc5201996a9",
-
-	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
-
-	 "classification": "Gen:Variant.Zegost.6",
-
-	 "virustotal": "https://www.virustotal.com/file/63aa88704c956057cc93188a7d167951604934217332bed7a6902dc5201996a9/analysis/1501510089/" ,
-
-	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/1a89371ea1bfae68ce3242ce40d80bd3"
 
 },
 
