@@ -1,1 +1,1 @@
-{"results": [{"data": "\u001b[1m0\u001b[0m relevant matches found", "type": "info"}]}
+{"results": [{"data": "\u001b[1m1\u001b[0m relevant matches found", "type": "info"}, {"data": {"header": ["Score", "Name", "SHA256"], "rows": [["93%", "http-zUNGCu", "35fa9add881d9c9c7c036b6e13113415536b20addec4dec18689debaaf917bb2"]]}, "type": "table"}]}
