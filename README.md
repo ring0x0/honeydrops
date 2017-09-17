@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "09/17/2017 16:40:01",
+
+	 "source": "deonaea 192.241.x.x",
+
+	 "name": "smb-jynjmt80.tmp",
+
+	 "hash": "db5ce44e4c4ce6271d2e0a056e5abafdd7045f00d55c78450e64a87c2ed86efb",
+
+	 "type": "data",
+
+	 "classification": "Trojan.GenericKD.4484531",
+
+	 "virustotal": "https://www.virustotal.com/file/db5ce44e4c4ce6271d2e0a056e5abafdd7045f00d55c78450e64a87c2ed86efb/analysis/1505620941/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/smb-jynjmt80.tmp"
+
+},
+
+{ 
+
 	 "date": "09/17/2017 13:30:01",
 
 	 "source": "cowrie 159.203.x.x",
