@@ -64,10 +64,6 @@
                         "Gen:Variant.Zegost.6"
                     ],
                     [
-                        "Bkav",
-                        "W32.LopmoXB.Worm"
-                    ],
-                    [
                         "CAT-QuickHeal",
                         "TrojanDropper.Zegost.C5"
                     ],
@@ -161,7 +157,7 @@
                     ],
                     [
                         "McAfee-GW-Edition",
-                        "BehavesLike.Win32.Generic.ch"
+                        "BehavesLike.Win32.PWSZbot.ch"
                     ],
                     [
                         "MicroWorld-eScan",
@@ -240,12 +236,20 @@
                         "Trojan.Win32.A.PSW-Bjlog.208896"
                     ],
                     [
+                        "Webroot",
+                        "W32.Downloader.Gen"
+                    ],
+                    [
                         "WhiteArmor",
                         "Malware.HighConfidence"
                     ],
                     [
                         "Yandex",
                         "Trojan.PWS.Bjlog!CtS4YjFfEAo"
+                    ],
+                    [
+                        "Zillya",
+                        "Trojan.Bjlog.Win32.3265"
                     ],
                     [
                         "ZoneAlarm",
@@ -260,11 +264,11 @@
             "type": "table"
         },
         {
-            "data": "60 out of 63 antivirus detected \u001b[1m1a89371ea1bfae68ce3242ce40d80bd3\u001b[0m as malicious.",
+            "data": "61 out of 65 antivirus detected \u001b[1m1a89371ea1bfae68ce3242ce40d80bd3\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/63aa88704c956057cc93188a7d167951604934217332bed7a6902dc5201996a9/analysis/1504921767/\n",
+            "data": "https://www.virustotal.com/file/63aa88704c956057cc93188a7d167951604934217332bed7a6902dc5201996a9/analysis/1505699089/\n",
             "type": "info"
         },
         {
