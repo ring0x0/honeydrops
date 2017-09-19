@@ -1,0 +1,167 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m9846c18d6cacab5b3cf8076d44dc6846\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "Gen:Variant.Mikey.70718"
+                    ],
+                    [
+                        "AVG",
+                        "Win32:Malware-gen"
+                    ],
+                    [
+                        "AVware",
+                        "Trojan.Win32.Nitol.b (v)"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Gen:Variant.Mikey.70718"
+                    ],
+                    [
+                        "Antiy-AVL",
+                        "Trojan/Win32.ServStart"
+                    ],
+                    [
+                        "Arcabit",
+                        "Trojan.Mikey.D1143E"
+                    ],
+                    [
+                        "Avast",
+                        "Win32:Malware-gen"
+                    ],
+                    [
+                        "BitDefender",
+                        "Gen:Variant.Mikey.70718"
+                    ],
+                    [
+                        "Comodo",
+                        "TrojWare.Win32.TrojanProxy.Horst.~O"
+                    ],
+                    [
+                        "CrowdStrike",
+                        "malicious_confidence_60% (D)"
+                    ],
+                    [
+                        "Cylance",
+                        "Unsafe"
+                    ],
+                    [
+                        "DrWeb",
+                        "Trojan.PWS.Gamania.46015"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "a variant of Win32/GenKryptik.IDD"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Gen:Variant.Mikey.70718 (B)"
+                    ],
+                    [
+                        "Endgame",
+                        "malicious (high confidence)"
+                    ],
+                    [
+                        "F-Secure",
+                        "Gen:Variant.Mikey.70718"
+                    ],
+                    [
+                        "Fortinet",
+                        "W32/GenKryptik.IDD!tr"
+                    ],
+                    [
+                        "GData",
+                        "Gen:Variant.Mikey.70718"
+                    ],
+                    [
+                        "Ikarus",
+                        "Trojan.Win32.ServStart"
+                    ],
+                    [
+                        "Invincea",
+                        "heuristic"
+                    ],
+                    [
+                        "K7AntiVirus",
+                        "Trojan ( 004fb6741 )"
+                    ],
+                    [
+                        "K7GW",
+                        "Trojan ( 004fb6741 )"
+                    ],
+                    [
+                        "MAX",
+                        "malware (ai score=88)"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Gen:Variant.Mikey.70718"
+                    ],
+                    [
+                        "Microsoft",
+                        "DDoS:Win32/Nitol.A"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Trojan.Win32.ServStart.esdfdz"
+                    ],
+                    [
+                        "Panda",
+                        "Trj/GdSda.A"
+                    ],
+                    [
+                        "Rising",
+                        "Trojan.GenKryptik!8.AA55 (tfe:5:37A4y6xUdtV)"
+                    ],
+                    [
+                        "SentinelOne",
+                        "static engine - malicious"
+                    ],
+                    [
+                        "VBA32",
+                        "Trojan.ServStart"
+                    ],
+                    [
+                        "VIPRE",
+                        "Trojan.Win32.Nitol.b (v)"
+                    ],
+                    [
+                        "Zillya",
+                        "Trojan.ServStart.Win32.16872"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "HEUR:Trojan.Win32.Generic"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "33 out of 65 antivirus detected \u001b[1m9846c18d6cacab5b3cf8076d44dc6846\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/49c0dc6154336e3df65abea5179bebf26776b41156a101d0767b41b8b68ae8bb/analysis/1505843811/\n",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
+            "type": "info"
+        }
+    ]
+}
