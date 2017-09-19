@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "09/19/2017 14:45:01",
+
+	 "source": "deonaea 192.241.x.x",
+
+	 "name": "ee4bd9b5f49cb117e41c8f348fb8226c",
+
+	 "hash": "4ef23c9f24377240eec4935c96b61439635f9a55d7d033a13cb0c1e50cbbbab3",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
+
+	 "classification": "Trojan.Rasftuby.Gen.14",
+
+	 "virustotal": "https://www.virustotal.com/file/4ef23c9f24377240eec4935c96b61439635f9a55d7d033a13cb0c1e50cbbbab3/analysis/1505434185/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/ee4bd9b5f49cb117e41c8f348fb8226c"
+
+},
+
+{ 
+
 	 "date": "09/19/2017 02:25:01",
 
 	 "source": "cowrie 159.203.x.x",

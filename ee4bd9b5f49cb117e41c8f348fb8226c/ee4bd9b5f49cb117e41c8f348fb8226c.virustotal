@@ -1,0 +1,151 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1mee4bd9b5f49cb117e41c8f348fb8226c\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "Trojan.Rasftuby.Gen.14"
+                    ],
+                    [
+                        "AVG",
+                        "Win32:Malware-gen"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Trojan.Rasftuby.Gen.14"
+                    ],
+                    [
+                        "Antiy-AVL",
+                        "Trojan/Win32.BTSGeneric"
+                    ],
+                    [
+                        "Arcabit",
+                        "Trojan.Rasftuby.Gen.14"
+                    ],
+                    [
+                        "Avast",
+                        "Win32:Malware-gen"
+                    ],
+                    [
+                        "Avira",
+                        "TR/Black.Gen2"
+                    ],
+                    [
+                        "Baidu",
+                        "Win32.Trojan.WisdomEyes.16070401.9500.9999"
+                    ],
+                    [
+                        "BitDefender",
+                        "Trojan.Rasftuby.Gen.14"
+                    ],
+                    [
+                        "CAT-QuickHeal",
+                        "Trojan.Skeeyah"
+                    ],
+                    [
+                        "Cylance",
+                        "Unsafe"
+                    ],
+                    [
+                        "DrWeb",
+                        "BAT.Starter.192"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "a variant of Win32/Packed.VMProtect.AB"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Trojan.Rasftuby.Gen.14 (B)"
+                    ],
+                    [
+                        "Endgame",
+                        "malicious (high confidence)"
+                    ],
+                    [
+                        "F-Secure",
+                        "Trojan.Rasftuby.Gen.14"
+                    ],
+                    [
+                        "GData",
+                        "Trojan.Rasftuby.Gen.14"
+                    ],
+                    [
+                        "Ikarus",
+                        "Trojan.Agent"
+                    ],
+                    [
+                        "Invincea",
+                        "heuristic"
+                    ],
+                    [
+                        "Kaspersky",
+                        "HEUR:Trojan.Win32.Generic"
+                    ],
+                    [
+                        "MAX",
+                        "malware (ai score=86)"
+                    ],
+                    [
+                        "McAfee-GW-Edition",
+                        "BehavesLike.Win32.Trojan.wc"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Trojan.Rasftuby.Gen.14"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Riskware.Win32.InstSrv.eqhlwh"
+                    ],
+                    [
+                        "Rising",
+                        "Malware.Heuristic!ET#90% (rdm+)"
+                    ],
+                    [
+                        "SentinelOne",
+                        "static engine - malicious"
+                    ],
+                    [
+                        "VBA32",
+                        "Backdoor.MSIL.Agent"
+                    ],
+                    [
+                        "Zillya",
+                        "Trojan.ScriptKD.Win32.112"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "HEUR:Trojan.Win32.Generic"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "29 out of 64 antivirus detected \u001b[1mee4bd9b5f49cb117e41c8f348fb8226c\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/4ef23c9f24377240eec4935c96b61439635f9a55d7d033a13cb0c1e50cbbbab3/analysis/1505434185/\n",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
+            "type": "info"
+        }
+    ]
+}
