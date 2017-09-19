@@ -112,6 +112,10 @@
                         "heuristic"
                     ],
                     [
+                        "Jiangmin",
+                        "Worm.Generic.dgd"
+                    ],
+                    [
                         "K7AntiVirus",
                         "Backdoor ( 000353841 )"
                     ],
@@ -133,7 +137,7 @@
                     ],
                     [
                         "McAfee-GW-Edition",
-                        "GenericRXCD-MS!40509F8BB36F"
+                        "BehavesLike.Win32.Ransom.mc"
                     ],
                     [
                         "MicroWorld-eScan",
@@ -200,6 +204,10 @@
                         "W32.Trojan.Gen"
                     ],
                     [
+                        "Zillya",
+                        "Trojan.Poebot.Win32.174"
+                    ],
+                    [
                         "ZoneAlarm",
                         "HEUR:Trojan.Win32.Generic"
                     ]
@@ -208,11 +216,11 @@
             "type": "table"
         },
         {
-            "data": "47 out of 65 antivirus detected \u001b[1m40509f8bb36fb08b7db7d1aa22c1b10e\u001b[0m as malicious.",
+            "data": "49 out of 65 antivirus detected \u001b[1m40509f8bb36fb08b7db7d1aa22c1b10e\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/7578ed0d872e8d81caf4bdd635c73dcdf99e520f82b53b180de08c2649ac4a48/analysis/1505175005/\n",
+            "data": "https://www.virustotal.com/file/7578ed0d872e8d81caf4bdd635c73dcdf99e520f82b53b180de08c2649ac4a48/analysis/1505808604/\n",
             "type": "info"
         },
         {

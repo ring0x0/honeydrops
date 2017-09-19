@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "09/19/2017 18:30:01",
+
+	 "source": "deonaea 192.241.x.x",
+
+	 "name": "40509f8bb36fb08b7db7d1aa22c1b10e",
+
+	 "hash": "7578ed0d872e8d81caf4bdd635c73dcdf99e520f82b53b180de08c2649ac4a48",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
+
+	 "classification": "Gen:Trojan.Heur.RP.fmW@aeJX36k",
+
+	 "virustotal": "https://www.virustotal.com/file/7578ed0d872e8d81caf4bdd635c73dcdf99e520f82b53b180de08c2649ac4a48/analysis/1505808604/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/40509f8bb36fb08b7db7d1aa22c1b10e"
+
+},
+
+{ 
+
 	 "date": "09/19/2017 14:45:01",
 
 	 "source": "deonaea 192.241.x.x",
@@ -817,26 +837,6 @@
 	 "virustotal": "https://www.virustotal.com/file/b276cde411eaf04726fa643c6ec55e18e832ae31587d0b3b6d89a8d69d944d0b/analysis/1505240584/" ,
 
 	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/5bf25438c1399a33d95441ce522119b9"
-
-},
-
-{ 
-
-	 "date": "09/12/2017 18:10:01",
-
-	 "source": "deonaea 192.241.x.x",
-
-	 "name": "40509f8bb36fb08b7db7d1aa22c1b10e",
-
-	 "hash": "7578ed0d872e8d81caf4bdd635c73dcdf99e520f82b53b180de08c2649ac4a48",
-
-	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
-
-	 "classification": "Gen:Trojan.Heur.RP.fmW@aeJX36k",
-
-	 "virustotal": "https://www.virustotal.com/file/7578ed0d872e8d81caf4bdd635c73dcdf99e520f82b53b180de08c2649ac4a48/analysis/1505175005/" ,
-
-	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/40509f8bb36fb08b7db7d1aa22c1b10e"
 
 },
 
