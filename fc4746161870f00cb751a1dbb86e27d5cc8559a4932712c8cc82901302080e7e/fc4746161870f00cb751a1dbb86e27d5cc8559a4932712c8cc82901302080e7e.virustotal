@@ -28,6 +28,10 @@
                         "Generic.Bash.MiraiA.869149E1"
                     ],
                     [
+                        "AegisLab",
+                        "Virus.Bash.Miraia!c"
+                    ],
+                    [
                         "Arcabit",
                         "Generic.Bash.MiraiA.869149E1"
                     ],
@@ -76,19 +80,27 @@
                         "Trojan.Script.Agent.ekbkzw"
                     ],
                     [
+                        "Qihoo-360",
+                        "Win32/Trojan.Downloader.25b"
+                    ],
+                    [
                         "Rising",
-                        "Trojan.Mirai!1.AD2B (classic)"
+                        "Trojan.Mirai!1.AD2B (CLASSIC)"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "Suspicious_GEN.F47V0916"
                     ]
                 ]
             },
             "type": "table"
         },
         {
-            "data": "16 out of 59 antivirus detected \u001b[1ma665cfcf31f213b77dfa2b9e8696b452\u001b[0m as malicious.",
+            "data": "19 out of 58 antivirus detected \u001b[1ma665cfcf31f213b77dfa2b9e8696b452\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/fc4746161870f00cb751a1dbb86e27d5cc8559a4932712c8cc82901302080e7e/analysis/1505520244/\n",
+            "data": "https://www.virustotal.com/file/fc4746161870f00cb751a1dbb86e27d5cc8559a4932712c8cc82901302080e7e/analysis/1505922007/\n",
             "type": "info"
         },
         {
