@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "09/20/2017 04:30:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "f101d2270c3887faa98d63b8bf33d21e9b2e6b974f3bdca4493b8f52e36468db",
+
+	 "hash": "f101d2270c3887faa98d63b8bf33d21e9b2e6b974f3bdca4493b8f52e36468db",
+
+	 "type": "ASCII text",
+
+	 "classification": "Generic.Bash.MiraiA.ACE58AD6",
+
+	 "virustotal": "https://www.virustotal.com/file/f101d2270c3887faa98d63b8bf33d21e9b2e6b974f3bdca4493b8f52e36468db/analysis/1505631847/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/f101d2270c3887faa98d63b8bf33d21e9b2e6b974f3bdca4493b8f52e36468db"
+
+},
+
+{ 
+
 	 "date": "09/20/2017 04:00:01",
 
 	 "source": "cowrie 159.203.x.x",
@@ -397,26 +417,6 @@
 	 "virustotal": "https://www.virustotal.com/file/db5ce44e4c4ce6271d2e0a056e5abafdd7045f00d55c78450e64a87c2ed86efb/analysis/1505620941/" ,
 
 	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/smb-jynjmt80.tmp"
-
-},
-
-{ 
-
-	 "date": "09/17/2017 07:05:01",
-
-	 "source": "cowrie 159.203.x.x",
-
-	 "name": "f101d2270c3887faa98d63b8bf33d21e9b2e6b974f3bdca4493b8f52e36468db",
-
-	 "hash": "f101d2270c3887faa98d63b8bf33d21e9b2e6b974f3bdca4493b8f52e36468db",
-
-	 "type": "ASCII text",
-
-	 "classification": "Generic.Bash.MiraiA.ACE58AD6",
-
-	 "virustotal": "https://www.virustotal.com/file/f101d2270c3887faa98d63b8bf33d21e9b2e6b974f3bdca4493b8f52e36468db/analysis/1505631847/" ,
-
-	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/f101d2270c3887faa98d63b8bf33d21e9b2e6b974f3bdca4493b8f52e36468db"
 
 },
 
