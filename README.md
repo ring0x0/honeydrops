@@ -12,9 +12,9 @@
 
 	 "type": "ASCII text, with CRLF line terminators",
 
-	 "classification": "nondeterministic",
+	 "classification": "HEUR:Trojan-Downloader.Shell.Agent.as",
 
-	 "virustotal": "" ,
+	 "virustotal": "https://www.virustotal.com/file/75062e5704b3c1050d906d78793d44e2b5fba4a7f5e4e4e56ac977de80a8ad1c/analysis/1505903407/" ,
 
 	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/75062e5704b3c1050d906d78793d44e2b5fba4a7f5e4e4e56ac977de80a8ad1c"
 
