@@ -12,9 +12,9 @@
 
 	 "type": "ASCII text",
 
-	 "classification": "nondeterministic",
+	 "classification": "HEUR:Trojan-Downloader.Shell.Agent.p",
 
-	 "virustotal": "" ,
+	 "virustotal": "https://www.virustotal.com/file/cb92d3aadd2363213fcb37ca5412d931f4b0a6a2c1554ccd9a4edf9e42ee3e28/analysis/1505872890/" ,
 
 	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/cb92d3aadd2363213fcb37ca5412d931f4b0a6a2c1554ccd9a4edf9e42ee3e28"
 
@@ -32,9 +32,9 @@
 
 	 "type": "ASCII text",
 
-	 "classification": "nondeterministic",
+	 "classification": "BV:Downloader-JV [Drp]",
 
-	 "virustotal": "" ,
+	 "virustotal": "https://www.virustotal.com/file/c31de2c0a03d817890431780f51cfd6fe86e18838750c5006328fc77d8b59ca8/analysis/1505872807/" ,
 
 	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/c31de2c0a03d817890431780f51cfd6fe86e18838750c5006328fc77d8b59ca8"
 

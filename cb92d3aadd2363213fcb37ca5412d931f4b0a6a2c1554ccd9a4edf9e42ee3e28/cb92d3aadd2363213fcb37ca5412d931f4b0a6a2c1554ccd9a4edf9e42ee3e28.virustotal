@@ -1,7 +1,50 @@
 {
     "results": [
         {
-            "data": "The file is in the queue and will be processed soon, please try again later",
+            "data": "VirusTotal Report for \u001b[1m2265cf4ecf87d28b7b99f267278136dd\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "AVG",
+                        "BV:Downloader-JW [Drp]"
+                    ],
+                    [
+                        "Avast",
+                        "BV:Downloader-JW [Drp]"
+                    ],
+                    [
+                        "DrWeb",
+                        "Linux.DownLoader.37"
+                    ],
+                    [
+                        "Kaspersky",
+                        "HEUR:Trojan-Downloader.Shell.Agent.p"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "HEUR:Trojan-Downloader.Shell.Agent.p"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "5 out of 59 antivirus detected \u001b[1m2265cf4ecf87d28b7b99f267278136dd\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/cb92d3aadd2363213fcb37ca5412d931f4b0a6a2c1554ccd9a4edf9e42ee3e28/analysis/1505872890/\n",
             "type": "info"
         },
         {
