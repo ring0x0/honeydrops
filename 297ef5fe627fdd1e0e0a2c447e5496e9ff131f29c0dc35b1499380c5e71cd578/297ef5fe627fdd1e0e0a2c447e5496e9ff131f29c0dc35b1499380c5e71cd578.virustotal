@@ -28,6 +28,10 @@
                         "Generic.Bash.MiraiA.75E1CBFD"
                     ],
                     [
+                        "AegisLab",
+                        "Troj.Downloader.Shell!c"
+                    ],
+                    [
                         "Arcabit",
                         "Generic.Bash.MiraiA.75E1CBFD"
                     ],
@@ -42,6 +46,10 @@
                     [
                         "BitDefender",
                         "Generic.Bash.MiraiA.75E1CBFD"
+                    ],
+                    [
+                        "Cyren",
+                        "Trojan.QPNE-4"
                     ],
                     [
                         "DrWeb",
@@ -84,8 +92,12 @@
                         "Generic.Bash.MiraiA.75E1CBFD"
                     ],
                     [
+                        "Qihoo-360",
+                        "Win32/Trojan.Downloader.ef5"
+                    ],
+                    [
                         "Rising",
-                        "Downloader.Shell!1.ABC3 (classic)"
+                        "Downloader.Shell!1.ABC3 (CLASSIC)"
                     ],
                     [
                         "Sophos",
@@ -96,6 +108,18 @@
                         "Downloader.Trojan"
                     ],
                     [
+                        "Tencent",
+                        "Win32.Trojan-downloader.Agent.Alsh"
+                    ],
+                    [
+                        "TotalDefense",
+                        "Generic.Bash.MiraiA.75E1CBFD"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "Suspicious_GEN.F47V0917"
+                    ],
+                    [
                         "ZoneAlarm",
                         "HEUR:Trojan-Downloader.Shell.Agent.p"
                     ]
@@ -104,11 +128,11 @@
             "type": "table"
         },
         {
-            "data": "21 out of 59 antivirus detected \u001b[1med47886ea4ee7cf766f2fa9c48c64bb4\u001b[0m as malicious.",
+            "data": "27 out of 59 antivirus detected \u001b[1med47886ea4ee7cf766f2fa9c48c64bb4\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/297ef5fe627fdd1e0e0a2c447e5496e9ff131f29c0dc35b1499380c5e71cd578/analysis/1505610050/\n",
+            "data": "https://www.virustotal.com/file/297ef5fe627fdd1e0e0a2c447e5496e9ff131f29c0dc35b1499380c5e71cd578/analysis/1505954740/\n",
             "type": "info"
         },
         {
