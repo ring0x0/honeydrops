@@ -1,0 +1,279 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m022aeb126d2d80e683f7f2a3ee920874\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "Trojan.Spammer.57344"
+                    ],
+                    [
+                        "AVG",
+                        "Win32:Virut"
+                    ],
+                    [
+                        "AVware",
+                        "Trojan.Win32.Generic!BT"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Worm.Generic.230976"
+                    ],
+                    [
+                        "AegisLab",
+                        "Troj.Spy.W32.Agent.bbel!c"
+                    ],
+                    [
+                        "AhnLab-V3",
+                        "Trojan/Win32.Npkon.R1489"
+                    ],
+                    [
+                        "Antiy-AVL",
+                        "Trojan[Spy]/Win32.Agent"
+                    ],
+                    [
+                        "Arcabit",
+                        "Worm.Generic.D38640"
+                    ],
+                    [
+                        "Avast",
+                        "Win32:Virut"
+                    ],
+                    [
+                        "Avira",
+                        "TR/Agent.grpm"
+                    ],
+                    [
+                        "Baidu",
+                        "Win32.Trojan.WisdomEyes.16070401.9500.9997"
+                    ],
+                    [
+                        "BitDefender",
+                        "Worm.Generic.230976"
+                    ],
+                    [
+                        "CAT-QuickHeal",
+                        "Trojan.Brambul.S11407"
+                    ],
+                    [
+                        "CMC",
+                        "Trojan-Spy.Win32.Agent!O"
+                    ],
+                    [
+                        "ClamAV",
+                        "Win.Spyware.78857-1"
+                    ],
+                    [
+                        "Comodo",
+                        "Worm.Win32.Pepex.E0"
+                    ],
+                    [
+                        "CrowdStrike",
+                        "malicious_confidence_100% (W)"
+                    ],
+                    [
+                        "Cylance",
+                        "Unsafe"
+                    ],
+                    [
+                        "Cyren",
+                        "W32/Agent.IX.gen!Eldorado"
+                    ],
+                    [
+                        "DrWeb",
+                        "Win32.HLLW.Bumble"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "Win32/Pepex.F"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Worm.Generic.230976 (B)"
+                    ],
+                    [
+                        "Endgame",
+                        "malicious (high confidence)"
+                    ],
+                    [
+                        "F-Prot",
+                        "W32/Agent.IX.gen!Eldorado"
+                    ],
+                    [
+                        "F-Secure",
+                        "Worm.Generic.230976"
+                    ],
+                    [
+                        "Fortinet",
+                        "W32/Bagz.E!worm"
+                    ],
+                    [
+                        "GData",
+                        "Win32.Worm.Pepex.A"
+                    ],
+                    [
+                        "Ikarus",
+                        "Trojan-Spy.Win32.Agent"
+                    ],
+                    [
+                        "Invincea",
+                        "heuristic"
+                    ],
+                    [
+                        "Jiangmin",
+                        "TrojanSpy.Agent.lvw"
+                    ],
+                    [
+                        "K7AntiVirus",
+                        "Backdoor ( 04c4f2671 )"
+                    ],
+                    [
+                        "K7GW",
+                        "Backdoor ( 04c4f2671 )"
+                    ],
+                    [
+                        "Kaspersky",
+                        "Trojan.Win32.Brambul.bp"
+                    ],
+                    [
+                        "Kingsoft",
+                        "Win32.Troj.Agent.(kcloud)"
+                    ],
+                    [
+                        "MAX",
+                        "malware (ai score=100)"
+                    ],
+                    [
+                        "Malwarebytes",
+                        "Trojan.Agent"
+                    ],
+                    [
+                        "McAfee",
+                        "Downloader-CUZ"
+                    ],
+                    [
+                        "McAfee-GW-Edition",
+                        "BehavesLike.Win32.Downloader.km"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Worm.Generic.230976"
+                    ],
+                    [
+                        "Microsoft",
+                        "Trojan:Win32/Brambul.A!dha"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Trojan.Win32.Agent.bmgds"
+                    ],
+                    [
+                        "Paloalto",
+                        "generic.ml"
+                    ],
+                    [
+                        "Panda",
+                        "Generic Malware"
+                    ],
+                    [
+                        "Qihoo-360",
+                        "Win32/Trojan.Spy.f64"
+                    ],
+                    [
+                        "Rising",
+                        "Backdoor.Win32.Mnless.diy (CLOUD)"
+                    ],
+                    [
+                        "SentinelOne",
+                        "static engine - malicious"
+                    ],
+                    [
+                        "Sophos",
+                        "Mal/Spy-Y"
+                    ],
+                    [
+                        "Symantec",
+                        "Trojan Horse"
+                    ],
+                    [
+                        "Tencent",
+                        "Trojan.Win32.Agent.spy"
+                    ],
+                    [
+                        "TheHacker",
+                        "Trojan/Spy.Agent.bbel"
+                    ],
+                    [
+                        "TotalDefense",
+                        "Win32/Tnega.WW"
+                    ],
+                    [
+                        "TrendMicro",
+                        "WORM_PEPEX.AD"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "WORM_PEPEX.AD"
+                    ],
+                    [
+                        "VBA32",
+                        "TrojanSpy.Agent"
+                    ],
+                    [
+                        "VIPRE",
+                        "Trojan.Win32.Generic!BT"
+                    ],
+                    [
+                        "ViRobot",
+                        "Trojan.Win32.Agent.57344.UI"
+                    ],
+                    [
+                        "Webroot",
+                        "W32.Malware.Gen"
+                    ],
+                    [
+                        "Yandex",
+                        "Trojan.Brambul!5VxMLp6YrUQ"
+                    ],
+                    [
+                        "Zillya",
+                        "Trojan.Agent.Win32.80264"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "Trojan.Win32.Brambul.bp"
+                    ],
+                    [
+                        "nProtect",
+                        "Trojan-Spy/W32.Agent.65814"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "61 out of 65 antivirus detected \u001b[1m022aeb126d2d80e683f7f2a3ee920874\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/bdd816b9d85947b9bd7f2462d6b177dd6dadfe83723fd4dde4eded130177b218/analysis/1506004750/\n",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
+            "type": "info"
+        }
+    ]
+}
