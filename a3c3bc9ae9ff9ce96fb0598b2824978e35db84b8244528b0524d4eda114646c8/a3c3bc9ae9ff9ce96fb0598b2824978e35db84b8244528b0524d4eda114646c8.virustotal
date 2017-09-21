@@ -1,7 +1,7 @@
 {
     "results": [
         {
-            "data": "VirusTotal Report for \u001b[1me01eea37c83c3e7a2235c37f406f4302\u001b[0m:",
+            "data": "VirusTotal Report for \u001b[1mc4072c493e2cede014b7a81978f64a1d\u001b[0m:",
             "type": "success"
         },
         {
@@ -17,27 +17,23 @@
                 "rows": [
                     [
                         "ALYac",
-                        "Generic.Bash.MiraiA.85657770"
+                        "Generic.Bash.MiraiA.3C559961"
                     ],
                     [
                         "AVG",
-                        "BV:Downloader-JS [Drp]"
+                        "BV:Downloader-IB [Drp]"
                     ],
                     [
                         "Ad-Aware",
-                        "Generic.Bash.MiraiA.85657770"
-                    ],
-                    [
-                        "AegisLab",
-                        "Troj.Downloader.Shell!c"
+                        "Generic.Bash.MiraiA.3C559961"
                     ],
                     [
                         "Arcabit",
-                        "Generic.Bash.MiraiA.D51B08AA"
+                        "Generic.Bash.MiraiA.3C559961"
                     ],
                     [
                         "Avast",
-                        "BV:Downloader-JS [Drp]"
+                        "BV:Downloader-IB [Drp]"
                     ],
                     [
                         "Avira",
@@ -45,11 +41,7 @@
                     ],
                     [
                         "BitDefender",
-                        "Generic.Bash.MiraiA.85657770"
-                    ],
-                    [
-                        "Cyren",
-                        "Trojan.IPXG-6"
+                        "Generic.Bash.MiraiA.3C559961"
                     ],
                     [
                         "DrWeb",
@@ -61,11 +53,11 @@
                     ],
                     [
                         "Emsisoft",
-                        "Generic.Bash.MiraiA.85657770 (B)"
+                        "Generic.Bash.MiraiA.3C559961 (B)"
                     ],
                     [
                         "F-Secure",
-                        "Generic.Bash.MiraiA.85657770"
+                        "Generic.Bash.MiraiA.3C559961"
                     ],
                     [
                         "Fortinet",
@@ -73,7 +65,7 @@
                     ],
                     [
                         "GData",
-                        "Generic.Bash.MiraiA.85657770"
+                        "Generic.Bash.MiraiA.3C559961"
                     ],
                     [
                         "Ikarus",
@@ -85,15 +77,15 @@
                     ],
                     [
                         "MAX",
-                        "malware (ai score=81)"
+                        "malware (ai score=85)"
                     ],
                     [
                         "MicroWorld-eScan",
-                        "Generic.Bash.MiraiA.85657770"
+                        "Generic.Bash.MiraiA.3C559961"
                     ],
                     [
-                        "Qihoo-360",
-                        "Win32/Trojan.Downloader.dc0"
+                        "Rising",
+                        "Downloader.Shell!1.ABC3 (classic)"
                     ],
                     [
                         "Sophos",
@@ -104,18 +96,6 @@
                         "Downloader.Trojan"
                     ],
                     [
-                        "Tencent",
-                        "Win32.Trojan-downloader.Agent.Afra"
-                    ],
-                    [
-                        "TotalDefense",
-                        "Generic.Bash.MiraiA.85657770"
-                    ],
-                    [
-                        "TrendMicro-HouseCall",
-                        "Suspicious_GEN.F47V0919"
-                    ],
-                    [
                         "ZoneAlarm",
                         "HEUR:Trojan-Downloader.Shell.Agent.p"
                     ]
@@ -124,11 +104,11 @@
             "type": "table"
         },
         {
-            "data": "26 out of 59 antivirus detected \u001b[1me01eea37c83c3e7a2235c37f406f4302\u001b[0m as malicious.",
+            "data": "21 out of 59 antivirus detected \u001b[1mc4072c493e2cede014b7a81978f64a1d\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/10d518c5508e5728572d1d9dd3ae6b5858733b33bcad74b4b95fa32a72d87344/analysis/1506002340/\n",
+            "data": "https://www.virustotal.com/file/a3c3bc9ae9ff9ce96fb0598b2824978e35db84b8244528b0524d4eda114646c8/analysis/1505517322/\n",
             "type": "info"
         },
         {
