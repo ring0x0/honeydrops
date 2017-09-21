@@ -1,0 +1,147 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1mb29d0c4b7d80ec22641c71bf997d1eeb\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "Gen:Variant.Graftor.313952"
+                    ],
+                    [
+                        "AVG",
+                        "Win32:Malware-gen"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Gen:Variant.Graftor.313952"
+                    ],
+                    [
+                        "AhnLab-V3",
+                        "Downloader/Win32.Generic.C1023335"
+                    ],
+                    [
+                        "Arcabit",
+                        "Trojan.Graftor.D4CA60"
+                    ],
+                    [
+                        "Avast",
+                        "Win32:Malware-gen"
+                    ],
+                    [
+                        "Baidu",
+                        "Win32.Trojan-Downloader.Agent.jm"
+                    ],
+                    [
+                        "BitDefender",
+                        "Gen:Variant.Graftor.313952"
+                    ],
+                    [
+                        "CrowdStrike",
+                        "malicious_confidence_100% (D)"
+                    ],
+                    [
+                        "Cylance",
+                        "Unsafe"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "a variant of Win32/TrojanDownloader.Agent.DPU"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Gen:Variant.Graftor.313952 (B)"
+                    ],
+                    [
+                        "Endgame",
+                        "malicious (high confidence)"
+                    ],
+                    [
+                        "F-Secure",
+                        "Gen:Variant.Graftor.313952"
+                    ],
+                    [
+                        "GData",
+                        "Gen:Variant.Graftor.313952"
+                    ],
+                    [
+                        "Invincea",
+                        "heuristic"
+                    ],
+                    [
+                        "Kaspersky",
+                        "UDS:DangerousObject.Multi.Generic"
+                    ],
+                    [
+                        "MAX",
+                        "malware (ai score=82)"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Gen:Variant.Graftor.313952"
+                    ],
+                    [
+                        "Microsoft",
+                        "TrojanDownloader:Win32/Farfli.F!bit"
+                    ],
+                    [
+                        "Panda",
+                        "Trj/Genetic.gen"
+                    ],
+                    [
+                        "Rising",
+                        "Malware.Heuristic!ET#97% (RDM+:cmRtazry8PzLMKRpSbhrj55nIvDS)"
+                    ],
+                    [
+                        "SentinelOne",
+                        "static engine - malicious"
+                    ],
+                    [
+                        "Tencent",
+                        "Win32.Trojan-downloader.Agent.Pepp"
+                    ],
+                    [
+                        "TrendMicro",
+                        "BKDR_ZEGOST.SM17"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "BKDR_ZEGOST.SM17"
+                    ],
+                    [
+                        "VBA32",
+                        "suspected of Trojan.Downloader.gen.h"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "HEUR:Backdoor.Win32.Generic"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "28 out of 65 antivirus detected \u001b[1mb29d0c4b7d80ec22641c71bf997d1eeb\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/f6c12284b05891ac4b205918b365516d0666ed2394e2b23ea079d59751ddbae1/analysis/1505950587/\n",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
+            "type": "info"
+        }
+    ]
+}
