@@ -1,0 +1,175 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m84bcefccce52f403231a3a6cffc26836\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "Gen:Variant.Trojan.Linux.XorDDoS.2"
+                    ],
+                    [
+                        "AVG",
+                        "ELF:Xorddos-E [Trj]"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Gen:Variant.Trojan.Linux.XorDDoS.2"
+                    ],
+                    [
+                        "AhnLab-V3",
+                        "Linux/Xorddos.625867"
+                    ],
+                    [
+                        "Antiy-AVL",
+                        "Trojan[DDoS]/Linux.Xarcen.a"
+                    ],
+                    [
+                        "Arcabit",
+                        "Trojan.Trojan.Linux.XorDDoS.2"
+                    ],
+                    [
+                        "Avast",
+                        "ELF:Xorddos-E [Trj]"
+                    ],
+                    [
+                        "Avast-Mobile",
+                        "ELF:Xorddos-I [Trj]"
+                    ],
+                    [
+                        "BitDefender",
+                        "Gen:Variant.Trojan.Linux.XorDDoS.2"
+                    ],
+                    [
+                        "CAT-QuickHeal",
+                        "TrojanXor.Linux.DDos.A"
+                    ],
+                    [
+                        "ClamAV",
+                        "Unix.Trojan.DDoS_XOR-1"
+                    ],
+                    [
+                        "DrWeb",
+                        "Linux.DDoS.Xor.4"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "a variant of Linux/Xorddos.C"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Gen:Variant.Trojan.Linux.XorDDoS.2 (B)"
+                    ],
+                    [
+                        "F-Secure",
+                        "Gen:Variant.Trojan.Linux.XorDDoS.2"
+                    ],
+                    [
+                        "Fortinet",
+                        "ELF/DDoS.BH!tr"
+                    ],
+                    [
+                        "GData",
+                        "Gen:Variant.Trojan.Linux.XorDDoS.2"
+                    ],
+                    [
+                        "Ikarus",
+                        "Trojan.Linux.DDoS"
+                    ],
+                    [
+                        "Jiangmin",
+                        "TrojanDDoS.Linux.ff"
+                    ],
+                    [
+                        "Kaspersky",
+                        "HEUR:Trojan-DDoS.Linux.Xarcen.a"
+                    ],
+                    [
+                        "MAX",
+                        "malware (ai score=82)"
+                    ],
+                    [
+                        "McAfee",
+                        "Linux/DDoS-Xor.A"
+                    ],
+                    [
+                        "McAfee-GW-Edition",
+                        "Linux/DDoS-Xor.A"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Gen:Variant.Trojan.Linux.XorDDoS.2"
+                    ],
+                    [
+                        "Microsoft",
+                        "DoS:Linux/Xorddos!rfn"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Trojan.Unix.Xarcen.eftmox"
+                    ],
+                    [
+                        "Panda",
+                        "ELF/XorDDos.A"
+                    ],
+                    [
+                        "Rising",
+                        "Trojan.DDoS-Xor/Linux!1.A3E4 (CLASSIC)"
+                    ],
+                    [
+                        "Sophos",
+                        "Linux/DDoS-BH"
+                    ],
+                    [
+                        "Symantec",
+                        "Linux.Xorddos"
+                    ],
+                    [
+                        "Tencent",
+                        "Trojan.Linux.XorDdos.a"
+                    ],
+                    [
+                        "TrendMicro",
+                        "ELF_XORDDOS.SM"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "ELF_XORDDOS.SM"
+                    ],
+                    [
+                        "Zillya",
+                        "Trojan.Xorddos.Linux.34"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "HEUR:Trojan-DDoS.Linux.Xarcen.a"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "35 out of 59 antivirus detected \u001b[1m84bcefccce52f403231a3a6cffc26836\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/8e0feb43f2137013fbbe42258dcc118104f9237cf41bfa52d342211ac823fad2/analysis/1505909063/\n",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
+            "type": "info"
+        }
+    ]
+}
