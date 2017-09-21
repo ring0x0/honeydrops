@@ -68,6 +68,10 @@
                         "Trojan.Linux.Downloader"
                     ],
                     [
+                        "Kaspersky",
+                        "HEUR:Trojan-Downloader.Shell.Agent.as"
+                    ],
+                    [
                         "MAX",
                         "malware (ai score=84)"
                     ],
@@ -90,17 +94,25 @@
                     [
                         "TrendMicro-HouseCall",
                         "Suspicious_GEN.F47V0916"
+                    ],
+                    [
+                        "ViRobot",
+                        "HTML.Z.Agent.2053.O"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "HEUR:Trojan-Downloader.Shell.Agent.as"
                     ]
                 ]
             },
             "type": "table"
         },
         {
-            "data": "19 out of 58 antivirus detected \u001b[1ma665cfcf31f213b77dfa2b9e8696b452\u001b[0m as malicious.",
+            "data": "22 out of 58 antivirus detected \u001b[1ma665cfcf31f213b77dfa2b9e8696b452\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/fc4746161870f00cb751a1dbb86e27d5cc8559a4932712c8cc82901302080e7e/analysis/1505922007/\n",
+            "data": "https://www.virustotal.com/file/fc4746161870f00cb751a1dbb86e27d5cc8559a4932712c8cc82901302080e7e/analysis/1505981433/\n",
             "type": "info"
         },
         {
