@@ -28,6 +28,10 @@
                         "Gen:Variant.Trojan.Linux.XorDDoS.2"
                     ],
                     [
+                        "AegisLab",
+                        "Troj.Ddos.Linux!c"
+                    ],
+                    [
                         "AhnLab-V3",
                         "Linux/Xorddos.625867"
                     ],
@@ -58,6 +62,10 @@
                     [
                         "ClamAV",
                         "Unix.Trojan.DDoS_XOR-1"
+                    ],
+                    [
+                        "Cyren",
+                        "ELF/Trojan.JMAG-7"
                     ],
                     [
                         "DrWeb",
@@ -124,6 +132,10 @@
                         "ELF/XorDDos.A"
                     ],
                     [
+                        "Qihoo-360",
+                        "Win32/Trojan.DDoS.ee7"
+                    ],
+                    [
                         "Rising",
                         "Trojan.DDoS-Xor/Linux!1.A3E4 (CLASSIC)"
                     ],
@@ -160,11 +172,11 @@
             "type": "table"
         },
         {
-            "data": "35 out of 59 antivirus detected \u001b[1m6395aafd2335a87f431bcf45adebd802\u001b[0m as malicious.",
+            "data": "38 out of 59 antivirus detected \u001b[1m6395aafd2335a87f431bcf45adebd802\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/90ad1f172af7d0915e548bd84443ab3cc3b3df97b3fbf8c06ecc8b42604fbb5f/analysis/1505966067/\n",
+            "data": "https://www.virustotal.com/file/90ad1f172af7d0915e548bd84443ab3cc3b3df97b3fbf8c06ecc8b42604fbb5f/analysis/1505996140/\n",
             "type": "info"
         },
         {
