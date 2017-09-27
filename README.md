@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "09/27/2017 16:00:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "99e240cd70ba8464a809352f5e838ad7ec41eca7ec8452bbcbd1b7b7fb5ec784",
+
+	 "hash": "99e240cd70ba8464a809352f5e838ad7ec41eca7ec8452bbcbd1b7b7fb5ec784",
+
+	 "type": "ASCII text",
+
+	 "classification": "Generic.Bash.MiraiA.507B9B3A",
+
+	 "virustotal": "https://www.virustotal.com/file/99e240cd70ba8464a809352f5e838ad7ec41eca7ec8452bbcbd1b7b7fb5ec784/analysis/1506528008/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/99e240cd70ba8464a809352f5e838ad7ec41eca7ec8452bbcbd1b7b7fb5ec784"
+
+},
+
+{ 
+
 	 "date": "09/22/2017 01:30:01",
 
 	 "source": "cowrie 159.203.x.x",
