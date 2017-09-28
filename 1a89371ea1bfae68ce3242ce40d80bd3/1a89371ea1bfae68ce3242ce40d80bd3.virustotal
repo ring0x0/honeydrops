@@ -148,6 +148,10 @@
                         "Trojan-PSW.Win32.Bjlog.nqi"
                     ],
                     [
+                        "Kingsoft",
+                        "Win32.Malware.Heur_Generic.B.(kcloud)"
+                    ],
+                    [
                         "Malwarebytes",
                         "Backdoor.Zegost"
                     ],
@@ -157,7 +161,7 @@
                     ],
                     [
                         "McAfee-GW-Edition",
-                        "BehavesLike.Win32.PWSZbot.ch"
+                        "BehavesLike.Win32.Generic.ch"
                     ],
                     [
                         "MicroWorld-eScan",
@@ -185,7 +189,7 @@
                     ],
                     [
                         "Rising",
-                        "Trojan.Generic (cloud:wRrImk4PY5T)"
+                        "Backdoor.Win32.GenFxj.d (CLOUD)"
                     ],
                     [
                         "SUPERAntiSpyware",
@@ -236,10 +240,6 @@
                         "Trojan.Win32.A.PSW-Bjlog.208896"
                     ],
                     [
-                        "Webroot",
-                        "W32.Downloader.Gen"
-                    ],
-                    [
                         "WhiteArmor",
                         "Malware.HighConfidence"
                     ],
@@ -264,11 +264,11 @@
             "type": "table"
         },
         {
-            "data": "61 out of 65 antivirus detected \u001b[1m1a89371ea1bfae68ce3242ce40d80bd3\u001b[0m as malicious.",
+            "data": "61 out of 64 antivirus detected \u001b[1m1a89371ea1bfae68ce3242ce40d80bd3\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/63aa88704c956057cc93188a7d167951604934217332bed7a6902dc5201996a9/analysis/1505699089/\n",
+            "data": "https://www.virustotal.com/file/63aa88704c956057cc93188a7d167951604934217332bed7a6902dc5201996a9/analysis/1506560456/\n",
             "type": "info"
         },
         {
