@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "09/28/2017 04:25:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "7358b6fc402681a3585d7cd69763d4b8f0c3093d746b85a35205b77e5b26e13d",
+
+	 "hash": "7358b6fc402681a3585d7cd69763d4b8f0c3093d746b85a35205b77e5b26e13d",
+
+	 "type": "ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), statically linked, for GNU/Linux 2.6.9, not stripped",
+
+	 "classification": "Gen:Variant.Trojan.Linux.XorDDoS.2",
+
+	 "virustotal": "https://www.virustotal.com/file/7358b6fc402681a3585d7cd69763d4b8f0c3093d746b85a35205b77e5b26e13d/analysis/1506397298/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/7358b6fc402681a3585d7cd69763d4b8f0c3093d746b85a35205b77e5b26e13d"
+
+},
+
+{ 
+
 	 "date": "09/28/2017 02:25:01",
 
 	 "source": "cowrie 159.203.x.x",
