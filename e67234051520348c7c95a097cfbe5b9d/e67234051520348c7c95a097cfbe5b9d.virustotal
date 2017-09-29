@@ -1,0 +1,119 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1me67234051520348c7c95a097cfbe5b9d\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "Gen:Variant.Zusy.247887"
+                    ],
+                    [
+                        "AVware",
+                        "Trojan.Win32.Rimecud.d (v)"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Gen:Variant.Zusy.247887"
+                    ],
+                    [
+                        "Arcabit",
+                        "Trojan.Zusy.D3C84F"
+                    ],
+                    [
+                        "Baidu",
+                        "Win32.Trojan.WisdomEyes.16070401.9500.9992"
+                    ],
+                    [
+                        "BitDefender",
+                        "Gen:Variant.Zusy.247887"
+                    ],
+                    [
+                        "Comodo",
+                        "TrojWare.Win32.TrojanProxy.Horst.~O"
+                    ],
+                    [
+                        "CrowdStrike",
+                        "malicious_confidence_80% (D)"
+                    ],
+                    [
+                        "Cylance",
+                        "Unsafe"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "a variant of Win32/Kryptik.FVWS"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Gen:Variant.Zusy.247887 (B)"
+                    ],
+                    [
+                        "Endgame",
+                        "malicious (high confidence)"
+                    ],
+                    [
+                        "F-Secure",
+                        "Gen:Variant.Zusy.247887"
+                    ],
+                    [
+                        "GData",
+                        "Gen:Variant.Zusy.247887"
+                    ],
+                    [
+                        "Ikarus",
+                        "Backdoor.Win32.Gbot"
+                    ],
+                    [
+                        "MAX",
+                        "malware (ai score=88)"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Gen:Variant.Zusy.247887"
+                    ],
+                    [
+                        "Paloalto",
+                        "generic.ml"
+                    ],
+                    [
+                        "Rising",
+                        "Malware.Heuristic!ET#94% (RDM+:cmRtazp/63bQRuOId+H1C11phkaF)"
+                    ],
+                    [
+                        "SentinelOne",
+                        "static engine - malicious"
+                    ],
+                    [
+                        "VIPRE",
+                        "Trojan.Win32.Rimecud.d (v)"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "21 out of 65 antivirus detected \u001b[1me67234051520348c7c95a097cfbe5b9d\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/fd9f3dc58bc04226a310c505b736d786d6ae2ba84c2aa6760b606e330dcb5586/analysis/1506691813/\n",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
+            "type": "info"
+        }
+    ]
+}
