@@ -68,10 +68,6 @@
                         "Generic.Bash.MiraiA.85657770"
                     ],
                     [
-                        "Fortinet",
-                        "Linux/ShellDLoader.RMF!tr"
-                    ],
-                    [
                         "GData",
                         "Generic.Bash.MiraiA.85657770"
                     ],
@@ -92,6 +88,10 @@
                         "Generic.Bash.MiraiA.85657770"
                     ],
                     [
+                        "NANO-Antivirus",
+                        "Trojan.Script.ExpKit.esveyp"
+                    ],
+                    [
                         "Qihoo-360",
                         "Win32/Trojan.Downloader.dc0"
                     ],
@@ -108,10 +108,6 @@
                         "Win32.Trojan-downloader.Agent.Afra"
                     ],
                     [
-                        "TotalDefense",
-                        "Generic.Bash.MiraiA.85657770"
-                    ],
-                    [
                         "TrendMicro-HouseCall",
                         "Suspicious_GEN.F47V0919"
                     ],
@@ -124,11 +120,11 @@
             "type": "table"
         },
         {
-            "data": "26 out of 59 antivirus detected \u001b[1me01eea37c83c3e7a2235c37f406f4302\u001b[0m as malicious.",
+            "data": "25 out of 58 antivirus detected \u001b[1me01eea37c83c3e7a2235c37f406f4302\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/10d518c5508e5728572d1d9dd3ae6b5858733b33bcad74b4b95fa32a72d87344/analysis/1506002340/\n",
+            "data": "https://www.virustotal.com/file/10d518c5508e5728572d1d9dd3ae6b5858733b33bcad74b4b95fa32a72d87344/analysis/1506650274/\n",
             "type": "info"
         },
         {
