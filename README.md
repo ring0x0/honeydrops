@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "09/30/2017 04:05:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "46b79608c9a603c1f0046b0952f080b6cce855320a80bb6db4155a26ab0fd5f0",
+
+	 "hash": "46b79608c9a603c1f0046b0952f080b6cce855320a80bb6db4155a26ab0fd5f0",
+
+	 "type": "ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), statically linked, for GNU/Linux 2.6.9, not stripped",
+
+	 "classification": "Gen:Variant.Trojan.Linux.XorDDoS.2",
+
+	 "virustotal": "https://www.virustotal.com/file/46b79608c9a603c1f0046b0952f080b6cce855320a80bb6db4155a26ab0fd5f0/analysis/1506269317/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/46b79608c9a603c1f0046b0952f080b6cce855320a80bb6db4155a26ab0fd5f0"
+
+},
+
+{ 
+
 	 "date": "09/30/2017 04:00:01",
 
 	 "source": "deonaea 159.203.x.x",
@@ -37,6 +57,26 @@
 	 "virustotal": "https://www.virustotal.com/file/16d49a40333f584b19606733b4deef1b9ecace2c32950010ad1450b44ce3716e/analysis/1505725814/" ,
 
 	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/e49bce75070a7a3c63a7cebb699342b3"
+
+},
+
+{ 
+
+	 "date": "09/30/2017 04:00:01",
+
+	 "source": "deonaea 159.203.x.x",
+
+	 "name": "48dbdc707fdab0cd3a97063d10aa535f",
+
+	 "hash": "7abba76b920de1aee9c3ea2bfec26e1e3129a6816fef1f3ad3bdcb4345f5f5f2",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows, UPX compressed",
+
+	 "classification": "Gen:Trojan.Heur.cmKfrLdEShlbb",
+
+	 "virustotal": "https://www.virustotal.com/file/7abba76b920de1aee9c3ea2bfec26e1e3129a6816fef1f3ad3bdcb4345f5f5f2/analysis/1506421420/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/48dbdc707fdab0cd3a97063d10aa535f"
 
 },
 
