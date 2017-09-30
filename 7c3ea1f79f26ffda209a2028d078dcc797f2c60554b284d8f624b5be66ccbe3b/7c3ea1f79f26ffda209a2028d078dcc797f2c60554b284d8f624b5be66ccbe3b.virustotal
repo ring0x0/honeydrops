@@ -28,6 +28,10 @@
                         "Generic.Bash.MiraiA.86CB9990"
                     ],
                     [
+                        "AegisLab",
+                        "Virus.Bash.Miraia!c"
+                    ],
+                    [
                         "Arcabit",
                         "Generic.Bash.MiraiA.86CB9990"
                     ],
@@ -64,6 +68,10 @@
                         "Trojan.Linux.Downloader"
                     ],
                     [
+                        "Kaspersky",
+                        "HEUR:Trojan-Downloader.Shell.Agent.as"
+                    ],
+                    [
                         "MAX",
                         "malware (ai score=86)"
                     ],
@@ -76,19 +84,35 @@
                         "Trojan.Script.Agent.ekbkzw"
                     ],
                     [
+                        "Qihoo-360",
+                        "virus.js.qexvmc.1"
+                    ],
+                    [
                         "Rising",
                         "Trojan.Mirai!1.AD2B (CLASSIC)"
+                    ],
+                    [
+                        "Tencent",
+                        "Win32.Trojan-downloader.Agent.Peqc"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "Suspicious_GEN.F47V0923"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "HEUR:Trojan-Downloader.Shell.Agent.as"
                     ]
                 ]
             },
             "type": "table"
         },
         {
-            "data": "16 out of 59 antivirus detected \u001b[1m48aafc29853d326ba357b786080852f5\u001b[0m as malicious.",
+            "data": "22 out of 58 antivirus detected \u001b[1m48aafc29853d326ba357b786080852f5\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/7c3ea1f79f26ffda209a2028d078dcc797f2c60554b284d8f624b5be66ccbe3b/analysis/1506186304/\n",
+            "data": "https://www.virustotal.com/file/7c3ea1f79f26ffda209a2028d078dcc797f2c60554b284d8f624b5be66ccbe3b/analysis/1506760669/\n",
             "type": "info"
         },
         {

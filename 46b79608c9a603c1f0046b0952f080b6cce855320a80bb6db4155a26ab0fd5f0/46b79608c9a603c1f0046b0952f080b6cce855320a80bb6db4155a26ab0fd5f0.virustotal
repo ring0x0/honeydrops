@@ -68,6 +68,10 @@
                         "Unix.Trojan.DDoS_XOR-1"
                     ],
                     [
+                        "Comodo",
+                        "UnclassifiedMalware"
+                    ],
+                    [
                         "Cyren",
                         "ELF/Trojan.WZBT-2"
                     ],
@@ -133,7 +137,7 @@
                     ],
                     [
                         "Panda",
-                        "Generic Malware"
+                        "ELF/XorDDos.A"
                     ],
                     [
                         "Qihoo-360",
@@ -156,6 +160,10 @@
                         "Trojan.Linux.XorDdos.a"
                     ],
                     [
+                        "TrendMicro",
+                        "ELF_XORDDOS.SM"
+                    ],
+                    [
                         "TrendMicro-HouseCall",
                         "ELF_XORDDOS.SM"
                     ],
@@ -172,11 +180,11 @@
             "type": "table"
         },
         {
-            "data": "38 out of 58 antivirus detected \u001b[1m757b89c6cc5a910c11a555a381684e55\u001b[0m as malicious.",
+            "data": "40 out of 58 antivirus detected \u001b[1m757b89c6cc5a910c11a555a381684e55\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/46b79608c9a603c1f0046b0952f080b6cce855320a80bb6db4155a26ab0fd5f0/analysis/1506269317/\n",
+            "data": "https://www.virustotal.com/file/46b79608c9a603c1f0046b0952f080b6cce855320a80bb6db4155a26ab0fd5f0/analysis/1506760817/\n",
             "type": "info"
         },
         {

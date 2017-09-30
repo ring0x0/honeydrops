@@ -28,6 +28,10 @@
                         "Generic.Bash.MiraiA.64004DDE"
                     ],
                     [
+                        "AegisLab",
+                        "Troj.Downloader.Shell!c"
+                    ],
+                    [
                         "Arcabit",
                         "Generic.Bash.MiraiA.DFA04DDE"
                     ],
@@ -42,6 +46,10 @@
                     [
                         "BitDefender",
                         "Generic.Bash.MiraiA.64004DDE"
+                    ],
+                    [
+                        "Cyren",
+                        "Trojan.DKMM-8"
                     ],
                     [
                         "DrWeb",
@@ -84,12 +92,8 @@
                         "Generic.Bash.MiraiA.64004DDE"
                     ],
                     [
-                        "Rising",
-                        "Downloader.Shell!1.ABC3 (CLASSIC)"
-                    ],
-                    [
-                        "Sophos",
-                        "Mal/ShellDl-A"
+                        "Qihoo-360",
+                        "Win32/Trojan.Downloader.ef5"
                     ],
                     [
                         "Symantec",
@@ -104,11 +108,11 @@
             "type": "table"
         },
         {
-            "data": "21 out of 58 antivirus detected \u001b[1m25af559c7796369e478697025bf8710e\u001b[0m as malicious.",
+            "data": "22 out of 52 antivirus detected \u001b[1m25af559c7796369e478697025bf8710e\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/9058e42b1973770fb52c6700d16316eb1b6db841f8f082533cfa26715ab98f98/analysis/1506695422/\n",
+            "data": "https://www.virustotal.com/file/9058e42b1973770fb52c6700d16316eb1b6db841f8f082533cfa26715ab98f98/analysis/1506760643/\n",
             "type": "info"
         },
         {
