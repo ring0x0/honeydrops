@@ -2,7 +2,7 @@
 
 { 
 
-	 "date": "09/30/2017 18:00:01",
+	 "date": "09/30/2017 18:30:01",
 
 	 "source": "cowrie 159.203.x.x",
 
@@ -22,7 +22,7 @@
 
 { 
 
-	 "date": "09/30/2017 18:00:01",
+	 "date": "09/30/2017 18:30:01",
 
 	 "source": "cowrie 159.203.x.x",
 
@@ -42,7 +42,7 @@
 
 { 
 
-	 "date": "09/30/2017 18:00:01",
+	 "date": "09/30/2017 18:30:01",
 
 	 "source": "cowrie 159.203.x.x",
 
@@ -62,7 +62,7 @@
 
 { 
 
-	 "date": "09/30/2017 18:00:01",
+	 "date": "09/30/2017 18:30:01",
 
 	 "source": "cowrie 159.203.x.x",
 
@@ -82,7 +82,7 @@
 
 { 
 
-	 "date": "09/30/2017 18:00:01",
+	 "date": "09/30/2017 18:30:01",
 
 	 "source": "cowrie 159.203.x.x",
 
@@ -102,7 +102,7 @@
 
 { 
 
-	 "date": "09/30/2017 18:00:01",
+	 "date": "09/30/2017 18:30:01",
 
 	 "source": "cowrie 159.203.x.x",
 
@@ -112,9 +112,9 @@
 
 	 "type": "Bourne-Again shell script, ASCII text executable",
 
-	 "classification": "nondeterministic",
+	 "classification": "Generic.Bash.MiraiA.64004DDE",
 
-	 "virustotal": "" ,
+	 "virustotal": "https://www.virustotal.com/file/9058e42b1973770fb52c6700d16316eb1b6db841f8f082533cfa26715ab98f98/analysis/1506760643/" ,
 
 	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/9058e42b1973770fb52c6700d16316eb1b6db841f8f082533cfa26715ab98f98"
 
@@ -122,7 +122,7 @@
 
 { 
 
-	 "date": "09/30/2017 18:00:01",
+	 "date": "09/30/2017 18:30:01",
 
 	 "source": "cowrie 159.203.x.x",
 
@@ -142,7 +142,7 @@
 
 { 
 
-	 "date": "09/30/2017 18:00:01",
+	 "date": "09/30/2017 18:30:01",
 
 	 "source": "cowrie 159.203.x.x",
 
@@ -162,7 +162,7 @@
 
 { 
 
-	 "date": "09/30/2017 18:00:01",
+	 "date": "09/30/2017 18:30:01",
 
 	 "source": "cowrie 159.203.x.x",
 
