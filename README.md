@@ -2,6 +2,66 @@
 
 { 
 
+	 "date": "09/30/2017 04:00:01",
+
+	 "source": "deonaea 159.203.x.x",
+
+	 "name": "ed64809b8d2ae44b98266a8e7009b767",
+
+	 "hash": "aa05e85bcb2db0df54f4bbe9023e77ecb96a721abefea8f6c8a5c1406e2492e8",
+
+	 "type": "PE32 executable (console) Intel 80386, for MS Windows",
+
+	 "classification": "Trojan.Agent.CASE",
+
+	 "virustotal": "https://www.virustotal.com/file/aa05e85bcb2db0df54f4bbe9023e77ecb96a721abefea8f6c8a5c1406e2492e8/analysis/1505725770/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/ed64809b8d2ae44b98266a8e7009b767"
+
+},
+
+{ 
+
+	 "date": "09/30/2017 04:00:01",
+
+	 "source": "deonaea 159.203.x.x",
+
+	 "name": "e49bce75070a7a3c63a7cebb699342b3",
+
+	 "hash": "16d49a40333f584b19606733b4deef1b9ecace2c32950010ad1450b44ce3716e",
+
+	 "type": "PE32 executable (console) Intel 80386, for MS Windows",
+
+	 "classification": "Trojan.Agent.CHPG",
+
+	 "virustotal": "https://www.virustotal.com/file/16d49a40333f584b19606733b4deef1b9ecace2c32950010ad1450b44ce3716e/analysis/1505725814/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/e49bce75070a7a3c63a7cebb699342b3"
+
+},
+
+{ 
+
+	 "date": "09/30/2017 04:00:01",
+
+	 "source": "deonaea 159.203.x.x",
+
+	 "name": "1cc220919b386853ab90fdd8953a1e2d",
+
+	 "hash": "58dd5d9587015b60df751cb86db5c6eede642480cce56912edcb362a1e4200b9",
+
+	 "type": "PE32 executable (console) Intel 80386, for MS Windows",
+
+	 "classification": "Exploit.Agent.AZ",
+
+	 "virustotal": "https://www.virustotal.com/file/58dd5d9587015b60df751cb86db5c6eede642480cce56912edcb362a1e4200b9/analysis/1506053540/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/1cc220919b386853ab90fdd8953a1e2d"
+
+},
+
+{ 
+
 	 "date": "09/30/2017 01:30:01",
 
 	 "source": "cowrie 159.203.x.x",
@@ -3957,26 +4017,6 @@
 	 "virustotal": "https://www.virustotal.com/file/414dab159c31825056fd65fdefe5c58a21198d42a470fb21e5f46c3c8513b8fe/analysis/1504562200/" ,
 
 	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/414dab159c31825056fd65fdefe5c58a21198d42a470fb21e5f46c3c8513b8fe"
-
-},
-
-{ 
-
-	 "date": "09/09/2017 01:30:01",
-
-	 "source": "deonaea 159.203.x.x",
-
-	 "name": "ed64809b8d2ae44b98266a8e7009b767",
-
-	 "hash": "aa05e85bcb2db0df54f4bbe9023e77ecb96a721abefea8f6c8a5c1406e2492e8",
-
-	 "type": "PE32 executable (console) Intel 80386, for MS Windows",
-
-	 "classification": "Trojan.Agent.CASE",
-
-	 "virustotal": "https://www.virustotal.com/file/aa05e85bcb2db0df54f4bbe9023e77ecb96a721abefea8f6c8a5c1406e2492e8/analysis/1497570067/" ,
-
-	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/ed64809b8d2ae44b98266a8e7009b767"
 
 },
 
@@ -12046,26 +12086,6 @@
 
 	 "source": "deonaea 159.203.x.x",
 
-	 "name": "e49bce75070a7a3c63a7cebb699342b3",
-
-	 "hash": "16d49a40333f584b19606733b4deef1b9ecace2c32950010ad1450b44ce3716e",
-
-	 "type": "PE32 executable (console) Intel 80386, for MS Windows",
-
-	 "classification": "Trojan.Win32.Small.cvg",
-
-	 "virustotal": "https://www.virustotal.com/file/16d49a40333f584b19606733b4deef1b9ecace2c32950010ad1450b44ce3716e/analysis/1496648252/" ,
-
-	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/e49bce75070a7a3c63a7cebb699342b3"
-
-},
-
-{ 
-
-	 "date": "06/21/2017 22:30:01",
-
-	 "source": "deonaea 159.203.x.x",
-
 	 "name": "85956d7b3126d1793b2e40b07906ee1a",
 
 	 "hash": "5d6b44d5353d6c1d3c90cc2caaa3d3c408f30320ae75e48a845bd93efa67edca",
@@ -12097,26 +12117,6 @@
 	 "virustotal": "https://www.virustotal.com/file/e2946ecb747a6671e7655aaa0c781e22c965284a10bbe983f59dca46128ce671/analysis/1496637428/" ,
 
 	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/2cc80b81edb2133206d29ec44ed8aaa1"
-
-},
-
-{ 
-
-	 "date": "06/21/2017 22:30:01",
-
-	 "source": "deonaea 159.203.x.x",
-
-	 "name": "1cc220919b386853ab90fdd8953a1e2d",
-
-	 "hash": "58dd5d9587015b60df751cb86db5c6eede642480cce56912edcb362a1e4200b9",
-
-	 "type": "PE32 executable (console) Intel 80386, for MS Windows",
-
-	 "classification": "Exploit.Agent.AZ",
-
-	 "virustotal": "https://www.virustotal.com/file/58dd5d9587015b60df751cb86db5c6eede642480cce56912edcb362a1e4200b9/analysis/1496982724/" ,
-
-	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/1cc220919b386853ab90fdd8953a1e2d"
 
 },
 

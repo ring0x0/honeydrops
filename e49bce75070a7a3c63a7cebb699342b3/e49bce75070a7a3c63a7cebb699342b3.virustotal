@@ -21,11 +21,15 @@
                     ],
                     [
                         "AVG",
-                        "Pakes2_c.CALF"
+                        "Win32:Trojan-gen"
                     ],
                     [
                         "AVware",
                         "Trojan.Win32.Small"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Trojan.Agent.CHPG"
                     ],
                     [
                         "AegisLab",
@@ -36,6 +40,10 @@
                         "Trojan/Win32.Small"
                     ],
                     [
+                        "Arcabit",
+                        "Trojan.Agent.CHPG"
+                    ],
+                    [
                         "Avast",
                         "Win32:Trojan-gen"
                     ],
@@ -44,12 +52,20 @@
                         "TR/Agent.33812"
                     ],
                     [
-                        "Bkav",
-                        "W32.Clodad7.Trojan.dcbc"
+                        "BitDefender",
+                        "Trojan.Agent.CHPG"
                     ],
                     [
                         "CAT-QuickHeal",
                         "Trojan.Small"
+                    ],
+                    [
+                        "Cylance",
+                        "Unsafe"
+                    ],
+                    [
+                        "Cyren",
+                        "W32/Trojan.IJBI-8522"
                     ],
                     [
                         "DrWeb",
@@ -60,8 +76,12 @@
                         "Win32/Exploit.CVE-2014-4076.C"
                     ],
                     [
-                        "Endgame",
-                        "malicious (moderate confidence)"
+                        "Emsisoft",
+                        "Trojan.Agent.CHPG (B)"
+                    ],
+                    [
+                        "F-Secure",
+                        "Trojan.Agent.CHPG"
                     ],
                     [
                         "Fortinet",
@@ -69,11 +89,15 @@
                     ],
                     [
                         "GData",
-                        "Win32.Trojan.Agent.AHBX3U"
+                        "Trojan.Agent.CHPG"
                     ],
                     [
                         "Ikarus",
                         "Trojan.Agent"
+                    ],
+                    [
+                        "Invincea",
+                        "heuristic"
                     ],
                     [
                         "Jiangmin",
@@ -92,12 +116,20 @@
                         "Trojan.Win32.Small.cvg"
                     ],
                     [
+                        "MAX",
+                        "malware (ai score=80)"
+                    ],
+                    [
                         "McAfee",
                         "RDN/Generic Exploit"
                     ],
                     [
                         "McAfee-GW-Edition",
                         "RDN/Generic Exploit"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Trojan.Agent.CHPG"
                     ],
                     [
                         "NANO-Antivirus",
@@ -113,7 +145,7 @@
                     ],
                     [
                         "Rising",
-                        "Trojan.Generic (cloud:iBLD5DXQi8F) "
+                        "Trojan.Generic (cloud:iBLD5DXQi8F)"
                     ],
                     [
                         "Sophos",
@@ -128,8 +160,12 @@
                         "Win32.Trojan.Small.Akfb"
                     ],
                     [
-                        "VBA32",
-                        "Trojan.Small"
+                        "TrendMicro",
+                        "TROJ_GEN.R08JC0PFR17"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "TROJ_GEN.R08JC0PFR17"
                     ],
                     [
                         "VIPRE",
@@ -137,7 +173,7 @@
                     ],
                     [
                         "ViRobot",
-                        "Trojan.Win32.Agent.33812[h]"
+                        "Trojan.Win32.Z.Small.33812"
                     ],
                     [
                         "Webroot",
@@ -154,17 +190,25 @@
                     [
                         "ZoneAlarm",
                         "Trojan.Win32.Small.cvg"
+                    ],
+                    [
+                        "nProtect",
+                        "Trojan/W32.Agent.33812.F"
                     ]
                 ]
             },
             "type": "table"
         },
         {
-            "data": "35 out of 61 antivirus detected \u001b[1me49bce75070a7a3c63a7cebb699342b3\u001b[0m as malicious.",
+            "data": "45 out of 65 antivirus detected \u001b[1me49bce75070a7a3c63a7cebb699342b3\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/16d49a40333f584b19606733b4deef1b9ecace2c32950010ad1450b44ce3716e/analysis/1496648252/\n",
+            "data": "https://www.virustotal.com/file/16d49a40333f584b19606733b4deef1b9ecace2c32950010ad1450b44ce3716e/analysis/1505725814/\n",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
             "type": "info"
         }
     ]

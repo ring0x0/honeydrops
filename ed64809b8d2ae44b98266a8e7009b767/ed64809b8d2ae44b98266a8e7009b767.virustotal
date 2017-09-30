@@ -60,12 +60,12 @@
                         "Trojan.Agent.CASE"
                     ],
                     [
-                        "Bkav",
-                        "W32.Clodf69.Trojan.92e0"
-                    ],
-                    [
                         "CAT-QuickHeal",
                         "Trojan.Tarcloin"
+                    ],
+                    [
+                        "Cylance",
+                        "Unsafe"
                     ],
                     [
                         "Cyren",
@@ -78,6 +78,10 @@
                     [
                         "Emsisoft",
                         "Trojan.Agent.CASE (B)"
+                    ],
+                    [
+                        "Endgame",
+                        "malicious (high confidence)"
                     ],
                     [
                         "F-Prot",
@@ -100,6 +104,10 @@
                         "Trojan.Win32.Exploit"
                     ],
                     [
+                        "Invincea",
+                        "heuristic"
+                    ],
+                    [
                         "Jiangmin",
                         "Trojan.Agentb.apo"
                     ],
@@ -114,6 +122,10 @@
                     [
                         "Kaspersky",
                         "Trojan.Win32.Agentb.btip"
+                    ],
+                    [
+                        "MAX",
+                        "malware (ai score=86)"
                     ],
                     [
                         "McAfee",
@@ -144,8 +156,8 @@
                         "HEUR/Malware.QVM07.Gen"
                     ],
                     [
-                        "SentinelOne",
-                        "static engine - malicious"
+                        "Rising",
+                        "Malware.Undefined!8.C (cloud:Jk4pqvUgfCH)"
                     ],
                     [
                         "Sophos",
@@ -158,10 +170,6 @@
                     [
                         "Tencent",
                         "Win32.Trojan.Gen.Yohg"
-                    ],
-                    [
-                        "TrendMicro",
-                        "HKTL_CVE20141767"
                     ],
                     [
                         "TrendMicro-HouseCall",
@@ -177,7 +185,7 @@
                     ],
                     [
                         "ViRobot",
-                        "Trojan.Win32.Agent.45056.MZ[h]"
+                        "Trojan.Win32.Agent.45056.MZ"
                     ],
                     [
                         "Yandex",
@@ -194,17 +202,21 @@
                     [
                         "Zoner",
                         "Trojan.Agent"
+                    ],
+                    [
+                        "nProtect",
+                        "Trojan/W32.Agent.45056.CJV"
                     ]
                 ]
             },
             "type": "table"
         },
         {
-            "data": "45 out of 62 antivirus detected \u001b[1med64809b8d2ae44b98266a8e7009b767\u001b[0m as malicious.",
+            "data": "48 out of 64 antivirus detected \u001b[1med64809b8d2ae44b98266a8e7009b767\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/aa05e85bcb2db0df54f4bbe9023e77ecb96a721abefea8f6c8a5c1406e2492e8/analysis/1497570067/\n",
+            "data": "https://www.virustotal.com/file/aa05e85bcb2db0df54f4bbe9023e77ecb96a721abefea8f6c8a5c1406e2492e8/analysis/1505725770/\n",
             "type": "info"
         },
         {

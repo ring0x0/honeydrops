@@ -44,10 +44,6 @@
                         "Exploit.Agent.AZ"
                     ],
                     [
-                        "Bkav",
-                        "W32.Clodcbb.Trojan.caf9"
-                    ],
-                    [
                         "CAT-QuickHeal",
                         "Exploit.Cve20152387"
                     ],
@@ -64,8 +60,16 @@
                         "Exploit.Agent.AZ (B)"
                     ],
                     [
+                        "Endgame",
+                        "malicious (moderate confidence)"
+                    ],
+                    [
                         "F-Secure",
                         "Exploit.Agent.AZ"
+                    ],
+                    [
+                        "Fortinet",
+                        "W32/Generic.AC.3F1A09!tr"
                     ],
                     [
                         "GData",
@@ -74,6 +78,10 @@
                     [
                         "Ikarus",
                         "Exploit.Agent"
+                    ],
+                    [
+                        "Invincea",
+                        "heuristic"
                     ],
                     [
                         "Jiangmin",
@@ -92,8 +100,20 @@
                         "Exploit.Win32.CVE-2015-2387.foox"
                     ],
                     [
+                        "MAX",
+                        "malware (ai score=87)"
+                    ],
+                    [
                         "Malwarebytes",
                         "Exploit.Agent"
+                    ],
+                    [
+                        "McAfee",
+                        "RDN/Generic Exploit"
+                    ],
+                    [
+                        "McAfee-GW-Edition",
+                        "RDN/Generic Exploit"
                     ],
                     [
                         "MicroWorld-eScan",
@@ -117,7 +137,7 @@
                     ],
                     [
                         "Rising",
-                        "Malware.Undefined!8.C (cloud:a8n9UTnrSGM) "
+                        "Malware.Heuristic!ET#96% (RDM+:cmRtazrqKnsYbmBOCGUOcLZS4qof)"
                     ],
                     [
                         "Symantec",
@@ -134,6 +154,10 @@
                     [
                         "TrendMicro-HouseCall",
                         "HKTL_CVE20150057"
+                    ],
+                    [
+                        "VBA32",
+                        "Exploit.CVE20152387"
                     ],
                     [
                         "VIPRE",
@@ -160,11 +184,15 @@
             "type": "table"
         },
         {
-            "data": "35 out of 62 antivirus detected \u001b[1m1cc220919b386853ab90fdd8953a1e2d\u001b[0m as malicious.",
+            "data": "41 out of 65 antivirus detected \u001b[1m1cc220919b386853ab90fdd8953a1e2d\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/58dd5d9587015b60df751cb86db5c6eede642480cce56912edcb362a1e4200b9/analysis/1496982724/\n",
+            "data": "https://www.virustotal.com/file/58dd5d9587015b60df751cb86db5c6eede642480cce56912edcb362a1e4200b9/analysis/1506053540/\n",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
             "type": "info"
         }
     ]
