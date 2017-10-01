@@ -1,0 +1,99 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1med34f6c9ed1957b73a4db81a4a8e917e\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "AVG",
+                        "FileRepMalware"
+                    ],
+                    [
+                        "AegisLab",
+                        "Uds.Dangerousobject.Multi!c"
+                    ],
+                    [
+                        "Avast",
+                        "FileRepMalware"
+                    ],
+                    [
+                        "Comodo",
+                        "TrojWare.Win32.TrojanProxy.Horst.~O"
+                    ],
+                    [
+                        "CrowdStrike",
+                        "malicious_confidence_80% (W)"
+                    ],
+                    [
+                        "Cylance",
+                        "Unsafe"
+                    ],
+                    [
+                        "DrWeb",
+                        "Trojan.DownLoader25.39761"
+                    ],
+                    [
+                        "Endgame",
+                        "malicious (high confidence)"
+                    ],
+                    [
+                        "Jiangmin",
+                        "Backdoor.Farfli.bjp"
+                    ],
+                    [
+                        "Kaspersky",
+                        "Trojan-Downloader.Win32.Agent.silozs"
+                    ],
+                    [
+                        "McAfee",
+                        "Artemis!ED34F6C9ED19"
+                    ],
+                    [
+                        "McAfee-GW-Edition",
+                        "Artemis"
+                    ],
+                    [
+                        "Paloalto",
+                        "generic.ml"
+                    ],
+                    [
+                        "Qihoo-360",
+                        "HEUR/QVM10.1.312F.Malware.Gen"
+                    ],
+                    [
+                        "SentinelOne",
+                        "static engine - malicious"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "UDS:DangerousObject.Multi.Generic"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "16 out of 65 antivirus detected \u001b[1med34f6c9ed1957b73a4db81a4a8e917e\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/e4790e0279c022d300eb2484b3d914602c018eaafc9deb4d7ab26ba9f75e3dfe/analysis/1506816086/\n",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
+            "type": "info"
+        }
+    ]
+}

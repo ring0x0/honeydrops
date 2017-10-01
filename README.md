@@ -2,7 +2,7 @@
 
 { 
 
-	 "date": "10/01/2017 17:05:01",
+	 "date": "10/01/2017 18:30:01",
 
 	 "source": "cowrie 159.203.x.x",
 
@@ -14,9 +14,69 @@
 
 	 "classification": "Generic.Bash.MiraiA.29DD6D8C",
 
-	 "virustotal": "https://www.virustotal.com/file/bab6bfd894d6331954b9f8879b015463ed7caeeb085d3dd26b9ad46e769b4724/analysis/1506781854/" ,
+	 "virustotal": "https://www.virustotal.com/file/bab6bfd894d6331954b9f8879b015463ed7caeeb085d3dd26b9ad46e769b4724/analysis/1506881358/" ,
 
 	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/bab6bfd894d6331954b9f8879b015463ed7caeeb085d3dd26b9ad46e769b4724"
+
+},
+
+{ 
+
+	 "date": "10/01/2017 18:15:01",
+
+	 "source": "deonaea 159.203.x.x",
+
+	 "name": "ed34f6c9ed1957b73a4db81a4a8e917e",
+
+	 "hash": "e4790e0279c022d300eb2484b3d914602c018eaafc9deb4d7ab26ba9f75e3dfe",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
+
+	 "classification": "FileRepMalware",
+
+	 "virustotal": "https://www.virustotal.com/file/e4790e0279c022d300eb2484b3d914602c018eaafc9deb4d7ab26ba9f75e3dfe/analysis/1506816086/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/ed34f6c9ed1957b73a4db81a4a8e917e"
+
+},
+
+{ 
+
+	 "date": "10/01/2017 18:10:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "eb3d62602542e07ef2b0567304020d48084af8d9dd589dc687be470e05bf5a4e",
+
+	 "hash": "eb3d62602542e07ef2b0567304020d48084af8d9dd589dc687be470e05bf5a4e",
+
+	 "type": "Bourne-Again shell script, ASCII text executable",
+
+	 "classification": "Generic.Bash.MiraiA.47B49728",
+
+	 "virustotal": "https://www.virustotal.com/file/eb3d62602542e07ef2b0567304020d48084af8d9dd589dc687be470e05bf5a4e/analysis/1506816245/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/eb3d62602542e07ef2b0567304020d48084af8d9dd589dc687be470e05bf5a4e"
+
+},
+
+{ 
+
+	 "date": "10/01/2017 18:10:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "d87c7444535033f54ee3f1566c6b30e0b6a5503cefb1797013740a18bbc88c65",
+
+	 "hash": "d87c7444535033f54ee3f1566c6b30e0b6a5503cefb1797013740a18bbc88c65",
+
+	 "type": "ASCII text",
+
+	 "classification": "Generic.Bash.MiraiA.8F992131",
+
+	 "virustotal": "https://www.virustotal.com/file/d87c7444535033f54ee3f1566c6b30e0b6a5503cefb1797013740a18bbc88c65/analysis/1506816247/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/d87c7444535033f54ee3f1566c6b30e0b6a5503cefb1797013740a18bbc88c65"
 
 },
 
