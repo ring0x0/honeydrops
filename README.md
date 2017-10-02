@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "10/02/2017 13:20:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "7147be3416c06a9f76b0d82a256d8334dba1bc6c235b91a8a84c456d9475891a",
+
+	 "hash": "7147be3416c06a9f76b0d82a256d8334dba1bc6c235b91a8a84c456d9475891a",
+
+	 "type": "ASCII text, with CRLF line terminators",
+
+	 "classification": "HEUR:Trojan-Downloader.Shell.Agent.as",
+
+	 "virustotal": "https://www.virustotal.com/file/7147be3416c06a9f76b0d82a256d8334dba1bc6c235b91a8a84c456d9475891a/analysis/1506340664/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/7147be3416c06a9f76b0d82a256d8334dba1bc6c235b91a8a84c456d9475891a"
+
+},
+
+{ 
+
 	 "date": "10/02/2017 11:00:01",
 
 	 "source": "cowrie 159.203.x.x",
