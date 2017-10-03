@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "10/03/2017 09:40:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "8203e58118fc0ae6ff5939115f6002b37c1eee7957469d636020fff339f59d9e",
+
+	 "hash": "8203e58118fc0ae6ff5939115f6002b37c1eee7957469d636020fff339f59d9e",
+
+	 "type": "ASCII text",
+
+	 "classification": "Trojan.MAC.Generic.437",
+
+	 "virustotal": "https://www.virustotal.com/file/8203e58118fc0ae6ff5939115f6002b37c1eee7957469d636020fff339f59d9e/analysis/1506908608/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/8203e58118fc0ae6ff5939115f6002b37c1eee7957469d636020fff339f59d9e"
+
+},
+
+{ 
+
 	 "date": "10/03/2017 08:30:01",
 
 	 "source": "cowrie 159.203.x.x",
