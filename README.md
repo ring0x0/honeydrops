@@ -2,6 +2,66 @@
 
 { 
 
+	 "date": "10/03/2017 17:25:01",
+
+	 "source": "deonaea 159.203.x.x",
+
+	 "name": "4d211f1e79247e5c18c09253ed00ffbd",
+
+	 "hash": "4ff2acfaa88bc551c4a3a510bd1d93da3837b6b6bfef8c4758c124d5643261ca",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
+
+	 "classification": "Gen:Variant.Graftor.408731",
+
+	 "virustotal": "https://www.virustotal.com/file/4ff2acfaa88bc551c4a3a510bd1d93da3837b6b6bfef8c4758c124d5643261ca/analysis/1506068337/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/4d211f1e79247e5c18c09253ed00ffbd"
+
+},
+
+{ 
+
+	 "date": "10/03/2017 17:25:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "efcde9c485ee549937b90801afb24271e9919afb7133c2c7a84857dde02de1af",
+
+	 "hash": "efcde9c485ee549937b90801afb24271e9919afb7133c2c7a84857dde02de1af",
+
+	 "type": "ASCII text",
+
+	 "classification": "Generic.Bash.MiraiA.98CD202C",
+
+	 "virustotal": "https://www.virustotal.com/file/efcde9c485ee549937b90801afb24271e9919afb7133c2c7a84857dde02de1af/analysis/1507051899/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/efcde9c485ee549937b90801afb24271e9919afb7133c2c7a84857dde02de1af"
+
+},
+
+{ 
+
+	 "date": "10/03/2017 17:25:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "b9782aaedc9a92eb157b4f4bb68682045952eed280be5b608e8cd5134cbc1cb1",
+
+	 "hash": "b9782aaedc9a92eb157b4f4bb68682045952eed280be5b608e8cd5134cbc1cb1",
+
+	 "type": "Bourne-Again shell script, ASCII text executable",
+
+	 "classification": "Generic.Bash.MiraiA.4F7F947A",
+
+	 "virustotal": "https://www.virustotal.com/file/b9782aaedc9a92eb157b4f4bb68682045952eed280be5b608e8cd5134cbc1cb1/analysis/1507051857/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/b9782aaedc9a92eb157b4f4bb68682045952eed280be5b608e8cd5134cbc1cb1"
+
+},
+
+{ 
+
 	 "date": "10/03/2017 16:00:01",
 
 	 "source": "deonaea 159.203.x.x",
