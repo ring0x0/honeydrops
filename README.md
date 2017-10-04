@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "10/04/2017 07:10:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "5d78792dcc12c8d79beea9b6f19ac706816605c2f3e8c84cab3dbe3131fc9bd1",
+
+	 "hash": "5d78792dcc12c8d79beea9b6f19ac706816605c2f3e8c84cab3dbe3131fc9bd1",
+
+	 "type": "ASCII text",
+
+	 "classification": "BV:Downloader-KB [Drp]",
+
+	 "virustotal": "https://www.virustotal.com/file/5d78792dcc12c8d79beea9b6f19ac706816605c2f3e8c84cab3dbe3131fc9bd1/analysis/1507086373/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/5d78792dcc12c8d79beea9b6f19ac706816605c2f3e8c84cab3dbe3131fc9bd1"
+
+},
+
+{ 
+
 	 "date": "10/04/2017 01:40:01",
 
 	 "source": "cowrie 159.203.x.x",
