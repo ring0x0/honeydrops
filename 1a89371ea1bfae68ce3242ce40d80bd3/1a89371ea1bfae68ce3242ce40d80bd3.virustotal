@@ -64,6 +64,10 @@
                         "Gen:Variant.Zegost.6"
                     ],
                     [
+                        "Bkav",
+                        "W32.LopmoXB.Worm"
+                    ],
+                    [
                         "CAT-QuickHeal",
                         "TrojanDropper.Zegost.C5"
                     ],
@@ -188,10 +192,6 @@
                         "Backdoor.Win32.Gh0st.BM"
                     ],
                     [
-                        "Rising",
-                        "Backdoor.Win32.GenFxj.d (CLOUD)"
-                    ],
-                    [
                         "SUPERAntiSpyware",
                         "Trojan.Agent/Gen-Frauder"
                     ],
@@ -214,10 +214,6 @@
                     [
                         "TheHacker",
                         "Trojan/PSW.Bjlog.nqi"
-                    ],
-                    [
-                        "TotalDefense",
-                        "Win32/Zegost.WH"
                     ],
                     [
                         "TrendMicro",
@@ -268,11 +264,11 @@
             "type": "table"
         },
         {
-            "data": "62 out of 65 antivirus detected \u001b[1m1a89371ea1bfae68ce3242ce40d80bd3\u001b[0m as malicious.",
+            "data": "61 out of 64 antivirus detected \u001b[1m1a89371ea1bfae68ce3242ce40d80bd3\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/63aa88704c956057cc93188a7d167951604934217332bed7a6902dc5201996a9/analysis/1506819655/\n",
+            "data": "https://www.virustotal.com/file/63aa88704c956057cc93188a7d167951604934217332bed7a6902dc5201996a9/analysis/1507059228/\n",
             "type": "info"
         },
         {
