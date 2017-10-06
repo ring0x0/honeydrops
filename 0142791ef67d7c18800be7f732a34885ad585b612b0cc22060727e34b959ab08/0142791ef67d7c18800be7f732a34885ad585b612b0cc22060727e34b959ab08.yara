@@ -1,0 +1,12 @@
+
+    suspicious_packer_section /tmp/yaracheck/0142791ef67d7c18800be7f732a34885ad585b612b0cc22060727e34b959ab08/binary-0142791ef67d7c18800be7f732a34885ad585b612b0cc22060727e34b959ab08
+0x52e109:$s13: MEW
+0x223e79:$s61: .yP
+
+
+
+
+
+
+
+

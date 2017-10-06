@@ -1,0 +1,151 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m8cf7eee0e7e86fd809be11894d74666b\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "AVG",
+                        "BV:Agent-BAF [Trj]"
+                    ],
+                    [
+                        "AegisLab",
+                        "Linux.Generic!c"
+                    ],
+                    [
+                        "AhnLab-V3",
+                        "Linux/Xhide.838583"
+                    ],
+                    [
+                        "Arcabit",
+                        "Application.Linux.HTool.A"
+                    ],
+                    [
+                        "Avast",
+                        "BV:Agent-BAF [Trj]"
+                    ],
+                    [
+                        "Avira",
+                        "LINUX/Procfake"
+                    ],
+                    [
+                        "BitDefender",
+                        "Application.Linux.HTool.A"
+                    ],
+                    [
+                        "CAT-QuickHeal",
+                        "Linux.HackTool.ProcHider.a"
+                    ],
+                    [
+                        "ClamAV",
+                        "Unix.Malware.Agent-1395347"
+                    ],
+                    [
+                        "Cyren",
+                        "ELF/Application.UXIM"
+                    ],
+                    [
+                        "DrWeb",
+                        "Python.BackDoor.16"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "Linux/Meche.G"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Application.Linux.HTool.A (B)"
+                    ],
+                    [
+                        "F-Prot",
+                        "Unix/Prochide.A"
+                    ],
+                    [
+                        "F-Secure",
+                        "Application.Linux.HTool"
+                    ],
+                    [
+                        "Fortinet",
+                        "W32/Python_IRCBot.C!tr.bdr"
+                    ],
+                    [
+                        "GData",
+                        "Application.Linux.HTool.A"
+                    ],
+                    [
+                        "Ikarus",
+                        "Trojan.Linux.Meche"
+                    ],
+                    [
+                        "Jiangmin",
+                        "HackTool.Linux.bo"
+                    ],
+                    [
+                        "Kaspersky",
+                        "Backdoor.Python.IRCBot.c"
+                    ],
+                    [
+                        "MAX",
+                        "malware (ai score=84)"
+                    ],
+                    [
+                        "Microsoft",
+                        "HackTool:Linux/Xhide!rfn"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Trojan.Unix.Python.eqriqz"
+                    ],
+                    [
+                        "Qihoo-360",
+                        "virus.elf.xhide.gen"
+                    ],
+                    [
+                        "Rising",
+                        "Hack.Linux.ProcHider.b (CLASSIC)"
+                    ],
+                    [
+                        "Sophos",
+                        "Troj/XHide-Gen"
+                    ],
+                    [
+                        "TrendMicro",
+                        "HKTL_XHide"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "Suspici.14D6D370"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "Backdoor.Python.IRCBot.c"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "29 out of 59 antivirus detected \u001b[1m8cf7eee0e7e86fd809be11894d74666b\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/0142791ef67d7c18800be7f732a34885ad585b612b0cc22060727e34b959ab08/analysis/1507287614/\n",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
+            "type": "info"
+        }
+    ]
+}
