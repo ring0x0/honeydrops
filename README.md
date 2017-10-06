@@ -2,7 +2,47 @@
 
 { 
 
-	 "date": "10/05/2017 22:30:01",
+	 "date": "10/06/2017 00:00:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "fa5b7483e5581e2d4aa6c20cb0fdc9b8afb50b6f5e8a66327865b281b3ea65e4",
+
+	 "hash": "fa5b7483e5581e2d4aa6c20cb0fdc9b8afb50b6f5e8a66327865b281b3ea65e4",
+
+	 "type": "Bourne-Again shell script, ASCII text executable",
+
+	 "classification": "Generic.Bash.MiraiA.BF965B3F",
+
+	 "virustotal": "https://www.virustotal.com/file/fa5b7483e5581e2d4aa6c20cb0fdc9b8afb50b6f5e8a66327865b281b3ea65e4/analysis/1506814250/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/fa5b7483e5581e2d4aa6c20cb0fdc9b8afb50b6f5e8a66327865b281b3ea65e4"
+
+},
+
+{ 
+
+	 "date": "10/06/2017 00:00:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "bab6bfd894d6331954b9f8879b015463ed7caeeb085d3dd26b9ad46e769b4724",
+
+	 "hash": "bab6bfd894d6331954b9f8879b015463ed7caeeb085d3dd26b9ad46e769b4724",
+
+	 "type": "Bourne-Again shell script, ASCII text executable",
+
+	 "classification": "Generic.Bash.MiraiA.29DD6D8C",
+
+	 "virustotal": "https://www.virustotal.com/file/bab6bfd894d6331954b9f8879b015463ed7caeeb085d3dd26b9ad46e769b4724/analysis/1506881358/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/bab6bfd894d6331954b9f8879b015463ed7caeeb085d3dd26b9ad46e769b4724"
+
+},
+
+{ 
+
+	 "date": "10/06/2017 00:00:01",
 
 	 "source": "cowrie 159.203.x.x",
 
@@ -22,21 +62,41 @@
 
 { 
 
-	 "date": "10/05/2017 18:30:01",
+	 "date": "10/05/2017 23:45:01",
 
 	 "source": "cowrie 159.203.x.x",
 
-	 "name": "bab6bfd894d6331954b9f8879b015463ed7caeeb085d3dd26b9ad46e769b4724",
+	 "name": "09105978756917c106ed87b1d5cc14d79556c95e399f728ad2e69d08a590de33",
 
-	 "hash": "bab6bfd894d6331954b9f8879b015463ed7caeeb085d3dd26b9ad46e769b4724",
+	 "hash": "09105978756917c106ed87b1d5cc14d79556c95e399f728ad2e69d08a590de33",
+
+	 "type": "ASCII text",
+
+	 "classification": "BV:Downloader-KB [Drp]",
+
+	 "virustotal": "https://www.virustotal.com/file/09105978756917c106ed87b1d5cc14d79556c95e399f728ad2e69d08a590de33/analysis/1507248054/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/09105978756917c106ed87b1d5cc14d79556c95e399f728ad2e69d08a590de33"
+
+},
+
+{ 
+
+	 "date": "10/05/2017 23:40:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "97efae2c1cebd3f440a022f27761a345905a12feda8e1a4403eea2e0cf3eba4d",
+
+	 "hash": "97efae2c1cebd3f440a022f27761a345905a12feda8e1a4403eea2e0cf3eba4d",
 
 	 "type": "Bourne-Again shell script, ASCII text executable",
 
-	 "classification": "Generic.Bash.MiraiA.29DD6D8C",
+	 "classification": "Generic.Bash.MiraiA.03277032",
 
-	 "virustotal": "https://www.virustotal.com/file/bab6bfd894d6331954b9f8879b015463ed7caeeb085d3dd26b9ad46e769b4724/analysis/1506881358/" ,
+	 "virustotal": "https://www.virustotal.com/file/97efae2c1cebd3f440a022f27761a345905a12feda8e1a4403eea2e0cf3eba4d/analysis/1507243275/" ,
 
-	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/bab6bfd894d6331954b9f8879b015463ed7caeeb085d3dd26b9ad46e769b4724"
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/97efae2c1cebd3f440a022f27761a345905a12feda8e1a4403eea2e0cf3eba4d"
 
 },
 
@@ -537,26 +597,6 @@
 	 "virustotal": "https://www.virustotal.com/file/3ea1e7b3b305b6d0f77951635a97d21b4feed2ae4aaffc265556283c36725153/analysis/1506861049/" ,
 
 	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/3ea1e7b3b305b6d0f77951635a97d21b4feed2ae4aaffc265556283c36725153"
-
-},
-
-{ 
-
-	 "date": "09/30/2017 23:05:01",
-
-	 "source": "cowrie 159.203.x.x",
-
-	 "name": "fa5b7483e5581e2d4aa6c20cb0fdc9b8afb50b6f5e8a66327865b281b3ea65e4",
-
-	 "hash": "fa5b7483e5581e2d4aa6c20cb0fdc9b8afb50b6f5e8a66327865b281b3ea65e4",
-
-	 "type": "Bourne-Again shell script, ASCII text executable",
-
-	 "classification": "Generic.Bash.MiraiA.BF965B3F",
-
-	 "virustotal": "https://www.virustotal.com/file/fa5b7483e5581e2d4aa6c20cb0fdc9b8afb50b6f5e8a66327865b281b3ea65e4/analysis/1506814250/" ,
-
-	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/fa5b7483e5581e2d4aa6c20cb0fdc9b8afb50b6f5e8a66327865b281b3ea65e4"
 
 },
 
