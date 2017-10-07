@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "10/07/2017 10:55:01",
+
+	 "source": "deonaea 159.203.x.x",
+
+	 "name": "1e3980ca606558b24c21a42ec35729d7",
+
+	 "hash": "9bc2b630ba28617aa8c1c1ed99c932e0b70261059a30fa2ea39c27a13d7c4d32",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows, UPX compressed",
+
+	 "classification": "Gen:Trojan.Heur.cmKfrLdEShlbb",
+
+	 "virustotal": "https://www.virustotal.com/file/9bc2b630ba28617aa8c1c1ed99c932e0b70261059a30fa2ea39c27a13d7c4d32/analysis/1507366898/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/1e3980ca606558b24c21a42ec35729d7"
+
+},
+
+{ 
+
 	 "date": "10/07/2017 03:00:01",
 
 	 "source": "cowrie 159.203.x.x",
