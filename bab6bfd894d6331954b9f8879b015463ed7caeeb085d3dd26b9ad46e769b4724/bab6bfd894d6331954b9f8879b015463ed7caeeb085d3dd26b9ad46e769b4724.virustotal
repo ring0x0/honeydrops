@@ -92,6 +92,10 @@
                         "Generic.Bash.MiraiA.29DD6D8C"
                     ],
                     [
+                        "NANO-Antivirus",
+                        "Trojan.Script.ExpKit.etdjzv"
+                    ],
+                    [
                         "Qihoo-360",
                         "Win32/Trojan.Downloader.ef5"
                     ],
@@ -112,10 +116,6 @@
                         "Win32.Trojan-downloader.Agent.Hpsc"
                     ],
                     [
-                        "TotalDefense",
-                        "Generic.Bash.MiraiA.29DD6D8C"
-                    ],
-                    [
                         "TrendMicro-HouseCall",
                         "Suspicious_GEN.F47V0930"
                     ],
@@ -128,11 +128,11 @@
             "type": "table"
         },
         {
-            "data": "27 out of 59 antivirus detected \u001b[1m228a8aa699497ccfc521bf7f74c46499\u001b[0m as malicious.",
+            "data": "27 out of 60 antivirus detected \u001b[1m228a8aa699497ccfc521bf7f74c46499\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/bab6bfd894d6331954b9f8879b015463ed7caeeb085d3dd26b9ad46e769b4724/analysis/1506881358/\n",
+            "data": "https://www.virustotal.com/file/bab6bfd894d6331954b9f8879b015463ed7caeeb085d3dd26b9ad46e769b4724/analysis/1507366821/\n",
             "type": "info"
         },
         {
