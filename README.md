@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "10/11/2017 06:00:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "6faf1caf1ae5b5f1e1d7e46b7e04a92a9b11cb1744738d319235fd8377ca701c",
+
+	 "hash": "6faf1caf1ae5b5f1e1d7e46b7e04a92a9b11cb1744738d319235fd8377ca701c",
+
+	 "type": "data",
+
+	 "classification": "nondeterministic",
+
+	 "virustotal": "https://www.virustotal.com/file/6faf1caf1ae5b5f1e1d7e46b7e04a92a9b11cb1744738d319235fd8377ca701c/analysis/1507701607/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/6faf1caf1ae5b5f1e1d7e46b7e04a92a9b11cb1744738d319235fd8377ca701c"
+
+},
+
+{ 
+
 	 "date": "10/11/2017 05:30:01",
 
 	 "source": "cowrie 159.203.x.x",
