@@ -2,6 +2,46 @@
 
 { 
 
+	 "date": "10/11/2017 06:35:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "e6ffb08a134679d4d45cacc8897580a2d495ebcae041d593db82ba379c348eaa",
+
+	 "hash": "e6ffb08a134679d4d45cacc8897580a2d495ebcae041d593db82ba379c348eaa",
+
+	 "type": "gzip compressed data, last modified: Sat Oct 7 19:46:17 2017, from Unix",
+
+	 "classification": "Application.Linux.HTool.A",
+
+	 "virustotal": "https://www.virustotal.com/file/e6ffb08a134679d4d45cacc8897580a2d495ebcae041d593db82ba379c348eaa/analysis/1507705216/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/e6ffb08a134679d4d45cacc8897580a2d495ebcae041d593db82ba379c348eaa"
+
+},
+
+{ 
+
+	 "date": "10/11/2017 06:35:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "373f49a947108ce543a41e86c7cf37f3eea37d3441ef1647b73d3ff653306259",
+
+	 "hash": "373f49a947108ce543a41e86c7cf37f3eea37d3441ef1647b73d3ff653306259",
+
+	 "type": "gzip compressed data, last modified: Tue Oct 10 16:15:10 2017, from Unix",
+
+	 "classification": "Application.BitCoinMiner.MA",
+
+	 "virustotal": "https://www.virustotal.com/file/373f49a947108ce543a41e86c7cf37f3eea37d3441ef1647b73d3ff653306259/analysis/1507703508/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/373f49a947108ce543a41e86c7cf37f3eea37d3441ef1647b73d3ff653306259"
+
+},
+
+{ 
+
 	 "date": "10/11/2017 06:00:01",
 
 	 "source": "cowrie 159.203.x.x",
