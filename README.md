@@ -2,6 +2,46 @@
 
 { 
 
+	 "date": "10/12/2017 09:55:01",
+
+	 "source": "deonaea 159.203.x.x",
+
+	 "name": "6cdd4a7c9a4b3118e3d8238de1ea598a",
+
+	 "hash": "8cc3f8edb91acac327404fbea38723c60b3545561f4c66a0812038e8b075b9c2",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
+
+	 "classification": "nondeterministic",
+
+	 "virustotal": "https://www.virustotal.com/file/8cc3f8edb91acac327404fbea38723c60b3545561f4c66a0812038e8b075b9c2/analysis/1507800497/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/6cdd4a7c9a4b3118e3d8238de1ea598a"
+
+},
+
+{ 
+
+	 "date": "10/12/2017 09:55:01",
+
+	 "source": "deonaea 159.203.x.x",
+
+	 "name": "6b2e03a9a9775053fcf1e032124fcb75",
+
+	 "hash": "0e9e3f2c939b987309276707366f3e74814d9f2a0625d4938dd4df9026146134",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows, UPX compressed",
+
+	 "classification": "Gen:Variant.Kazy.162222",
+
+	 "virustotal": "https://www.virustotal.com/file/0e9e3f2c939b987309276707366f3e74814d9f2a0625d4938dd4df9026146134/analysis/1507708203/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/6b2e03a9a9775053fcf1e032124fcb75"
+
+},
+
+{ 
+
 	 "date": "10/12/2017 06:30:01",
 
 	 "source": "deonaea 159.203.x.x",
