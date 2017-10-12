@@ -2,7 +2,7 @@
 
 { 
 
-	 "date": "10/12/2017 21:30:01",
+	 "date": "10/12/2017 22:00:01",
 
 	 "source": "cowrie 159.203.x.x",
 
@@ -17,6 +17,26 @@
 	 "virustotal": "https://www.virustotal.com/file/5bded4a473968168f53884966e71e2804d5d208afb289444e1db4f6401efb2c2/analysis/1507660257/" ,
 
 	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/5bded4a473968168f53884966e71e2804d5d208afb289444e1db4f6401efb2c2"
+
+},
+
+{ 
+
+	 "date": "10/12/2017 21:35:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "dec160aa612601d2be2ec56e3d37e99f8f24b5da9c4df89d594fe6a5e79e67bf",
+
+	 "hash": "dec160aa612601d2be2ec56e3d37e99f8f24b5da9c4df89d594fe6a5e79e67bf",
+
+	 "type": "a /usr/bin/perl script executable (binary data)",
+
+	 "classification": "Backdoor.Perl.Shellbot.B",
+
+	 "virustotal": "https://www.virustotal.com/file/dec160aa612601d2be2ec56e3d37e99f8f24b5da9c4df89d594fe6a5e79e67bf/analysis/1507838792/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/dec160aa612601d2be2ec56e3d37e99f8f24b5da9c4df89d594fe6a5e79e67bf"
 
 },
 
