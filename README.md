@@ -42,6 +42,26 @@
 
 { 
 
+	 "date": "10/12/2017 14:30:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "83313f029bffb7e41d29ec1b4bbe3b4b5574b95569d9bc3931220897da7996a8",
+
+	 "hash": "83313f029bffb7e41d29ec1b4bbe3b4b5574b95569d9bc3931220897da7996a8",
+
+	 "type": "Bourne-Again shell script, ASCII text executable, with escape sequences",
+
+	 "classification": "nondeterministic",
+
+	 "virustotal": "https://www.virustotal.com/file/83313f029bffb7e41d29ec1b4bbe3b4b5574b95569d9bc3931220897da7996a8/analysis/1505143807/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/83313f029bffb7e41d29ec1b4bbe3b4b5574b95569d9bc3931220897da7996a8"
+
+},
+
+{ 
+
 	 "date": "10/12/2017 11:30:01",
 
 	 "source": "cowrie 159.203.x.x",
