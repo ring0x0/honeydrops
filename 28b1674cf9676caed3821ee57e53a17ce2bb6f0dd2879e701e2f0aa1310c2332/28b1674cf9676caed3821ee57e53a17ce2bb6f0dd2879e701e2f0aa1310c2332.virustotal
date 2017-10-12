@@ -1,7 +1,46 @@
 {
     "results": [
         {
-            "data": "The file is in the queue and will be processed soon, please try again later",
+            "data": "VirusTotal Report for \u001b[1m5da89ca71ea285f279d5500fd7045354\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "AVG",
+                        "BV:Downloader-KB [Drp]"
+                    ],
+                    [
+                        "Avast",
+                        "BV:Downloader-KB [Drp]"
+                    ],
+                    [
+                        "DrWeb",
+                        "Linux.DownLoader.320"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Trojan.Script.Agent.ekbkzw"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "4 out of 59 antivirus detected \u001b[1m5da89ca71ea285f279d5500fd7045354\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/28b1674cf9676caed3821ee57e53a17ce2bb6f0dd2879e701e2f0aa1310c2332/analysis/1507807806/\n",
             "type": "info"
         },
         {
