@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "10/18/2017 05:30:01",
+
+	 "source": "deonaea 159.203.x.x",
+
+	 "name": "smb-vw_ak1vo.tmp",
+
+	 "hash": "db5ce44e4c4ce6271d2e0a056e5abafdd7045f00d55c78450e64a87c2ed86efb",
+
+	 "type": "data",
+
+	 "classification": "Trojan.GenericKD.4484531",
+
+	 "virustotal": "https://www.virustotal.com/file/db5ce44e4c4ce6271d2e0a056e5abafdd7045f00d55c78450e64a87c2ed86efb/analysis/1508299318/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/smb-vw_ak1vo.tmp"
+
+},
+
+{ 
+
 	 "date": "10/17/2017 20:35:01",
 
 	 "source": "cowrie 159.203.x.x",
