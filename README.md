@@ -6,6 +6,26 @@
 
 	 "source": "cowrie 159.203.x.x",
 
+	 "name": "743756f012bd657f216c7ab924653e3c9ea20142a500975be3e6d03a72282dc7",
+
+	 "hash": "743756f012bd657f216c7ab924653e3c9ea20142a500975be3e6d03a72282dc7",
+
+	 "type": "ASCII text",
+
+	 "classification": "Generic.Bash.MiraiA.07CA99C0",
+
+	 "virustotal": "https://www.virustotal.com/file/743756f012bd657f216c7ab924653e3c9ea20142a500975be3e6d03a72282dc7/analysis/1508346244/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/743756f012bd657f216c7ab924653e3c9ea20142a500975be3e6d03a72282dc7"
+
+},
+
+{ 
+
+	 "date": "10/18/2017 18:00:01",
+
+	 "source": "cowrie 159.203.x.x",
+
 	 "name": "27d766b6c8b49a1d21a326db7472dbd18990ecc2f446dfe3d7137c26542e7ea2",
 
 	 "hash": "27d766b6c8b49a1d21a326db7472dbd18990ecc2f446dfe3d7137c26542e7ea2",
