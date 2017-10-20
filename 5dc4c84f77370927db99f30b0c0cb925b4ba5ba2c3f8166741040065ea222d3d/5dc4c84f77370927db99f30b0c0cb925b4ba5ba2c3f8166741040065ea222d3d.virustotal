@@ -1,0 +1,131 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m73e5b66a4e0318966c759b5ee77e27aa\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "Trojan.Hacktool.Flood.A"
+                    ],
+                    [
+                        "AVG",
+                        "Perl:Flooder-B [Trj]"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Trojan.Hacktool.Flood.A"
+                    ],
+                    [
+                        "AegisLab",
+                        "Dos.Shell.Agent!c"
+                    ],
+                    [
+                        "Arcabit",
+                        "Trojan.Hacktool.Flood.A"
+                    ],
+                    [
+                        "Avast",
+                        "Perl:Flooder-B [Trj]"
+                    ],
+                    [
+                        "Baidu",
+                        "Perl.HackTool.BBSXP.a"
+                    ],
+                    [
+                        "BitDefender",
+                        "Trojan.Hacktool.Flood.A"
+                    ],
+                    [
+                        "Cyren",
+                        "Trojan.NPWK-9"
+                    ],
+                    [
+                        "DrWeb",
+                        "Perl.Flood.3"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "Perl/HackTool.BBSXP.NAB"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Trojan.Hacktool.Flood.A (B)"
+                    ],
+                    [
+                        "F-Secure",
+                        "Trojan.Hacktool.Flood.A"
+                    ],
+                    [
+                        "GData",
+                        "Trojan.Hacktool.Flood.A"
+                    ],
+                    [
+                        "Ikarus",
+                        "Trojan.Perl.Hacktool"
+                    ],
+                    [
+                        "Kaspersky",
+                        "HEUR:DoS.Shell.Agent.b"
+                    ],
+                    [
+                        "MAX",
+                        "malware (ai score=89)"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Trojan.Hacktool.Flood.A"
+                    ],
+                    [
+                        "Microsoft",
+                        "DoS:Perl/UDPFlood!rfn"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Trojan.Script.Bbdos.cpglly"
+                    ],
+                    [
+                        "Qihoo-360",
+                        "virus.js.qexvmc.1"
+                    ],
+                    [
+                        "Symantec",
+                        "Trojan.Gen.NPE.2"
+                    ],
+                    [
+                        "Tencent",
+                        "Dos.Trojan.Agent.Ajbx"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "HEUR:DoS.Shell.Agent.b"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "24 out of 58 antivirus detected \u001b[1m73e5b66a4e0318966c759b5ee77e27aa\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/5dc4c84f77370927db99f30b0c0cb925b4ba5ba2c3f8166741040065ea222d3d/analysis/1502330024/\n",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
+            "type": "info"
+        }
+    ]
+}

@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "10/20/2017 12:20:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "5dc4c84f77370927db99f30b0c0cb925b4ba5ba2c3f8166741040065ea222d3d",
+
+	 "hash": "5dc4c84f77370927db99f30b0c0cb925b4ba5ba2c3f8166741040065ea222d3d",
+
+	 "type": "a /usr/bin/perl script, ASCII text executable, with CRLF line terminators, with escape sequences",
+
+	 "classification": "Trojan.Hacktool.Flood.A",
+
+	 "virustotal": "https://www.virustotal.com/file/5dc4c84f77370927db99f30b0c0cb925b4ba5ba2c3f8166741040065ea222d3d/analysis/1502330024/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/5dc4c84f77370927db99f30b0c0cb925b4ba5ba2c3f8166741040065ea222d3d"
+
+},
+
+{ 
+
 	 "date": "10/20/2017 08:40:01",
 
 	 "source": "cowrie 159.203.x.x",
