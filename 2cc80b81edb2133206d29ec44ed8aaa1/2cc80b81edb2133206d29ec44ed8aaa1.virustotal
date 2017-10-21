@@ -21,7 +21,7 @@
                     ],
                     [
                         "AVG",
-                        "Atros.ANXZ"
+                        "Win64:Malware-gen"
                     ],
                     [
                         "AVware",
@@ -38,6 +38,10 @@
                     [
                         "AhnLab-V3",
                         "Trojan/Win32.Exploit.R200799"
+                    ],
+                    [
+                        "Antiy-AVL",
+                        "Trojan[Exploit]/Win64.CVE-2015-1701"
                     ],
                     [
                         "Arcabit",
@@ -68,8 +72,12 @@
                         "UnclassifiedMalware"
                     ],
                     [
-                        "CrowdStrike",
-                        "malicious_confidence_69% (W)"
+                        "Cylance",
+                        "Unsafe"
+                    ],
+                    [
+                        "Cyren",
+                        "W64/Trojan.NAMK-0387"
                     ],
                     [
                         "DrWeb",
@@ -85,7 +93,7 @@
                     ],
                     [
                         "Endgame",
-                        "malicious (moderate confidence)"
+                        "malicious (high confidence)"
                     ],
                     [
                         "F-Secure",
@@ -104,6 +112,10 @@
                         "Trojan.Win64.Exploit"
                     ],
                     [
+                        "Invincea",
+                        "heuristic"
+                    ],
+                    [
                         "Jiangmin",
                         "Exploit.CVE-2015-1701.e"
                     ],
@@ -118,6 +130,10 @@
                     [
                         "Kaspersky",
                         "Exploit.Win64.CVE-2015-1701.b"
+                    ],
+                    [
+                        "MAX",
+                        "malware (ai score=85)"
                     ],
                     [
                         "Malwarebytes",
@@ -185,7 +201,7 @@
                     ],
                     [
                         "ViRobot",
-                        "Trojan.Win64.S.Exploit.55296[h]"
+                        "Trojan.Win64.S.Exploit.55296"
                     ],
                     [
                         "Webroot",
@@ -194,10 +210,6 @@
                     [
                         "Yandex",
                         "Exploit.CVE-2015-1701!"
-                    ],
-                    [
-                        "Zillya",
-                        "Exploit.CVE.Win64.10"
                     ],
                     [
                         "ZoneAlarm",
@@ -212,11 +224,15 @@
             "type": "table"
         },
         {
-            "data": "48 out of 60 antivirus detected \u001b[1m2cc80b81edb2133206d29ec44ed8aaa1\u001b[0m as malicious.",
+            "data": "51 out of 65 antivirus detected \u001b[1m2cc80b81edb2133206d29ec44ed8aaa1\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/e2946ecb747a6671e7655aaa0c781e22c965284a10bbe983f59dca46128ce671/analysis/1496637428/\n",
+            "data": "https://www.virustotal.com/file/e2946ecb747a6671e7655aaa0c781e22c965284a10bbe983f59dca46128ce671/analysis/1508031581/\n",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
             "type": "info"
         }
     ]

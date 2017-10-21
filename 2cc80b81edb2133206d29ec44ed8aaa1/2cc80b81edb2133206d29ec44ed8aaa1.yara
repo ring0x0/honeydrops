@@ -78,3 +78,36 @@ Contains_PE_File /tmp/testing/binary-2cc80b81edb2133206d29ec44ed8aaa1
 0x0:$a: MZ
 0x1007:$a: MZ
 0x5044:$a: MZ
+
+    
+
+
+
+
+PEiD_00497_dUP_v2_x_Patcher_____www_diablo2oo2_cjb_net_ /tmp/yaracheck/2cc80b81edb2133206d29ec44ed8aaa1/binary-2cc80b81edb2133206d29ec44ed8aaa1
+0x4e:$a: 54 68 69 73 20 70 72 6F 67 72 61 6D 20 63 61 6E 6E 6F 74 20 62 65 20 72 75 6E 20 69 6E 20 44 4F ...
+PEiD_00810_FSG_v1_10__Eng_____dulek_xt_____Microsoft_Visual_C___6_0___7_0__ /tmp/yaracheck/2cc80b81edb2133206d29ec44ed8aaa1/binary-2cc80b81edb2133206d29ec44ed8aaa1
+0x4e95:$a: EB 02 33 C0 48 83 C4 20 5B C3 CC 40 53 48 83 EC 20 BA 08 00 00 00 
+PEiD_01091_Microsoft_Visual_C___8_ /tmp/yaracheck/2cc80b81edb2133206d29ec44ed8aaa1/binary-2cc80b81edb2133206d29ec44ed8aaa1
+0xadc:$a: E8 57 04 00 00 E9 9F FE FF FF 
+PEiD_01686_Petite_v2_2____www_un4seen_com_petite_ /tmp/yaracheck/2cc80b81edb2133206d29ec44ed8aaa1/binary-2cc80b81edb2133206d29ec44ed8aaa1
+0x10:$a: B8 00 00 00 00 00 00 00 40 00 00 00 00 00 00 00 00 
+PEiD_02152_StarForce_V3_X_DLL____StarForce_Copy_Protection_System_ /tmp/yaracheck/2cc80b81edb2133206d29ec44ed8aaa1/binary-2cc80b81edb2133206d29ec44ed8aaa1
+0xc33c:$a: E8 A2 5B 00 00 00 00 00 00 00 00 
+
+maldoc_suspicious_strings /tmp/yaracheck/2cc80b81edb2133206d29ec44ed8aaa1/binary-2cc80b81edb2133206d29ec44ed8aaa1
+0xb5a6:$a01: CloseHandle
+0xb5b4:$a02: CreateFile
+0xb0c6:$a03: GetProcAddr
+0xb0b0:$a04: GetSystemDirectory
+0xb0fe:$a09: LoadLibrary
+0xb544:$a11: SetFilePointer
+0xb36a:$a16: WriteFile
+
+PEiD_00497_dUP_v2_x_Patcher_____www_diablo2oo2_cjb_net_ /tmp/yaracheck/2cc80b81edb2133206d29ec44ed8aaa1/binary-2cc80b81edb2133206d29ec44ed8aaa1
+0x4e:$a: 54 68 69 73 20 70 72 6F 67 72 61 6D 20 63 61 6E 6E 6F 74 20 62 65 20 72 75 6E 20 69 6E 20 44 4F ...
+
+Contains_PE_File /tmp/yaracheck/2cc80b81edb2133206d29ec44ed8aaa1/binary-2cc80b81edb2133206d29ec44ed8aaa1
+0x0:$a: MZ
+0x1007:$a: MZ
+0x5044:$a: MZ

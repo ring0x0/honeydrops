@@ -3,3 +3,8 @@ dec eax
 sub esp,0x28
 call 0x400053e4
 dec eax
+4883ec28e86736000048
+dec eax
+sub esp,0x28
+call 0x400053e4
+dec eax
