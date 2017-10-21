@@ -2,6 +2,46 @@
 
 { 
 
+	 "date": "10/21/2017 08:25:01",
+
+	 "source": "deonaea 159.203.x.x",
+
+	 "name": "a942b1e61ac8fadb55afe3413deefc9e",
+
+	 "hash": "700e41b574a68c377496fe7dcfbcfca4f01352630014398056d361edbca6352f",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
+
+	 "classification": "Gen:Win32.NetworkWorm.fq0@ayq73ukb",
+
+	 "virustotal": "https://www.virustotal.com/file/700e41b574a68c377496fe7dcfbcfca4f01352630014398056d361edbca6352f/analysis/1508540155/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/a942b1e61ac8fadb55afe3413deefc9e"
+
+},
+
+{ 
+
+	 "date": "10/21/2017 08:25:01",
+
+	 "source": "deonaea 159.203.x.x",
+
+	 "name": "24811620159e8eaa17e4eeb711244fdd",
+
+	 "hash": "c3862f8bc599a865f88646d2c4229f70672e5197a4ad16eac09dc03939282496",
+
+	 "type": "ELF 32-bit LSB executable, Intel 80386, version 1 (GNU/Linux), statically linked, stripped",
+
+	 "classification": "Linux.CornelGEN.1584",
+
+	 "virustotal": "https://www.virustotal.com/file/c3862f8bc599a865f88646d2c4229f70672e5197a4ad16eac09dc03939282496/analysis/1508572398/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/24811620159e8eaa17e4eeb711244fdd"
+
+},
+
+{ 
+
 	 "date": "10/21/2017 05:00:01",
 
 	 "source": "deonaea 159.203.x.x",
