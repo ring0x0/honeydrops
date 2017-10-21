@@ -6,6 +6,26 @@
 
 	 "source": "deonaea 192.241.x.x",
 
+	 "name": "c52eb5464783aa011d7bd424690b04ea",
+
+	 "hash": "d3ca533a8d2fcafac5a6ff8ff3db2cb243eab0e292aa41e2c0b3d82b0b2358d1",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows, UPX compressed",
+
+	 "classification": "Gen:Trojan.Heur.cmKfrLdEShlbb",
+
+	 "virustotal": "https://www.virustotal.com/file/d3ca533a8d2fcafac5a6ff8ff3db2cb243eab0e292aa41e2c0b3d82b0b2358d1/analysis/1508459634/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/c52eb5464783aa011d7bd424690b04ea"
+
+},
+
+{ 
+
+	 "date": "10/21/2017 03:00:01",
+
+	 "source": "deonaea 192.241.x.x",
+
 	 "name": "2cc80b81edb2133206d29ec44ed8aaa1",
 
 	 "hash": "e2946ecb747a6671e7655aaa0c781e22c965284a10bbe983f59dca46128ce671",
