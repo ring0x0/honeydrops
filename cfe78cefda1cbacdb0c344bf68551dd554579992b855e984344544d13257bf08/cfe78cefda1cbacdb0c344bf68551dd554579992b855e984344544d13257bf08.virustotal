@@ -28,6 +28,10 @@
                         "Generic.Bash.MiraiA.609A6852"
                     ],
                     [
+                        "AegisLab",
+                        "Troj.Downloader.Shell!c"
+                    ],
+                    [
                         "Arcabit",
                         "Generic.Bash.MiraiA.609A6852"
                     ],
@@ -88,6 +92,10 @@
                         "Generic.Bash.MiraiA.609A6852"
                     ],
                     [
+                        "Qihoo-360",
+                        "Win32/Trojan.Downloader.ef5"
+                    ],
+                    [
                         "Rising",
                         "Downloader.Shell!1.ABC3 (CLASSIC)"
                     ],
@@ -112,11 +120,11 @@
             "type": "table"
         },
         {
-            "data": "23 out of 60 antivirus detected \u001b[1meac0e24ae983384ec642b32392011079\u001b[0m as malicious.",
+            "data": "25 out of 60 antivirus detected \u001b[1meac0e24ae983384ec642b32392011079\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/cfe78cefda1cbacdb0c344bf68551dd554579992b855e984344544d13257bf08/analysis/1508621461/\n",
+            "data": "https://www.virustotal.com/file/cfe78cefda1cbacdb0c344bf68551dd554579992b855e984344544d13257bf08/analysis/1508634931/\n",
             "type": "info"
         },
         {
