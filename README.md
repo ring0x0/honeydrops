@@ -12,9 +12,9 @@
 
 	 "type": "POSIX shell script, ASCII text executable",
 
-	 "classification": "nondeterministic",
+	 "classification": "Generic.Bash.MiraiA.B3A58950",
 
-	 "virustotal": "" ,
+	 "virustotal": "https://www.virustotal.com/file/29809ed723c6118081599a48f6fe748242ccca1af4b148186f972ee6acab0d84/analysis/1508704206/" ,
 
 	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/29809ed723c6118081599a48f6fe748242ccca1af4b148186f972ee6acab0d84"
 
