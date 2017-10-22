@@ -12,9 +12,9 @@
 
 	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows, UPX compressed",
 
-	 "classification": "nondeterministic",
+	 "classification": "Trojan-FIOM!29F7A5C57604",
 
-	 "virustotal": "" ,
+	 "virustotal": "https://www.virustotal.com/file/947e42e3f7ace07af8b1f9ca7fd4f6364902bed8fbcacb41223cac81f5c9fe6c/analysis/1508707846/" ,
 
 	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/395776053aa880541b468a77539db466"
 

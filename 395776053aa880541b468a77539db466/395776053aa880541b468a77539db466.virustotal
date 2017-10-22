@@ -1,7 +1,166 @@
 {
     "results": [
         {
-            "data": "The file is in the queue and will be processed soon, please try again later",
+            "data": "VirusTotal Report for \u001b[1m395776053aa880541b468a77539db466\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "AVG",
+                        "FileRepMalware"
+                    ],
+                    [
+                        "AVware",
+                        "LooksLike.Win32.Uruasy.b!ag (v)"
+                    ],
+                    [
+                        "Avast",
+                        "FileRepMalware"
+                    ],
+                    [
+                        "Avira",
+                        "TR/Crypt.XPACK.Gen3"
+                    ],
+                    [
+                        "Baidu",
+                        "Win32.Trojan-Downloader.Agent.jm"
+                    ],
+                    [
+                        "CAT-QuickHeal",
+                        "Trojan.Zenshirsh.SL7"
+                    ],
+                    [
+                        "Comodo",
+                        "Backdoor.Win32.Beaugrit.C"
+                    ],
+                    [
+                        "CrowdStrike",
+                        "malicious_confidence_100% (D)"
+                    ],
+                    [
+                        "Cylance",
+                        "Unsafe"
+                    ],
+                    [
+                        "DrWeb",
+                        "Trojan.DownLoader18.59296"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "a variant of Win32/TrojanDownloader.Agent.BZI"
+                    ],
+                    [
+                        "Endgame",
+                        "malicious (moderate confidence)"
+                    ],
+                    [
+                        "Fortinet",
+                        "W32/Agent.BPB!tr"
+                    ],
+                    [
+                        "Ikarus",
+                        "Trojan-Downloader.Win32.Agent"
+                    ],
+                    [
+                        "Invincea",
+                        "heuristic"
+                    ],
+                    [
+                        "Jiangmin",
+                        "Backdoor.Farfli.asi"
+                    ],
+                    [
+                        "K7AntiVirus",
+                        "Trojan-Downloader ( 004c808c1 )"
+                    ],
+                    [
+                        "K7GW",
+                        "Trojan-Downloader ( 004c808c1 )"
+                    ],
+                    [
+                        "Kaspersky",
+                        "Backdoor.Win32.Farfli.adnj"
+                    ],
+                    [
+                        "McAfee",
+                        "Trojan-FIOM!29F7A5C57604"
+                    ],
+                    [
+                        "McAfee-GW-Edition",
+                        "Trojan-FIOM!29F7A5C57604"
+                    ],
+                    [
+                        "Microsoft",
+                        "Trojan:Win32/Itagomoko"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Trojan.Win32.Agent.dzjfom"
+                    ],
+                    [
+                        "Qihoo-360",
+                        "Win32/Backdoor.Netsyst.A"
+                    ],
+                    [
+                        "Symantec",
+                        "Downloader!gm"
+                    ],
+                    [
+                        "TheHacker",
+                        "Posible_Worm32"
+                    ],
+                    [
+                        "TrendMicro",
+                        "BKDR_ZEGOST.SM17"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "BKDR_ZEGOST.SM17"
+                    ],
+                    [
+                        "VBA32",
+                        "Backdoor.Farfli"
+                    ],
+                    [
+                        "VIPRE",
+                        "LooksLike.Win32.Uruasy.b!ag (v)"
+                    ],
+                    [
+                        "Webroot",
+                        "W32.Trojan.Gen"
+                    ],
+                    [
+                        "Yandex",
+                        "Backdoor.Farfli!zc6iXIYPr7U"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "Backdoor.Win32.Farfli.adnj"
+                    ],
+                    [
+                        "eGambit",
+                        "malicious_confidence_75%"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "34 out of 66 antivirus detected \u001b[1m395776053aa880541b468a77539db466\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/947e42e3f7ace07af8b1f9ca7fd4f6364902bed8fbcacb41223cac81f5c9fe6c/analysis/1508707846/\n",
             "type": "info"
         },
         {
