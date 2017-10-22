@@ -2,7 +2,7 @@
 
 { 
 
-	 "date": "10/22/2017 14:30:01",
+	 "date": "10/22/2017 15:30:01",
 
 	 "source": "cowrie 159.203.x.x",
 
@@ -12,9 +12,9 @@
 
 	 "type": "ASCII text",
 
-	 "classification": "nondeterministic",
+	 "classification": "Generic.Bash.MiraiA.884A9C2F",
 
-	 "virustotal": "" ,
+	 "virustotal": "https://www.virustotal.com/file/e32c64be6864e2365830ad1762de6d4b5a820eb4266b2c3d1c55531cff34ff40/analysis/1508684407/" ,
 
 	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/e32c64be6864e2365830ad1762de6d4b5a820eb4266b2c3d1c55531cff34ff40"
 
