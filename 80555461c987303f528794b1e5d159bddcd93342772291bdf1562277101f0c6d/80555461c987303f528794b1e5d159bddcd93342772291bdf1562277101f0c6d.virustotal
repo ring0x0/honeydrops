@@ -1,7 +1,34 @@
 {
     "results": [
         {
-            "data": "The file is in the queue and will be processed soon, please try again later",
+            "data": "VirusTotal Report for \u001b[1m80239116ca9f0c3030933815989b0923\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "DrWeb",
+                        "Linux.MulDrop.16"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "1 out of 60 antivirus detected \u001b[1m80239116ca9f0c3030933815989b0923\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/80555461c987303f528794b1e5d159bddcd93342772291bdf1562277101f0c6d/analysis/1508720406/\n",
             "type": "info"
         },
         {
