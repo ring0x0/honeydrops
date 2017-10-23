@@ -1,0 +1,91 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1md391cb88eb15c014ffeb8966fdc39a54\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "Generic.Bash.MiraiA.0B544C0B"
+                    ],
+                    [
+                        "AVG",
+                        "BV:Downloader-KB [Drp]"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Generic.Bash.MiraiA.0B544C0B"
+                    ],
+                    [
+                        "Arcabit",
+                        "Generic.Bash.MiraiA.0B544C0B"
+                    ],
+                    [
+                        "Avast",
+                        "BV:Downloader-KB [Drp]"
+                    ],
+                    [
+                        "BitDefender",
+                        "Generic.Bash.MiraiA.0B544C0B"
+                    ],
+                    [
+                        "DrWeb",
+                        "Linux.DownLoader.320"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Generic.Bash.MiraiA.0B544C0B (B)"
+                    ],
+                    [
+                        "F-Secure",
+                        "Generic.Bash.MiraiA.0B544C0B"
+                    ],
+                    [
+                        "GData",
+                        "Generic.Bash.MiraiA.0B544C0B"
+                    ],
+                    [
+                        "MAX",
+                        "malware (ai score=83)"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Generic.Bash.MiraiA.0B544C0B"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Trojan.Script.Agent.ekbkzw"
+                    ],
+                    [
+                        "Rising",
+                        "Trojan.Mirai!1.AD2B (CLASSIC)"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "14 out of 60 antivirus detected \u001b[1md391cb88eb15c014ffeb8966fdc39a54\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/6c060c5d0d0f49d6d937b5fd4f2907e73bb11b67b599fc3a0dc4548db95f5234/analysis/1508727844/\n",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
+            "type": "info"
+        }
+    ]
+}
