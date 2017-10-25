@@ -32,6 +32,10 @@
                         "Gen:Variant.Mikey.70718"
                     ],
                     [
+                        "AegisLab",
+                        "Gen.Variant.Mikey!c"
+                    ],
+                    [
                         "Antiy-AVL",
                         "Trojan/Win32.ServStart"
                     ],
@@ -44,24 +48,28 @@
                         "Win32:Malware-gen"
                     ],
                     [
+                        "Avira",
+                        "TR/AD.Nitol.ulxhm"
+                    ],
+                    [
                         "BitDefender",
                         "Gen:Variant.Mikey.70718"
                     ],
                     [
-                        "Comodo",
-                        "TrojWare.Win32.TrojanProxy.Horst.~O"
+                        "CAT-QuickHeal",
+                        "Genvariant.Mikey"
                     ],
                     [
                         "CrowdStrike",
-                        "malicious_confidence_60% (D)"
+                        "malicious_confidence_60% (W)"
                     ],
                     [
                         "Cylance",
                         "Unsafe"
                     ],
                     [
-                        "DrWeb",
-                        "Trojan.PWS.Gamania.46015"
+                        "Cyren",
+                        "W32/Trojan.ZCES-8954"
                     ],
                     [
                         "ESET-NOD32",
@@ -104,8 +112,20 @@
                         "Trojan ( 004fb6741 )"
                     ],
                     [
+                        "Kaspersky",
+                        "Trojan.Win32.ServStart.absf"
+                    ],
+                    [
                         "MAX",
-                        "malware (ai score=88)"
+                        "malware (ai score=100)"
+                    ],
+                    [
+                        "McAfee",
+                        "RDN/Generic.hbg"
+                    ],
+                    [
+                        "McAfee-GW-Edition",
+                        "RDN/Generic.hbg"
                     ],
                     [
                         "MicroWorld-eScan",
@@ -120,16 +140,40 @@
                         "Trojan.Win32.ServStart.esdfdz"
                     ],
                     [
+                        "Paloalto",
+                        "generic.ml"
+                    ],
+                    [
                         "Panda",
                         "Trj/GdSda.A"
                     ],
                     [
-                        "Rising",
-                        "Trojan.GenKryptik!8.AA55 (tfe:5:37A4y6xUdtV)"
-                    ],
-                    [
                         "SentinelOne",
                         "static engine - malicious"
+                    ],
+                    [
+                        "Sophos",
+                        "Mal/Generic-S"
+                    ],
+                    [
+                        "Symantec",
+                        "Trojan.Gen"
+                    ],
+                    [
+                        "Tencent",
+                        "Win32.Trojan.Servstart.Htby"
+                    ],
+                    [
+                        "TheHacker",
+                        "Trojan/GenKryptik.idd"
+                    ],
+                    [
+                        "TrendMicro",
+                        "TROJ_GEN.R002C0DIJ17"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "TROJ_GEN.R002C0DIJ17"
                     ],
                     [
                         "VBA32",
@@ -140,23 +184,31 @@
                         "Trojan.Win32.Nitol.b (v)"
                     ],
                     [
+                        "Yandex",
+                        "Trojan.GenKryptik!"
+                    ],
+                    [
                         "Zillya",
                         "Trojan.ServStart.Win32.16872"
                     ],
                     [
                         "ZoneAlarm",
-                        "HEUR:Trojan.Win32.Generic"
+                        "Trojan.Win32.ServStart.absf"
+                    ],
+                    [
+                        "eGambit",
+                        "malicious_confidence_99%"
                     ]
                 ]
             },
             "type": "table"
         },
         {
-            "data": "33 out of 65 antivirus detected \u001b[1m9846c18d6cacab5b3cf8076d44dc6846\u001b[0m as malicious.",
+            "data": "46 out of 65 antivirus detected \u001b[1m9846c18d6cacab5b3cf8076d44dc6846\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/49c0dc6154336e3df65abea5179bebf26776b41156a101d0767b41b8b68ae8bb/analysis/1505843811/\n",
+            "data": "https://www.virustotal.com/file/49c0dc6154336e3df65abea5179bebf26776b41156a101d0767b41b8b68ae8bb/analysis/1508408272/\n",
             "type": "info"
         },
         {
