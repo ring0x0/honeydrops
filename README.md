@@ -12,9 +12,9 @@
 
 	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
 
-	 "classification": "nondeterministic",
+	 "classification": "Gen:Variant.Zusy.261703",
 
-	 "virustotal": "" ,
+	 "virustotal": "https://www.virustotal.com/file/803e6a77f35f4edeaa7f2920b2ed1f6015eb210ce294042ee8649d92ccbb4a63/analysis/1509044407/" ,
 
 	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/9d4af647a75955555da07e1a47bf0a27"
 
