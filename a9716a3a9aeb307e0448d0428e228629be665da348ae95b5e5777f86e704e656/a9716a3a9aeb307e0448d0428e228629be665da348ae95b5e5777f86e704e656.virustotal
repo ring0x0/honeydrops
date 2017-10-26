@@ -16,39 +16,91 @@
                 ],
                 "rows": [
                     [
+                        "ALYac",
+                        "Trojan.MAC.Generic.266"
+                    ],
+                    [
                         "AVG",
                         "BV:Downloader-II [Trj]"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Trojan.MAC.Generic.266"
+                    ],
+                    [
+                        "AegisLab",
+                        "Bv.Downloader.Ii!c"
+                    ],
+                    [
+                        "Arcabit",
+                        "Trojan.MAC.Generic.266"
                     ],
                     [
                         "Avast",
                         "BV:Downloader-II [Trj]"
                     ],
                     [
+                        "BitDefender",
+                        "Trojan.MAC.Generic.266"
+                    ],
+                    [
                         "DrWeb",
                         "Linux.DownLoader.178"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Trojan.MAC.Generic.266 (B)"
+                    ],
+                    [
+                        "F-Secure",
+                        "Trojan.MAC.Generic.266"
+                    ],
+                    [
+                        "GData",
+                        "Trojan.MAC.Generic.266"
                     ],
                     [
                         "Ikarus",
                         "Trojan.Linux.Downloader"
                     ],
                     [
+                        "Kaspersky",
+                        "HEUR:Trojan-Downloader.Shell.Agent.as"
+                    ],
+                    [
+                        "MAX",
+                        "malware (ai score=89)"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Trojan.MAC.Generic.266"
+                    ],
+                    [
                         "Qihoo-360",
                         "Win32/Trojan.Downloader.24d"
                     ],
                     [
+                        "Tencent",
+                        "Win32.Trojan-downloader.Agent.Hmrb"
+                    ],
+                    [
                         "TrendMicro-HouseCall",
                         "Suspicious_GEN.F47V0919"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "HEUR:Trojan-Downloader.Shell.Agent.as"
                     ]
                 ]
             },
             "type": "table"
         },
         {
-            "data": "6 out of 59 antivirus detected \u001b[1m21130ac646d97dba3ed3e1d09f7da15e\u001b[0m as malicious.",
+            "data": "19 out of 60 antivirus detected \u001b[1m21130ac646d97dba3ed3e1d09f7da15e\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/a9716a3a9aeb307e0448d0428e228629be665da348ae95b5e5777f86e704e656/analysis/1505828439/\n",
+            "data": "https://www.virustotal.com/file/a9716a3a9aeb307e0448d0428e228629be665da348ae95b5e5777f86e704e656/analysis/1508893871/\n",
             "type": "info"
         },
         {
