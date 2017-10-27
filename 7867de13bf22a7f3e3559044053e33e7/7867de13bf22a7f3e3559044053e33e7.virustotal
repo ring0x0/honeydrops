@@ -21,7 +21,7 @@
                     ],
                     [
                         "AVG",
-                        "BackDoor.Agent.BAJP"
+                        "Win32:Trojan-gen"
                     ],
                     [
                         "AVware",
@@ -49,7 +49,7 @@
                     ],
                     [
                         "Avast",
-                        "Win32:Malware-gen"
+                        "Win32:Trojan-gen"
                     ],
                     [
                         "Avira",
@@ -72,6 +72,10 @@
                         "Worm.Dipasik"
                     ],
                     [
+                        "CMC",
+                        "Generic.Win32.7867de13bf!CMCRadar"
+                    ],
+                    [
                         "ClamAV",
                         "Win.Trojan.Agent-237741"
                     ],
@@ -82,6 +86,14 @@
                     [
                         "CrowdStrike",
                         "malicious_confidence_100% (W)"
+                    ],
+                    [
+                        "Cybereason",
+                        "malicious.1b8fb7"
+                    ],
+                    [
+                        "Cylance",
+                        "Unsafe"
                     ],
                     [
                         "Cyren",
@@ -120,12 +132,8 @@
                         "Trojan.GenericKD.4484531"
                     ],
                     [
-                        "Ikarus",
-                        "Trojan-Dropper.Agent"
-                    ],
-                    [
                         "Invincea",
-                        "worm.win32.feebs.ea"
+                        "heuristic"
                     ],
                     [
                         "Jiangmin",
@@ -161,7 +169,7 @@
                     ],
                     [
                         "NANO-Antivirus",
-                        "Trojan.Win32.Agent.edcvoe"
+                        "Trojan.Win32.Pepex.ethozw"
                     ],
                     [
                         "Paloalto",
@@ -177,7 +185,7 @@
                     ],
                     [
                         "Rising",
-                        "Trojan.Generic (cloud:9npf1tKfaTU) "
+                        "Trojan.Spy.Win32.KeyLogger.eob (CLASSIC)"
                     ],
                     [
                         "SUPERAntiSpyware",
@@ -217,7 +225,7 @@
                     ],
                     [
                         "VBA32",
-                        "Backdoor.Agent"
+                        "BScope.Worm.Agent"
                     ],
                     [
                         "VIPRE",
@@ -225,7 +233,7 @@
                     ],
                     [
                         "ViRobot",
-                        "Backdoor.Win32.Agent.33128[h]"
+                        "Backdoor.Win32.Agent.33128"
                     ],
                     [
                         "Webroot",
@@ -244,6 +252,10 @@
                         "Backdoor.Win32.Agent.aknp"
                     ],
                     [
+                        "eGambit",
+                        "Unsafe.AI_Score_100%"
+                    ],
+                    [
                         "nProtect",
                         "Backdoor/W32.Agent.33128"
                     ]
@@ -252,11 +264,15 @@
             "type": "table"
         },
         {
-            "data": "58 out of 62 antivirus detected \u001b[1m7867de13bf22a7f3e3559044053e33e7\u001b[0m as malicious.",
+            "data": "61 out of 67 antivirus detected \u001b[1m7867de13bf22a7f3e3559044053e33e7\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/a29d02251f54567edb1d32f7c17ce4c04d5c54e317eb3b2bea2a068da728e59a/analysis/1496808278/\n",
+            "data": "https://www.virustotal.com/file/a29d02251f54567edb1d32f7c17ce4c04d5c54e317eb3b2bea2a068da728e59a/analysis/1509077029/\n",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
             "type": "info"
         }
     ]
