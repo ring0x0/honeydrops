@@ -44,6 +44,10 @@
                         "Generic.Bash.MiraiA.F47C6C14"
                     ],
                     [
+                        "Cyren",
+                        "Trojan.RVRA-10"
+                    ],
+                    [
                         "DrWeb",
                         "Linux.DownLoader.275"
                     ],
@@ -77,11 +81,15 @@
                     ],
                     [
                         "MAX",
-                        "malware (ai score=81)"
+                        "malware (ai score=99)"
                     ],
                     [
                         "MicroWorld-eScan",
                         "Generic.Bash.MiraiA.F47C6C14"
+                    ],
+                    [
+                        "Qihoo-360",
+                        "Win32/Trojan.Downloader.ef5"
                     ],
                     [
                         "Rising",
@@ -96,6 +104,18 @@
                         "Downloader.Trojan"
                     ],
                     [
+                        "Tencent",
+                        "Win32.Trojan-downloader.Agent.Dyqw"
+                    ],
+                    [
+                        "TotalDefense",
+                        "Generic.Bash.MiraiA.F47C6C14"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "Suspicious_GEN.F47V1027"
+                    ],
+                    [
                         "ZoneAlarm",
                         "HEUR:Trojan-Downloader.Shell.Agent.p"
                     ]
@@ -104,11 +124,11 @@
             "type": "table"
         },
         {
-            "data": "21 out of 60 antivirus detected \u001b[1m1e1ecf7ac4bc238c77295d5853ff57d4\u001b[0m as malicious.",
+            "data": "26 out of 59 antivirus detected \u001b[1m1e1ecf7ac4bc238c77295d5853ff57d4\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/b2caee13cb71c3f3fbaa023db7ae79a2f5ced76f0735826cbb71015cee945206/analysis/1509116643/\n",
+            "data": "https://www.virustotal.com/file/b2caee13cb71c3f3fbaa023db7ae79a2f5ced76f0735826cbb71015cee945206/analysis/1509243331/\n",
             "type": "info"
         },
         {
