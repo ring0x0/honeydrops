@@ -12,9 +12,9 @@
 
 	 "type": "POSIX shell script, ASCII text executable",
 
-	 "classification": "nondeterministic",
+	 "classification": "BV:Downloader-JQ [Drp]",
 
-	 "virustotal": "" ,
+	 "virustotal": "https://www.virustotal.com/file/feb50816045cc926f47f2a7d8e52b326cb4c31f3083fa19bf39c4175cbaf6935/analysis/1509244207/" ,
 
 	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/feb50816045cc926f47f2a7d8e52b326cb4c31f3083fa19bf39c4175cbaf6935"
 
