@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "10/29/2017 23:55:01",
+
+	 "source": "deonaea 159.203.x.x",
+
+	 "name": "d8f9bc1ef5e608c6c27c98a612b7e3e6",
+
+	 "hash": "b9911157b905529a2172fff9910a8d8040298f1f420cc248bbfb57cf69c38268",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
+
+	 "classification": "Gen:Variant.Strictor.86297",
+
+	 "virustotal": "https://www.virustotal.com/file/b9911157b905529a2172fff9910a8d8040298f1f420cc248bbfb57cf69c38268/analysis/1509130200/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/d8f9bc1ef5e608c6c27c98a612b7e3e6"
+
+},
+
+{ 
+
 	 "date": "10/29/2017 20:30:01",
 
 	 "source": "cowrie 159.203.x.x",
