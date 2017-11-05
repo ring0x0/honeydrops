@@ -16,8 +16,12 @@
                 ],
                 "rows": [
                     [
+                        "ALYac",
+                        "Exploit.CVE-2015-1701.A"
+                    ],
+                    [
                         "AVG",
-                        "Exploit_c.ACMC"
+                        "Win32:Malware-gen"
                     ],
                     [
                         "AVware",
@@ -68,8 +72,16 @@
                         "UnclassifiedMalware"
                     ],
                     [
+                        "Cybereason",
+                        "malicious.1b8fb7"
+                    ],
+                    [
+                        "Cylance",
+                        "Unsafe"
+                    ],
+                    [
                         "Cyren",
-                        "W32/Trojan.NQOR-6991"
+                        "W32/Exploit.NQOR-6991"
                     ],
                     [
                         "DrWeb",
@@ -88,6 +100,10 @@
                         "malicious (moderate confidence)"
                     ],
                     [
+                        "F-Prot",
+                        "W32/Exploit"
+                    ],
+                    [
                         "F-Secure",
                         "Exploit.CVE-2015-1701.A"
                     ],
@@ -102,6 +118,10 @@
                     [
                         "Ikarus",
                         "Trojan.Win32.Exploit"
+                    ],
+                    [
+                        "Invincea",
+                        "heuristic"
                     ],
                     [
                         "Jiangmin",
@@ -120,6 +140,10 @@
                         "Exploit.Win32.CVE-2015-1701.a"
                     ],
                     [
+                        "MAX",
+                        "malware (ai score=100)"
+                    ],
+                    [
                         "Malwarebytes",
                         "Exploit.CVE"
                     ],
@@ -129,7 +153,7 @@
                     ],
                     [
                         "McAfee-GW-Edition",
-                        "RDN/Generic Exploit!1n3"
+                        "BehavesLike.Win32.Exploit.ph"
                     ],
                     [
                         "MicroWorld-eScan",
@@ -184,8 +208,8 @@
                         "Trojan.Win32.Generic!BT"
                     ],
                     [
-                        "Webroot",
-                        "W32.Malware.Gen"
+                        "ViRobot",
+                        "HackTool.Exploit.48128"
                     ],
                     [
                         "Yandex",
@@ -208,11 +232,15 @@
             "type": "table"
         },
         {
-            "data": "47 out of 61 antivirus detected \u001b[1m85956d7b3126d1793b2e40b07906ee1a\u001b[0m as malicious.",
+            "data": "53 out of 65 antivirus detected \u001b[1m85956d7b3126d1793b2e40b07906ee1a\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/5d6b44d5353d6c1d3c90cc2caaa3d3c408f30320ae75e48a845bd93efa67edca/analysis/1496637494/\n",
+            "data": "https://www.virustotal.com/file/5d6b44d5353d6c1d3c90cc2caaa3d3c408f30320ae75e48a845bd93efa67edca/analysis/1509328595/\n",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
             "type": "info"
         }
     ]

@@ -3488,3 +3488,49 @@ Contains_PE_File /tmp/testing/binary-85956d7b3126d1793b2e40b07906ee1a
 0x0:$a: MZ
 0xe70:$a: MZ
 0x47d9:$a: MZ
+
+    
+
+
+
+
+PEiD_00497_dUP_v2_x_Patcher_____www_diablo2oo2_cjb_net_ /tmp/yaracheck/85956d7b3126d1793b2e40b07906ee1a/binary-85956d7b3126d1793b2e40b07906ee1a
+0x4e:$a: 54 68 69 73 20 70 72 6F 67 72 61 6D 20 63 61 6E 6E 6F 74 20 62 65 20 72 75 6E 20 69 6E 20 44 4F ...
+PEiD_01070_Microsoft_Visual_C___6_0___8_0_ /tmp/yaracheck/85956d7b3126d1793b2e40b07906ee1a/binary-85956d7b3126d1793b2e40b07906ee1a
+0x75b0:$a: 8B 44 24 08 8B 4C 24 10 0B C8 8B 4C 24 0C 75 09 8B 44 24 04 F7 E1 C2 10 00 53 F7 E1 8B D8 8B 44 ...
+PEiD_01091_Microsoft_Visual_C___8_ /tmp/yaracheck/85956d7b3126d1793b2e40b07906ee1a/binary-85956d7b3126d1793b2e40b07906ee1a
+0xfaf:$a: E8 D2 30 00 00 E9 95 FE FF FF 
+PEiD_01686_Petite_v2_2____www_un4seen_com_petite_ /tmp/yaracheck/85956d7b3126d1793b2e40b07906ee1a/binary-85956d7b3126d1793b2e40b07906ee1a
+0x10:$a: B8 00 00 00 00 00 00 00 40 00 00 00 00 00 00 00 00 
+PEiD_01693_pex_V0_99____params_ /tmp/yaracheck/85956d7b3126d1793b2e40b07906ee1a/binary-85956d7b3126d1793b2e40b07906ee1a
+0x36e2:$a: E9 F5 00 00 00 
+PEiD_02152_StarForce_V3_X_DLL____StarForce_Copy_Protection_System_ /tmp/yaracheck/85956d7b3126d1793b2e40b07906ee1a/binary-85956d7b3126d1793b2e40b07906ee1a
+0x959c:$a: E8 B0 00 00 00 00 00 00 00 00 00 
+
+maldoc_function_prolog_signature /tmp/yaracheck/85956d7b3126d1793b2e40b07906ee1a/binary-85956d7b3126d1793b2e40b07906ee1a
+0x400:$a1: 55 8B EC 81 EC 
+0x1788:$a3: 55 8B EC E8 
+maldoc_structured_exception_handling /tmp/yaracheck/85956d7b3126d1793b2e40b07906ee1a/binary-85956d7b3126d1793b2e40b07906ee1a
+0x695b:$a1: 64 8B 0D 00 00 00 00 
+0x4871:$a2: 64 A1 00 00 00 00 
+maldoc_suspicious_strings /tmp/yaracheck/85956d7b3126d1793b2e40b07906ee1a/binary-85956d7b3126d1793b2e40b07906ee1a
+0x9cbc:$a01: CloseHandle
+0x9cca:$a02: CreateFile
+0x9800:$a03: GetProcAddr
+0x97d4:$a04: GetSystemDirectory
+0x9838:$a09: LoadLibrary
+0x9c5a:$a11: SetFilePointer
+0x9a74:$a16: WriteFile
+
+PEiD_00497_dUP_v2_x_Patcher_____www_diablo2oo2_cjb_net_ /tmp/yaracheck/85956d7b3126d1793b2e40b07906ee1a/binary-85956d7b3126d1793b2e40b07906ee1a
+0x4e:$a: 54 68 69 73 20 70 72 6F 67 72 61 6D 20 63 61 6E 6E 6F 74 20 62 65 20 72 75 6E 20 69 6E 20 44 4F ...
+PEiD_01070_Microsoft_Visual_C___6_0___8_0_ /tmp/yaracheck/85956d7b3126d1793b2e40b07906ee1a/binary-85956d7b3126d1793b2e40b07906ee1a
+0x75b0:$a: 8B 44 24 08 8B 4C 24 10 0B C8 8B 4C 24 0C 75 09 8B 44 24 04 F7 E1 C2 10 00 53 F7 E1 8B D8 8B 44 ...
+PEiD_01091_Microsoft_Visual_C___8_ /tmp/yaracheck/85956d7b3126d1793b2e40b07906ee1a/binary-85956d7b3126d1793b2e40b07906ee1a
+0xfaf:$a: E8 D2 30 00 00 E9 95 FE FF FF 
+0x2415:$a: E8 A1 2B 00 00 E9 19 FF FF FF 
+
+Contains_PE_File /tmp/yaracheck/85956d7b3126d1793b2e40b07906ee1a/binary-85956d7b3126d1793b2e40b07906ee1a
+0x0:$a: MZ
+0xe70:$a: MZ
+0x47d9:$a: MZ
