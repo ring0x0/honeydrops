@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "11/06/2017 10:55:01",
+
+	 "source": "deonaea 159.203.x.x",
+
+	 "name": "7bb8739ce6cb18eca6a4967188b718ec",
+
+	 "hash": "d516e647579966da7ab886f0f27cbaf666fc0be7e963ab0a083157d6e6b225c9",
+
+	 "type": "PE32 executable (console) Intel 80386, for MS Windows, UPX compressed",
+
+	 "classification": "Gen:Win32.Malware.ZmKfaq013NmL",
+
+	 "virustotal": "https://www.virustotal.com/file/d516e647579966da7ab886f0f27cbaf666fc0be7e963ab0a083157d6e6b225c9/analysis/1509964452/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/7bb8739ce6cb18eca6a4967188b718ec"
+
+},
+
+{ 
+
 	 "date": "11/06/2017 09:35:01",
 
 	 "source": "cowrie 159.203.x.x",
