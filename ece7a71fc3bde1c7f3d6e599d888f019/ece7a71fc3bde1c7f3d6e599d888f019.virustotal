@@ -1,0 +1,135 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1mece7a71fc3bde1c7f3d6e599d888f019\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "Gen:Variant.Symmi.67142"
+                    ],
+                    [
+                        "AVware",
+                        "Trojan.Win32.Nitol.b (v)"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Gen:Variant.Symmi.67142"
+                    ],
+                    [
+                        "Arcabit",
+                        "Trojan.Symmi.D10646"
+                    ],
+                    [
+                        "Baidu",
+                        "Win32.Trojan.WisdomEyes.16070401.9500.9998"
+                    ],
+                    [
+                        "BitDefender",
+                        "Gen:Variant.Symmi.67142"
+                    ],
+                    [
+                        "CrowdStrike",
+                        "malicious_confidence_100% (D)"
+                    ],
+                    [
+                        "Cybereason",
+                        "malicious.1b8fb7"
+                    ],
+                    [
+                        "Cylance",
+                        "Unsafe"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "a variant of Win32/GenKryptik.IDD"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Gen:Variant.Symmi.67142 (B)"
+                    ],
+                    [
+                        "Endgame",
+                        "malicious (high confidence)"
+                    ],
+                    [
+                        "F-Secure",
+                        "Gen:Variant.Symmi.67142"
+                    ],
+                    [
+                        "Fortinet",
+                        "W32/Kryptik.FPCG!tr"
+                    ],
+                    [
+                        "GData",
+                        "Gen:Variant.Symmi.67142"
+                    ],
+                    [
+                        "Ikarus",
+                        "Trojan.Win32.ServStart"
+                    ],
+                    [
+                        "Invincea",
+                        "heuristic"
+                    ],
+                    [
+                        "MAX",
+                        "malware (ai score=88)"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Gen:Variant.Symmi.67142"
+                    ],
+                    [
+                        "Microsoft",
+                        "DDoS:Win32/Nitol.A"
+                    ],
+                    [
+                        "SentinelOne",
+                        "static engine - malicious"
+                    ],
+                    [
+                        "Tencent",
+                        "Suspicious.Heuristic.Gen.b.0"
+                    ],
+                    [
+                        "VIPRE",
+                        "Trojan.Win32.Nitol.b (v)"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "HEUR:Trojan.Win32.Generic"
+                    ],
+                    [
+                        "eGambit",
+                        "Unsafe.AI_Score_88%"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "25 out of 68 antivirus detected \u001b[1mece7a71fc3bde1c7f3d6e599d888f019\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/a62c070a8f84cc3e69074b16b9e052e82e9b6467f7af9ff441b3e94bd06c550b/analysis/1509907619/\n",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
+            "type": "info"
+        }
+    ]
+}
