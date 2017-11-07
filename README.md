@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "11/07/2017 18:10:01",
+
+	 "source": "deonaea 159.203.x.x",
+
+	 "name": "373ac91d94113deec32da6cb1b669151",
+
+	 "hash": "0c6d015ce60cb0681c50afff56176029a69d3bb21f27489dd4b5adb85346927f",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
+
+	 "classification": "Win32:Malware-gen",
+
+	 "virustotal": "https://www.virustotal.com/file/0c6d015ce60cb0681c50afff56176029a69d3bb21f27489dd4b5adb85346927f/analysis/1510030352/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/373ac91d94113deec32da6cb1b669151"
+
+},
+
+{ 
+
 	 "date": "11/07/2017 15:15:01",
 
 	 "source": "deonaea 159.203.x.x",
