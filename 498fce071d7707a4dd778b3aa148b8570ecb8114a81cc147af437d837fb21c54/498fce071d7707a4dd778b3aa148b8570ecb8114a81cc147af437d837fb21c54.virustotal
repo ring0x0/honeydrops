@@ -1,7 +1,7 @@
 {
     "results": [
         {
-            "data": "VirusTotal Report for \u001b[1mf3bd2e022097ec10c7ab9d6bfedae750\u001b[0m:",
+            "data": "VirusTotal Report for \u001b[1m9297bc4e0b38af842c336b940d101b4a\u001b[0m:",
             "type": "success"
         },
         {
@@ -17,23 +17,27 @@
                 "rows": [
                     [
                         "ALYac",
-                        "Generic.Bash.MiraiA.9048383F"
+                        "Generic.Bash.MiraiA.ABD562BE"
                     ],
                     [
                         "AVG",
-                        "BV:Downloader-JS [Drp]"
+                        "BV:Downloader-IB [Drp]"
                     ],
                     [
                         "Ad-Aware",
-                        "Generic.Bash.MiraiA.9048383F"
+                        "Generic.Bash.MiraiA.ABD562BE"
+                    ],
+                    [
+                        "AegisLab",
+                        "Troj.Downloader.Shell!c"
                     ],
                     [
                         "Arcabit",
-                        "Generic.Bash.MiraiA.D8A113FF"
+                        "Generic.Bash.MiraiA.ABD562BE"
                     ],
                     [
                         "Avast",
-                        "BV:Downloader-JS [Drp]"
+                        "BV:Downloader-IB [Drp]"
                     ],
                     [
                         "Avira",
@@ -41,11 +45,11 @@
                     ],
                     [
                         "BitDefender",
-                        "Generic.Bash.MiraiA.9048383F"
+                        "Generic.Bash.MiraiA.ABD562BE"
                     ],
                     [
-                        "DrWeb",
-                        "Linux.DownLoader.275"
+                        "Cyren",
+                        "Trojan.XPOE-7"
                     ],
                     [
                         "ESET-NOD32",
@@ -53,11 +57,11 @@
                     ],
                     [
                         "Emsisoft",
-                        "Generic.Bash.MiraiA.9048383F (B)"
+                        "Generic.Bash.MiraiA.ABD562BE (B)"
                     ],
                     [
                         "F-Secure",
-                        "Generic.Bash.MiraiA.9048383F"
+                        "Generic.Bash.MiraiA.ABD562BE"
                     ],
                     [
                         "Fortinet",
@@ -65,7 +69,11 @@
                     ],
                     [
                         "GData",
-                        "Generic.Bash.MiraiA.9048383F"
+                        "Generic.Bash.MiraiA.ABD562BE"
+                    ],
+                    [
+                        "Ikarus",
+                        "Trojan.Linux.Downloader"
                     ],
                     [
                         "Kaspersky",
@@ -73,15 +81,39 @@
                     ],
                     [
                         "MAX",
-                        "malware (ai score=83)"
+                        "malware (ai score=89)"
                     ],
                     [
                         "MicroWorld-eScan",
-                        "Generic.Bash.MiraiA.9048383F"
+                        "Generic.Bash.MiraiA.ABD562BE"
+                    ],
+                    [
+                        "Qihoo-360",
+                        "Win32/Trojan.Downloader.ef5"
+                    ],
+                    [
+                        "Rising",
+                        "Downloader.Shell!1.ABC3 (CLASSIC)"
                     ],
                     [
                         "Sophos",
                         "Mal/ShellDl-A"
+                    ],
+                    [
+                        "Symantec",
+                        "Downloader.Trojan"
+                    ],
+                    [
+                        "Tencent",
+                        "Win32.Trojan-downloader.Agent.Hssd"
+                    ],
+                    [
+                        "TotalDefense",
+                        "Generic.Bash.MiraiA.ABD562BE"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "Suspicious_GEN.F47V1016"
                     ],
                     [
                         "ZoneAlarm",
@@ -92,11 +124,11 @@
             "type": "table"
         },
         {
-            "data": "18 out of 60 antivirus detected \u001b[1mf3bd2e022097ec10c7ab9d6bfedae750\u001b[0m as malicious.",
+            "data": "26 out of 58 antivirus detected \u001b[1m9297bc4e0b38af842c336b940d101b4a\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/efb74c4ae4f96b0d9bfa22a6721019f44b4dbeb1a975b2be84d55b13869947f5/analysis/1510021848/\n",
+            "data": "https://www.virustotal.com/file/498fce071d7707a4dd778b3aa148b8570ecb8114a81cc147af437d837fb21c54/analysis/1508220933/\n",
             "type": "info"
         },
         {

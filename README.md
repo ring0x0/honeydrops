@@ -2,6 +2,46 @@
 
 { 
 
+	 "date": "11/07/2017 02:50:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "5b63bc8e2d589ad593f6e3e2bb74135d84de41a4b0c980d21b0836d5a20e1873",
+
+	 "hash": "5b63bc8e2d589ad593f6e3e2bb74135d84de41a4b0c980d21b0836d5a20e1873",
+
+	 "type": "ASCII text",
+
+	 "classification": "Generic.Bash.MiraiA.AACA5C18",
+
+	 "virustotal": "https://www.virustotal.com/file/5b63bc8e2d589ad593f6e3e2bb74135d84de41a4b0c980d21b0836d5a20e1873/analysis/1508162818/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/5b63bc8e2d589ad593f6e3e2bb74135d84de41a4b0c980d21b0836d5a20e1873"
+
+},
+
+{ 
+
+	 "date": "11/07/2017 02:50:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "498fce071d7707a4dd778b3aa148b8570ecb8114a81cc147af437d837fb21c54",
+
+	 "hash": "498fce071d7707a4dd778b3aa148b8570ecb8114a81cc147af437d837fb21c54",
+
+	 "type": "Bourne-Again shell script, ASCII text executable",
+
+	 "classification": "Generic.Bash.MiraiA.ABD562BE",
+
+	 "virustotal": "https://www.virustotal.com/file/498fce071d7707a4dd778b3aa148b8570ecb8114a81cc147af437d837fb21c54/analysis/1508220933/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/498fce071d7707a4dd778b3aa148b8570ecb8114a81cc147af437d837fb21c54"
+
+},
+
+{ 
+
 	 "date": "11/07/2017 02:20:01",
 
 	 "source": "cowrie 159.203.x.x",
@@ -12,9 +52,9 @@
 
 	 "type": "Bourne-Again shell script, ASCII text executable",
 
-	 "classification": "nondeterministic",
+	 "classification": "Generic.Bash.MiraiA.9048383F",
 
-	 "virustotal": "" ,
+	 "virustotal": "https://www.virustotal.com/file/efb74c4ae4f96b0d9bfa22a6721019f44b4dbeb1a975b2be84d55b13869947f5/analysis/1510021848/" ,
 
 	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/efb74c4ae4f96b0d9bfa22a6721019f44b4dbeb1a975b2be84d55b13869947f5"
 
@@ -32,9 +72,9 @@
 
 	 "type": "ASCII text",
 
-	 "classification": "nondeterministic",
+	 "classification": "BV:Downloader-KB [Drp]",
 
-	 "virustotal": "" ,
+	 "virustotal": "https://www.virustotal.com/file/931c1b3a4f09dc8fdeeeda6681f4c1443e119bfb512dbb7925c8d820f970d6f2/analysis/1510021806/" ,
 
 	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/931c1b3a4f09dc8fdeeeda6681f4c1443e119bfb512dbb7925c8d820f970d6f2"
 
