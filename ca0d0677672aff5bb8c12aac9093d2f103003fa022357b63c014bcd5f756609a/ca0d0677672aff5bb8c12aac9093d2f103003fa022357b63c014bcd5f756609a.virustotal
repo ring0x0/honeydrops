@@ -16,31 +16,75 @@
                 ],
                 "rows": [
                     [
+                        "ALYac",
+                        "Trojan.Downloader.BashAgent.AKO"
+                    ],
+                    [
                         "AVG",
                         "BV:Downloader-II [Trj]"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Trojan.Downloader.BashAgent.AKO"
+                    ],
+                    [
+                        "Arcabit",
+                        "Trojan.Downloader.BashAgent.AKO"
                     ],
                     [
                         "Avast",
                         "BV:Downloader-II [Trj]"
                     ],
                     [
+                        "BitDefender",
+                        "Trojan.Downloader.BashAgent.AKO"
+                    ],
+                    [
                         "DrWeb",
                         "Linux.DownLoader.178"
                     ],
                     [
+                        "Emsisoft",
+                        "Trojan.Downloader.BashAgent.AKO (B)"
+                    ],
+                    [
+                        "F-Secure",
+                        "Trojan.Downloader.BashAgent.AKO"
+                    ],
+                    [
+                        "GData",
+                        "Trojan.Downloader.BashAgent.AKO"
+                    ],
+                    [
                         "Ikarus",
                         "Trojan.Linux.Downloader"
+                    ],
+                    [
+                        "MAX",
+                        "malware (ai score=89)"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Trojan.Downloader.BashAgent.AKO"
+                    ],
+                    [
+                        "Qihoo-360",
+                        "Win32/Trojan.Downloader.24d"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "Suspicious_GEN.F47V1101"
                     ]
                 ]
             },
             "type": "table"
         },
         {
-            "data": "4 out of 59 antivirus detected \u001b[1m7302016066969925c380e2f808a0fdaf\u001b[0m as malicious.",
+            "data": "15 out of 60 antivirus detected \u001b[1m7302016066969925c380e2f808a0fdaf\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/ca0d0677672aff5bb8c12aac9093d2f103003fa022357b63c014bcd5f756609a/analysis/1509540097/\n",
+            "data": "https://www.virustotal.com/file/ca0d0677672aff5bb8c12aac9093d2f103003fa022357b63c014bcd5f756609a/analysis/1510155941/\n",
             "type": "info"
         },
         {
