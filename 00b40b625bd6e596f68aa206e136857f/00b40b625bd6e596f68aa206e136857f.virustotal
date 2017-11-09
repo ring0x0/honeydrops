@@ -1,0 +1,12 @@
+{
+    "results": [
+        {
+            "data": "The file is in the queue and will be processed soon, please try again later",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Duplicate comment",
+            "type": "info"
+        }
+    ]
+}
