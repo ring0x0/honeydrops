@@ -76,12 +76,12 @@
                         "Win.Trojan.Ramnit-1847"
                     ],
                     [
-                        "Comodo",
-                        "Virus.Win32.Ramnit.A"
+                        "CrowdStrike",
+                        "malicious_confidence_100% (W)"
                     ],
                     [
-                        "CrowdStrike",
-                        "malicious_confidence_100% (D)"
+                        "Cybereason",
+                        "malicious.1b8fb7"
                     ],
                     [
                         "Cylance",
@@ -137,11 +137,11 @@
                     ],
                     [
                         "K7AntiVirus",
-                        "Virus ( 002fe95d1 )"
+                        "Trojan ( 004bcce41 )"
                     ],
                     [
                         "K7GW",
-                        "Virus ( 002fe95d1 )"
+                        "Trojan ( 004bcce41 )"
                     ],
                     [
                         "Kaspersky",
@@ -169,11 +169,15 @@
                     ],
                     [
                         "Microsoft",
-                        "Trojan:Win32/Beaugrit.AAD!bit"
+                        "TrojanSpy:MSIL/Omaneat.B"
                     ],
                     [
                         "NANO-Antivirus",
                         "Virus.Win32.Nimnul.bpchjo"
+                    ],
+                    [
+                        "Paloalto",
+                        "generic.ml"
                     ],
                     [
                         "Panda",
@@ -185,7 +189,7 @@
                     ],
                     [
                         "Rising",
-                        "Malware.Heuristic!ET#83% (RDM+:cmRtazqlvFepukhq14u16ihGNsEP)"
+                        "Virus.Ramnit!1.9AA5 (CLASSIC)"
                     ],
                     [
                         "SentinelOne",
@@ -249,7 +253,7 @@
                     ],
                     [
                         "eGambit",
-                        "malicious_confidence_99%"
+                        "Unsafe.AI_Score_99%"
                     ],
                     [
                         "nProtect",
@@ -260,11 +264,11 @@
             "type": "table"
         },
         {
-            "data": "60 out of 67 antivirus detected \u001b[1mf17139b982cae13c1533e3235750abfd\u001b[0m as malicious.",
+            "data": "61 out of 68 antivirus detected \u001b[1mf17139b982cae13c1533e3235750abfd\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/4d5bd28c221a9300fc74fad6f60c362098789555ca62a9f38c4bb161b7ec9154/analysis/1508718862/\n",
+            "data": "https://www.virustotal.com/file/4d5bd28c221a9300fc74fad6f60c362098789555ca62a9f38c4bb161b7ec9154/analysis/1510106807/\n",
             "type": "info"
         },
         {
