@@ -1,7 +1,210 @@
 {
     "results": [
         {
-            "data": "The file is in the queue and will be processed soon, please try again later",
+            "data": "VirusTotal Report for \u001b[1m00b40b625bd6e596f68aa206e136857f\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "Generic.Keylogger.2.95C8B682"
+                    ],
+                    [
+                        "AVG",
+                        "FileRepMalware"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Generic.Keylogger.2.95C8B682"
+                    ],
+                    [
+                        "AhnLab-V3",
+                        "Malware/Win32.Generic.C1997952"
+                    ],
+                    [
+                        "Antiy-AVL",
+                        "Trojan[Backdoor]/Win32.Farfli"
+                    ],
+                    [
+                        "Arcabit",
+                        "Generic.Keylogger.2.95C8B682"
+                    ],
+                    [
+                        "Avast",
+                        "FileRepMalware"
+                    ],
+                    [
+                        "Baidu",
+                        "Win32.Backdoor.Farfli.b"
+                    ],
+                    [
+                        "BitDefender",
+                        "Generic.Keylogger.2.95C8B682"
+                    ],
+                    [
+                        "CAT-QuickHeal",
+                        "Trojan.Mauvaise.SL1"
+                    ],
+                    [
+                        "ClamAV",
+                        "Win.Trojan.Generic-6305873-0"
+                    ],
+                    [
+                        "Comodo",
+                        "TrojWare.Win32.Farfli.AEV"
+                    ],
+                    [
+                        "Cybereason",
+                        "malicious.1b8fb7"
+                    ],
+                    [
+                        "Cylance",
+                        "Unsafe"
+                    ],
+                    [
+                        "Cyren",
+                        "W32/KillAV.AU.gen!Eldorado"
+                    ],
+                    [
+                        "DrWeb",
+                        "Trojan.DownLoader25.211"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "a variant of Win32/Farfli.AQL"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Generic.Keylogger.2.95C8B682 (B)"
+                    ],
+                    [
+                        "Endgame",
+                        "malicious (moderate confidence)"
+                    ],
+                    [
+                        "F-Prot",
+                        "W32/KillAV.AU.gen!Eldorado"
+                    ],
+                    [
+                        "F-Secure",
+                        "Generic.Keylogger.2.95C8B682"
+                    ],
+                    [
+                        "Fortinet",
+                        "W32/Farfli.AIL!tr"
+                    ],
+                    [
+                        "GData",
+                        "Generic.Keylogger.2.95C8B682"
+                    ],
+                    [
+                        "Ikarus",
+                        "Trojan.Win32.Veslorn"
+                    ],
+                    [
+                        "Jiangmin",
+                        "Backdoor.Farfli.bkp"
+                    ],
+                    [
+                        "K7AntiVirus",
+                        "Trojan ( 004dbda61 )"
+                    ],
+                    [
+                        "K7GW",
+                        "Hacktool ( 655367771 )"
+                    ],
+                    [
+                        "Kaspersky",
+                        "Backdoor.Win32.Farfli.auga"
+                    ],
+                    [
+                        "MAX",
+                        "malware (ai score=86)"
+                    ],
+                    [
+                        "McAfee",
+                        "Trojan-FJYJ!5A0A544D47E3"
+                    ],
+                    [
+                        "McAfee-GW-Edition",
+                        "BehavesLike.Win32.Dropper.dc"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Generic.Keylogger.2.95C8B682"
+                    ],
+                    [
+                        "Microsoft",
+                        "Trojan:Win32/Beaugrit.AAD!bit"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Trojan.Win32.Farfli.epvsay"
+                    ],
+                    [
+                        "Qihoo-360",
+                        "HEUR/QVM11.1.0087.Malware.Gen"
+                    ],
+                    [
+                        "Rising",
+                        "Backdoor.Farfli!1.64D7 (CLASSIC)"
+                    ],
+                    [
+                        "SentinelOne",
+                        "static engine - malicious"
+                    ],
+                    [
+                        "TrendMicro",
+                        "BKDR_ZEGOST.SM40"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "BKDR_ZEGOST.SM40"
+                    ],
+                    [
+                        "VBA32",
+                        "Backdoor.Farfli"
+                    ],
+                    [
+                        "Webroot",
+                        "W32.Malware.gen"
+                    ],
+                    [
+                        "Yandex",
+                        "Trojan.Farfli!Zortr7lMTAM"
+                    ],
+                    [
+                        "Zillya",
+                        "Backdoor.Farfli.Win32.6540"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "Backdoor.Win32.Farfli.auga"
+                    ],
+                    [
+                        "eGambit",
+                        "Unsafe.AI_Score_99%"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "45 out of 67 antivirus detected \u001b[1m00b40b625bd6e596f68aa206e136857f\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/d6fa5014360bbb36a96a81b2b52e857c5f56e9c972f9f4bbaac263c44deb6405/analysis/1510242876/\n",
             "type": "info"
         },
         {
