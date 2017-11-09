@@ -1,0 +1,143 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m0f2bbe182beefecd6d7c102132ef5f3c\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "AVG",
+                        "Win32:Evo-gen [Susp]"
+                    ],
+                    [
+                        "AVware",
+                        "Trojan.Win32.Generic!BT"
+                    ],
+                    [
+                        "AegisLab",
+                        "DangerousObject.Multi.Gen.lQvU"
+                    ],
+                    [
+                        "AhnLab-V3",
+                        "Malware/Win32.Generic.C2227161"
+                    ],
+                    [
+                        "Avast",
+                        "Win32:Evo-gen [Susp]"
+                    ],
+                    [
+                        "ClamAV",
+                        "Win.Trojan.Generic-6260335-1"
+                    ],
+                    [
+                        "Comodo",
+                        "Worm.Win32.Dropper.RA"
+                    ],
+                    [
+                        "CrowdStrike",
+                        "malicious_confidence_100% (D)"
+                    ],
+                    [
+                        "Cybereason",
+                        "malicious.ef68cb"
+                    ],
+                    [
+                        "Cylance",
+                        "Unsafe"
+                    ],
+                    [
+                        "Cyren",
+                        "W32/Agent.EW.gen!Eldorado"
+                    ],
+                    [
+                        "DrWeb",
+                        "Tool.BtcMine.1036"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "a variant of Win32/Packed.FlyStudio.AA potentially unwanted"
+                    ],
+                    [
+                        "Endgame",
+                        "malicious (high confidence)"
+                    ],
+                    [
+                        "F-Prot",
+                        "W32/Agent.EW.gen!Eldorado"
+                    ],
+                    [
+                        "GData",
+                        "Win32.Application.PUPStudio.B"
+                    ],
+                    [
+                        "Invincea",
+                        "heuristic"
+                    ],
+                    [
+                        "Kaspersky",
+                        "not-a-virus:HEUR:RiskTool.Win32.BitMiner.gen"
+                    ],
+                    [
+                        "Malwarebytes",
+                        "RiskWare.GameHack"
+                    ],
+                    [
+                        "McAfee",
+                        "GenericRXAL-AO!0F2BBE182BEE"
+                    ],
+                    [
+                        "McAfee-GW-Edition",
+                        "BehavesLike.Win32.Generic.vh"
+                    ],
+                    [
+                        "Qihoo-360",
+                        "Win32/Virus.RiskTool.435"
+                    ],
+                    [
+                        "SentinelOne",
+                        "static engine - malicious"
+                    ],
+                    [
+                        "VBA32",
+                        "Trojan.CoinMiner"
+                    ],
+                    [
+                        "VIPRE",
+                        "Trojan.Win32.Generic!BT"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "not-a-virus:HEUR:RiskTool.Win32.BitMiner.gen"
+                    ],
+                    [
+                        "eGambit",
+                        "Trojan.Generic"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "27 out of 68 antivirus detected \u001b[1m0f2bbe182beefecd6d7c102132ef5f3c\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/2f3798d80b2a5748919fa3b6a9d3b07649d1a88da05e0a4bbb19d024d2fb7fef/analysis/1510172513/\n",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
+            "type": "info"
+        }
+    ]
+}
