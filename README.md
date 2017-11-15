@@ -2,6 +2,46 @@
 
 { 
 
+	 "date": "11/15/2017 10:30:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "ddc23e2b923aa260ee05b42144aead65bdcec17e444235334203489a7a42f884",
+
+	 "hash": "ddc23e2b923aa260ee05b42144aead65bdcec17e444235334203489a7a42f884",
+
+	 "type": "ASCII text",
+
+	 "classification": "Generic.Bash.MiraiA.AFB0FCC9",
+
+	 "virustotal": "https://www.virustotal.com/file/ddc23e2b923aa260ee05b42144aead65bdcec17e444235334203489a7a42f884/analysis/1510164052/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/ddc23e2b923aa260ee05b42144aead65bdcec17e444235334203489a7a42f884"
+
+},
+
+{ 
+
+	 "date": "11/15/2017 10:20:01",
+
+	 "source": "deonaea 159.203.x.x",
+
+	 "name": "5197c05c5c2ebc0eaec2a210b7cf20d4",
+
+	 "hash": "81ab9fe427de57ebd268acad878a0cd620edcc4dc70a12699668c5903765f5c6",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows, UPX compressed",
+
+	 "classification": "Gen:Variant.Zusy.262101",
+
+	 "virustotal": "https://www.virustotal.com/file/81ab9fe427de57ebd268acad878a0cd620edcc4dc70a12699668c5903765f5c6/analysis/1510449333/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/5197c05c5c2ebc0eaec2a210b7cf20d4"
+
+},
+
+{ 
+
 	 "date": "11/15/2017 10:00:01",
 
 	 "source": "cowrie 159.203.x.x",
@@ -57,26 +97,6 @@
 	 "virustotal": "https://www.virustotal.com/file/3ea6e859871b70efd91fd0ce761090043aafb5fbc0e18382f1031fa0a4ba0996/analysis/1510564530/" ,
 
 	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/3ea6e859871b70efd91fd0ce761090043aafb5fbc0e18382f1031fa0a4ba0996"
-
-},
-
-{ 
-
-	 "date": "11/09/2017 21:30:01",
-
-	 "source": "cowrie 159.203.x.x",
-
-	 "name": "ddc23e2b923aa260ee05b42144aead65bdcec17e444235334203489a7a42f884",
-
-	 "hash": "ddc23e2b923aa260ee05b42144aead65bdcec17e444235334203489a7a42f884",
-
-	 "type": "ASCII text",
-
-	 "classification": "Generic.Bash.MiraiA.AFB0FCC9",
-
-	 "virustotal": "https://www.virustotal.com/file/ddc23e2b923aa260ee05b42144aead65bdcec17e444235334203489a7a42f884/analysis/1510164052/" ,
-
-	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/ddc23e2b923aa260ee05b42144aead65bdcec17e444235334203489a7a42f884"
 
 },
 
