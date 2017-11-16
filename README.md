@@ -2,7 +2,7 @@
 
 { 
 
-	 "date": "11/16/2017 00:30:02",
+	 "date": "11/16/2017 03:30:01",
 
 	 "source": "cowrie 159.203.x.x",
 
@@ -17,6 +17,26 @@
 	 "virustotal": "https://www.virustotal.com/file/3ea6e859871b70efd91fd0ce761090043aafb5fbc0e18382f1031fa0a4ba0996/analysis/1510564530/" ,
 
 	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/3ea6e859871b70efd91fd0ce761090043aafb5fbc0e18382f1031fa0a4ba0996"
+
+},
+
+{ 
+
+	 "date": "11/16/2017 03:05:01",
+
+	 "source": "deonaea 159.203.x.x",
+
+	 "name": "smb-atttpb16.tmp",
+
+	 "hash": "2dc4d045b8a0c66dc003a0c92c8305c53b7fc8f7b7347befdf59d4b16e26135a",
+
+	 "type": "data",
+
+	 "classification": "Worm.Generic.230976",
+
+	 "virustotal": "https://www.virustotal.com/file/2dc4d045b8a0c66dc003a0c92c8305c53b7fc8f7b7347befdf59d4b16e26135a/analysis/1510722860/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/smb-atttpb16.tmp"
 
 },
 
