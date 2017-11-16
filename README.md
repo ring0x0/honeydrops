@@ -12,9 +12,9 @@
 
 	 "type": "POSIX shell script, ASCII text executable",
 
-	 "classification": "nondeterministic",
+	 "classification": "HEUR:Trojan-Downloader.Shell.Mirai.a",
 
-	 "virustotal": "" ,
+	 "virustotal": "https://www.virustotal.com/file/83a10363a822b4860096409fea811b37e8fa19ce77188abf36cec5b2ff960afd/analysis/1510813808/" ,
 
 	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/83a10363a822b4860096409fea811b37e8fa19ce77188abf36cec5b2ff960afd"
 

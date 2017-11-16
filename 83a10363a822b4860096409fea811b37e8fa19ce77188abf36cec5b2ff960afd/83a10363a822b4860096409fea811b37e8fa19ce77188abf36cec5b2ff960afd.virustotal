@@ -1,7 +1,70 @@
 {
     "results": [
         {
-            "data": "The file is in the queue and will be processed soon, please try again later",
+            "data": "VirusTotal Report for \u001b[1m775b03bedf64c7ade09bdc48af21ad3e\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "AVG",
+                        "BV:Downloader-JQ [Drp]"
+                    ],
+                    [
+                        "Avast",
+                        "BV:Downloader-JQ [Drp]"
+                    ],
+                    [
+                        "CMC",
+                        "Generic.Win32.775b03bedf!CMCRadar"
+                    ],
+                    [
+                        "DrWeb",
+                        "Linux.DownLoader.318"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "Linux/Mirai.J"
+                    ],
+                    [
+                        "Fortinet",
+                        "BASH/Mirai.J!tr.dldr"
+                    ],
+                    [
+                        "Ikarus",
+                        "Trojan.Linux.Mirai"
+                    ],
+                    [
+                        "Kaspersky",
+                        "HEUR:Trojan-Downloader.Shell.Mirai.a"
+                    ],
+                    [
+                        "Sophos",
+                        "Mal/ShellDl-A"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "HEUR:Trojan-Downloader.Shell.Mirai.a"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "10 out of 60 antivirus detected \u001b[1m775b03bedf64c7ade09bdc48af21ad3e\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/83a10363a822b4860096409fea811b37e8fa19ce77188abf36cec5b2ff960afd/analysis/1510813808/\n",
             "type": "info"
         },
         {
