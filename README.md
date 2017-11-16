@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "11/16/2017 22:05:01",
+
+	 "source": "deonaea 159.203.x.x",
+
+	 "name": "smb-tyo129qu.tmp",
+
+	 "hash": "2dc4d045b8a0c66dc003a0c92c8305c53b7fc8f7b7347befdf59d4b16e26135a",
+
+	 "type": "data",
+
+	 "classification": "Worm.Generic.230976",
+
+	 "virustotal": "https://www.virustotal.com/file/2dc4d045b8a0c66dc003a0c92c8305c53b7fc8f7b7347befdf59d4b16e26135a/analysis/1510809310/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/smb-tyo129qu.tmp"
+
+},
+
+{ 
+
 	 "date": "11/16/2017 19:00:01",
 
 	 "source": "cowrie 159.203.x.x",
