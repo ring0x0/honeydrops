@@ -12,9 +12,9 @@
 
 	 "type": "POSIX shell script, ASCII text executable",
 
-	 "classification": "nondeterministic",
+	 "classification": "BV:Downloader-PC [Drp]",
 
-	 "virustotal": "" ,
+	 "virustotal": "https://www.virustotal.com/file/37341bcccd83a04eaf4c275009d1c1484b8878bd23ff4a46f120931bee40072d/analysis/1510882206/" ,
 
 	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/37341bcccd83a04eaf4c275009d1c1484b8878bd23ff4a46f120931bee40072d"
 
