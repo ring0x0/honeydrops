@@ -1,0 +1,143 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m82e9e43776ab59230d7d745a4d794b6a\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "Gen:Variant.Ursu.5998"
+                    ],
+                    [
+                        "AVG",
+                        "Win32:Malware-gen"
+                    ],
+                    [
+                        "AVware",
+                        "Trojan.Win32.Nitol.b (v)"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Gen:Variant.Ursu.5998"
+                    ],
+                    [
+                        "Arcabit",
+                        "Trojan.Ursu.D176E"
+                    ],
+                    [
+                        "Avast",
+                        "Win32:Malware-gen"
+                    ],
+                    [
+                        "BitDefender",
+                        "Gen:Variant.Ursu.5998"
+                    ],
+                    [
+                        "CAT-QuickHeal",
+                        "Ddos.Nitol.16457"
+                    ],
+                    [
+                        "CrowdStrike",
+                        "malicious_confidence_100% (D)"
+                    ],
+                    [
+                        "Cybereason",
+                        "malicious.1b8fb7"
+                    ],
+                    [
+                        "Cylance",
+                        "Unsafe"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "a variant of Win32/ServStart.D"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Gen:Variant.Ursu.5998 (B)"
+                    ],
+                    [
+                        "Endgame",
+                        "malicious (high confidence)"
+                    ],
+                    [
+                        "F-Secure",
+                        "Gen:Variant.Ursu.5998"
+                    ],
+                    [
+                        "Fortinet",
+                        "W32/Kryptik.FPCG!tr"
+                    ],
+                    [
+                        "GData",
+                        "Gen:Variant.Ursu.5998"
+                    ],
+                    [
+                        "Ikarus",
+                        "Trojan-Proxy.ABWJ"
+                    ],
+                    [
+                        "Invincea",
+                        "heuristic"
+                    ],
+                    [
+                        "MAX",
+                        "malware (ai score=89)"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Gen:Variant.Ursu.5998"
+                    ],
+                    [
+                        "Microsoft",
+                        "DDoS:Win32/Nitol.A"
+                    ],
+                    [
+                        "SentinelOne",
+                        "static engine - malicious"
+                    ],
+                    [
+                        "TrendMicro",
+                        "DDOS_NITOL.SMVJ10"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "DDOS_NITOL.SMVJ10"
+                    ],
+                    [
+                        "VIPRE",
+                        "Trojan.Win32.Nitol.b (v)"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "HEUR:Trojan.Win32.Generic"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "27 out of 68 antivirus detected \u001b[1m82e9e43776ab59230d7d745a4d794b6a\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/ca59c1b31be26d894a7412986deb8f240bdd199ddeb3a5daecd651603cec3085/analysis/1510591150/\n",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
+            "type": "info"
+        }
+    ]
+}

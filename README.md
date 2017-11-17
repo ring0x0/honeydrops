@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "11/17/2017 11:35:01",
+
+	 "source": "deonaea 159.203.x.x",
+
+	 "name": "82e9e43776ab59230d7d745a4d794b6a",
+
+	 "hash": "ca59c1b31be26d894a7412986deb8f240bdd199ddeb3a5daecd651603cec3085",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
+
+	 "classification": "Gen:Variant.Ursu.5998",
+
+	 "virustotal": "https://www.virustotal.com/file/ca59c1b31be26d894a7412986deb8f240bdd199ddeb3a5daecd651603cec3085/analysis/1510591150/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/82e9e43776ab59230d7d745a4d794b6a"
+
+},
+
+{ 
+
 	 "date": "11/17/2017 06:30:01",
 
 	 "source": "deonaea 159.203.x.x",
