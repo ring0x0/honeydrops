@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "11/17/2017 06:30:01",
+
+	 "source": "deonaea 159.203.x.x",
+
+	 "name": "smb-mvqinylf.tmp",
+
+	 "hash": "2dc4d045b8a0c66dc003a0c92c8305c53b7fc8f7b7347befdf59d4b16e26135a",
+
+	 "type": "data",
+
+	 "classification": "Worm.Generic.230976",
+
+	 "virustotal": "https://www.virustotal.com/file/2dc4d045b8a0c66dc003a0c92c8305c53b7fc8f7b7347befdf59d4b16e26135a/analysis/1510895686/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/smb-mvqinylf.tmp"
+
+},
+
+{ 
+
 	 "date": "11/17/2017 06:00:01",
 
 	 "source": "cowrie 159.203.x.x",
@@ -32,9 +52,9 @@
 
 	 "type": "Bourne-Again shell script, ASCII text executable",
 
-	 "classification": "nondeterministic",
+	 "classification": "Generic.Bash.MiraiA.97FF298B",
 
-	 "virustotal": "" ,
+	 "virustotal": "https://www.virustotal.com/file/42922d3f06b483a5cdb75150ccb907a4dd2845e6982a4c2034f33345ea1a26d4/analysis/1510898406/" ,
 
 	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/42922d3f06b483a5cdb75150ccb907a4dd2845e6982a4c2034f33345ea1a26d4"
 
