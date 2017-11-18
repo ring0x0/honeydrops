@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "11/18/2017 09:35:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "004fb5922003a3acedfc42fe6c5cac3908716d0f96a19be0b39c2bdfee1fe698",
+
+	 "hash": "004fb5922003a3acedfc42fe6c5cac3908716d0f96a19be0b39c2bdfee1fe698",
+
+	 "type": "ASCII text",
+
+	 "classification": "nondeterministic",
+
+	 "virustotal": "" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/004fb5922003a3acedfc42fe6c5cac3908716d0f96a19be0b39c2bdfee1fe698"
+
+},
+
+{ 
+
 	 "date": "11/18/2017 07:45:01",
 
 	 "source": "cowrie 159.203.x.x",
