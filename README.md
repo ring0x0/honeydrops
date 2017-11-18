@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "11/18/2017 07:45:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "f917a6026f709333b8297cf8e156c46f5e814fd8193de79abbdcaf3eb570a5ae",
+
+	 "hash": "f917a6026f709333b8297cf8e156c46f5e814fd8193de79abbdcaf3eb570a5ae",
+
+	 "type": "ASCII text, with very long lines",
+
+	 "classification": "BV:Agent-AZK [Drp]",
+
+	 "virustotal": "https://www.virustotal.com/file/f917a6026f709333b8297cf8e156c46f5e814fd8193de79abbdcaf3eb570a5ae/analysis/1510992007/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/f917a6026f709333b8297cf8e156c46f5e814fd8193de79abbdcaf3eb570a5ae"
+
+},
+
+{ 
+
 	 "date": "11/18/2017 03:45:01",
 
 	 "source": "cowrie 159.203.x.x",
