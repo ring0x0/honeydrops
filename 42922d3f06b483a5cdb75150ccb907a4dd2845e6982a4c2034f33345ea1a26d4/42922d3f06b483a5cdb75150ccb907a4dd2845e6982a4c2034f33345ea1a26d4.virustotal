@@ -28,6 +28,10 @@
                         "Generic.Bash.MiraiA.97FF298B"
                     ],
                     [
+                        "AegisLab",
+                        "Troj.Downloader.Shell!c"
+                    ],
+                    [
                         "Arcabit",
                         "Generic.Bash.MiraiA.97FF298B"
                     ],
@@ -104,15 +108,11 @@
             "type": "table"
         },
         {
-            "data": "21 out of 60 antivirus detected \u001b[1m0a10c81fe0805949ab30670a62852f76\u001b[0m as malicious.",
+            "data": "22 out of 60 antivirus detected \u001b[1m0a10c81fe0805949ab30670a62852f76\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/42922d3f06b483a5cdb75150ccb907a4dd2845e6982a4c2034f33345ea1a26d4/analysis/1510898406/\n",
-            "type": "info"
-        },
-        {
-            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
+            "data": "https://www.virustotal.com/file/42922d3f06b483a5cdb75150ccb907a4dd2845e6982a4c2034f33345ea1a26d4/analysis/1510909682/\n",
             "type": "info"
         }
     ]

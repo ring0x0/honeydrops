@@ -2,6 +2,86 @@
 
 { 
 
+	 "date": "11/18/2017 00:00:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "42922d3f06b483a5cdb75150ccb907a4dd2845e6982a4c2034f33345ea1a26d4",
+
+	 "hash": "42922d3f06b483a5cdb75150ccb907a4dd2845e6982a4c2034f33345ea1a26d4",
+
+	 "type": "Bourne-Again shell script, ASCII text executable",
+
+	 "classification": "Generic.Bash.MiraiA.97FF298B",
+
+	 "virustotal": "https://www.virustotal.com/file/42922d3f06b483a5cdb75150ccb907a4dd2845e6982a4c2034f33345ea1a26d4/analysis/1510909682/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/42922d3f06b483a5cdb75150ccb907a4dd2845e6982a4c2034f33345ea1a26d4"
+
+},
+
+{ 
+
+	 "date": "11/17/2017 23:45:01",
+
+	 "source": "deonaea 159.203.x.x",
+
+	 "name": "9d3631bc39167a9d7bbdaf28f79cc8dc",
+
+	 "hash": "2a06e45af215fb2b298bf8713b4c931db0a698c4f74eca820c1c3bf3de3216f9",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
+
+	 "classification": "Gen:Variant.Zegost.12",
+
+	 "virustotal": "https://www.virustotal.com/file/2a06e45af215fb2b298bf8713b4c931db0a698c4f74eca820c1c3bf3de3216f9/analysis/1510944576/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/9d3631bc39167a9d7bbdaf28f79cc8dc"
+
+},
+
+{ 
+
+	 "date": "11/17/2017 23:45:01",
+
+	 "source": "deonaea 159.203.x.x",
+
+	 "name": "894abda557a531248daddf2c100718e2",
+
+	 "hash": "134eef67ff7493fb576be949167af6b2584a7149b3e2941aabcb9646410f24f3",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
+
+	 "classification": "Win32.Parite.C",
+
+	 "virustotal": "https://www.virustotal.com/file/134eef67ff7493fb576be949167af6b2584a7149b3e2941aabcb9646410f24f3/analysis/1510944642/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/894abda557a531248daddf2c100718e2"
+
+},
+
+{ 
+
+	 "date": "11/17/2017 23:40:01",
+
+	 "source": "deonaea 159.203.x.x",
+
+	 "name": "d68f7d214143b6be2a0f9d74a33fc6e7",
+
+	 "hash": "bbe2b9cbbf3d725f302f68588999962c48170493386a36af10c15c85381fbdb0",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
+
+	 "classification": "Win32.Parite.C",
+
+	 "virustotal": "https://www.virustotal.com/file/bbe2b9cbbf3d725f302f68588999962c48170493386a36af10c15c85381fbdb0/analysis/1510944536/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/d68f7d214143b6be2a0f9d74a33fc6e7"
+
+},
+
+{ 
+
 	 "date": "11/17/2017 11:35:01",
 
 	 "source": "deonaea 159.203.x.x",
@@ -57,26 +137,6 @@
 	 "virustotal": "https://www.virustotal.com/file/37341bcccd83a04eaf4c275009d1c1484b8878bd23ff4a46f120931bee40072d/analysis/1510882206/" ,
 
 	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/37341bcccd83a04eaf4c275009d1c1484b8878bd23ff4a46f120931bee40072d"
-
-},
-
-{ 
-
-	 "date": "11/17/2017 05:35:01",
-
-	 "source": "cowrie 159.203.x.x",
-
-	 "name": "42922d3f06b483a5cdb75150ccb907a4dd2845e6982a4c2034f33345ea1a26d4",
-
-	 "hash": "42922d3f06b483a5cdb75150ccb907a4dd2845e6982a4c2034f33345ea1a26d4",
-
-	 "type": "Bourne-Again shell script, ASCII text executable",
-
-	 "classification": "Generic.Bash.MiraiA.97FF298B",
-
-	 "virustotal": "https://www.virustotal.com/file/42922d3f06b483a5cdb75150ccb907a4dd2845e6982a4c2034f33345ea1a26d4/analysis/1510898406/" ,
-
-	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/42922d3f06b483a5cdb75150ccb907a4dd2845e6982a4c2034f33345ea1a26d4"
 
 },
 
