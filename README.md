@@ -2,6 +2,46 @@
 
 { 
 
+	 "date": "11/21/2017 20:00:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "ddc33fc5d67ed5e4628c2fcfbc84d6113e4a4d0f6de5dde26302e6489929ec60",
+
+	 "hash": "ddc33fc5d67ed5e4628c2fcfbc84d6113e4a4d0f6de5dde26302e6489929ec60",
+
+	 "type": "Bourne-Again shell script, ASCII text executable",
+
+	 "classification": "nondeterministic",
+
+	 "virustotal": "" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/ddc33fc5d67ed5e4628c2fcfbc84d6113e4a4d0f6de5dde26302e6489929ec60"
+
+},
+
+{ 
+
+	 "date": "11/21/2017 19:40:01",
+
+	 "source": "deonaea 159.203.x.x",
+
+	 "name": "a4620959bea775d84abdb25c3e198b2e",
+
+	 "hash": "09a6cab02add7d45e29f21a44e7811f55209ad946e3e7f157da0693d1bf5bd80",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
+
+	 "classification": "Trojan.Rasftuby.Gen.14",
+
+	 "virustotal": "https://www.virustotal.com/file/09a6cab02add7d45e29f21a44e7811f55209ad946e3e7f157da0693d1bf5bd80/analysis/1510538777/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/a4620959bea775d84abdb25c3e198b2e"
+
+},
+
+{ 
+
 	 "date": "11/21/2017 08:25:01",
 
 	 "source": "deonaea 159.203.x.x",
