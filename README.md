@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "11/21/2017 08:25:01",
+
+	 "source": "deonaea 159.203.x.x",
+
+	 "name": "smb-ttv_82c0.tmp",
+
+	 "hash": "db5ce44e4c4ce6271d2e0a056e5abafdd7045f00d55c78450e64a87c2ed86efb",
+
+	 "type": "data",
+
+	 "classification": "Trojan.GenericKD.4484531",
+
+	 "virustotal": "https://www.virustotal.com/file/db5ce44e4c4ce6271d2e0a056e5abafdd7045f00d55c78450e64a87c2ed86efb/analysis/1511240518/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/smb-ttv_82c0.tmp"
+
+},
+
+{ 
+
 	 "date": "11/20/2017 23:40:01",
 
 	 "source": "cowrie 159.203.x.x",
