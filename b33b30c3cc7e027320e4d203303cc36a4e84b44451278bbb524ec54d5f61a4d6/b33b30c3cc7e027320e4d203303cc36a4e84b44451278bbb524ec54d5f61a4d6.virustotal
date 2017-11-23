@@ -16,12 +16,20 @@
                 ],
                 "rows": [
                     [
+                        "AegisLab",
+                        "Backdoor.Linux.Agent!c"
+                    ],
+                    [
                         "DrWeb",
                         "Linux.MulDrop.16"
                     ],
                     [
+                        "Kaspersky",
+                        "HEUR:Backdoor.Linux.Agent.bc"
+                    ],
+                    [
                         "Rising",
-                        "Malware.Undefined!8.C (cloud:nDQ29GXKwlU)"
+                        "Backdoor.Agent!8.C5D (TOPIS:lXVWhYcEmLB)"
                     ],
                     [
                         "TrendMicro",
@@ -30,21 +38,21 @@
                     [
                         "TrendMicro-HouseCall",
                         "UNIX_PIMINE.A"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "HEUR:Backdoor.Linux.Agent.bc"
                     ]
                 ]
             },
             "type": "table"
         },
         {
-            "data": "4 out of 57 antivirus detected \u001b[1m742f247c9ff393f8daf2e1609f0d9506\u001b[0m as malicious.",
+            "data": "7 out of 60 antivirus detected \u001b[1m742f247c9ff393f8daf2e1609f0d9506\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/b33b30c3cc7e027320e4d203303cc36a4e84b44451278bbb524ec54d5f61a4d6/analysis/1503933575/\n",
-            "type": "info"
-        },
-        {
-            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
+            "data": "https://www.virustotal.com/file/b33b30c3cc7e027320e4d203303cc36a4e84b44451278bbb524ec54d5f61a4d6/analysis/1511375262/\n",
             "type": "info"
         }
     ]
