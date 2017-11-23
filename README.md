@@ -12,9 +12,9 @@
 
 	 "type": "Bourne-Again shell script, ASCII text executable",
 
-	 "classification": "nondeterministic",
+	 "classification": "Generic.Bash.MiraiA.003A2A3C",
 
-	 "virustotal": "" ,
+	 "virustotal": "https://www.virustotal.com/file/9ddd22336136802d353f1aa379c6b618cfc2994d55468650f009f889927ac083/analysis/1511434806/" ,
 
 	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/9ddd22336136802d353f1aa379c6b618cfc2994d55468650f009f889927ac083"
 
