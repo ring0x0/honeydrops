@@ -1,0 +1,26 @@
+{
+    "results": {
+        "default": [
+            {
+                "crc32": "D75AD2F4",
+                "created_at": "2017-11-20 20:48:31.413511",
+                "id": 168,
+                "md5": "c8950f22ee5a229ffeca90c5a02222e1",
+                "name": "ace2672843c075c2b2ba637e1711e8f5538e3e642581891bca07dddd24ec0e18",
+                "sha1": "f08eadcb7dbd388759e50e4d7078f48587493eb0",
+                "sha256": "ace2672843c075c2b2ba637e1711e8f5538e3e642581891bca07dddd24ec0e18",
+                "sha512": "bd985b09ca656bfe02bbe991aa9c1ca5d1e66731f667c0dc47fafb2af21452e8c6f63ae314122d99ff2a7ec1b0656a5f990fada8e086e8ff5c9ff1294aeaf29f",
+                "size": 2066,
+                "ssdeep": "24:c4Dx8X9jRgraWH01xPxcXACQzEDxHvm6yU+Rm:t92APOrJsh",
+                "tags": [
+                    "new",
+                    "159.203.x.x",
+                    "cowrie",
+                    "11/24/2017",
+                    "10:40:01"
+                ],
+                "type": "ASCII text"
+            }
+        ]
+    }
+}
