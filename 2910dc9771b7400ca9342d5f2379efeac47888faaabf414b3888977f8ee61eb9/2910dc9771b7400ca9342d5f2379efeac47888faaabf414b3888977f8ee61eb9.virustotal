@@ -1,0 +1,7 @@
+{
+    "results": [
+        {
+            "message": "Unable to complete the command: virustotal -s -v"
+        }
+    ]
+}
