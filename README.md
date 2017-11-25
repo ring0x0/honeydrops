@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "11/25/2017 18:20:02",
+
+	 "source": "deonaea 159.203.x.x",
+
+	 "name": "72b3e67bed39ac3ed7bbc370a6740e7b",
+
+	 "hash": "c39bdfb95f93ca6e54f2e62b53d2c1249fb19b614fbad0c06eed9a60374dd689",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows, UPX compressed",
+
+	 "classification": "Win32.Ramnit",
+
+	 "virustotal": "https://www.virustotal.com/file/c39bdfb95f93ca6e54f2e62b53d2c1249fb19b614fbad0c06eed9a60374dd689/analysis/1511450553/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/72b3e67bed39ac3ed7bbc370a6740e7b"
+
+},
+
+{ 
+
 	 "date": "11/25/2017 15:00:01",
 
 	 "source": "cowrie 159.203.x.x",
