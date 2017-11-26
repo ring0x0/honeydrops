@@ -24,15 +24,11 @@
             "type": "table"
         },
         {
-            "data": "1 out of 57 antivirus detected \u001b[1mab27f6c7634e9efc13fb2db29216a0a8\u001b[0m as malicious.",
+            "data": "1 out of 60 antivirus detected \u001b[1mab27f6c7634e9efc13fb2db29216a0a8\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/c071278f921475bc6f252b10b771dda4948596ef6d81b689bd936a2a9058b5cc/analysis/1506474365/\n",
-            "type": "info"
-        },
-        {
-            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
+            "data": "https://www.virustotal.com/file/c071278f921475bc6f252b10b771dda4948596ef6d81b689bd936a2a9058b5cc/analysis/1511674701/\n",
             "type": "info"
         }
     ]

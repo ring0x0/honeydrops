@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "11/26/2017 12:30:01",
+
+	 "source": "deonaea 159.203.x.x",
+
+	 "name": "ab27f6c7634e9efc13fb2db29216a0a8",
+
+	 "hash": "c071278f921475bc6f252b10b771dda4948596ef6d81b689bd936a2a9058b5cc",
+
+	 "type": "ELF 64-bit LSB shared object, x86-64, version 1 (SYSV), dynamically linked, stripped",
+
+	 "classification": "nondeterministic",
+
+	 "virustotal": "https://www.virustotal.com/file/c071278f921475bc6f252b10b771dda4948596ef6d81b689bd936a2a9058b5cc/analysis/1511674701/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/ab27f6c7634e9efc13fb2db29216a0a8"
+
+},
+
+{ 
+
 	 "date": "11/25/2017 18:20:02",
 
 	 "source": "deonaea 159.203.x.x",
@@ -2157,26 +2177,6 @@
 	 "virustotal": "https://www.virustotal.com/file/f1d8ec0e14ed17c863880fd75ca8286217d2a16415899e93532e4caa1b03efa1/analysis/1509217109/" ,
 
 	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/f1d8ec0e14ed17c863880fd75ca8286217d2a16415899e93532e4caa1b03efa1"
-
-},
-
-{ 
-
-	 "date": "11/04/2017 11:30:01",
-
-	 "source": "deonaea 159.203.x.x",
-
-	 "name": "ab27f6c7634e9efc13fb2db29216a0a8",
-
-	 "hash": "c071278f921475bc6f252b10b771dda4948596ef6d81b689bd936a2a9058b5cc",
-
-	 "type": "ELF 64-bit LSB shared object, x86-64, version 1 (SYSV), dynamically linked, stripped",
-
-	 "classification": "nondeterministic",
-
-	 "virustotal": "https://www.virustotal.com/file/c071278f921475bc6f252b10b771dda4948596ef6d81b689bd936a2a9058b5cc/analysis/1506474365/" ,
-
-	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/ab27f6c7634e9efc13fb2db29216a0a8"
 
 },
 
