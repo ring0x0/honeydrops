@@ -2,6 +2,46 @@
 
 { 
 
+	 "date": "11/27/2017 21:25:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "408fe7701fcd5e37c8cc5976c1ad421248a946de673ca0f5edf4e559fd863222",
+
+	 "hash": "408fe7701fcd5e37c8cc5976c1ad421248a946de673ca0f5edf4e559fd863222",
+
+	 "type": "Bourne-Again shell script, ASCII text executable",
+
+	 "classification": "HEUR:Trojan-Downloader.Shell.Agent.p",
+
+	 "virustotal": "https://www.virustotal.com/file/408fe7701fcd5e37c8cc5976c1ad421248a946de673ca0f5edf4e559fd863222/analysis/1511741044/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/408fe7701fcd5e37c8cc5976c1ad421248a946de673ca0f5edf4e559fd863222"
+
+},
+
+{ 
+
+	 "date": "11/27/2017 21:25:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "2437a2194aaea82f6fef710ec5979778c68f44a9e1411e2936dfc24987f32c29",
+
+	 "hash": "2437a2194aaea82f6fef710ec5979778c68f44a9e1411e2936dfc24987f32c29",
+
+	 "type": "ASCII text",
+
+	 "classification": "BV:Downloader-KB [Drp]",
+
+	 "virustotal": "https://www.virustotal.com/file/2437a2194aaea82f6fef710ec5979778c68f44a9e1411e2936dfc24987f32c29/analysis/1511818247/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/2437a2194aaea82f6fef710ec5979778c68f44a9e1411e2936dfc24987f32c29"
+
+},
+
+{ 
+
 	 "date": "11/27/2017 19:40:01",
 
 	 "source": "cowrie 159.203.x.x",
