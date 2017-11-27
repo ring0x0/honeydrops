@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "11/27/2017 19:40:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "130871485d159abaa12c5e448e388485cb7aec4e3c965119e9eba77adc04f62e",
+
+	 "hash": "130871485d159abaa12c5e448e388485cb7aec4e3c965119e9eba77adc04f62e",
+
+	 "type": "ELF 32-bit LSB executable, Intel 80386, version 1 (GNU/Linux), statically linked, stripped",
+
+	 "classification": "TROJ_GEN.F04JC00I617",
+
+	 "virustotal": "https://www.virustotal.com/file/130871485d159abaa12c5e448e388485cb7aec4e3c965119e9eba77adc04f62e/analysis/1509940457/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/130871485d159abaa12c5e448e388485cb7aec4e3c965119e9eba77adc04f62e"
+
+},
+
+{ 
+
 	 "date": "11/27/2017 00:25:01",
 
 	 "source": "cowrie 159.203.x.x",

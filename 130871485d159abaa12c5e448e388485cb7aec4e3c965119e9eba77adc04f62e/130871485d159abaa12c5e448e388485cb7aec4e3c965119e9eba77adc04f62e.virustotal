@@ -1,0 +1,79 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1mf4c34a7f78da4ac8d6329746012a9748\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "AVG",
+                        "ELF:PNScan-AA [Trj]"
+                    ],
+                    [
+                        "AegisLab",
+                        "Elf.Pnscan.Aa!c"
+                    ],
+                    [
+                        "AhnLab-V3",
+                        "Linux/Pnscan.1013700"
+                    ],
+                    [
+                        "Avast",
+                        "ELF:PNScan-AA [Trj]"
+                    ],
+                    [
+                        "DrWeb",
+                        "Linux.PNScan.2"
+                    ],
+                    [
+                        "Fortinet",
+                        "PossibleThreat"
+                    ],
+                    [
+                        "Ikarus",
+                        "LINUX.PNScan"
+                    ],
+                    [
+                        "Jiangmin",
+                        "Trojan.Linux.ch"
+                    ],
+                    [
+                        "Qihoo-360",
+                        "Win32/Trojan.d5b"
+                    ],
+                    [
+                        "TrendMicro",
+                        "TROJ_GEN.F04JC00I617"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "TROJ_GEN.F04JC00I617"
+                    ],
+                    [
+                        "Zillya",
+                        "Downloader.OpenConnection.JS.135744"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "12 out of 60 antivirus detected \u001b[1mf4c34a7f78da4ac8d6329746012a9748\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/130871485d159abaa12c5e448e388485cb7aec4e3c965119e9eba77adc04f62e/analysis/1509940457/\n",
+            "type": "info"
+        }
+    ]
+}
