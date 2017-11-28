@@ -80,12 +80,12 @@
                         "Win.Spyware.80656-1"
                     ],
                     [
-                        "Comodo",
-                        "TrojWare.Win32.Kryptik.KAZ"
-                    ],
-                    [
                         "CrowdStrike",
                         "malicious_confidence_100% (W)"
+                    ],
+                    [
+                        "Cybereason",
+                        "malicious.1b8fb7"
                     ],
                     [
                         "Cylance",
@@ -152,10 +152,6 @@
                         "Trojan-PSW.Win32.Bjlog.nqi"
                     ],
                     [
-                        "Kingsoft",
-                        "Win32.Malware.Heur_Generic.B.(kcloud)"
-                    ],
-                    [
                         "Malwarebytes",
                         "Backdoor.Zegost"
                     ],
@@ -192,6 +188,10 @@
                         "Backdoor.Win32.Gh0st.BM"
                     ],
                     [
+                        "Rising",
+                        "Backdoor.Win32.GenFxj.d (CLASSIC)"
+                    ],
+                    [
                         "SUPERAntiSpyware",
                         "Trojan.Agent/Gen-Frauder"
                     ],
@@ -214,6 +214,10 @@
                     [
                         "TheHacker",
                         "Trojan/PSW.Bjlog.nqi"
+                    ],
+                    [
+                        "TotalDefense",
+                        "Win32/Zegost.WH"
                     ],
                     [
                         "TrendMicro",
@@ -256,6 +260,10 @@
                         "Trojan-PSW.Win32.Bjlog.nqi"
                     ],
                     [
+                        "eGambit",
+                        "Unsafe.AI_Score_99%"
+                    ],
+                    [
                         "nProtect",
                         "Trojan/W32.Agent.Zen.E"
                     ]
@@ -264,15 +272,11 @@
             "type": "table"
         },
         {
-            "data": "61 out of 64 antivirus detected \u001b[1m1a89371ea1bfae68ce3242ce40d80bd3\u001b[0m as malicious.",
+            "data": "63 out of 68 antivirus detected \u001b[1m1a89371ea1bfae68ce3242ce40d80bd3\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/63aa88704c956057cc93188a7d167951604934217332bed7a6902dc5201996a9/analysis/1507059228/\n",
-            "type": "info"
-        },
-        {
-            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
+            "data": "https://www.virustotal.com/file/63aa88704c956057cc93188a7d167951604934217332bed7a6902dc5201996a9/analysis/1511747647/\n",
             "type": "info"
         }
     ]
