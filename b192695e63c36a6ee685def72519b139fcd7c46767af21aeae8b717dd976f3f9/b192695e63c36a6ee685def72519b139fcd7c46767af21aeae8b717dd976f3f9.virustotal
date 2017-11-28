@@ -1,7 +1,78 @@
 {
     "results": [
         {
-            "data": "The file is in the queue and will be processed soon, please try again later",
+            "data": "VirusTotal Report for \u001b[1m4aeeb7b5abe7a1c9baacdd02c87e58d3\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "Generic.Bash.MiraiA.DC4F4A77"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Generic.Bash.MiraiA.DC4F4A77"
+                    ],
+                    [
+                        "Arcabit",
+                        "Generic.Bash.MiraiA.DC4F4A77"
+                    ],
+                    [
+                        "BitDefender",
+                        "Generic.Bash.MiraiA.DC4F4A77"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Generic.Bash.MiraiA.DC4F4A77 (B)"
+                    ],
+                    [
+                        "F-Secure",
+                        "Generic.Bash.MiraiA.DC4F4A77"
+                    ],
+                    [
+                        "GData",
+                        "Generic.Bash.MiraiA.DC4F4A77"
+                    ],
+                    [
+                        "Kaspersky",
+                        "HEUR:Trojan-Downloader.Shell.Agent.as"
+                    ],
+                    [
+                        "MAX",
+                        "malware (ai score=82)"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Generic.Bash.MiraiA.DC4F4A77"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Trojan.Script.Agent.ekbkzw"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "HEUR:Trojan-Downloader.Shell.Agent.as"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "12 out of 60 antivirus detected \u001b[1m4aeeb7b5abe7a1c9baacdd02c87e58d3\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/b192695e63c36a6ee685def72519b139fcd7c46767af21aeae8b717dd976f3f9/analysis/1511868647/\n",
             "type": "info"
         },
         {
