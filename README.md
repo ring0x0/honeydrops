@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "11/29/2017 00:10:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "b9f521eb82c36a665a76c64d9afa4cb062dbc873b3b9de58053052fd5bccb260",
+
+	 "hash": "b9f521eb82c36a665a76c64d9afa4cb062dbc873b3b9de58053052fd5bccb260",
+
+	 "type": "a /usr/bin/perl script executable (binary data)",
+
+	 "classification": "Backdoor.Perl.Shellbot.F",
+
+	 "virustotal": "https://www.virustotal.com/file/b9f521eb82c36a665a76c64d9afa4cb062dbc873b3b9de58053052fd5bccb260/analysis/1511907170/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/b9f521eb82c36a665a76c64d9afa4cb062dbc873b3b9de58053052fd5bccb260"
+
+},
+
+{ 
+
 	 "date": "11/28/2017 23:20:01",
 
 	 "source": "cowrie 159.203.x.x",
