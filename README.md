@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "12/06/2017 17:10:01",
+
+	 "source": "deonaea 159.203.x.x",
+
+	 "name": "5aad60ff16a3ac916213627fd9bde1a1",
+
+	 "hash": "466ed32dfbdeb4967f695349d386ed06c57c06f15809db3d74a897bca91507fd",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
+
+	 "classification": "Trojan.Agent.CGMR",
+
+	 "virustotal": "https://www.virustotal.com/file/466ed32dfbdeb4967f695349d386ed06c57c06f15809db3d74a897bca91507fd/analysis/1510418543/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/5aad60ff16a3ac916213627fd9bde1a1"
+
+},
+
+{ 
+
 	 "date": "12/06/2017 14:20:01",
 
 	 "source": "cowrie 159.203.x.x",
