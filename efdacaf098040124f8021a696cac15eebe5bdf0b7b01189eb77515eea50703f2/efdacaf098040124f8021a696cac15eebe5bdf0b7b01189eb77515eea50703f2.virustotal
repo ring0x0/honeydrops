@@ -1,0 +1,99 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m8e98720c72ba5bd26c0bbaafc91195d5\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "Generic.Bash.MiraiA.F84DC913"
+                    ],
+                    [
+                        "AVG",
+                        "BV:Downloader-KB [Drp]"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Generic.Bash.MiraiA.F84DC913"
+                    ],
+                    [
+                        "Arcabit",
+                        "Generic.Bash.MiraiA.F84DC913"
+                    ],
+                    [
+                        "Avast",
+                        "BV:Downloader-KB [Drp]"
+                    ],
+                    [
+                        "Avira",
+                        "HTML/ExpKit.Gen2"
+                    ],
+                    [
+                        "BitDefender",
+                        "Generic.Bash.MiraiA.F84DC913"
+                    ],
+                    [
+                        "DrWeb",
+                        "Linux.DownLoader.320"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Generic.Bash.MiraiA.F84DC913 (B)"
+                    ],
+                    [
+                        "F-Secure",
+                        "Generic.Bash.MiraiA.F84DC913"
+                    ],
+                    [
+                        "GData",
+                        "Generic.Bash.MiraiA.F84DC913"
+                    ],
+                    [
+                        "Ikarus",
+                        "Trojan.Linux.Downloader"
+                    ],
+                    [
+                        "MAX",
+                        "malware (ai score=88)"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Generic.Bash.MiraiA.F84DC913"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Trojan.Script.Agent.ekbkzw"
+                    ],
+                    [
+                        "Rising",
+                        "Trojan.Mirai!1.AD2B (CLASSIC)"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "16 out of 60 antivirus detected \u001b[1m8e98720c72ba5bd26c0bbaafc91195d5\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/efdacaf098040124f8021a696cac15eebe5bdf0b7b01189eb77515eea50703f2/analysis/1512570607/\n",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
+            "type": "info"
+        }
+    ]
+}
