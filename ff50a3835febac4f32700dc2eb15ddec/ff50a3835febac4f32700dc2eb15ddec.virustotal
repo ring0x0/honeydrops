@@ -1,0 +1,255 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1mff50a3835febac4f32700dc2eb15ddec\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "Gen:Variant.Zusy.255952"
+                    ],
+                    [
+                        "AVG",
+                        "Win32:Malware-gen"
+                    ],
+                    [
+                        "AVware",
+                        "Trojan.Win32.Generic!BT"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Gen:Variant.Zusy.255952"
+                    ],
+                    [
+                        "AegisLab",
+                        "Troj.W32.Generic!c"
+                    ],
+                    [
+                        "AhnLab-V3",
+                        "Trojan/Win32.Reconyc.C2046262"
+                    ],
+                    [
+                        "Antiy-AVL",
+                        "RiskWare[RiskTool]/Win32.BitCoinMiner"
+                    ],
+                    [
+                        "Arcabit",
+                        "Trojan.Zusy.D3E7D0"
+                    ],
+                    [
+                        "Avast",
+                        "Win32:Malware-gen"
+                    ],
+                    [
+                        "Avira",
+                        "TR/CoinMiner.udgxr"
+                    ],
+                    [
+                        "BitDefender",
+                        "Gen:Variant.Zusy.255952"
+                    ],
+                    [
+                        "CAT-QuickHeal",
+                        "Trojan.Generic"
+                    ],
+                    [
+                        "Comodo",
+                        "UnclassifiedMalware"
+                    ],
+                    [
+                        "CrowdStrike",
+                        "malicious_confidence_90% (W)"
+                    ],
+                    [
+                        "Cybereason",
+                        "malicious.1b8fb7"
+                    ],
+                    [
+                        "Cylance",
+                        "Unsafe"
+                    ],
+                    [
+                        "Cyren",
+                        "W32/S-2ba69a0b!Eldorado"
+                    ],
+                    [
+                        "DrWeb",
+                        "Trojan.KillProc.53965"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "a variant of Win32/CoinMiner.AOW"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Gen:Variant.Zusy.255952 (B)"
+                    ],
+                    [
+                        "Endgame",
+                        "malicious (high confidence)"
+                    ],
+                    [
+                        "F-Prot",
+                        "W32/S-2ba69a0b!Eldorado"
+                    ],
+                    [
+                        "F-Secure",
+                        "Gen:Variant.Zusy.255952"
+                    ],
+                    [
+                        "Fortinet",
+                        "W32/Generic.AC.3F76AE!tr"
+                    ],
+                    [
+                        "GData",
+                        "Gen:Variant.Zusy.255952"
+                    ],
+                    [
+                        "Ikarus",
+                        "Trojan.Win32.CoinMiner"
+                    ],
+                    [
+                        "Invincea",
+                        "heuristic"
+                    ],
+                    [
+                        "Jiangmin",
+                        "Trojan.Generic.bkwmt"
+                    ],
+                    [
+                        "K7AntiVirus",
+                        "Trojan ( 0051693d1 )"
+                    ],
+                    [
+                        "K7GW",
+                        "Trojan ( 0051693d1 )"
+                    ],
+                    [
+                        "Kaspersky",
+                        "HEUR:Trojan.Win32.Generic"
+                    ],
+                    [
+                        "MAX",
+                        "malware (ai score=100)"
+                    ],
+                    [
+                        "Malwarebytes",
+                        "Trojan.BitCoinMiner"
+                    ],
+                    [
+                        "McAfee",
+                        "Artemis!FF50A3835FEB"
+                    ],
+                    [
+                        "McAfee-GW-Edition",
+                        "BehavesLike.Win32.BadFile.dh"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Gen:Variant.Zusy.255952"
+                    ],
+                    [
+                        "Microsoft",
+                        "Trojan:Win32/CoinMiner.AC!bit"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Trojan.Win32.KillProc.evnwed"
+                    ],
+                    [
+                        "Paloalto",
+                        "generic.ml"
+                    ],
+                    [
+                        "Panda",
+                        "Trj/GdSda.A"
+                    ],
+                    [
+                        "Qihoo-360",
+                        "Win32/Trojan.b77"
+                    ],
+                    [
+                        "Rising",
+                        "Trojan.Win32/64.XMR-Miner!1.ADCC (CLASSIC)"
+                    ],
+                    [
+                        "SUPERAntiSpyware",
+                        "PUP.CoinMiner/Variant"
+                    ],
+                    [
+                        "SentinelOne",
+                        "static engine - malicious"
+                    ],
+                    [
+                        "Sophos",
+                        "Mal/Generic-S"
+                    ],
+                    [
+                        "Symantec",
+                        "Trojan.Gen"
+                    ],
+                    [
+                        "Tencent",
+                        "Win32.Trojan.Generic.Efue"
+                    ],
+                    [
+                        "TrendMicro",
+                        "TROJ_COINMINER.SMB"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "TROJ_COINMINER.SMB"
+                    ],
+                    [
+                        "VIPRE",
+                        "Trojan.Win32.Generic!BT"
+                    ],
+                    [
+                        "Webroot",
+                        "Trojan.Reconyc.Gen"
+                    ],
+                    [
+                        "Yandex",
+                        "Trojan.Agent!jV9hsvJf2qs"
+                    ],
+                    [
+                        "Zillya",
+                        "Trojan.CoinMiner.Win32.6174"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "HEUR:Trojan.Win32.Generic"
+                    ],
+                    [
+                        "eGambit",
+                        "Trojan.Generic"
+                    ],
+                    [
+                        "nProtect",
+                        "Trojan/W32.Reconyc.1009664.C"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "56 out of 68 antivirus detected \u001b[1mff50a3835febac4f32700dc2eb15ddec\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/da533b5ef421c692b1852d272208bae7c69b72290a080abcffe88b4af55d7303/analysis/1512411347/\n",
+            "type": "info"
+        }
+    ]
+}
