@@ -1,0 +1,67 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m4d305f25647bb81654bfdbc8bfa4b52e\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "Generic.Bash.MiraiA.9402480C"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Generic.Bash.MiraiA.9402480C"
+                    ],
+                    [
+                        "Arcabit",
+                        "Generic.Bash.MiraiA.D8F7870C"
+                    ],
+                    [
+                        "BitDefender",
+                        "Generic.Bash.MiraiA.9402480C"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Generic.Bash.MiraiA.9402480C (B)"
+                    ],
+                    [
+                        "F-Secure",
+                        "Generic.Bash.MiraiA.9402480C"
+                    ],
+                    [
+                        "GData",
+                        "Generic.Bash.MiraiA.9402480C"
+                    ],
+                    [
+                        "MAX",
+                        "malware (ai score=87)"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Generic.Bash.MiraiA.9402480C"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "9 out of 60 antivirus detected \u001b[1m4d305f25647bb81654bfdbc8bfa4b52e\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/503187511e3ed0ef15dcffa32d9d492b31aa444ea55b87c58cbdd6f403c0d6da/analysis/1512013199/\n",
+            "type": "info"
+        }
+    ]
+}
