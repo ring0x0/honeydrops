@@ -36,3 +36,32 @@ suspicious_packer_section /tmp/yaracheck/86fbdd7df9486a17e9c408c7e50635e26402fdf
 
 
 
+
+    CRC32_poly_Constant /tmp/yaracheck/86fbdd7df9486a17e9c408c7e50635e26402fdf297c9e97f1a5256100401dcc5/binary-86fbdd7df9486a17e9c408c7e50635e26402fdf297c9e97f1a5256100401dcc5
+0xf1648:$c0: 20 83 B8 ED 
+BLOWFISH_Constants /tmp/yaracheck/86fbdd7df9486a17e9c408c7e50635e26402fdf297c9e97f1a5256100401dcc5/binary-86fbdd7df9486a17e9c408c7e50635e26402fdf297c9e97f1a5256100401dcc5
+0x104e85:$c0: D1 31 0B A6 
+0x104e89:$c2: 98 DF B5 AC 
+0x104e8d:$c4: 2F FD 72 DB 
+0x104e91:$c6: D0 1A DF B7 
+0x1052fd:$c8: 4B 7A 70 E9 
+0x10577d:$c10: F6 4C 26 1C 
+SHA512_Constants /tmp/yaracheck/86fbdd7df9486a17e9c408c7e50635e26402fdf297c9e97f1a5256100401dcc5/binary-86fbdd7df9486a17e9c408c7e50635e26402fdf297c9e97f1a5256100401dcc5
+0xfc0dc:$c0: 42 8A 2F 98 
+0xfc0e0:$c2: 71 37 44 91 
+0xfc0e4:$c4: B5 C0 FB CF 
+0xfc0e8:$c6: E9 B5 DB A5 
+0xfc207:$c8: D7 28 AE 22 
+WHIRLPOOL_Constants /tmp/yaracheck/86fbdd7df9486a17e9c408c7e50635e26402fdf297c9e97f1a5256100401dcc5/binary-86fbdd7df9486a17e9c408c7e50635e26402fdf297c9e97f1a5256100401dcc5
+0x10c9c3:$c0: 18 18 60 18 C0 78 30 D8 
+0x10c9db:$c2: 23 23 8C 23 05 AF 46 26 
+suspicious_packer_section /tmp/yaracheck/86fbdd7df9486a17e9c408c7e50635e26402fdf297c9e97f1a5256100401dcc5/binary-86fbdd7df9486a17e9c408c7e50635e26402fdf297c9e97f1a5256100401dcc5
+0x78:$s63: UPX!
+
+
+
+
+
+
+
+
