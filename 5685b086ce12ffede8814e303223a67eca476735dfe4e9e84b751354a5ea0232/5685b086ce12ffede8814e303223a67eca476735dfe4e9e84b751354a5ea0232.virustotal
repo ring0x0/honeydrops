@@ -16,10 +16,6 @@
                 ],
                 "rows": [
                     [
-                        "ALYac",
-                        "Trojan.Linux.PNScan.A"
-                    ],
-                    [
                         "AVG",
                         "ELF:PNScan-Q [Cryp]"
                     ],
@@ -89,7 +85,7 @@
                     ],
                     [
                         "Ikarus",
-                        "Trojan.Linux.Agent"
+                        "Trojan.Linux.BackDoor"
                     ],
                     [
                         "Kaspersky",
@@ -97,7 +93,7 @@
                     ],
                     [
                         "MAX",
-                        "malware (ai score=89)"
+                        "malware (ai score=100)"
                     ],
                     [
                         "McAfee",
@@ -152,15 +148,11 @@
             "type": "table"
         },
         {
-            "data": "33 out of 58 antivirus detected \u001b[1m6fb6f95546d5bdf4db11655249ee5288\u001b[0m as malicious.",
+            "data": "32 out of 57 antivirus detected \u001b[1m6fb6f95546d5bdf4db11655249ee5288\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/5685b086ce12ffede8814e303223a67eca476735dfe4e9e84b751354a5ea0232/analysis/1505008421/\n",
-            "type": "info"
-        },
-        {
-            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
+            "data": "https://www.virustotal.com/file/5685b086ce12ffede8814e303223a67eca476735dfe4e9e84b751354a5ea0232/analysis/1511748743/\n",
             "type": "info"
         }
     ]
