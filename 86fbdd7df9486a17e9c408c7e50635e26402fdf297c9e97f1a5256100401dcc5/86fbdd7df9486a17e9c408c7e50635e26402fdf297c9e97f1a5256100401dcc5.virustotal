@@ -21,7 +21,7 @@
                     ],
                     [
                         "AVG",
-                        "Linux/Generic_c.ZB"
+                        "ELF:Tsunami-AQ [Cryp]"
                     ],
                     [
                         "Ad-Aware",
@@ -41,7 +41,11 @@
                     ],
                     [
                         "Avast",
-                        "ELF:PNScan-F [Cryp]"
+                        "ELF:Tsunami-AQ [Cryp]"
+                    ],
+                    [
+                        "Avast-Mobile",
+                        "ELF:PNScan-AD [Trj]"
                     ],
                     [
                         "Avira",
@@ -62,6 +66,10 @@
                     [
                         "Comodo",
                         "UnclassifiedMalware"
+                    ],
+                    [
+                        "Cyren",
+                        "ELF/Trojan.MRAG-3"
                     ],
                     [
                         "DrWeb",
@@ -96,6 +104,10 @@
                         "Backdoor.Linux.Agent.ac"
                     ],
                     [
+                        "MAX",
+                        "malware (ai score=100)"
+                    ],
+                    [
                         "MicroWorld-eScan",
                         "Linux.Trojan.Agent.A"
                     ],
@@ -116,16 +128,16 @@
                         "Linux.Backdoor.Agent.Taft"
                     ],
                     [
+                        "TrendMicro",
+                        "ELF_RAUBIDO.A"
+                    ],
+                    [
                         "TrendMicro-HouseCall",
-                        "TROJ_GEN.F04JH00D717"
+                        "ELF_RAUBIDO.A"
                     ],
                     [
                         "VBA32",
                         "Linux.PNScan.2"
-                    ],
-                    [
-                        "Zillya",
-                        "Downloader.OpenConnection.JS.135745"
                     ],
                     [
                         "ZoneAlarm",
@@ -136,15 +148,11 @@
             "type": "table"
         },
         {
-            "data": "29 out of 57 antivirus detected \u001b[1m5afdcceb2fc5fc1c15d7fdbef674c6a5\u001b[0m as malicious.",
+            "data": "32 out of 58 antivirus detected \u001b[1m5afdcceb2fc5fc1c15d7fdbef674c6a5\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/86fbdd7df9486a17e9c408c7e50635e26402fdf297c9e97f1a5256100401dcc5/analysis/1495023524/\n",
-            "type": "info"
-        },
-        {
-            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
+            "data": "https://www.virustotal.com/file/86fbdd7df9486a17e9c408c7e50635e26402fdf297c9e97f1a5256100401dcc5/analysis/1510624880/\n",
             "type": "info"
         }
     ]
