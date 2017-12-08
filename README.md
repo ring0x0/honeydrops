@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "12/08/2017 04:50:01",
+
+	 "source": "deonaea 159.203.x.x",
+
+	 "name": "64b4345a946bc9388412fedd53fb21cf",
+
+	 "hash": "93079c69a79d0d66c50b5750cacbb3a13f0883488235bd3f6b8ca0292da0ed86",
+
+	 "type": "MS-DOS executable, MZ for MS-DOS",
+
+	 "classification": "GenPack:Generic.Malware.MW.3A8930F6",
+
+	 "virustotal": "https://www.virustotal.com/file/93079c69a79d0d66c50b5750cacbb3a13f0883488235bd3f6b8ca0292da0ed86/analysis/1512623597/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/64b4345a946bc9388412fedd53fb21cf"
+
+},
+
+{ 
+
 	 "date": "12/08/2017 04:10:01",
 
 	 "source": "deonaea 159.203.x.x",
