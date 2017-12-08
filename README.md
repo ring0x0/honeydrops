@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "12/08/2017 04:10:01",
+
+	 "source": "deonaea 159.203.x.x",
+
+	 "name": "174b531141176e0ff7b95e4e6d692496",
+
+	 "hash": "719e37af6d272026757bdf9bbafdbeb96bc1401ce8ed5e77650430ef8ac10886",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
+
+	 "classification": "Trojan.Dropper.YRL",
+
+	 "virustotal": "https://www.virustotal.com/file/719e37af6d272026757bdf9bbafdbeb96bc1401ce8ed5e77650430ef8ac10886/analysis/1512686479/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/174b531141176e0ff7b95e4e6d692496"
+
+},
+
+{ 
+
 	 "date": "12/07/2017 22:30:01",
 
 	 "source": "cowrie 159.203.x.x",

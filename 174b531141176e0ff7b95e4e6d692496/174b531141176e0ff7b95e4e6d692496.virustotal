@@ -1,0 +1,267 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m174b531141176e0ff7b95e4e6d692496\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "Trojan.Dropper.YRL"
+                    ],
+                    [
+                        "AVG",
+                        "Win32:Parite"
+                    ],
+                    [
+                        "AVware",
+                        "Virus.Win32.Ramnit.a (v)"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Trojan.Dropper.YRL"
+                    ],
+                    [
+                        "AegisLab",
+                        "W32.Nimnul.tn4U"
+                    ],
+                    [
+                        "AhnLab-V3",
+                        "Win32/Parite"
+                    ],
+                    [
+                        "Antiy-AVL",
+                        "Virus/Win32.Parite.c"
+                    ],
+                    [
+                        "Arcabit",
+                        "Trojan.Dropper.YRL"
+                    ],
+                    [
+                        "Avast",
+                        "Win32:Parite"
+                    ],
+                    [
+                        "Baidu",
+                        "Win32.Virus.Parite.d"
+                    ],
+                    [
+                        "BitDefender",
+                        "Trojan.Dropper.YRL"
+                    ],
+                    [
+                        "Bkav",
+                        "W32.PariteB.PE"
+                    ],
+                    [
+                        "CAT-QuickHeal",
+                        "W32.Perite.A"
+                    ],
+                    [
+                        "CMC",
+                        "Virus.Win32.Parite.b!O"
+                    ],
+                    [
+                        "ClamAV",
+                        "Heuristics.W32.Parite.B"
+                    ],
+                    [
+                        "CrowdStrike",
+                        "malicious_confidence_100% (D)"
+                    ],
+                    [
+                        "Cybereason",
+                        "malicious.1b8fb7"
+                    ],
+                    [
+                        "Cylance",
+                        "Unsafe"
+                    ],
+                    [
+                        "Cyren",
+                        "W32/Parite.C"
+                    ],
+                    [
+                        "DrWeb",
+                        "BackDoor.Spy.2437"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "Win32/Parite.C"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Trojan.Dropper.YRL (B)"
+                    ],
+                    [
+                        "Endgame",
+                        "malicious (high confidence)"
+                    ],
+                    [
+                        "F-Prot",
+                        "W32/Parite.C"
+                    ],
+                    [
+                        "F-Secure",
+                        "Trojan.Dropper.YRL"
+                    ],
+                    [
+                        "Fortinet",
+                        "W32/Parite.C"
+                    ],
+                    [
+                        "GData",
+                        "Trojan.Dropper.YRL"
+                    ],
+                    [
+                        "Ikarus",
+                        "Backdoor.Win32.Farfli"
+                    ],
+                    [
+                        "Invincea",
+                        "heuristic"
+                    ],
+                    [
+                        "Jiangmin",
+                        "Win32/Parite.c"
+                    ],
+                    [
+                        "K7AntiVirus",
+                        "Virus ( 00001b711 )"
+                    ],
+                    [
+                        "K7GW",
+                        "Virus ( 00001b711 )"
+                    ],
+                    [
+                        "Kaspersky",
+                        "Virus.Win32.Parite.c"
+                    ],
+                    [
+                        "MAX",
+                        "malware (ai score=88)"
+                    ],
+                    [
+                        "McAfee",
+                        "W32/Pate.c"
+                    ],
+                    [
+                        "McAfee-GW-Edition",
+                        "BehavesLike.Win32.Pate.fc"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Trojan.Dropper.YRL"
+                    ],
+                    [
+                        "Microsoft",
+                        "Virus:Win32/Parite.C"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Virus.Win32.Parite.bysj"
+                    ],
+                    [
+                        "Panda",
+                        "W32/Parite.A"
+                    ],
+                    [
+                        "Qihoo-360",
+                        "Virus.Win32.Parite.I"
+                    ],
+                    [
+                        "Rising",
+                        "Virus.Parite!1.9B80 (CLASSIC)"
+                    ],
+                    [
+                        "SentinelOne",
+                        "static engine - malicious"
+                    ],
+                    [
+                        "Sophos",
+                        "W32/Parite-C"
+                    ],
+                    [
+                        "Symantec",
+                        "W32.Pinfi.B"
+                    ],
+                    [
+                        "Tencent",
+                        "Backdoor.Win32.Farfli.hob"
+                    ],
+                    [
+                        "TheHacker",
+                        "W32/Pate.C"
+                    ],
+                    [
+                        "TotalDefense",
+                        "Win32/Pinfi.A"
+                    ],
+                    [
+                        "TrendMicro",
+                        "PE_PARITE.A"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "PE_PARITE.A"
+                    ],
+                    [
+                        "VBA32",
+                        "Virus.Parite.C"
+                    ],
+                    [
+                        "VIPRE",
+                        "Virus.Win32.Ramnit.a (v)"
+                    ],
+                    [
+                        "ViRobot",
+                        "Win32.Parite.C"
+                    ],
+                    [
+                        "Yandex",
+                        "Win32.Parite.C"
+                    ],
+                    [
+                        "Zillya",
+                        "Virus.Parite.Win32.2"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "Virus.Win32.Parite.c"
+                    ],
+                    [
+                        "Zoner",
+                        "Trojan.Agent.QKW"
+                    ],
+                    [
+                        "eGambit",
+                        "Unsafe.AI_Score_99%"
+                    ],
+                    [
+                        "nProtect",
+                        "Virus/W32.Parite.C"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "59 out of 67 antivirus detected \u001b[1m174b531141176e0ff7b95e4e6d692496\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/719e37af6d272026757bdf9bbafdbeb96bc1401ce8ed5e77650430ef8ac10886/analysis/1512686479/\n",
+            "type": "info"
+        }
+    ]
+}
