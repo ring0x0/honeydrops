@@ -48,6 +48,10 @@
                         "ELF:Xorddos-E [Trj]"
                     ],
                     [
+                        "Avast-Mobile",
+                        "ELF:Xorddos-I [Trj]"
+                    ],
+                    [
                         "Avira",
                         "LINUX/Xorddos.cvxmi"
                     ],
@@ -82,10 +86,6 @@
                     [
                         "Emsisoft",
                         "Gen:Variant.Trojan.Linux.XorDDoS.2 (B)"
-                    ],
-                    [
-                        "F-Secure",
-                        "Gen:Variant.Trojan.Linux.XorDDoS.2"
                     ],
                     [
                         "Fortinet",
@@ -141,7 +141,7 @@
                     ],
                     [
                         "Rising",
-                        "Trojan.DDoS-Xor/Linux!1.A3E4 (classic)"
+                        "Trojan.DDoS-Xor/Linux!1.A3E4 (CLASSIC)"
                     ],
                     [
                         "Sophos",
@@ -154,10 +154,6 @@
                     [
                         "Tencent",
                         "Trojan.Linux.XorDdos.a"
-                    ],
-                    [
-                        "TrendMicro",
-                        "ELF_XORDDOS.SM"
                     ],
                     [
                         "TrendMicro-HouseCall",
@@ -176,15 +172,11 @@
             "type": "table"
         },
         {
-            "data": "39 out of 58 antivirus detected \u001b[1m50b176dd2a0888bd18ff13bf7484077c\u001b[0m as malicious.",
+            "data": "38 out of 58 antivirus detected \u001b[1m50b176dd2a0888bd18ff13bf7484077c\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/2815c35a00c6abadc22aa61b888cb144bc51458d08196794f15d06851d185b1d/analysis/1505367065/\n",
-            "type": "info"
-        },
-        {
-            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
+            "data": "https://www.virustotal.com/file/2815c35a00c6abadc22aa61b888cb144bc51458d08196794f15d06851d185b1d/analysis/1512773936/\n",
             "type": "info"
         }
     ]
