@@ -1,0 +1,123 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m605a78ac6fc99a37c90470a67e6ef333\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "Generic.Bash.MiraiA.B4D620FC"
+                    ],
+                    [
+                        "AVG",
+                        "BV:Downloader-IB [Drp]"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Generic.Bash.MiraiA.B4D620FC"
+                    ],
+                    [
+                        "Arcabit",
+                        "Generic.Bash.MiraiA.B4D620FC"
+                    ],
+                    [
+                        "Avast",
+                        "BV:Downloader-IB [Drp]"
+                    ],
+                    [
+                        "Avira",
+                        "HTML/ExpKit.Gen2"
+                    ],
+                    [
+                        "BitDefender",
+                        "Generic.Bash.MiraiA.B4D620FC"
+                    ],
+                    [
+                        "DrWeb",
+                        "Linux.DownLoader.275"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "Linux/TrojanDownloader.SH.S"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Generic.Bash.MiraiA.B4D620FC (B)"
+                    ],
+                    [
+                        "F-Secure",
+                        "Generic.Bash.MiraiA.B4D620FC"
+                    ],
+                    [
+                        "Fortinet",
+                        "Linux/ShellDLoader.RMF!tr"
+                    ],
+                    [
+                        "GData",
+                        "Generic.Bash.MiraiA.B4D620FC"
+                    ],
+                    [
+                        "Ikarus",
+                        "Trojan.Linux.Downloader"
+                    ],
+                    [
+                        "Kaspersky",
+                        "HEUR:Trojan-Downloader.Shell.Agent.p"
+                    ],
+                    [
+                        "MAX",
+                        "malware (ai score=81)"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Generic.Bash.MiraiA.B4D620FC"
+                    ],
+                    [
+                        "Qihoo-360",
+                        "Win32/Trojan.Downloader.72e"
+                    ],
+                    [
+                        "Rising",
+                        "Downloader.Shell!1.ABC3 (CLASSIC)"
+                    ],
+                    [
+                        "Sophos",
+                        "Mal/ShellDl-A"
+                    ],
+                    [
+                        "Symantec",
+                        "Downloader.Trojan"
+                    ],
+                    [
+                        "Tencent",
+                        "Win32.Trojan-downloader.Agent.Wlpi"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "HEUR:Trojan-Downloader.Shell.Agent.p"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "23 out of 59 antivirus detected \u001b[1m605a78ac6fc99a37c90470a67e6ef333\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/e74bc11ddb1b758fa24a83a239b15af8cc875361f230bb0cb51f865178b914fd/analysis/1512898534/\n",
+            "type": "info"
+        }
+    ]
+}
