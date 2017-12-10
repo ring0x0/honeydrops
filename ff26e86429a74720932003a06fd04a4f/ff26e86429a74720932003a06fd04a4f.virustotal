@@ -1,0 +1,147 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1mff26e86429a74720932003a06fd04a4f\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "Trojan.Generic.22704112"
+                    ],
+                    [
+                        "AVG",
+                        "Win32:PUP-gen [PUP]"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Trojan.Generic.22704112"
+                    ],
+                    [
+                        "Arcabit",
+                        "Trojan.Generic.D15A6FF0"
+                    ],
+                    [
+                        "Avast",
+                        "Win32:PUP-gen [PUP]"
+                    ],
+                    [
+                        "Avira",
+                        "TR/CoinMiner.yqyph"
+                    ],
+                    [
+                        "Baidu",
+                        "Win32.Trojan.WisdomEyes.16070401.9500.9992"
+                    ],
+                    [
+                        "BitDefender",
+                        "Trojan.Generic.22704112"
+                    ],
+                    [
+                        "CAT-QuickHeal",
+                        "Trojan.Generic.2919"
+                    ],
+                    [
+                        "CrowdStrike",
+                        "malicious_confidence_100% (D)"
+                    ],
+                    [
+                        "Cybereason",
+                        "malicious.cc7c68"
+                    ],
+                    [
+                        "Cylance",
+                        "Unsafe"
+                    ],
+                    [
+                        "DrWeb",
+                        "Tool.BtcMine.1027"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "a variant of Win32/Packed.BlackMoon.A potentially unwanted"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Trojan.Generic.22704112 (B)"
+                    ],
+                    [
+                        "Endgame",
+                        "malicious (high confidence)"
+                    ],
+                    [
+                        "F-Secure",
+                        "Trojan.Generic.22704112"
+                    ],
+                    [
+                        "GData",
+                        "Win32.Trojan.Agent.WP"
+                    ],
+                    [
+                        "Ikarus",
+                        "Trojan-GameThief.Win32.Lmir"
+                    ],
+                    [
+                        "Invincea",
+                        "heuristic"
+                    ],
+                    [
+                        "Kaspersky",
+                        "HEUR:Trojan.Win32.Miner.gen"
+                    ],
+                    [
+                        "MAX",
+                        "malware (ai score=89)"
+                    ],
+                    [
+                        "McAfee-GW-Edition",
+                        "BehavesLike.Win32.Fake.hc"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Trojan.Generic.22704112"
+                    ],
+                    [
+                        "Panda",
+                        "Trj/GdSda.A"
+                    ],
+                    [
+                        "SentinelOne",
+                        "static engine - malicious"
+                    ],
+                    [
+                        "VBA32",
+                        "Trojan.CoinMiner"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "HEUR:Trojan.Win32.Miner.gen"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "28 out of 67 antivirus detected \u001b[1mff26e86429a74720932003a06fd04a4f\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/c8e206d11573c3c22bcc6d20557f73ce84dd86df52a020d1e623a3156296af34/analysis/1512887408/\n",
+            "type": "info"
+        },
+        {
+            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
+            "type": "info"
+        }
+    ]
+}

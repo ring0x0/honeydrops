@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "12/10/2017 06:30:01",
+
+	 "source": "deonaea 159.203.x.x",
+
+	 "name": "ff26e86429a74720932003a06fd04a4f",
+
+	 "hash": "c8e206d11573c3c22bcc6d20557f73ce84dd86df52a020d1e623a3156296af34",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows",
+
+	 "classification": "Trojan.Generic.22704112",
+
+	 "virustotal": "https://www.virustotal.com/file/c8e206d11573c3c22bcc6d20557f73ce84dd86df52a020d1e623a3156296af34/analysis/1512887408/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/ff26e86429a74720932003a06fd04a4f"
+
+},
+
+{ 
+
 	 "date": "12/09/2017 23:30:01",
 
 	 "source": "cowrie 159.203.x.x",
