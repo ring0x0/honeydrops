@@ -1,0 +1,4 @@
+60e803000000e9eb045d
+pusha 
+call 0x55a00a
+jmp 0xb2a4f7
