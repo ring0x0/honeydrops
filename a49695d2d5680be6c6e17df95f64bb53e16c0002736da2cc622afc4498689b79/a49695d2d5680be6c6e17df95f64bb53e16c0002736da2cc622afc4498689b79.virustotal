@@ -1,0 +1,47 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m4830ff3dff70e3cb6eda0a6dbb8d5815\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "AVG",
+                        "BV:Downloader-II [Trj]"
+                    ],
+                    [
+                        "Avast",
+                        "BV:Downloader-II [Trj]"
+                    ],
+                    [
+                        "DrWeb",
+                        "Linux.DownLoader.361"
+                    ],
+                    [
+                        "Ikarus",
+                        "Trojan.Linux.Downloader"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "4 out of 60 antivirus detected \u001b[1m4830ff3dff70e3cb6eda0a6dbb8d5815\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/a49695d2d5680be6c6e17df95f64bb53e16c0002736da2cc622afc4498689b79/analysis/1512661782/\n",
+            "type": "info"
+        }
+    ]
+}

@@ -2,6 +2,66 @@
 
 { 
 
+	 "date": "12/10/2017 13:10:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "a49695d2d5680be6c6e17df95f64bb53e16c0002736da2cc622afc4498689b79",
+
+	 "hash": "a49695d2d5680be6c6e17df95f64bb53e16c0002736da2cc622afc4498689b79",
+
+	 "type": "ASCII text",
+
+	 "classification": "BV:Downloader-II [Trj]",
+
+	 "virustotal": "https://www.virustotal.com/file/a49695d2d5680be6c6e17df95f64bb53e16c0002736da2cc622afc4498689b79/analysis/1512661782/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/a49695d2d5680be6c6e17df95f64bb53e16c0002736da2cc622afc4498689b79"
+
+},
+
+{ 
+
+	 "date": "12/10/2017 13:10:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "345caab5f430151d5033fade116a8e2e6bc18cfca2f1b85e04d1d611c5f6d8b8",
+
+	 "hash": "345caab5f430151d5033fade116a8e2e6bc18cfca2f1b85e04d1d611c5f6d8b8",
+
+	 "type": "ASCII text",
+
+	 "classification": "nondeterministic",
+
+	 "virustotal": "" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/345caab5f430151d5033fade116a8e2e6bc18cfca2f1b85e04d1d611c5f6d8b8"
+
+},
+
+{ 
+
+	 "date": "12/10/2017 13:10:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "06c6ad952c8a8e4cd0f2a8ac2455dcb4d75a6e6edd4c1f70a8dbcaaf8cd2c840",
+
+	 "hash": "06c6ad952c8a8e4cd0f2a8ac2455dcb4d75a6e6edd4c1f70a8dbcaaf8cd2c840",
+
+	 "type": "ASCII text",
+
+	 "classification": "HEUR:Trojan-Downloader.Shell.Agent.p",
+
+	 "virustotal": "https://www.virustotal.com/file/06c6ad952c8a8e4cd0f2a8ac2455dcb4d75a6e6edd4c1f70a8dbcaaf8cd2c840/analysis/1512758993/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/06c6ad952c8a8e4cd0f2a8ac2455dcb4d75a6e6edd4c1f70a8dbcaaf8cd2c840"
+
+},
+
+{ 
+
 	 "date": "12/10/2017 12:55:01",
 
 	 "source": "deonaea 159.203.x.x",
