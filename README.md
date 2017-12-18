@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "12/18/2017 10:00:01",
+
+	 "source": "deonaea 159.203.x.x",
+
+	 "name": "smb-0hlj8wij.tmp",
+
+	 "hash": "b984140a101bb06d96f465b4c76c6d6bc9e958bb7ff75342b8ee15cd32b59e13",
+
+	 "type": "MS-DOS executable, MZ for MS-DOS",
+
+	 "classification": "GenPack:Generic.Malware.MW.9A936204",
+
+	 "virustotal": "https://www.virustotal.com/file/b984140a101bb06d96f465b4c76c6d6bc9e958bb7ff75342b8ee15cd32b59e13/analysis/1513575762/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/smb-0hlj8wij.tmp"
+
+},
+
+{ 
+
 	 "date": "12/18/2017 05:30:01",
 
 	 "source": "cowrie 159.203.x.x",
