@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "12/18/2017 22:15:01",
+
+	 "source": "deonaea 159.203.x.x",
+
+	 "name": "f5fd0981b43d28b19308741ef4cc54b5",
+
+	 "hash": "a995f8db820503c33bd4823cfd413a26062722b983fead7f79703afb39b5f234",
+
+	 "type": "PE32 executable (GUI) Intel 80386, for MS Windows, UPX compressed",
+
+	 "classification": "Gen:Variant.Graftor.369853",
+
+	 "virustotal": "https://www.virustotal.com/file/a995f8db820503c33bd4823cfd413a26062722b983fead7f79703afb39b5f234/analysis/1513426616/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/f5fd0981b43d28b19308741ef4cc54b5"
+
+},
+
+{ 
+
 	 "date": "12/18/2017 21:30:01",
 
 	 "source": "cowrie 159.203.x.x",
