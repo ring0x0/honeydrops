@@ -2,6 +2,26 @@
 
 { 
 
+	 "date": "12/18/2017 12:00:01",
+
+	 "source": "cowrie 159.203.x.x",
+
+	 "name": "94b59b4761147519fecf662cecba7219ac2f70682ae02685081a181758cb705f",
+
+	 "hash": "94b59b4761147519fecf662cecba7219ac2f70682ae02685081a181758cb705f",
+
+	 "type": "ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), statically linked, for GNU/Linux 2.6.9, not stripped",
+
+	 "classification": "Gen:Variant.Trojan.Linux.XorDDoS.2",
+
+	 "virustotal": "https://www.virustotal.com/file/94b59b4761147519fecf662cecba7219ac2f70682ae02685081a181758cb705f/analysis/1513485471/" ,
+
+	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/94b59b4761147519fecf662cecba7219ac2f70682ae02685081a181758cb705f"
+
+},
+
+{ 
+
 	 "date": "12/18/2017 10:00:01",
 
 	 "source": "deonaea 159.203.x.x",
@@ -14757,26 +14777,6 @@
 	 "virustotal": "https://www.virustotal.com/file/24154fb4ec3c1a7e2cc30e86d76685d3400a5ad747d795ea5bc05335f1bba03b/analysis/1501072206/" ,
 
 	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/24154fb4ec3c1a7e2cc30e86d76685d3400a5ad747d795ea5bc05335f1bba03b"
-
-},
-
-{ 
-
-	 "date": "07/26/2017 12:00:01",
-
-	 "source": "cowrie 159.203.x.x",
-
-	 "name": "94b59b4761147519fecf662cecba7219ac2f70682ae02685081a181758cb705f",
-
-	 "hash": "94b59b4761147519fecf662cecba7219ac2f70682ae02685081a181758cb705f",
-
-	 "type": "ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), statically linked, for GNU/Linux 2.6.9, not stripped",
-
-	 "classification": "Gen:Variant.Trojan.Linux.XorDDoS.2",
-
-	 "virustotal": "https://www.virustotal.com/file/94b59b4761147519fecf662cecba7219ac2f70682ae02685081a181758cb705f/analysis/1500781565/" ,
-
-	 "sample": "https://github.com/ring0x0/honeydrops/tree/master/94b59b4761147519fecf662cecba7219ac2f70682ae02685081a181758cb705f"
 
 },
 

@@ -48,6 +48,10 @@
                         "ELF:Xorddos-E [Trj]"
                     ],
                     [
+                        "Avast-Mobile",
+                        "ELF:Xorddos-I [Trj]"
+                    ],
+                    [
                         "Avira",
                         "LINUX/Xorddos.kzxwv"
                     ],
@@ -96,10 +100,6 @@
                         "Gen:Variant.Trojan.Linux.XorDDoS.2"
                     ],
                     [
-                        "Ikarus",
-                        "Trojan.Linux.DDoS"
-                    ],
-                    [
                         "Jiangmin",
                         "TrojanDDoS.Linux.ff"
                     ],
@@ -109,7 +109,7 @@
                     ],
                     [
                         "MAX",
-                        "malware (ai score=84)"
+                        "malware (ai score=100)"
                     ],
                     [
                         "McAfee",
@@ -141,7 +141,7 @@
                     ],
                     [
                         "Rising",
-                        "Trojan.DDoS-Xor/Linux!1.A3E4 (classic)"
+                        "Trojan.DDoS-Xor/Linux!1.A3E4 (CLASSIC)"
                     ],
                     [
                         "Sophos",
@@ -153,7 +153,7 @@
                     ],
                     [
                         "Tencent",
-                        "Linux.Trojan-ddos.Xarcen.Tcmg"
+                        "Trojan.Linux.XorDdos.a"
                     ],
                     [
                         "TrendMicro",
@@ -176,15 +176,11 @@
             "type": "table"
         },
         {
-            "data": "39 out of 56 antivirus detected \u001b[1mcaeeadeea0762565473ac39681101c29\u001b[0m as malicious.",
+            "data": "39 out of 59 antivirus detected \u001b[1mcaeeadeea0762565473ac39681101c29\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/94b59b4761147519fecf662cecba7219ac2f70682ae02685081a181758cb705f/analysis/1500781565/\n",
-            "type": "info"
-        },
-        {
-            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
+            "data": "https://www.virustotal.com/file/94b59b4761147519fecf662cecba7219ac2f70682ae02685081a181758cb705f/analysis/1513485471/\n",
             "type": "info"
         }
     ]
