@@ -1,0 +1,26 @@
+{
+    "results": {
+        "default": [
+            {
+                "crc32": "EFDC52F6",
+                "created_at": "2017-12-18 00:20:02.626902",
+                "id": 169,
+                "md5": "22dae591eacf0af773b43477ae0f8aa1",
+                "name": "20171219003713_18d046d142cc_0_http___46_101_38_170_bins_sh",
+                "sha1": "f2753020ffa867f6acab7a9b6b9db500a0dbc066",
+                "sha256": "ba56ff071ee533313d5fdf452e2dea9b80f8384870cee26d5b97db6c936c2508",
+                "sha512": "4ffc577d3379abf9045ca61ee00cc95faa7300828a7fe40a535d060502e0f8c8bbb5950a3af8d4d8974b30baeef4209e99502f4112a14f2c415bae1498b3e4a9",
+                "size": 1618,
+                "ssdeep": "24:vgyE8rVMvPWHsGzrsHxUKM/RWJraWaTYm:vZE8rG+M8rixUKKRUraWOl",
+                "tags": [
+                    "new",
+                    "159.203.x.x",
+                    "cowrie",
+                    "12/19/2017",
+                    "00:40:01"
+                ],
+                "type": "Bourne-Again shell script, ASCII text executable"
+            }
+        ]
+    }
+}
