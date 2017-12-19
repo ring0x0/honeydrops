@@ -1,7 +1,7 @@
 {
     "results": [
         {
-            "data": "VirusTotal Report for \u001b[1mb6e582a3c2372bdbf7d8bd780d8a434c\u001b[0m:",
+            "data": "VirusTotal Report for \u001b[1m1e63173635b68759e46c7988e64fae2f\u001b[0m:",
             "type": "success"
         },
         {
@@ -17,23 +17,23 @@
                 "rows": [
                     [
                         "ALYac",
-                        "Generic.Bash.MiraiA.BB196CD2"
+                        "Generic.Bash.MiraiA.05A6FECA"
                     ],
                     [
                         "AVG",
-                        "BV:Downloader-JY [Drp]"
+                        "BV:Downloader-IB [Drp]"
                     ],
                     [
                         "Ad-Aware",
-                        "Generic.Bash.MiraiA.BB196CD2"
+                        "Generic.Bash.MiraiA.05A6FECA"
                     ],
                     [
                         "Arcabit",
-                        "Generic.Bash.MiraiA.BB196CD2"
+                        "Generic.Bash.MiraiA.05A6FECA"
                     ],
                     [
                         "Avast",
-                        "BV:Downloader-JY [Drp]"
+                        "BV:Downloader-IB [Drp]"
                     ],
                     [
                         "Avira",
@@ -41,58 +41,66 @@
                     ],
                     [
                         "BitDefender",
-                        "Generic.Bash.MiraiA.BB196CD2"
+                        "Generic.Bash.MiraiA.05A6FECA"
                     ],
                     [
                         "DrWeb",
-                        "Linux.DownLoader.320"
+                        "Linux.DownLoader.275"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "Linux/TrojanDownloader.SH.S"
                     ],
                     [
                         "Emsisoft",
-                        "Generic.Bash.MiraiA.BB196CD2 (B)"
+                        "Generic.Bash.MiraiA.05A6FECA (B)"
                     ],
                     [
                         "F-Secure",
-                        "Generic.Bash.MiraiA.BB196CD2"
+                        "Generic.Bash.MiraiA.05A6FECA"
+                    ],
+                    [
+                        "Fortinet",
+                        "Linux/ShellDLoader.RMF!tr"
                     ],
                     [
                         "GData",
-                        "Generic.Bash.MiraiA.BB196CD2"
+                        "Generic.Bash.MiraiA.05A6FECA"
                     ],
                     [
                         "Ikarus",
                         "Trojan.Linux.Downloader"
                     ],
                     [
+                        "Kaspersky",
+                        "HEUR:Trojan-Downloader.Shell.Agent.p"
+                    ],
+                    [
                         "MAX",
-                        "malware (ai score=87)"
+                        "malware (ai score=80)"
                     ],
                     [
                         "MicroWorld-eScan",
-                        "Generic.Bash.MiraiA.BB196CD2"
+                        "Generic.Bash.MiraiA.05A6FECA"
                     ],
                     [
-                        "NANO-Antivirus",
-                        "Trojan.Script.Agent.ekbkzw"
+                        "Sophos",
+                        "Mal/ShellDl-A"
                     ],
                     [
-                        "Rising",
-                        "Trojan.Mirai!1.AD2B (CLASSIC)"
+                        "ZoneAlarm",
+                        "HEUR:Trojan-Downloader.Shell.Agent.p"
                     ]
                 ]
             },
             "type": "table"
         },
         {
-            "data": "16 out of 60 antivirus detected \u001b[1mb6e582a3c2372bdbf7d8bd780d8a434c\u001b[0m as malicious.",
+            "data": "19 out of 60 antivirus detected \u001b[1m1e63173635b68759e46c7988e64fae2f\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/918eed6b68dd09f44ab065b942d7f162f1798314656cbfa1ac957d32c134cea5/analysis/1513647008/\n",
-            "type": "info"
-        },
-        {
-            "data": "\u001b[1mVirusTotal message\u001b[0m: Your comment was successfully posted",
+            "data": "https://www.virustotal.com/file/b8797765f044de29ee5171ca5ea6abfb03eec2614e5ca4351f80c5a56becac56/analysis/1513648190/\n",
             "type": "info"
         }
     ]

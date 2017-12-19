@@ -1,7 +1,7 @@
 {
     "results": [
         {
-            "data": "VirusTotal Report for \u001b[1mb6e582a3c2372bdbf7d8bd780d8a434c\u001b[0m:",
+            "data": "VirusTotal Report for \u001b[1m1be93852916a186ad7c684bc287df5d5\u001b[0m:",
             "type": "success"
         },
         {
@@ -17,7 +17,7 @@
                 "rows": [
                     [
                         "ALYac",
-                        "Generic.Bash.MiraiA.BB196CD2"
+                        "Generic.Bash.MiraiA.ABBCAFB5"
                     ],
                     [
                         "AVG",
@@ -25,11 +25,11 @@
                     ],
                     [
                         "Ad-Aware",
-                        "Generic.Bash.MiraiA.BB196CD2"
+                        "Generic.Bash.MiraiA.ABBCAFB5"
                     ],
                     [
                         "Arcabit",
-                        "Generic.Bash.MiraiA.BB196CD2"
+                        "Generic.Bash.MiraiA.ABBCAFB5"
                     ],
                     [
                         "Avast",
@@ -41,7 +41,7 @@
                     ],
                     [
                         "BitDefender",
-                        "Generic.Bash.MiraiA.BB196CD2"
+                        "Generic.Bash.MiraiA.ABBCAFB5"
                     ],
                     [
                         "DrWeb",
@@ -49,15 +49,15 @@
                     ],
                     [
                         "Emsisoft",
-                        "Generic.Bash.MiraiA.BB196CD2 (B)"
+                        "Generic.Bash.MiraiA.ABBCAFB5 (B)"
                     ],
                     [
                         "F-Secure",
-                        "Generic.Bash.MiraiA.BB196CD2"
+                        "Generic.Bash.MiraiA.ABBCAFB5"
                     ],
                     [
                         "GData",
-                        "Generic.Bash.MiraiA.BB196CD2"
+                        "Generic.Bash.MiraiA.ABBCAFB5"
                     ],
                     [
                         "Ikarus",
@@ -65,11 +65,11 @@
                     ],
                     [
                         "MAX",
-                        "malware (ai score=87)"
+                        "malware (ai score=86)"
                     ],
                     [
                         "MicroWorld-eScan",
-                        "Generic.Bash.MiraiA.BB196CD2"
+                        "Generic.Bash.MiraiA.ABBCAFB5"
                     ],
                     [
                         "NANO-Antivirus",
@@ -84,11 +84,11 @@
             "type": "table"
         },
         {
-            "data": "16 out of 60 antivirus detected \u001b[1mb6e582a3c2372bdbf7d8bd780d8a434c\u001b[0m as malicious.",
+            "data": "16 out of 60 antivirus detected \u001b[1m1be93852916a186ad7c684bc287df5d5\u001b[0m as malicious.",
             "type": "info"
         },
         {
-            "data": "https://www.virustotal.com/file/918eed6b68dd09f44ab065b942d7f162f1798314656cbfa1ac957d32c134cea5/analysis/1513647008/\n",
+            "data": "https://www.virustotal.com/file/9e7eaf63612b8e0c41965e061236efdbb4b6ada928bcb5c4f0d9c6ee57730442/analysis/1513648853/\n",
             "type": "info"
         },
         {
