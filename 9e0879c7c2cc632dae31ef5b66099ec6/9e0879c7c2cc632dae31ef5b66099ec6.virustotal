@@ -1,0 +1,227 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m9e0879c7c2cc632dae31ef5b66099ec6\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "Trojan.Generic.21634550"
+                    ],
+                    [
+                        "AVG",
+                        "Win32:Malware-gen"
+                    ],
+                    [
+                        "AVware",
+                        "Trojan.Win32.Generic!BT"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Trojan.Generic.21634550"
+                    ],
+                    [
+                        "AegisLab",
+                        "Troj.W32.Gen.lyq4"
+                    ],
+                    [
+                        "AhnLab-V3",
+                        "Trojan/Win32.Magania.C1996266"
+                    ],
+                    [
+                        "Antiy-AVL",
+                        "Trojan[GameThief]/Win32.Magania"
+                    ],
+                    [
+                        "Arcabit",
+                        "Trojan.Generic.D14A1DF6"
+                    ],
+                    [
+                        "Avast",
+                        "Win32:Malware-gen"
+                    ],
+                    [
+                        "Avira",
+                        "TR/AD.Zegost.juklh"
+                    ],
+                    [
+                        "BitDefender",
+                        "Trojan.Generic.21634550"
+                    ],
+                    [
+                        "CAT-QuickHeal",
+                        "Backdoor.Zegost"
+                    ],
+                    [
+                        "CrowdStrike",
+                        "malicious_confidence_100% (W)"
+                    ],
+                    [
+                        "Cylance",
+                        "Unsafe"
+                    ],
+                    [
+                        "Cyren",
+                        "W32/Trojan.XEWR-0985"
+                    ],
+                    [
+                        "DrWeb",
+                        "Trojan.DownLoader24.63930"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "a variant of Win32/Kryptik.FTBW"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Trojan.Generic.21634550 (B)"
+                    ],
+                    [
+                        "Endgame",
+                        "malicious (high confidence)"
+                    ],
+                    [
+                        "F-Secure",
+                        "Trojan.Generic.21634550"
+                    ],
+                    [
+                        "Fortinet",
+                        "W32/Generic.AP.F12A2!tr"
+                    ],
+                    [
+                        "GData",
+                        "Trojan.Generic.21634550"
+                    ],
+                    [
+                        "Ikarus",
+                        "Backdoor.Win32.Zegost"
+                    ],
+                    [
+                        "Invincea",
+                        "heuristic"
+                    ],
+                    [
+                        "Jiangmin",
+                        "AdWare.Generic.fxwn"
+                    ],
+                    [
+                        "K7AntiVirus",
+                        "Trojan ( 0050f8d21 )"
+                    ],
+                    [
+                        "K7GW",
+                        "Trojan ( 0050f8d21 )"
+                    ],
+                    [
+                        "Kaspersky",
+                        "HEUR:Trojan.Win32.Generic"
+                    ],
+                    [
+                        "MAX",
+                        "malware (ai score=82)"
+                    ],
+                    [
+                        "McAfee",
+                        "RDN/Generic BackDoor"
+                    ],
+                    [
+                        "McAfee-GW-Edition",
+                        "RDN/Generic BackDoor"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Trojan.Generic.21634550"
+                    ],
+                    [
+                        "Microsoft",
+                        "Backdoor:Win32/Zegost"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Trojan.Win32.AD.eptygd"
+                    ],
+                    [
+                        "Paloalto",
+                        "generic.ml"
+                    ],
+                    [
+                        "Panda",
+                        "Trj/GdSda.A"
+                    ],
+                    [
+                        "Qihoo-360",
+                        "Win32/Trojan.36c"
+                    ],
+                    [
+                        "SentinelOne",
+                        "static engine - malicious"
+                    ],
+                    [
+                        "Sophos",
+                        "Mal/Generic-S"
+                    ],
+                    [
+                        "Symantec",
+                        "Trojan.Gen.2"
+                    ],
+                    [
+                        "Tencent",
+                        "Win32.Trojan.Generic.Htvs"
+                    ],
+                    [
+                        "TrendMicro",
+                        "TROJ_GEN.R021C0DF917"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "TROJ_GEN.R021C0DF917"
+                    ],
+                    [
+                        "VIPRE",
+                        "Trojan.Win32.Generic!BT"
+                    ],
+                    [
+                        "Webroot",
+                        "W32.Trojan.Gen"
+                    ],
+                    [
+                        "Yandex",
+                        "Trojan.PWS.Magania!y01AAMNn4Uo"
+                    ],
+                    [
+                        "Zillya",
+                        "Trojan.Kryptik.Win32.1194418"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "HEUR:Trojan.Win32.Generic"
+                    ],
+                    [
+                        "nProtect",
+                        "Trojan-PWS/W32.OnLineGames.441365"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "49 out of 64 antivirus detected \u001b[1m9e0879c7c2cc632dae31ef5b66099ec6\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/7e313ad62e2bac7a07d176dd7996468246780d44492dececd3413cfd98700604/analysis/1507063862/\n",
+            "type": "info"
+        }
+    ]
+}

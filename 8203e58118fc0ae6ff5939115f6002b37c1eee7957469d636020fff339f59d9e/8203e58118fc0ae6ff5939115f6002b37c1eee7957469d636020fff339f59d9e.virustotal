@@ -1,0 +1,127 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m3d0eef03f8d90a7f3262198f50354237\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "Trojan.MAC.Generic.437"
+                    ],
+                    [
+                        "AVG",
+                        "BV:Downloader-JQ [Drp]"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Trojan.MAC.Generic.437"
+                    ],
+                    [
+                        "AegisLab",
+                        "Troj.Mac.Generic!c"
+                    ],
+                    [
+                        "Arcabit",
+                        "Trojan.MAC.Generic.437"
+                    ],
+                    [
+                        "Avast",
+                        "BV:Downloader-JQ [Drp]"
+                    ],
+                    [
+                        "BitDefender",
+                        "Trojan.MAC.Generic.437"
+                    ],
+                    [
+                        "Cyren",
+                        "Trojan.HYRV-2"
+                    ],
+                    [
+                        "DrWeb",
+                        "Linux.DownLoader.318"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "Linux/Mirai.R"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Trojan.MAC.Generic.437 (B)"
+                    ],
+                    [
+                        "F-Secure",
+                        "Trojan.MAC.Generic.437"
+                    ],
+                    [
+                        "GData",
+                        "Trojan.MAC.Generic.437"
+                    ],
+                    [
+                        "Ikarus",
+                        "Trojan.Linux.Mirai"
+                    ],
+                    [
+                        "Kaspersky",
+                        "HEUR:Trojan-Downloader.Shell.Agent.as"
+                    ],
+                    [
+                        "MAX",
+                        "malware (ai score=85)"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Trojan.MAC.Generic.437"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Trojan.Script.Mirai.etdskc"
+                    ],
+                    [
+                        "Qihoo-360",
+                        "Win32/Trojan.Downloader.c33"
+                    ],
+                    [
+                        "Sophos",
+                        "Mal/ShellDl-A"
+                    ],
+                    [
+                        "Symantec",
+                        "OSX.Trojan.Gen"
+                    ],
+                    [
+                        "Tencent",
+                        "Win32.Trojan-downloader.Agent.Ljuk"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "Suspicious_GEN.F47V0922"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "HEUR:Trojan-Downloader.Shell.Agent.as"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "24 out of 59 antivirus detected \u001b[1m3d0eef03f8d90a7f3262198f50354237\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/8203e58118fc0ae6ff5939115f6002b37c1eee7957469d636020fff339f59d9e/analysis/1508636539/\n",
+            "type": "info"
+        }
+    ]
+}

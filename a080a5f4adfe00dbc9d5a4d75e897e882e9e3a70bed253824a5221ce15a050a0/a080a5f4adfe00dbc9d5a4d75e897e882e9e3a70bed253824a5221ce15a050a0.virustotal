@@ -1,0 +1,127 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m5b918e2faaf7ab23ab6a02b09bcbe876\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "Generic.Bash.MiraiA.9D56CEEB"
+                    ],
+                    [
+                        "AVG",
+                        "BV:Downloader-KB [Drp]"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Generic.Bash.MiraiA.9D56CEEB"
+                    ],
+                    [
+                        "AegisLab",
+                        "Virus.Bash.Miraia!c"
+                    ],
+                    [
+                        "Arcabit",
+                        "Generic.Bash.MiraiA.9D56CEEB"
+                    ],
+                    [
+                        "Avast",
+                        "BV:Downloader-KB [Drp]"
+                    ],
+                    [
+                        "Avira",
+                        "HTML/ExpKit.Gen2"
+                    ],
+                    [
+                        "BitDefender",
+                        "Generic.Bash.MiraiA.9D56CEEB"
+                    ],
+                    [
+                        "Comodo",
+                        "UnclassifiedMalware"
+                    ],
+                    [
+                        "DrWeb",
+                        "Linux.DownLoader.320"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Generic.Bash.MiraiA.9D56CEEB (B)"
+                    ],
+                    [
+                        "F-Secure",
+                        "Generic.Bash.MiraiA.9D56CEEB"
+                    ],
+                    [
+                        "GData",
+                        "Generic.Bash.MiraiA.9D56CEEB"
+                    ],
+                    [
+                        "Ikarus",
+                        "Trojan.Linux.Downloader"
+                    ],
+                    [
+                        "Kaspersky",
+                        "HEUR:Trojan-Downloader.Shell.Agent.as"
+                    ],
+                    [
+                        "MAX",
+                        "malware (ai score=87)"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Generic.Bash.MiraiA.9D56CEEB"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Trojan.Script.Agent.ekbkzw"
+                    ],
+                    [
+                        "Qihoo-360",
+                        "Win32/Trojan.Downloader.1aa"
+                    ],
+                    [
+                        "Rising",
+                        "Trojan.Mirai!1.AD2B (classic)"
+                    ],
+                    [
+                        "Symantec",
+                        "Trojan.Gen.NPE"
+                    ],
+                    [
+                        "Tencent",
+                        "Win32.Trojan-downloader.Agent.Syib"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "Suspicious_GEN.F47V0908"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "HEUR:Trojan-Downloader.Shell.Agent.as"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "24 out of 58 antivirus detected \u001b[1m5b918e2faaf7ab23ab6a02b09bcbe876\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/a080a5f4adfe00dbc9d5a4d75e897e882e9e3a70bed253824a5221ce15a050a0/analysis/1505365925/\n",
+            "type": "info"
+        }
+    ]
+}

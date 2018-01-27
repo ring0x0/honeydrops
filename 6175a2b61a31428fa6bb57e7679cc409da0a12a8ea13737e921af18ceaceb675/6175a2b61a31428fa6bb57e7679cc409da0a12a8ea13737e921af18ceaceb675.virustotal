@@ -1,0 +1,215 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m1e40be11038108ae16b74ad601487b71\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "Trojan.GenericKD.12397123"
+                    ],
+                    [
+                        "AVG",
+                        "Win32:Malware-gen"
+                    ],
+                    [
+                        "AVware",
+                        "Trojan.Win32.Generic!BT"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Trojan.GenericKD.12397123"
+                    ],
+                    [
+                        "AegisLab",
+                        "Uds.Dangerousobject.Multi!c"
+                    ],
+                    [
+                        "AhnLab-V3",
+                        "Downloader/Win32.Agent.C2161777"
+                    ],
+                    [
+                        "Antiy-AVL",
+                        "Trojan[Downloader]/Win32.Agent"
+                    ],
+                    [
+                        "Avast",
+                        "Win32:Malware-gen"
+                    ],
+                    [
+                        "Avira",
+                        "TR/AD.Farfli.fqgnm"
+                    ],
+                    [
+                        "Baidu",
+                        "Win32.Trojan.Kryptik.te"
+                    ],
+                    [
+                        "BitDefender",
+                        "Trojan.GenericKD.12397123"
+                    ],
+                    [
+                        "CAT-QuickHeal",
+                        "TrojanDownloader.Agent"
+                    ],
+                    [
+                        "Comodo",
+                        "UnclassifiedMalware"
+                    ],
+                    [
+                        "Cylance",
+                        "Unsafe"
+                    ],
+                    [
+                        "Cyren",
+                        "W32/Trojan.ADVI-7275"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "a variant of Win32/Kryptik.FDQG"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Trojan.GenericKD.12397123 (B)"
+                    ],
+                    [
+                        "Endgame",
+                        "malicious (moderate confidence)"
+                    ],
+                    [
+                        "F-Secure",
+                        "Trojan.GenericKD.12397123"
+                    ],
+                    [
+                        "Fortinet",
+                        "W32/Agent.FDQG!tr.dldr"
+                    ],
+                    [
+                        "GData",
+                        "Trojan.GenericKD.12397123"
+                    ],
+                    [
+                        "Ikarus",
+                        "Trojan.Win32.Farfli"
+                    ],
+                    [
+                        "K7AntiVirus",
+                        "Trojan ( 005001511 )"
+                    ],
+                    [
+                        "K7GW",
+                        "Trojan ( 005001511 )"
+                    ],
+                    [
+                        "Kaspersky",
+                        "Trojan-Downloader.Win32.Agent.silowx"
+                    ],
+                    [
+                        "MAX",
+                        "malware (ai score=100)"
+                    ],
+                    [
+                        "Malwarebytes",
+                        "Backdoor.Farfli"
+                    ],
+                    [
+                        "McAfee",
+                        "RDN/Generic Downloader.x"
+                    ],
+                    [
+                        "McAfee-GW-Edition",
+                        "RDN/Generic Downloader.x"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Trojan.GenericKD.12397123"
+                    ],
+                    [
+                        "Microsoft",
+                        "TrojanDownloader:Win32/Farfli.F!bit"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Trojan.Win32.AD.esxciv"
+                    ],
+                    [
+                        "Paloalto",
+                        "generic.ml"
+                    ],
+                    [
+                        "Panda",
+                        "Trj/GdSda.A"
+                    ],
+                    [
+                        "Rising",
+                        "Trojan.Kryptik!1.AAD1 (CLASSIC)"
+                    ],
+                    [
+                        "Sophos",
+                        "Mal/Generic-S"
+                    ],
+                    [
+                        "Symantec",
+                        "Trojan.Gen"
+                    ],
+                    [
+                        "Tencent",
+                        "Win32.Backdoor.Gh0stx.Auto"
+                    ],
+                    [
+                        "TrendMicro",
+                        "TROJ_GEN.R002C0DIO17"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "TROJ_GEN.R002C0DIO17"
+                    ],
+                    [
+                        "VBA32",
+                        "TrojanDownloader.Agent"
+                    ],
+                    [
+                        "VIPRE",
+                        "Trojan.Win32.Generic!BT"
+                    ],
+                    [
+                        "ViRobot",
+                        "Trojan.Win32.Z.Farfli.344064.H"
+                    ],
+                    [
+                        "Yandex",
+                        "Trojan.Kryptik!kJlPzU3NvNw"
+                    ],
+                    [
+                        "Zillya",
+                        "Downloader.Agent.Win32.344416"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "Trojan-Downloader.Win32.Agent.silowx"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "46 out of 66 antivirus detected \u001b[1m1e40be11038108ae16b74ad601487b71\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/a98b8c6a2d0a33711699f3ac9f56be384ab6faac39712a686df2082ffe8226ea/analysis/1508896037/\n",
+            "type": "info"
+        }
+    ]
+}

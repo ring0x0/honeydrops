@@ -1,0 +1,231 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1mece7a71fc3bde1c7f3d6e599d888f019\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "AVG",
+                        "Win32:Malware-gen"
+                    ],
+                    [
+                        "AVware",
+                        "Trojan.Win32.Nitol.b (v)"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Gen:Variant.Symmi.67142"
+                    ],
+                    [
+                        "AegisLab",
+                        "Gen.Variant.Symmi!c"
+                    ],
+                    [
+                        "AhnLab-V3",
+                        "Trojan/Win32.ServStart.C2252360"
+                    ],
+                    [
+                        "Antiy-AVL",
+                        "Trojan/Win32.AGeneric"
+                    ],
+                    [
+                        "Arcabit",
+                        "Trojan.Symmi.D10646"
+                    ],
+                    [
+                        "Avast",
+                        "Win32:Malware-gen"
+                    ],
+                    [
+                        "Avira",
+                        "TR/Kryptik.oagoy"
+                    ],
+                    [
+                        "Baidu",
+                        "Win32.Trojan.WisdomEyes.16070401.9500.9998"
+                    ],
+                    [
+                        "BitDefender",
+                        "Gen:Variant.Symmi.67142"
+                    ],
+                    [
+                        "CAT-QuickHeal",
+                        "Genvariant.Symmi"
+                    ],
+                    [
+                        "ClamAV",
+                        "Win.Trojan.Agent-6368957-0"
+                    ],
+                    [
+                        "Comodo",
+                        "UnclassifiedMalware"
+                    ],
+                    [
+                        "CrowdStrike",
+                        "malicious_confidence_100% (W)"
+                    ],
+                    [
+                        "Cybereason",
+                        "malicious.1b8fb7"
+                    ],
+                    [
+                        "Cylance",
+                        "Unsafe"
+                    ],
+                    [
+                        "Cyren",
+                        "W32/Trojan.MLCG-8697"
+                    ],
+                    [
+                        "DrWeb",
+                        "Trojan.PWS.Gamania.46015"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "a variant of Win32/GenKryptik.IDD"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Gen:Variant.Symmi.67142 (B)"
+                    ],
+                    [
+                        "Endgame",
+                        "malicious (high confidence)"
+                    ],
+                    [
+                        "F-Secure",
+                        "Gen:Variant.Symmi.67142"
+                    ],
+                    [
+                        "Fortinet",
+                        "W32/Kryptik.FPCG!tr"
+                    ],
+                    [
+                        "GData",
+                        "Gen:Variant.Symmi.67142"
+                    ],
+                    [
+                        "Invincea",
+                        "heuristic"
+                    ],
+                    [
+                        "K7AntiVirus",
+                        "Trojan ( 004fb6741 )"
+                    ],
+                    [
+                        "K7GW",
+                        "Trojan ( 004fb6741 )"
+                    ],
+                    [
+                        "Kaspersky",
+                        "Trojan.Win32.ServStart.abvh"
+                    ],
+                    [
+                        "MAX",
+                        "malware (ai score=99)"
+                    ],
+                    [
+                        "McAfee",
+                        "RDN/Generic.grp"
+                    ],
+                    [
+                        "McAfee-GW-Edition",
+                        "RDN/Generic.grp"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Gen:Variant.Symmi.67142"
+                    ],
+                    [
+                        "Microsoft",
+                        "DDoS:Win32/Nitol.A"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Trojan.Win32.ServStart.euumxr"
+                    ],
+                    [
+                        "Paloalto",
+                        "generic.ml"
+                    ],
+                    [
+                        "Panda",
+                        "Trj/GdSda.A"
+                    ],
+                    [
+                        "SentinelOne",
+                        "static engine - malicious"
+                    ],
+                    [
+                        "Sophos",
+                        "Mal/Generic-S"
+                    ],
+                    [
+                        "Symantec",
+                        "Trojan.Gen"
+                    ],
+                    [
+                        "Tencent",
+                        "Suspicious.Heuristic.Gen.b.0"
+                    ],
+                    [
+                        "TrendMicro",
+                        "TROJ_GEN.R002C0DK517"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "TROJ_GEN.R002C0DK517"
+                    ],
+                    [
+                        "VBA32",
+                        "Trojan.ServStart"
+                    ],
+                    [
+                        "VIPRE",
+                        "Trojan.Win32.Nitol.b (v)"
+                    ],
+                    [
+                        "ViRobot",
+                        "Trojan.Win32.Z.Symmi.86016.QZ"
+                    ],
+                    [
+                        "Webroot",
+                        "W32.Trojan.Gen"
+                    ],
+                    [
+                        "Yandex",
+                        "Trojan.ServStart!MNCFz6lsWN4"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "Trojan.Win32.ServStart.abvh"
+                    ],
+                    [
+                        "eGambit",
+                        "Unsafe.AI_Score_88%"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "50 out of 66 antivirus detected \u001b[1mece7a71fc3bde1c7f3d6e599d888f019\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/a62c070a8f84cc3e69074b16b9e052e82e9b6467f7af9ff441b3e94bd06c550b/analysis/1511219908/\n",
+            "type": "info"
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m15809daa321595a139b01e9edf8838b6\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "Generic.Bash.MiraiA.F4186189"
+                    ],
+                    [
+                        "AVG",
+                        "BV:Downloader-JY [Drp]"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Generic.Bash.MiraiA.F4186189"
+                    ],
+                    [
+                        "AegisLab",
+                        "Virus.Bash.Miraia!c"
+                    ],
+                    [
+                        "Arcabit",
+                        "Generic.Bash.MiraiA.FD3FE04D"
+                    ],
+                    [
+                        "Avast",
+                        "BV:Downloader-JY [Drp]"
+                    ],
+                    [
+                        "BitDefender",
+                        "Generic.Bash.MiraiA.F4186189"
+                    ],
+                    [
+                        "DrWeb",
+                        "Linux.DownLoader.320"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Generic.Bash.MiraiA.F4186189 (B)"
+                    ],
+                    [
+                        "F-Secure",
+                        "Generic.Bash.MiraiA.F4186189"
+                    ],
+                    [
+                        "GData",
+                        "Generic.Bash.MiraiA.F4186189"
+                    ],
+                    [
+                        "Ikarus",
+                        "Trojan.Linux.Downloader"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Generic.Bash.MiraiA.F4186189"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Trojan.Script.Agent.ekbkzw"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "Suspicious_GEN.F47V0630"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "15 out of 57 antivirus detected \u001b[1m15809daa321595a139b01e9edf8838b6\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/a4a3f605da7eda1aaa574992473b513bed439454185de7dd2f511e0f360c1d46/analysis/1498954967/\n",
+            "type": "info"
+        }
+    ]
+}

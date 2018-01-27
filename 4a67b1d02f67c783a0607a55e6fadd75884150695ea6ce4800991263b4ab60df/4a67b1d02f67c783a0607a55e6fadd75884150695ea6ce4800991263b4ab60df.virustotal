@@ -1,0 +1,87 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m63a10530c669fe937a0c7151046af837\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "AVG",
+                        "BV:Downloader-JQ [Drp]"
+                    ],
+                    [
+                        "AegisLab",
+                        "Troj.Downloader.Shell!c"
+                    ],
+                    [
+                        "Avast",
+                        "BV:Downloader-JQ [Drp]"
+                    ],
+                    [
+                        "Cyren",
+                        "Trojan.ZKZF-9"
+                    ],
+                    [
+                        "DrWeb",
+                        "Linux.DownLoader.318"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "Linux/Mirai.Z"
+                    ],
+                    [
+                        "GData",
+                        "Script.Trojan.Agent.NV8LRQ"
+                    ],
+                    [
+                        "Ikarus",
+                        "Trojan.Linux.Mirai"
+                    ],
+                    [
+                        "Kaspersky",
+                        "HEUR:Trojan-Downloader.Shell.Agent.as"
+                    ],
+                    [
+                        "Qihoo-360",
+                        "Win32/Trojan.Downloader.c33"
+                    ],
+                    [
+                        "Sophos",
+                        "Mal/ShellDl-A"
+                    ],
+                    [
+                        "Tencent",
+                        "Win32.Trojan-downloader.Agent.Wopt"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "Suspicious_GEN.F47V0730"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "HEUR:Trojan-Downloader.Shell.Agent.as"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "14 out of 58 antivirus detected \u001b[1m63a10530c669fe937a0c7151046af837\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/4a67b1d02f67c783a0607a55e6fadd75884150695ea6ce4800991263b4ab60df/analysis/1505372058/\n",
+            "type": "info"
+        }
+    ]
+}

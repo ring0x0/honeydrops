@@ -1,0 +1,187 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m6a08514867fe7672e796429d9f4722fc\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "Linux.CornelGEN.1622"
+                    ],
+                    [
+                        "AVG",
+                        "ELF:Aesddos-H [Trj]"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Linux.CornelGEN.1622"
+                    ],
+                    [
+                        "AegisLab",
+                        "Backdoor.Linux.Dofloo!c"
+                    ],
+                    [
+                        "AhnLab-V3",
+                        "Linux/Flooder.1870048"
+                    ],
+                    [
+                        "Antiy-AVL",
+                        "Trojan[Backdoor]/Linux.Dofloo.b"
+                    ],
+                    [
+                        "Arcabit",
+                        "Linux.CornelGEN.D656"
+                    ],
+                    [
+                        "Avast",
+                        "ELF:Aesddos-H [Trj]"
+                    ],
+                    [
+                        "Avast-Mobile",
+                        "ELF:Agent-IF [Trj]"
+                    ],
+                    [
+                        "Avira",
+                        "LINUX/Dofloo.AA"
+                    ],
+                    [
+                        "BitDefender",
+                        "Linux.CornelGEN.1622"
+                    ],
+                    [
+                        "CAT-QuickHeal",
+                        "TrojanDDoS.Linux.DnsAmp.A"
+                    ],
+                    [
+                        "ClamAV",
+                        "Unix.Malware.Agent-1770868"
+                    ],
+                    [
+                        "Comodo",
+                        "UnclassifiedMalware"
+                    ],
+                    [
+                        "Cyren",
+                        "ELF/Trojan.CVTK-6"
+                    ],
+                    [
+                        "DrWeb",
+                        "Linux.Mrblack.34"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "Linux/Dofloo.A"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Linux.CornelGEN.1622 (B)"
+                    ],
+                    [
+                        "F-Secure",
+                        "Linux.CornelGEN.1622"
+                    ],
+                    [
+                        "Fortinet",
+                        "ELF/DDoS.BE!tr"
+                    ],
+                    [
+                        "GData",
+                        "Linux.CornelGEN.1622"
+                    ],
+                    [
+                        "Ikarus",
+                        "Backdoor.Linux.Dofloo"
+                    ],
+                    [
+                        "Jiangmin",
+                        "Backdoor/Linux.jp"
+                    ],
+                    [
+                        "Kaspersky",
+                        "Backdoor.Linux.Dofloo.b"
+                    ],
+                    [
+                        "MAX",
+                        "malware (ai score=83)"
+                    ],
+                    [
+                        "McAfee",
+                        "Linux/Dofloo.a"
+                    ],
+                    [
+                        "McAfee-GW-Edition",
+                        "Linux/Dofloo.a"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Linux.CornelGEN.1622"
+                    ],
+                    [
+                        "Microsoft",
+                        "Backdoor:Linux/Setag!rfn"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Trojan.Unix.Dofloo.efsxke"
+                    ],
+                    [
+                        "Qihoo-360",
+                        "Malware.Radar01.Gen"
+                    ],
+                    [
+                        "Rising",
+                        "Trojan.DDoS-MrBlack/Linux!1.A484 (CLASSIC)"
+                    ],
+                    [
+                        "Sophos",
+                        "Linux/DDoS-BE"
+                    ],
+                    [
+                        "Symantec",
+                        "Trojan.Gen.6"
+                    ],
+                    [
+                        "Tencent",
+                        "Trojan.Linux.Dofloo.ba"
+                    ],
+                    [
+                        "TrendMicro",
+                        "ELF_SONEX.SMA"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "ELF_SONEX.SMA"
+                    ],
+                    [
+                        "Zillya",
+                        "Downloader.OpenConnection.JS.105112"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "Backdoor.Linux.Dofloo.b"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "39 out of 58 antivirus detected \u001b[1m6a08514867fe7672e796429d9f4722fc\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/b27430b9b266906639d8f0f91333ef75b99fca2033dbcd368558e8452dc36575/analysis/1506069362/\n",
+            "type": "info"
+        }
+    ]
+}

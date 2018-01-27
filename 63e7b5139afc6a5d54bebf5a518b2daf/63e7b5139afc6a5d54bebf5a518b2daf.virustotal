@@ -1,0 +1,231 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m63e7b5139afc6a5d54bebf5a518b2daf\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "Dropped:Trojan.Generic.22308946"
+                    ],
+                    [
+                        "AVG",
+                        "Win32:Malware-gen"
+                    ],
+                    [
+                        "AVware",
+                        "Trojan.Win32.Generic!BT"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Dropped:Trojan.Generic.22308946"
+                    ],
+                    [
+                        "AegisLab",
+                        "Uds.Dangerousobject.Multi!c"
+                    ],
+                    [
+                        "AhnLab-V3",
+                        "Dropper/Win32.Daws.C2113112"
+                    ],
+                    [
+                        "Antiy-AVL",
+                        "Trojan[Dropper]/Win32.Daws"
+                    ],
+                    [
+                        "Arcabit",
+                        "Trojan.Generic.D1546852"
+                    ],
+                    [
+                        "Avast",
+                        "Win32:Malware-gen"
+                    ],
+                    [
+                        "Avira",
+                        "TR/Drop.Daws.apvnq"
+                    ],
+                    [
+                        "BitDefender",
+                        "Dropped:Trojan.Generic.22308946"
+                    ],
+                    [
+                        "CAT-QuickHeal",
+                        "TrojanDropper.Daws"
+                    ],
+                    [
+                        "ClamAV",
+                        "Win.Trojan.Generic-6260335-1"
+                    ],
+                    [
+                        "Comodo",
+                        "UnclassifiedMalware"
+                    ],
+                    [
+                        "CrowdStrike",
+                        "malicious_confidence_90% (W)"
+                    ],
+                    [
+                        "Cylance",
+                        "Unsafe"
+                    ],
+                    [
+                        "Cyren",
+                        "W32/Trojan.SNKP-5556"
+                    ],
+                    [
+                        "DrWeb",
+                        "BackDoor.BlackHole.52036"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "a variant of Win32/Packed.FlyStudio.AA potentially unwanted"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Dropped:Trojan.Generic.22308946 (B)"
+                    ],
+                    [
+                        "Endgame",
+                        "malicious (high confidence)"
+                    ],
+                    [
+                        "F-Secure",
+                        "Dropped:Trojan.Generic.22308946"
+                    ],
+                    [
+                        "Fortinet",
+                        "W32/Daws.ELTY!tr"
+                    ],
+                    [
+                        "GData",
+                        "Dropped:Trojan.Generic.22308946"
+                    ],
+                    [
+                        "Ikarus",
+                        "Gen.Win32.Malware"
+                    ],
+                    [
+                        "Invincea",
+                        "heuristic"
+                    ],
+                    [
+                        "Jiangmin",
+                        "TrojanDropper.Daws.hmb"
+                    ],
+                    [
+                        "K7AntiVirus",
+                        "Adware ( 005071f51 )"
+                    ],
+                    [
+                        "K7GW",
+                        "Adware ( 005071f51 )"
+                    ],
+                    [
+                        "Kaspersky",
+                        "Trojan-Dropper.Win32.Daws.elty"
+                    ],
+                    [
+                        "McAfee",
+                        "PUP-XCR-HS"
+                    ],
+                    [
+                        "McAfee-GW-Edition",
+                        "PUP-XCR-HS"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Dropped:Trojan.Generic.22308946"
+                    ],
+                    [
+                        "Microsoft",
+                        "Trojan:Win32/CoinMiner.AC!bit"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Trojan.Win32.BlackHole.esgpoz"
+                    ],
+                    [
+                        "Paloalto",
+                        "generic.ml"
+                    ],
+                    [
+                        "Panda",
+                        "Trj/GdSda.A"
+                    ],
+                    [
+                        "Rising",
+                        "Trojan.Injector!1.A1C3 (CLASSIC)"
+                    ],
+                    [
+                        "Sophos",
+                        "Generic PUA IO (PUA)"
+                    ],
+                    [
+                        "Symantec",
+                        "Trojan.Gen.6"
+                    ],
+                    [
+                        "Tencent",
+                        "Win32.Trojan-dropper.Daws.Wqdj"
+                    ],
+                    [
+                        "TotalDefense",
+                        "Win32/Oflwr.A!crypt"
+                    ],
+                    [
+                        "TrendMicro",
+                        "TROJ_GEN.R021C0DHU17"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "TROJ_GEN.R021C0DHU17"
+                    ],
+                    [
+                        "VBA32",
+                        "TrojanDropper.Daws"
+                    ],
+                    [
+                        "VIPRE",
+                        "Trojan.Win32.Generic!BT"
+                    ],
+                    [
+                        "ViRobot",
+                        "Trojan.Win32.Z.Daws.1179648"
+                    ],
+                    [
+                        "Yandex",
+                        "Trojan.DR.Daws!jpI1pa689BM"
+                    ],
+                    [
+                        "Zillya",
+                        "Dropper.Daws.Win32.13772"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "Trojan-Dropper.Win32.Daws.elty"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "50 out of 64 antivirus detected \u001b[1m63e7b5139afc6a5d54bebf5a518b2daf\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/26fd2c3c123d9a18ec4311f5a82bbe79a4190a89bce0e4d73e251f357484468f/analysis/1506498677/\n",
+            "type": "info"
+        }
+    ]
+}

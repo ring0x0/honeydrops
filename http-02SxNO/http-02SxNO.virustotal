@@ -1,0 +1,75 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m8929e525d5b9f30455e8a44c6acac7e2\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "AVG",
+                        "Win32:Ramnit-CW"
+                    ],
+                    [
+                        "Avast",
+                        "Win32:Ramnit-CW"
+                    ],
+                    [
+                        "Comodo",
+                        "Heur.Corrupt.PE"
+                    ],
+                    [
+                        "CrowdStrike",
+                        "malicious_confidence_100% (D)"
+                    ],
+                    [
+                        "Cyren",
+                        "W32/Damaged_File.gen!Eldorado"
+                    ],
+                    [
+                        "Endgame",
+                        "malicious (high confidence)"
+                    ],
+                    [
+                        "F-Prot",
+                        "W32/Damaged_File.gen!Eldorado"
+                    ],
+                    [
+                        "Fortinet",
+                        "W32/Ramnit.DAM"
+                    ],
+                    [
+                        "Invincea",
+                        "heuristic"
+                    ],
+                    [
+                        "Rising",
+                        "Virus.Ramnit!1.A7EB (classic) "
+                    ],
+                    [
+                        "TheHacker",
+                        "W32/Behav-Heuristic-CorruptFile-EP"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "11 out of 60 antivirus detected \u001b[1m8929e525d5b9f30455e8a44c6acac7e2\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/0912f920d2ae8e64ee0cbed396524da8f82c2340e490fe4afdd85aac766a0d35/analysis/1497632442/\n",
+            "type": "info"
+        }
+    ]
+}

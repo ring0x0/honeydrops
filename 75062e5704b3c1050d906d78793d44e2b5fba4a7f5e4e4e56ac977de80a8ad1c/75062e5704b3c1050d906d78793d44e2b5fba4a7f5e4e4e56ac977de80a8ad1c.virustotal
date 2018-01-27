@@ -1,0 +1,51 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m96f46235b3f1f0b9001c8b7b98e3e595\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "AVG",
+                        "BV:Downloader-OC [Drp]"
+                    ],
+                    [
+                        "Avast",
+                        "BV:Downloader-OC [Drp]"
+                    ],
+                    [
+                        "DrWeb",
+                        "Linux.DownLoader.37"
+                    ],
+                    [
+                        "Kaspersky",
+                        "HEUR:Trojan-Downloader.Shell.Agent.as"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "HEUR:Trojan-Downloader.Shell.Agent.as"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "5 out of 59 antivirus detected \u001b[1m96f46235b3f1f0b9001c8b7b98e3e595\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/75062e5704b3c1050d906d78793d44e2b5fba4a7f5e4e4e56ac977de80a8ad1c/analysis/1505903407/\n",
+            "type": "info"
+        }
+    ]
+}

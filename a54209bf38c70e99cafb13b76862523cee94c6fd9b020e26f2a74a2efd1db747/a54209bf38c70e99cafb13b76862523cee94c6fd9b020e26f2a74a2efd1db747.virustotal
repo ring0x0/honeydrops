@@ -1,0 +1,111 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1md36aace19312aef33eca277f6c31b58f\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "Trojan.Downloader.BashAgent.AEZ"
+                    ],
+                    [
+                        "AVG",
+                        "BV:Downloader-JQ [Drp]"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Trojan.Downloader.BashAgent.AEZ"
+                    ],
+                    [
+                        "AegisLab",
+                        "Troj.Downloader.Shell!c"
+                    ],
+                    [
+                        "Arcabit",
+                        "Trojan.Downloader.BashAgent.AEZ"
+                    ],
+                    [
+                        "Avast",
+                        "BV:Downloader-JQ [Drp]"
+                    ],
+                    [
+                        "BitDefender",
+                        "Trojan.Downloader.BashAgent.AEZ"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "Linux/Mirai.AG"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Trojan.Downloader.BashAgent.AEZ (B)"
+                    ],
+                    [
+                        "F-Secure",
+                        "Trojan.Downloader.BashAgent.AEZ"
+                    ],
+                    [
+                        "Fortinet",
+                        "BASH/Mirai.AG!tr.dldr"
+                    ],
+                    [
+                        "GData",
+                        "Trojan.Downloader.BashAgent.AEZ"
+                    ],
+                    [
+                        "Ikarus",
+                        "Trojan.Linux.Downloader"
+                    ],
+                    [
+                        "Kaspersky",
+                        "HEUR:Trojan-Downloader.Shell.Mirai.a"
+                    ],
+                    [
+                        "MAX",
+                        "malware (ai score=80)"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Trojan.Downloader.BashAgent.AEZ"
+                    ],
+                    [
+                        "Qihoo-360",
+                        "Win32/Trojan.Downloader.02b"
+                    ],
+                    [
+                        "Sophos",
+                        "Mal/ShellDl-A"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "Suspicious_GEN.F47V0617"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "HEUR:Trojan-Downloader.Shell.Mirai.a"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "20 out of 57 antivirus detected \u001b[1md36aace19312aef33eca277f6c31b58f\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/a54209bf38c70e99cafb13b76862523cee94c6fd9b020e26f2a74a2efd1db747/analysis/1505365183/\n",
+            "type": "info"
+        }
+    ]
+}

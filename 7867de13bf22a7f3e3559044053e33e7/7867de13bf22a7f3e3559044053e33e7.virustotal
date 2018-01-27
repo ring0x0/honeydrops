@@ -1,0 +1,235 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m7867de13bf22a7f3e3559044053e33e7\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "AVG",
+                        "Win32:Trojan-gen"
+                    ],
+                    [
+                        "AVware",
+                        "Trojan.Win32.Packer.Upack0.3.9 (ep)"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Trojan.GenericKD.4484531"
+                    ],
+                    [
+                        "AegisLab",
+                        "Backdoor.W32.Agent.rqr!c"
+                    ],
+                    [
+                        "AhnLab-V3",
+                        "Trojan/Win32.OnlineGameHack.R74738"
+                    ],
+                    [
+                        "Antiy-AVL",
+                        "Trojan[Backdoor]/Win32.Agent"
+                    ],
+                    [
+                        "Arcabit",
+                        "Trojan.Generic.D446DB3"
+                    ],
+                    [
+                        "Avast",
+                        "Win32:Trojan-gen"
+                    ],
+                    [
+                        "Avira",
+                        "TR/Dropper.Gen"
+                    ],
+                    [
+                        "Baidu",
+                        "Win32.Trojan.WisdomEyes.16070401.9500.9995"
+                    ],
+                    [
+                        "Bkav",
+                        "W32.OnGamesLT180912HKGHAAI.Trojan"
+                    ],
+                    [
+                        "CAT-QuickHeal",
+                        "Worm.Dipasik"
+                    ],
+                    [
+                        "CMC",
+                        "Generic.Win32.7867de13bf!CMCRadar"
+                    ],
+                    [
+                        "ClamAV",
+                        "Win.Trojan.Agent-6378091-0"
+                    ],
+                    [
+                        "CrowdStrike",
+                        "malicious_confidence_100% (W)"
+                    ],
+                    [
+                        "Cybereason",
+                        "malicious.1b8fb7"
+                    ],
+                    [
+                        "DrWeb",
+                        "Trojan.MulDrop.40222"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "Win32/Pepex.G"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Trojan.GenericKD.4484531 (B)"
+                    ],
+                    [
+                        "Endgame",
+                        "malicious (high confidence)"
+                    ],
+                    [
+                        "F-Prot",
+                        "W32/SuspPack.CY.gen!Eldorado"
+                    ],
+                    [
+                        "Ikarus",
+                        "Trojan-Dropper.Agent"
+                    ],
+                    [
+                        "Invincea",
+                        "heuristic"
+                    ],
+                    [
+                        "Jiangmin",
+                        "Backdoor/Agent.bope"
+                    ],
+                    [
+                        "K7AntiVirus",
+                        "Trojan ( 0017f3581 )"
+                    ],
+                    [
+                        "K7GW",
+                        "Trojan ( 0017f3581 )"
+                    ],
+                    [
+                        "Kaspersky",
+                        "Backdoor.Win32.Agent.rqr"
+                    ],
+                    [
+                        "MAX",
+                        "malware (ai score=100)"
+                    ],
+                    [
+                        "McAfee",
+                        "Generic BackDoor"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Trojan.Win32.Agent.edcvoe"
+                    ],
+                    [
+                        "Paloalto",
+                        "generic.ml"
+                    ],
+                    [
+                        "Panda",
+                        "Trj/Pupack.A"
+                    ],
+                    [
+                        "Qihoo-360",
+                        "Trojan.Generic"
+                    ],
+                    [
+                        "Rising",
+                        "Backdoor.Agent!8.C5D (TFE:1:DdP7NPaGgDR)"
+                    ],
+                    [
+                        "SUPERAntiSpyware",
+                        "Trojan.Agent/Gen-Small"
+                    ],
+                    [
+                        "SentinelOne",
+                        "static engine - malicious"
+                    ],
+                    [
+                        "Sophos",
+                        "Troj/Agent-AMRO"
+                    ],
+                    [
+                        "Tencent",
+                        "Win32.Backdoor.Agent.Ahyl"
+                    ],
+                    [
+                        "TheHacker",
+                        "Backdoor/Agent.rqr"
+                    ],
+                    [
+                        "TotalDefense",
+                        "Win32/Tnega.SRT"
+                    ],
+                    [
+                        "TrendMicro",
+                        "TROJ_MEREDROP.II"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "TROJ_MEREDROP.II"
+                    ],
+                    [
+                        "VBA32",
+                        "BScope.Worm.Agent"
+                    ],
+                    [
+                        "VIPRE",
+                        "Trojan.Win32.Packer.Upack0.3.9 (ep)"
+                    ],
+                    [
+                        "ViRobot",
+                        "Backdoor.Win32.Agent.33128"
+                    ],
+                    [
+                        "Webroot",
+                        "W32.Downloader.Gen"
+                    ],
+                    [
+                        "Yandex",
+                        "Backdoor.Agent!mgrK77Tn3jM"
+                    ],
+                    [
+                        "Zillya",
+                        "Backdoor.Agent.Win32.2326"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "Backdoor.Win32.Agent.rqr"
+                    ],
+                    [
+                        "eGambit",
+                        "Unsafe.AI_Score_100%"
+                    ],
+                    [
+                        "nProtect",
+                        "Backdoor/W32.Agent.33128"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "51 out of 62 antivirus detected \u001b[1m7867de13bf22a7f3e3559044053e33e7\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/a29d02251f54567edb1d32f7c17ce4c04d5c54e317eb3b2bea2a068da728e59a/analysis/1516856667/\n",
+            "type": "info"
+        }
+    ]
+}
