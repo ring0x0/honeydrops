@@ -1,8 +1,0 @@
-{
-    "results": [
-        {
-            "data": "You exceeded the public API request rate limit (4 requests of any nature per minute)",
-            "type": "error"
-        }
-    ]
-}
