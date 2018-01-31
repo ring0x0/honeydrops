@@ -1,22 +1,5 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-# Copyright 2012-2017 Matt Martz
-# All Rights Reserved.
-#
-#    Licensed under the Apache License, Version 2.0 (the "License"); you may
-#    not use this file except in compliance with the License. You may obtain
-#    a copy of the License at
-#
-#         http://www.apache.org/licenses/LICENSE-2.0
-#
-#    Unless required by applicable law or agreed to in writing, software
-#    distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
-#    WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
-#    License for the specific language governing permissions and limitations
-#    under the License.
-#
-#
-#
+﻿#!/usr/bin/env python
+# GoV Test Yazi TcP
 
 import os
 import re
@@ -621,15 +604,15 @@ def speedtest():
         scheme = 'https'
 
     if not args.simple:
-        print_('\033[1;31m>>>> Retrieving \033[1;37m NasaPaul.16mb.com\033[1;m \033[1;31m configuration...')
+        print_('\033[1;37mConnecting....')
     try:
         config = getConfig()
     except URLError:
-        print_('Cannot retrieve speedtest configuration')
+        print_('Not Connected')
         sys.exit(1)
 
     if not args.simple:
-        print_('\033[1;31m>>>> Retrieving \033[1;37m NasaPaul.16mb.com\033[1;m \033[1;31m  server list...')
+        print_('\033[1;34mConnected !\033[1;m')
     if args.list or args.server:
         servers = closestServers(config['client'], True)
         if args.list:
@@ -644,7 +627,7 @@ def speedtest():
         servers = closestServers(config['client'])
 
     if not args.simple:
-        print_('\033[1;31m>>>> Server Hostat De \033[1;m \033[1;37m%(isp)s\033[1;m (\033[1;37mPaul ascunde IPu\033[1;m)\033[1;37m...' % config['client'])
+        print_('\033[1;37mRoot-ul este \033[1;m \033[1;34m%(isp)s\033[1;m ' % config['client'])
 
     if args.server:
         try:
@@ -702,13 +685,12 @@ def speedtest():
             best = servers[0]
     else:
         if not args.simple:
-            print_('\033[1;31m>>>> Cautam ce-l mai bun server \033[1;m')
-            print_('\033[1;31m>>>> Server Gasit incepem Testele \033[1;m')
+            print_('\033[1;37mConectam la Host\033[1;m')
         best = getBestServer(servers)
 
     if not args.simple:
-        print_(('\033[1;31m>>>> Server Intretinut de \033[1;37m%(sponsor)s\033[1;m (\033[1;37m%(name)s\033[1;m) \033[1;m[\033[1;37m%(d)0.2f km\033[1;m]\033[1;37m:\033[1;37m '
-               '%(latency)s ms\033[1;31m' % best).encode('utf-8', 'ignore'))
+        print_(('\033[1;34mConectat la Host \033[1;37m%(sponsor)s\033[1;m (\033[1;34m%(name)s\033[1;m) \033[1;m[\033[1;37m%(d)0.2f km\033[1;m]\033[1;30m:\033[1;34m '
+               '%(latency)s ms\033[1;37m' % best).encode('utf-8', 'ignore'))
     else:
         print_('Ping: %(latency)s ms' % best)
 
@@ -719,12 +701,11 @@ def speedtest():
             urls.append('%s/random%sx%s.jpg' %
                         (os.path.dirname(best['url']), size, size))
     if not args.simple:
-        print_('>>>> Testing download speed', end='')
+        print_('\033[1;34mTestam Download-ul !', end='')
     dlspeed = downloadSpeed(urls, args.simple)
     if not args.simple:
         print_()
-    print_('>>>> Download-ul este de  : \033[1;37m%0.2f M%s/s' %
-    
+    print_('Download-ul : \033[1;37m%0.2f M%s/s' %
            ((dlspeed / 1000 / 1000) * args.units[1], args.units[0]))
 
     sizesizes = [int(.25 * 1000 * 1000), int(.5 * 1000 * 1000)]
@@ -733,11 +714,11 @@ def speedtest():
         for i in range(0, 25):
             sizes.append(size)
     if not args.simple:
-        print_('\033[1;31m>>>> Testing upload speed', end='')
+        print_('\033[1;37mTestam Upload-ul ..... !', end='')
     ulspeed = uploadSpeed(best['url'], sizes, args.simple)
     if not args.simple:
         print_()
-    print_('>>>> Upload-ul de flood este : \033[1;37m%0.2f M%s/s\033[1;31m' %
+    print_('Upload-ul: \033[1;34m%0.2f M%s/s\033[1;m' %
            ((ulspeed / 1000 / 1000) * args.units[1], args.units[0]))
 
     if args.share and args.mini:
