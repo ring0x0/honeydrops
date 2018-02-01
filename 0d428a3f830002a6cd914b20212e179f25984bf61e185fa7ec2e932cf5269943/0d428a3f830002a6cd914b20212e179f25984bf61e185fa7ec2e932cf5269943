@@ -1,19 +1,5 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# Copyright 2012-2015 Matt Martz
-# All Rights Reserved.
-#
-#    Licensed under the Apache License, Version 2.0 (the "License"); you may
-#    not use this file except in compliance with the License. You may obtain
-#    a copy of the License at
-#
-#         http://www.apache.org/licenses/LICENSE-2.0
-#
-#    Unless required by applicable law or agreed to in writing, software
-#    distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
-#    WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
-#    License for the specific language governing permissions and limitations
-#    under the License.
 
 import os
 import re
@@ -268,7 +254,7 @@ def downloadSpeed(files, quiet=False):
             thread.start()
             q.put(thread, True)
             if not quiet and not shutdown_event.isSet():
-                sys.stdout.write('.')
+                sys.stdout.write('>')
                 sys.stdout.flush()
 
     finished = []
@@ -333,7 +319,7 @@ def uploadSpeed(url, sizes, quiet=False):
             thread.start()
             q.put(thread, True)
             if not quiet and not shutdown_event.isSet():
-                sys.stdout.write('.')
+                sys.stdout.write('>')
                 sys.stdout.flush()
 
     finished = []
@@ -618,7 +604,7 @@ def speedtest():
         scheme = 'https'
 
     if not args.simple:
-        print_('Retrieving speedtest.net configuration...')
+        print_('\033[1;31m[>>]\033[1;32mCautam configuratia speedtest.net ...')
     try:
         config = getConfig()
     except URLError:
@@ -626,7 +612,7 @@ def speedtest():
         sys.exit(1)
 
     if not args.simple:
-        print_('Retrieving speedtest.net server list...')
+        print_('\033[1;31m[>>]\033[1;32mCautam serverele speedtest.net...\033[1;m')
     if args.list or args.server:
         servers = closestServers(config['client'], True)
         if args.list:
@@ -641,7 +627,7 @@ def speedtest():
         servers = closestServers(config['client'])
 
     if not args.simple:
-        print_('Testing from %(isp)s (%(ip)s)...' % config['client'])
+        print_('\033[1;31m[>>]\033[1;32mCautam unde o hostat\033[1;m \033[1;36m%(isp)s\033[1;m (\033[1;36mxx.xx.xx.xx\033[1;m)\033[1;36m...' % config['client'])
 
     if args.server:
         try:
@@ -699,12 +685,12 @@ def speedtest():
             best = servers[0]
     else:
         if not args.simple:
-            print_('Selecting best server based on latency...')
+            print_('\033[1;31m[>>]\033[1;32mCautam cel mai bun server bazat pe ping... \033[1;m')
         best = getBestServer(servers)
 
     if not args.simple:
-        print_(('Hosted by %(sponsor)s (%(name)s) [%(d)0.2f km]: '
-               '%(latency)s ms' % best).encode('utf-8', 'ignore'))
+        print_(('\033[1;31m[>>]\033[1;32mHostat de \033[1;36m%(sponsor)s\033[1;m (\033[1;36m%(name)s\033[1;m) \033[1;m[\033[1;36m%(d)0.2f km\033[1;m]\033[1;36m:\033[1;36m '
+               '%(latency)s ms\033[1;32m' % best).encode('utf-8', 'ignore'))
     else:
         print_('Ping: %(latency)s ms' % best)
 
@@ -715,11 +701,11 @@ def speedtest():
             urls.append('%s/random%sx%s.jpg' %
                         (os.path.dirname(best['url']), size, size))
     if not args.simple:
-        print_('Testing download speed', end='')
+        print_('\033[1;31m[>>]\033[1;32mTestam viteza download ', end='')
     dlspeed = downloadSpeed(urls, args.simple)
     if not args.simple:
         print_()
-    print_('Download: %0.2f M%s/s' %
+    print_('\033[1;31m[>>]\033[1;32mDownload: \033[1;37m%0.2f M%s/s' %
            ((dlspeed / 1000 / 1000) * args.units[1], args.units[0]))
 
     sizesizes = [int(.25 * 1000 * 1000), int(.5 * 1000 * 1000)]
@@ -728,11 +714,11 @@ def speedtest():
         for i in range(0, 25):
             sizes.append(size)
     if not args.simple:
-        print_('Testing upload speed', end='')
+        print_('\033[1;31m[>>]\033[1;32mTestam viteza upload ', end='')
     ulspeed = uploadSpeed(best['url'], sizes, args.simple)
     if not args.simple:
         print_()
-    print_('Upload: %0.2f M%s/s' %
+    print_('\033[1;31m[>>]\033[1;32mUpload: \033[1;37m%0.2f M%s/s\033[1;36m' %
            ((ulspeed / 1000 / 1000) * args.units[1], args.units[0]))
 
     if args.share and args.mini:
