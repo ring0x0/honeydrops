@@ -1,0 +1,187 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1mb51a52c9c82bb4401659b4c17c60f89f\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "Misc.HackTool.LinShark"
+                    ],
+                    [
+                        "AVG",
+                        "ELF:Shark-F [PUP]"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Virtool.Linux.Shark.A"
+                    ],
+                    [
+                        "AegisLab",
+                        "Hacktool.Linux.Shark!c"
+                    ],
+                    [
+                        "AhnLab-V3",
+                        "Linux/Pscanner"
+                    ],
+                    [
+                        "Antiy-AVL",
+                        "HackTool/Linux.Shark.a"
+                    ],
+                    [
+                        "Arcabit",
+                        "Virtool.Linux.Shark.A"
+                    ],
+                    [
+                        "Avast",
+                        "ELF:Shark-F [PUP]"
+                    ],
+                    [
+                        "Avira",
+                        "SPR/Linux.Shark.A"
+                    ],
+                    [
+                        "BitDefender",
+                        "Virtool.Linux.Shark.A"
+                    ],
+                    [
+                        "CAT-QuickHeal",
+                        "Linux.HackTool.Shark.a"
+                    ],
+                    [
+                        "CMC",
+                        "Generic.Win32.b51a52c9c8!MD"
+                    ],
+                    [
+                        "ClamAV",
+                        "Unix.Malware.Agent-1394874"
+                    ],
+                    [
+                        "Comodo",
+                        "HackTool.Linux.Shark.a"
+                    ],
+                    [
+                        "Cyren",
+                        "Unix/Shark.A"
+                    ],
+                    [
+                        "DrWeb",
+                        "Tool.Linux.Shark.1"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "Linux/HackTool.Shark.A potentially unsafe"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Virtool.Linux.Shark.A (B)"
+                    ],
+                    [
+                        "F-Prot",
+                        "Unix/Shark.A"
+                    ],
+                    [
+                        "F-Secure",
+                        "Virtool.Linux.Shark.A"
+                    ],
+                    [
+                        "Fortinet",
+                        "Riskware/Linuxportscan"
+                    ],
+                    [
+                        "GData",
+                        "Linux.Riskware.Shark.B"
+                    ],
+                    [
+                        "Ikarus",
+                        "HackTool.Linux.Shark"
+                    ],
+                    [
+                        "Jiangmin",
+                        "HackTool.Linux.z"
+                    ],
+                    [
+                        "Kaspersky",
+                        "HackTool.Linux.Shark.a"
+                    ],
+                    [
+                        "MAX",
+                        "malware (ai score=100)"
+                    ],
+                    [
+                        "McAfee",
+                        "Linux/Rootkit.gen"
+                    ],
+                    [
+                        "McAfee-GW-Edition",
+                        "Linux/Rootkit.gen"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Virtool.Linux.Shark.A"
+                    ],
+                    [
+                        "Microsoft",
+                        "HackTool:Linux/Shark!rfn"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Riskware.Unix.Shark.hvaz"
+                    ],
+                    [
+                        "Qihoo-360",
+                        "virus.elf.shark.a"
+                    ],
+                    [
+                        "Rising",
+                        "Hack.Linux.Shark.a (CLASSIC)"
+                    ],
+                    [
+                        "Sophos",
+                        "Troj/HTShark-A"
+                    ],
+                    [
+                        "Symantec",
+                        "Hacktool.Rootkit"
+                    ],
+                    [
+                        "Tencent",
+                        "Trojan.Linux.Shark.a"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "HackingTools_Shark"
+                    ],
+                    [
+                        "Zillya",
+                        "Tool.Shark.Linux.1"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "HackTool.Linux.Shark.a"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "39 out of 58 antivirus detected \u001b[1mb51a52c9c82bb4401659b4c17c60f89f\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/97093a1ef729cb954b2a63d7ccc304b18d0243e2a77d87bbbb94741a0290d762/analysis/1515941925/\n",
+            "type": "info"
+        }
+    ]
+}
