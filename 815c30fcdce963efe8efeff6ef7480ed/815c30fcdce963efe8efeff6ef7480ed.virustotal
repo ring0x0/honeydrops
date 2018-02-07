@@ -1,0 +1,107 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1mdb246488bcccd15c72a642bfd71fc4bc\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "Trojan.Downloader.BashAgent.AFM"
+                    ],
+                    [
+                        "AVG",
+                        "BV:Downloader-II [Trj]"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Trojan.Downloader.BashAgent.AFM"
+                    ],
+                    [
+                        "AegisLab",
+                        "Script.Troj.Agent!c"
+                    ],
+                    [
+                        "Arcabit",
+                        "Trojan.Downloader.BashAgent.AFM"
+                    ],
+                    [
+                        "Avast",
+                        "BV:Downloader-II [Trj]"
+                    ],
+                    [
+                        "BitDefender",
+                        "Trojan.Downloader.BashAgent.AFM"
+                    ],
+                    [
+                        "ClamAV",
+                        "Unix.Malware.Agent-6331055-0"
+                    ],
+                    [
+                        "Cyren",
+                        "Trojan.DZOA-2"
+                    ],
+                    [
+                        "DrWeb",
+                        "Linux.DownLoader.178"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "Linux/Tsunami.NJE"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Trojan.Downloader.BashAgent.AFM (B)"
+                    ],
+                    [
+                        "F-Secure",
+                        "Trojan.Downloader.BashAgent.AFM"
+                    ],
+                    [
+                        "GData",
+                        "Trojan.Downloader.BashAgent.AFM"
+                    ],
+                    [
+                        "Ikarus",
+                        "Trojan.Linux.Tsunami"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Trojan.Downloader.BashAgent.AFM"
+                    ],
+                    [
+                        "Symantec",
+                        "Downloader"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "Suspicious_GEN.F47V0625"
+                    ],
+                    [
+                        "ViRobot",
+                        "HTML.Z.Agent.1235"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "19 out of 57 antivirus detected \u001b[1mdb246488bcccd15c72a642bfd71fc4bc\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/14199e1fac7c841a827567e5f2027ca2cd00799b7b95f7ad6181121ae60249cd/analysis/1499143386/\n",
+            "type": "info"
+        }
+    ]
+}

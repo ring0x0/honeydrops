@@ -1,8 +1,120 @@
 {
-    "results": [
+    "results": []
+}
+     {
+            "data": "VirusTotal Report for \u001b[1m9c1ea9ef19958b838a74ef59d2b0a487\u001b[0m:",
+            "type": "success"
+        },
         {
-            "data": "You exceeded the public API request rate limit (4 requests of any nature per minute)",
-            "type": "error"
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "Generic.Bash.MiraiA.2BC96A7D"
+                    ],
+                    [
+                        "AVG",
+                        "BV:Downloader-JS [Drp]"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Generic.Bash.MiraiA.2BC96A7D"
+                    ],
+                    [
+                        "AegisLab",
+                        "Troj.Downloader.Shell!c"
+                    ],
+                    [
+                        "Arcabit",
+                        "Generic.Bash.MiraiA.2BC96A7D"
+                    ],
+                    [
+                        "Avast",
+                        "BV:Downloader-JS [Drp]"
+                    ],
+                    [
+                        "BitDefender",
+                        "Generic.Bash.MiraiA.2BC96A7D"
+                    ],
+                    [
+                        "Cyren",
+                        "Trojan.PREB-5"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Generic.Bash.MiraiA.2BC96A7D (B)"
+                    ],
+                    [
+                        "F-Secure",
+                        "Generic.Bash.MiraiA.2BC96A7D"
+                    ],
+                    [
+                        "Fortinet",
+                        "Linux/ShellDLoader.RMF!tr"
+                    ],
+                    [
+                        "GData",
+                        "Generic.Bash.MiraiA.2BC96A7D"
+                    ],
+                    [
+                        "Kaspersky",
+                        "HEUR:Trojan-Downloader.Shell.Agent.p"
+                    ],
+                    [
+                        "MAX",
+                        "malware (ai score=89)"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Generic.Bash.MiraiA.2BC96A7D"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Trojan.Script.Ric.etjcgz"
+                    ],
+                    [
+                        "Qihoo-360",
+                        "Win32/Trojan.Downloader.dc0"
+                    ],
+                    [
+                        "Sophos",
+                        "Mal/ShellDl-A"
+                    ],
+                    [
+                        "Symantec",
+                        "Trojan.Gen.NPE"
+                    ],
+                    [
+                        "Tencent",
+                        "Win32.Trojan-downloader.Agent.Htmc"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "Suspicious_GEN.F47V1007"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "HEUR:Trojan-Downloader.Shell.Agent.p"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "22 out of 60 antivirus detected \u001b[1m9c1ea9ef19958b838a74ef59d2b0a487\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/7a2a1a226e3281880d0b96a3a2bd56deea5f6e95d877f45572b9170ba87900ec/analysis/1515531205/\n",
+            "type": "info"
         }
     ]
 }
