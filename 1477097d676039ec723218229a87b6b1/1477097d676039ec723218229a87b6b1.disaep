@@ -1,6 +1,0 @@
-fc680c6b0000f85a86e5
-cld 
-push dword 0x6b0c
-clc 
-pop edx
-xchg ch,ah

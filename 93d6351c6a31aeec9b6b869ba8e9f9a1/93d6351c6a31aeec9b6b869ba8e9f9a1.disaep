@@ -1,5 +1,0 @@
-83cd0087fa87fae80900
-or ebp,0x0
-xchg edx,edi
-xchg edx,edi
-call 0x1448015

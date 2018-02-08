@@ -1,3 +1,0 @@
-cd /tmp/
-./u6789&
-/etc/init.d/iptables stop

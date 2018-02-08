@@ -1,5 +1,0 @@
-83ec045053e801000000
-sub esp,0x4
-push eax
-push ebx
-call 0x61a00b

@@ -1,7 +1,0 @@
-!This program cannot be run in DOS mode.
-Rich
-.text
-`.rdata
-@.data
-.rsrc
-@.rmnet

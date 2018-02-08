@@ -1,7 +1,0 @@
-9090bb21a1fb1e909068
-nop 
-nop 
-mov ebx,0x1efba121
-nop 
-nop 
-push dword 0x1000000

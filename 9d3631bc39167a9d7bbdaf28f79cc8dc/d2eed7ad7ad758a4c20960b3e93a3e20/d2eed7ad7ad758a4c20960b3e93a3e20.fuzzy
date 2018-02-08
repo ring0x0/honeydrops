@@ -1,1 +1,0 @@
-{"results": [{"data": "\u001b[1m2\u001b[0m relevant matches found", "type": "info"}, {"data": {"header": ["Score", "Name", "SHA256"], "rows": [["83%", "http-6ecxv6", "2cd9f00067d74736811a01c16ab2dd2b5f8f99249330cecbe7631d578b5f944f"], ["96%", "a6a3fae657dc4cba24535a9ceb736f0b", "2ef5fe76cc60f45e2a99b14365a8b5826d74cdffb87b9e1a607016b59c64b14b"]]}, "type": "table"}]}

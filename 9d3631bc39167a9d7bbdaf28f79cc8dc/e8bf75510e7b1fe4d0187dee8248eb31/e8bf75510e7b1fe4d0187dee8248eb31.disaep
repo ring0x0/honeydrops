@@ -1,4 +1,0 @@
-60be009040008dbe0080
-pusha 
-mov esi,0x409000
-lea edi,[esi+0x74008000]

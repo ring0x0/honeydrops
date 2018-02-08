@@ -1,7 +1,0 @@
-9090685cfa6f0f5990ba
-nop 
-nop 
-push dword 0xf6ffa5c
-pop ecx
-nop 
-mov edx,0xb000000

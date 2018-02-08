@@ -1,5 +1,0 @@
-833c24fe77fe8aff8d64
-cmp dword [esp],0xfffffffe
-ja 0x41b116
-mov bh,bh
-lea esp,[eax+eax+0x0]

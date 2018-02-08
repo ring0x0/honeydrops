@@ -1,4 +1,0 @@
-b80ce344005064ff3500
-mov eax,0x44e30c
-push eax
-push dword fs:[0x740000]

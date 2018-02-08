@@ -1,4 +1,0 @@
-680f8214005bbf244049
-push dword 0x14820f
-pop ebx
-mov edi,0x494024

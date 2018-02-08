@@ -1,5 +1,0 @@
-558bec6aff68a0804100
-push ebp
-mov ebp,esp
-push byte 0xffffffff
-push dword 0x4180a0

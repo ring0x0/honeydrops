@@ -1,6 +1,0 @@
-8bff558bec837d0c0175
-mov edi,edi
-push ebp
-mov ebp,esp
-cmp dword [ebp+0xc],0x1
-jnz 0x10003360

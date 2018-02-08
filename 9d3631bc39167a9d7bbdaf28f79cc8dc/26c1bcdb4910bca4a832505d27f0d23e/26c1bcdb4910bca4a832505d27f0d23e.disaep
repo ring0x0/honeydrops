@@ -1,5 +1,0 @@
-41b9cf4fe80c48be1e00
-inc ecx
-mov ecx,0xce84fcf
-dec eax
-mov esi,0xa000001e

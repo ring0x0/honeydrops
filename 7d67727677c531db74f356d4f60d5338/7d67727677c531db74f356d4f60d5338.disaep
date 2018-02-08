@@ -1,6 +1,0 @@
-680a6a0000f85af7d0f7
-push dword 0x6a0a
-clc 
-pop edx
-not eax
-test dword [eax],0x70000

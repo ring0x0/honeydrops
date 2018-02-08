@@ -1,6 +1,0 @@
-9090bbfe20a21090681c
-nop 
-nop 
-mov ebx,0x10a220fe
-nop 
-push dword 0x100001c

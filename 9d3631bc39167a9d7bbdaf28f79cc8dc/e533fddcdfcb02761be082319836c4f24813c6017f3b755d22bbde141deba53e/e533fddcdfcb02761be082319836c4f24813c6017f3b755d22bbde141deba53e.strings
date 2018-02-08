@@ -1,2 +1,0 @@
-#!/bin/bash
-./brute 800 -b $1 passfile $2 "uname -a"

@@ -1,5 +1,0 @@
-90ba9c05000090bede4f
-nop 
-mov edx,0x59c
-nop 
-mov esi,0xa0004fde

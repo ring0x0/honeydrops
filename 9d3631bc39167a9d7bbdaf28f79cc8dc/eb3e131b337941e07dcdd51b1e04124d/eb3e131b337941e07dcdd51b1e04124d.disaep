@@ -1,3 +1,0 @@
-83ec1cc7042401000000
-sub esp,0x1c
-mov dword [esp],0x1
