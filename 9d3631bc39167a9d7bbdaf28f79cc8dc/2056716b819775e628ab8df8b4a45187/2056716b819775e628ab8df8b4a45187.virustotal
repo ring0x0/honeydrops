@@ -1,0 +1,227 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m2056716b819775e628ab8df8b4a45187\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "DeepScan:Generic.ServStart.D.D8BEF853"
+                    ],
+                    [
+                        "AVG",
+                        "Win32:MrBlack-A [Trj]"
+                    ],
+                    [
+                        "AVware",
+                        "Trojan.Win32.Generic!BT"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "DeepScan:Generic.ServStart.D.D8BEF853"
+                    ],
+                    [
+                        "AegisLab",
+                        "Troj.W32.Generic!c"
+                    ],
+                    [
+                        "AhnLab-V3",
+                        "Worm/Win32.IRCBot.C14372"
+                    ],
+                    [
+                        "Antiy-AVL",
+                        "Trojan/Win32.AGeneric"
+                    ],
+                    [
+                        "Arcabit",
+                        "DeepScan:Generic.ServStart.D.D8BEF853"
+                    ],
+                    [
+                        "Avast",
+                        "Win32:MrBlack-A [Trj]"
+                    ],
+                    [
+                        "Avira",
+                        "TR/Downloader.ocncg"
+                    ],
+                    [
+                        "Baidu",
+                        "Win32.Trojan.Agent.ace"
+                    ],
+                    [
+                        "BitDefender",
+                        "DeepScan:Generic.ServStart.D.D8BEF853"
+                    ],
+                    [
+                        "CAT-QuickHeal",
+                        "TrojanDownloader.Yemrok"
+                    ],
+                    [
+                        "CrowdStrike",
+                        "malicious_confidence_100% (W)"
+                    ],
+                    [
+                        "Cylance",
+                        "Unsafe"
+                    ],
+                    [
+                        "Cyren",
+                        "W32/Trojan.OOVA-7769"
+                    ],
+                    [
+                        "DrWeb",
+                        "DLOADER.Trojan"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "a variant of Win32/Agent.QIS"
+                    ],
+                    [
+                        "Emsisoft",
+                        "DeepScan:Generic.ServStart.D.D8BEF853 (B)"
+                    ],
+                    [
+                        "Endgame",
+                        "malicious (high confidence)"
+                    ],
+                    [
+                        "F-Secure",
+                        "DeepScan:Generic.ServStart.D.D8BEF853"
+                    ],
+                    [
+                        "Fortinet",
+                        "W32/Generic.AC.3C54C2!tr"
+                    ],
+                    [
+                        "GData",
+                        "DeepScan:Generic.ServStart.D.D8BEF853"
+                    ],
+                    [
+                        "Ikarus",
+                        "Trojan.Win32.Vehidis"
+                    ],
+                    [
+                        "Invincea",
+                        "heuristic"
+                    ],
+                    [
+                        "Jiangmin",
+                        "Trojan.Generic.aukdk"
+                    ],
+                    [
+                        "K7AntiVirus",
+                        "Trojan ( 004be76f1 )"
+                    ],
+                    [
+                        "K7GW",
+                        "Trojan ( 004be76f1 )"
+                    ],
+                    [
+                        "Kaspersky",
+                        "HEUR:Trojan.Win32.Generic"
+                    ],
+                    [
+                        "MAX",
+                        "malware (ai score=88)"
+                    ],
+                    [
+                        "McAfee",
+                        "RDN/Generic Downloader.x"
+                    ],
+                    [
+                        "McAfee-GW-Edition",
+                        "BehavesLike.Win32.Backdoor.lh"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "DeepScan:Generic.ServStart.D.D8BEF853"
+                    ],
+                    [
+                        "Microsoft",
+                        "TrojanDownloader:Win32/Yemrok.B"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Trojan.Win32.Agent.emrzqj"
+                    ],
+                    [
+                        "Paloalto",
+                        "generic.ml"
+                    ],
+                    [
+                        "Panda",
+                        "Trj/Genetic.gen"
+                    ],
+                    [
+                        "Qihoo-360",
+                        "HEUR/QVM07.1.E5ED.Malware.Gen"
+                    ],
+                    [
+                        "Rising",
+                        "Downloader.Yemrok!8.2F4 (cloud:oaeuFfFDoLB)"
+                    ],
+                    [
+                        "SentinelOne",
+                        "static engine - malicious"
+                    ],
+                    [
+                        "Sophos",
+                        "Mal/Emogen-P"
+                    ],
+                    [
+                        "Symantec",
+                        "DDoS.Trojan"
+                    ],
+                    [
+                        "Tencent",
+                        "Win32.Trojan.Generic.Hnus"
+                    ],
+                    [
+                        "TrendMicro",
+                        "TROJ_NITOL.SMC"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "TROJ_NITOL.SMC"
+                    ],
+                    [
+                        "VIPRE",
+                        "Trojan.Win32.Generic!BT"
+                    ],
+                    [
+                        "ViRobot",
+                        "Trojan.Win32.Z.Agent.18432.ACE"
+                    ],
+                    [
+                        "Yandex",
+                        "Trojan.Agent!a1Fw/78LS0k"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "HEUR:Trojan.Win32.Generic"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "49 out of 63 antivirus detected \u001b[1m2056716b819775e628ab8df8b4a45187\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/f8a86fb0798cd7c9bd926e9ef4158bf6f6fb922b9c30bd7d9e4c90080540ea8f/analysis/1500347032/\n",
+            "type": "info"
+        }
+    ]
+}

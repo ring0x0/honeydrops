@@ -1,0 +1,3 @@
+68f4b60677e83bae0100
+push dword 0x7706b6f4
+call 0x4603c8

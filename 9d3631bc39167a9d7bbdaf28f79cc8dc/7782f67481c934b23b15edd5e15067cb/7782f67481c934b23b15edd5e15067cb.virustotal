@@ -1,0 +1,195 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m5a957607b4991206fad0d48ab40b676a\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "Gen:Variant.Graftor.154198"
+                    ],
+                    [
+                        "AVG",
+                        "Win32:Malware-gen"
+                    ],
+                    [
+                        "AVware",
+                        "Trojan-Downloader.Win32.Zegost.al (v)"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Gen:Variant.Graftor.154198"
+                    ],
+                    [
+                        "AegisLab",
+                        "Troj.W32.Temr.mDOx"
+                    ],
+                    [
+                        "AhnLab-V3",
+                        "Malware/Win32.Generic.C1800177"
+                    ],
+                    [
+                        "Antiy-AVL",
+                        "Trojan[Backdoor]/Win32.AGeneric"
+                    ],
+                    [
+                        "Arcabit",
+                        "Trojan.Graftor.D25A56"
+                    ],
+                    [
+                        "Avast",
+                        "Win32:Malware-gen"
+                    ],
+                    [
+                        "Baidu",
+                        "Win32.Trojan-Downloader.Agent.bh"
+                    ],
+                    [
+                        "BitDefender",
+                        "Gen:Variant.Graftor.154198"
+                    ],
+                    [
+                        "Bkav",
+                        "W32.eHeur.Malware10"
+                    ],
+                    [
+                        "CAT-QuickHeal",
+                        "Trojan.Zenshirsh.SL7"
+                    ],
+                    [
+                        "Comodo",
+                        "TrojWare.Win32.TrojanDownloader.Redosdru.FG"
+                    ],
+                    [
+                        "CrowdStrike",
+                        "malicious_confidence_97% (D)"
+                    ],
+                    [
+                        "Cylance",
+                        "Unsafe"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "a variant of Win32/TrojanDownloader.Agent.BNA"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Gen:Variant.Graftor.154198 (B)"
+                    ],
+                    [
+                        "F-Secure",
+                        "Gen:Variant.Graftor.154198"
+                    ],
+                    [
+                        "Fortinet",
+                        "W32/Agent.BKJ!tr"
+                    ],
+                    [
+                        "GData",
+                        "Gen:Variant.Graftor.154198"
+                    ],
+                    [
+                        "Ikarus",
+                        "Trojan.Win32.Redosdru"
+                    ],
+                    [
+                        "Jiangmin",
+                        "Backdoor.Generic.ajsp"
+                    ],
+                    [
+                        "K7AntiVirus",
+                        "Trojan-Downloader ( 004c7cdd1 )"
+                    ],
+                    [
+                        "K7GW",
+                        "Trojan-Downloader ( 004c7cdd1 )"
+                    ],
+                    [
+                        "Kaspersky",
+                        "HEUR:Backdoor.Win32.Generic"
+                    ],
+                    [
+                        "MAX",
+                        "malware (ai score=89)"
+                    ],
+                    [
+                        "McAfee",
+                        "Downloader-FBPC!5A957607B499"
+                    ],
+                    [
+                        "McAfee-GW-Edition",
+                        "Downloader-FBPC!5A957607B499"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Gen:Variant.Graftor.154198"
+                    ],
+                    [
+                        "Microsoft",
+                        "TrojanDownloader:Win32/Farfli.F!bit"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Trojan.Win32.Agent.eqmsqd"
+                    ],
+                    [
+                        "Panda",
+                        "Trj/GdSda.A"
+                    ],
+                    [
+                        "Rising",
+                        "Malware.Generic.5!tfe (thunder:K2E4UKS5vQU)"
+                    ],
+                    [
+                        "SentinelOne",
+                        "static engine - malicious"
+                    ],
+                    [
+                        "Sophos",
+                        "Troj/Zegost-ID"
+                    ],
+                    [
+                        "TrendMicro",
+                        "BKDR_ZEGOST.SM14"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "BKDR_ZEGOST.SM14"
+                    ],
+                    [
+                        "VBA32",
+                        "suspected of Trojan.Downloader.gen.h"
+                    ],
+                    [
+                        "VIPRE",
+                        "Trojan-Downloader.Win32.Zegost.al (v)"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "HEUR:Backdoor.Win32.Generic"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "41 out of 64 antivirus detected \u001b[1m5a957607b4991206fad0d48ab40b676a\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/f778c65675c2d18f24f99521e93073cb9e485ac723e18e111dfc559a37880b25/analysis/1499366114/\n",
+            "type": "info"
+        }
+    ]
+}

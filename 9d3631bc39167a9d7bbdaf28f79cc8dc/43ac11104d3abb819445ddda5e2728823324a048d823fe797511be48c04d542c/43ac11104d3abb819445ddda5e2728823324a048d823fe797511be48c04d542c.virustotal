@@ -1,0 +1,75 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m1eb217449375dbdc59a9608de8c2b18d\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "AVG",
+                        "BV:Downloader-JW [Drp]"
+                    ],
+                    [
+                        "AegisLab",
+                        "Troj.Downloader.Shell!c"
+                    ],
+                    [
+                        "Avast",
+                        "BV:Downloader-JW [Drp]"
+                    ],
+                    [
+                        "ClamAV",
+                        "Unix.Malware.Agent-6329127-0"
+                    ],
+                    [
+                        "DrWeb",
+                        "Linux.DownLoader.37"
+                    ],
+                    [
+                        "Ikarus",
+                        "Trojan.Linux.Downloader"
+                    ],
+                    [
+                        "Kaspersky",
+                        "HEUR:Trojan-Downloader.Shell.Agent.p"
+                    ],
+                    [
+                        "Qihoo-360",
+                        "Win32/Trojan.Downloader.465"
+                    ],
+                    [
+                        "Rising",
+                        "Downloader.Agent!8.B23 (cloud:tXoq1d5pPvF) "
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "Suspicious_GEN.F47V0607"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "HEUR:Trojan-Downloader.Shell.Agent.p"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "11 out of 57 antivirus detected \u001b[1m1eb217449375dbdc59a9608de8c2b18d\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/543773cb7f8c54ab1b663e5cd87cba2b2624704849481d248dafe3003ab64b7b/analysis/1497131115/\n",
+            "type": "info"
+        }
+    ]
+}

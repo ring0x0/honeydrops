@@ -1,0 +1,39 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1md32a54466abc11b2daae68f60d5d0967\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "TrendMicro",
+                        "TROJ_Generic.ZA"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "TROJ_Generic.ZA"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "2 out of 58 antivirus detected \u001b[1md32a54466abc11b2daae68f60d5d0967\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/1d544b61c13a63b115d45fd9e2c8647d179cea8e027148ee48dfd5b421daf6ae/analysis/1506764902/\n",
+            "type": "info"
+        }
+    ]
+}

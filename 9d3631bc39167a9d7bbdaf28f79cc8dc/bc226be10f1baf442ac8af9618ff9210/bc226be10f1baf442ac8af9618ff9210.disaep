@@ -1,0 +1,4 @@
+6a606890914000e8bf03
+push byte 0x60
+push dword 0x409190
+call 0x403000

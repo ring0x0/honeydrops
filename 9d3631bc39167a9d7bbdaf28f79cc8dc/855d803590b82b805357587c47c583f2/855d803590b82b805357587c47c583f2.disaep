@@ -1,0 +1,4 @@
+60be00b040008dbe0060
+pusha 
+mov esi,0x40b000
+lea edi,[esi+0x74006000]

@@ -1,0 +1,67 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m9c66fb26a3cc24befe1295d1eed71c7f\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "AVG",
+                        "Other:PUP-gen [PUP]"
+                    ],
+                    [
+                        "AegisLab",
+                        "Troj.Gen!c"
+                    ],
+                    [
+                        "Avast",
+                        "Other:PUP-gen [PUP]"
+                    ],
+                    [
+                        "Avira",
+                        "APPL/lnx.SSHBrute.kpgwm"
+                    ],
+                    [
+                        "DrWeb",
+                        "Tool.Linux.SSHBrute.10"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "a variant of Linux/HackTool.Sshbrute.P potentially unsafe"
+                    ],
+                    [
+                        "Sophos",
+                        "Generic PUA IB (PUA)"
+                    ],
+                    [
+                        "TrendMicro",
+                        "TROJ_GE.B18320A3"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "TROJ_GE.B18320A3"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "9 out of 60 antivirus detected \u001b[1m9c66fb26a3cc24befe1295d1eed71c7f\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/8b7a9a8dfeb1e17b342594454c99dc54ba0cdfeac231152dc37a941866b50307/analysis/1507287276/\n",
+            "type": "info"
+        }
+    ]
+}

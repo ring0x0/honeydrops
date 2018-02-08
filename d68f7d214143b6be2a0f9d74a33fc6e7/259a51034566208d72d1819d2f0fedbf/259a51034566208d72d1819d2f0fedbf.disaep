@@ -1,0 +1,3 @@
+682d3aff75e823120200
+push dword 0x75ff3a2d
+call 0x45f398

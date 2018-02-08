@@ -1,0 +1,26 @@
+{
+    "results": {
+        "default": [
+            {
+                "crc32": "6CD8FC26",
+                "created_at": "2017-06-06 04:07:35.600001",
+                "id": 5,
+                "md5": "4d10dc48d388c1b18d9ced0c211bc710",
+                "name": "27ab26b3062f1b7070042e30afd7cd1659bc5b78139af16f759490307742f6b5",
+                "sha1": "ae77f79c546f8660712669fd7a1c1e6edfc455d8",
+                "sha256": "27ab26b3062f1b7070042e30afd7cd1659bc5b78139af16f759490307742f6b5",
+                "sha512": "9a41de628f77f09b65a78c0034a4e11bb11b160e4faec1f502cf840a3d32b05a19a7ac675d792e5fb9274be90c9b4bb5ba652534b97f4c690febe51ad67d037f",
+                "size": 26076,
+                "ssdeep": "384:YldtcA/1k7J8lizMAhev/gz0Wmiy33NHBTnkzkUU:YvtcsSJVev/gz01VHeU",
+                "tags": [
+                    "new",
+                    "159.203.x.x",
+                    "cowrie",
+                    "06/08/2017",
+                    "21:50:01"
+                ],
+                "type": "Python script, ASCII text executable, with CRLF line terminators"
+            }
+        ]
+    }
+}

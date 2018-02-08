@@ -1,0 +1,16 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1maba4ceae7bb146d4d23d81feaf5d62f5\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "0 out of 59 antivirus detected \u001b[1maba4ceae7bb146d4d23d81feaf5d62f5\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/3b6a858c53629ab2ef5373126f3830ee424ccebec259a87b9713143f26335175/analysis/1505142623/\n",
+            "type": "info"
+        }
+    ]
+}

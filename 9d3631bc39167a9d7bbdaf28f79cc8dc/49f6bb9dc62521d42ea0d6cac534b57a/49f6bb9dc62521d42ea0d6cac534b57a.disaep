@@ -1,0 +1,8 @@
+833c24fe77fe8d6424cc
+cmp dword [esp],0xfffffffe
+ja 0x41594d
+lea esp,[esp-0x34]
+833c24fe77fe8d6424cc
+cmp dword [esp],0xfffffffe
+ja 0x41594d
+lea esp,[esp-0x34]

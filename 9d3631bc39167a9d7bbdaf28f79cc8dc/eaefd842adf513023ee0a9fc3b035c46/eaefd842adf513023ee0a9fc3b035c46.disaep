@@ -1,0 +1,6 @@
+684a6b0000f85986c48d
+push dword 0x6b4a
+clc 
+pop ecx
+xchg ah,al
+lea eax,[eax]

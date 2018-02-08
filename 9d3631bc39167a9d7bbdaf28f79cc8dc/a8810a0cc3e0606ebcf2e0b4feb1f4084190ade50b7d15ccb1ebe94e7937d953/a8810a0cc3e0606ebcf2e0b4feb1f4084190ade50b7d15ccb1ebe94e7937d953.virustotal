@@ -1,0 +1,17 @@
+{
+    "results": []
+}
+     {
+            "data": "VirusTotal Report for \u001b[1m955472f88161d82fb39642b692cde7cb\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "0 out of 57 antivirus detected \u001b[1m955472f88161d82fb39642b692cde7cb\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/601bbbe4e80c8b67e004c810ff77cc533cc9aaf1f3704514ec3d5f6b9a99709b/analysis/1505368031/\n",
+            "type": "info"
+        }
+    ]
+}

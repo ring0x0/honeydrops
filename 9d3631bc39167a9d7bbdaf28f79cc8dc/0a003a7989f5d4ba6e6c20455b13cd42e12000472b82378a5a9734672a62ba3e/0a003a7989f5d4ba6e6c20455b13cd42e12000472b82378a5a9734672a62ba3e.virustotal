@@ -1,0 +1,235 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m587c81186df7fe296cbad7d8db8ccaa1\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "AVG",
+                        "Win32:Farfli-AX [Trj]"
+                    ],
+                    [
+                        "AVware",
+                        "BehavesLike.Win32.Malware.tsc (mx-v)"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Generic.Mulinex.7192AD14"
+                    ],
+                    [
+                        "AegisLab",
+                        "Troj.W32.Gen.lE8A"
+                    ],
+                    [
+                        "AhnLab-V3",
+                        "Trojan/Win32.Agent.R85871"
+                    ],
+                    [
+                        "Arcabit",
+                        "Generic.Mulinex.7192AD14"
+                    ],
+                    [
+                        "Avast",
+                        "Win32:Farfli-AX [Trj]"
+                    ],
+                    [
+                        "Avira",
+                        "TR/ATRAPS.Gen2"
+                    ],
+                    [
+                        "Baidu",
+                        "Win32.Backdoor.Farfli.a"
+                    ],
+                    [
+                        "BitDefender",
+                        "Generic.Mulinex.7192AD14"
+                    ],
+                    [
+                        "Bkav",
+                        "W32.StartupComime.Trojan"
+                    ],
+                    [
+                        "CAT-QuickHeal",
+                        "Trojan.Beaugrit.AA4"
+                    ],
+                    [
+                        "Comodo",
+                        "TrojWare.Win32.Farfli.AC"
+                    ],
+                    [
+                        "CrowdStrike",
+                        "malicious_confidence_100% (W)"
+                    ],
+                    [
+                        "Cybereason",
+                        "malicious.1b8fb7"
+                    ],
+                    [
+                        "Cylance",
+                        "Unsafe"
+                    ],
+                    [
+                        "Cyren",
+                        "W32/KillAV.AU.gen!Eldorado"
+                    ],
+                    [
+                        "DrWeb",
+                        "BackDoor.Spy.422"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "a variant of Win32/Farfli.AIS"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Generic.Mulinex.7192AD14 (B)"
+                    ],
+                    [
+                        "Endgame",
+                        "malicious (high confidence)"
+                    ],
+                    [
+                        "F-Prot",
+                        "W32/KillAV.AU.gen!Eldorado"
+                    ],
+                    [
+                        "F-Secure",
+                        "Generic.Mulinex.7192AD14"
+                    ],
+                    [
+                        "Fortinet",
+                        "W32/Farfli.PZ!tr"
+                    ],
+                    [
+                        "GData",
+                        "Generic.Mulinex.7192AD14"
+                    ],
+                    [
+                        "Invincea",
+                        "heuristic"
+                    ],
+                    [
+                        "Jiangmin",
+                        "Heur:Backdoor/Ghost"
+                    ],
+                    [
+                        "K7AntiVirus",
+                        "Backdoor ( 0040f89b1 )"
+                    ],
+                    [
+                        "K7GW",
+                        "Backdoor ( 0040f89b1 )"
+                    ],
+                    [
+                        "Kaspersky",
+                        "Trojan.Win32.Agent.aglgw"
+                    ],
+                    [
+                        "MAX",
+                        "malware (ai score=100)"
+                    ],
+                    [
+                        "McAfee",
+                        "GenericRXAI-IW!587C81186DF7"
+                    ],
+                    [
+                        "McAfee-GW-Edition",
+                        "BehavesLike.Win32.Dropper.ch"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Generic.Mulinex.7192AD14"
+                    ],
+                    [
+                        "Microsoft",
+                        "Backdoor:Win32/Farfli.BW"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Trojan.Win32.Agent.czwjru"
+                    ],
+                    [
+                        "Paloalto",
+                        "generic.ml"
+                    ],
+                    [
+                        "Panda",
+                        "Trj/Genetic.gen"
+                    ],
+                    [
+                        "Qihoo-360",
+                        "Backdoor.Win32.Agent.NT"
+                    ],
+                    [
+                        "SentinelOne",
+                        "static engine - malicious"
+                    ],
+                    [
+                        "Sophos",
+                        "Mal/Emogen-Y"
+                    ],
+                    [
+                        "Symantec",
+                        "Backdoor.Trojan"
+                    ],
+                    [
+                        "Tencent",
+                        "Trojan.Win32.Agent.aex"
+                    ],
+                    [
+                        "TrendMicro",
+                        "BKDR_FARFLI.SMP"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "BKDR_FARFLI.SMP"
+                    ],
+                    [
+                        "VBA32",
+                        "BScope.P2P-Worm.Palevo"
+                    ],
+                    [
+                        "VIPRE",
+                        "BehavesLike.Win32.Malware.tsc (mx-v)"
+                    ],
+                    [
+                        "ViRobot",
+                        "Trojan.Win32.Z.Farfli.106496.EQ"
+                    ],
+                    [
+                        "Zillya",
+                        "Trojan.Agent.Win32.468114"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "Trojan.Win32.Agent.aglgw"
+                    ],
+                    [
+                        "eGambit",
+                        "Trojan.Generic"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "51 out of 66 antivirus detected \u001b[1m587c81186df7fe296cbad7d8db8ccaa1\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/92bcdd1ae9a860ee7246a34dadef3125f12c7bdb38145395a12896eea7591995/analysis/1511261783/\n",
+            "type": "info"
+        }
+    ]
+}

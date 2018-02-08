@@ -1,0 +1,203 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m259a51034566208d72d1819d2f0fedbf\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "Gen:Variant.Symmi.21014"
+                    ],
+                    [
+                        "AVG",
+                        "Win32:Malware-gen"
+                    ],
+                    [
+                        "AVware",
+                        "Trojan.Win32.Generic!BT"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Gen:Variant.Symmi.21014"
+                    ],
+                    [
+                        "AegisLab",
+                        "Gen.Variant.Symmi!c"
+                    ],
+                    [
+                        "AhnLab-V3",
+                        "Trojan/Win32.Generic.R97658"
+                    ],
+                    [
+                        "Antiy-AVL",
+                        "Trojan/Win32.SGeneric"
+                    ],
+                    [
+                        "Arcabit",
+                        "Trojan.Symmi.D5216"
+                    ],
+                    [
+                        "Avast",
+                        "Win32:Malware-gen"
+                    ],
+                    [
+                        "Avira",
+                        "TR/AD.Farfli.tkpmq"
+                    ],
+                    [
+                        "BitDefender",
+                        "Gen:Variant.Symmi.21014"
+                    ],
+                    [
+                        "CAT-QuickHeal",
+                        "Trojan.Zenshirsh.SL7"
+                    ],
+                    [
+                        "CrowdStrike",
+                        "malicious_confidence_100% (W)"
+                    ],
+                    [
+                        "Cybereason",
+                        "malicious.1b8fb7"
+                    ],
+                    [
+                        "Cylance",
+                        "Unsafe"
+                    ],
+                    [
+                        "DrWeb",
+                        "Trojan.DownLoader25.54637"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "Win32/Farfli.ATE"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Gen:Variant.Symmi.21014 (B)"
+                    ],
+                    [
+                        "Endgame",
+                        "malicious (high confidence)"
+                    ],
+                    [
+                        "F-Secure",
+                        "Gen:Variant.Symmi.21014"
+                    ],
+                    [
+                        "GData",
+                        "Gen:Variant.Symmi.21014"
+                    ],
+                    [
+                        "Ikarus",
+                        "Trojan.Win32.Krypt"
+                    ],
+                    [
+                        "K7AntiVirus",
+                        "Trojan ( 00518c6b1 )"
+                    ],
+                    [
+                        "K7GW",
+                        "Trojan ( 00518c6b1 )"
+                    ],
+                    [
+                        "Kaspersky",
+                        "Trojan-GameThief.Win32.Magania.ujgp"
+                    ],
+                    [
+                        "MAX",
+                        "malware (ai score=100)"
+                    ],
+                    [
+                        "McAfee",
+                        "Generic.csb"
+                    ],
+                    [
+                        "McAfee-GW-Edition",
+                        "Generic.csb"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Gen:Variant.Symmi.21014"
+                    ],
+                    [
+                        "Microsoft",
+                        "Backdoor:Win32/Zegost"
+                    ],
+                    [
+                        "Paloalto",
+                        "generic.ml"
+                    ],
+                    [
+                        "Panda",
+                        "Trj/CI.A"
+                    ],
+                    [
+                        "SentinelOne",
+                        "static engine - malicious"
+                    ],
+                    [
+                        "Sophos",
+                        "Mal/Generic-S"
+                    ],
+                    [
+                        "Symantec",
+                        "Trojan.Gen.2"
+                    ],
+                    [
+                        "Tencent",
+                        "Win32.Trojan-gamethief.Magania.Hrfm"
+                    ],
+                    [
+                        "TrendMicro",
+                        "TROJ_GEN.R002C0DKD17"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "TROJ_GEN.R002C0DKD17"
+                    ],
+                    [
+                        "VBA32",
+                        "Trojan-GameThief.Magania"
+                    ],
+                    [
+                        "VIPRE",
+                        "Trojan.Win32.Generic!BT"
+                    ],
+                    [
+                        "Webroot",
+                        "W32.Trojan.Gen"
+                    ],
+                    [
+                        "Yandex",
+                        "Trojan.Agent!TC3K49RMH9A"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "Trojan-GameThief.Win32.Magania.ujgp"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "43 out of 68 antivirus detected \u001b[1m259a51034566208d72d1819d2f0fedbf\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/76bcb94ce500b5504d6c21a99131d6c5bd7108433889ae8839f378c0213a710e/analysis/1510947887/\n",
+            "type": "info"
+        }
+    ]
+}

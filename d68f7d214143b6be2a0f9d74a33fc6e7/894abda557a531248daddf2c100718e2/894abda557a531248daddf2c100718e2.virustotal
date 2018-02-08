@@ -1,0 +1,263 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m894abda557a531248daddf2c100718e2\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "Win32.Parite.C"
+                    ],
+                    [
+                        "AVG",
+                        "Win32:Parite"
+                    ],
+                    [
+                        "AVware",
+                        "Win32.Parite.c (v)"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Win32.Parite.C"
+                    ],
+                    [
+                        "AhnLab-V3",
+                        "Win32/Parite"
+                    ],
+                    [
+                        "Antiy-AVL",
+                        "Virus/Win32.Parite.c"
+                    ],
+                    [
+                        "Arcabit",
+                        "Win32.Parite.C"
+                    ],
+                    [
+                        "Avast",
+                        "Win32:Parite"
+                    ],
+                    [
+                        "Avira",
+                        "W32/Parite"
+                    ],
+                    [
+                        "Baidu",
+                        "Win32.Virus.Parite.d"
+                    ],
+                    [
+                        "BitDefender",
+                        "Win32.Parite.C"
+                    ],
+                    [
+                        "Bkav",
+                        "W32.PariteB.PE"
+                    ],
+                    [
+                        "CAT-QuickHeal",
+                        "W32.Perite.A"
+                    ],
+                    [
+                        "CMC",
+                        "Virus.Win32.Parite.b!O"
+                    ],
+                    [
+                        "ClamAV",
+                        "Win.Trojan.Agent-1382092"
+                    ],
+                    [
+                        "Comodo",
+                        "Virus.Win32.Parite.gen"
+                    ],
+                    [
+                        "CrowdStrike",
+                        "malicious_confidence_100% (D)"
+                    ],
+                    [
+                        "Cylance",
+                        "Unsafe"
+                    ],
+                    [
+                        "Cyren",
+                        "W32/Parite.C"
+                    ],
+                    [
+                        "DrWeb",
+                        "Trojan.DownLoader11.25263"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "Win32/Parite.C"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Win32.Parite.C (B)"
+                    ],
+                    [
+                        "Endgame",
+                        "malicious (high confidence)"
+                    ],
+                    [
+                        "F-Prot",
+                        "W32/Parite.C"
+                    ],
+                    [
+                        "F-Secure",
+                        "Win32.Parite.C"
+                    ],
+                    [
+                        "Fortinet",
+                        "W32/Parite.C"
+                    ],
+                    [
+                        "GData",
+                        "Win32.Parite.C"
+                    ],
+                    [
+                        "Ikarus",
+                        "Trojan.Win32.Redosdru"
+                    ],
+                    [
+                        "Invincea",
+                        "heuristic"
+                    ],
+                    [
+                        "Jiangmin",
+                        "Win32/Parite.c"
+                    ],
+                    [
+                        "K7AntiVirus",
+                        "Virus ( 00001b711 )"
+                    ],
+                    [
+                        "K7GW",
+                        "Virus ( 00001b711 )"
+                    ],
+                    [
+                        "Kaspersky",
+                        "Virus.Win32.Parite.c"
+                    ],
+                    [
+                        "MAX",
+                        "malware (ai score=80)"
+                    ],
+                    [
+                        "McAfee",
+                        "W32/Pate.c"
+                    ],
+                    [
+                        "McAfee-GW-Edition",
+                        "BehavesLike.Win32.Kudj.gc"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Win32.Parite.C"
+                    ],
+                    [
+                        "Microsoft",
+                        "Virus:Win32/Parite.C"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Virus.Win32.Parite.bysj"
+                    ],
+                    [
+                        "Panda",
+                        "W32/Parite.A"
+                    ],
+                    [
+                        "Qihoo-360",
+                        "Trojan.Win32.Agent.DR"
+                    ],
+                    [
+                        "Rising",
+                        "Virus.Parite!1.9B80 (CLASSIC)"
+                    ],
+                    [
+                        "SentinelOne",
+                        "static engine - malicious"
+                    ],
+                    [
+                        "Sophos",
+                        "W32/Parite-C"
+                    ],
+                    [
+                        "Symantec",
+                        "W32.Pinfi.B"
+                    ],
+                    [
+                        "Tencent",
+                        "Virus.Win32.Parite.a"
+                    ],
+                    [
+                        "TheHacker",
+                        "W32/Pate.C"
+                    ],
+                    [
+                        "TotalDefense",
+                        "Win32/Pinfi.A"
+                    ],
+                    [
+                        "TrendMicro",
+                        "PE_PARITE.A"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "PE_PARITE.A"
+                    ],
+                    [
+                        "VBA32",
+                        "Virus.Parite.C"
+                    ],
+                    [
+                        "VIPRE",
+                        "Win32.Parite.c (v)"
+                    ],
+                    [
+                        "ViRobot",
+                        "Win32.Parite.C"
+                    ],
+                    [
+                        "Yandex",
+                        "Win32.Parite.C"
+                    ],
+                    [
+                        "Zillya",
+                        "Virus.Parite.Win32.2"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "Virus.Win32.Parite.c"
+                    ],
+                    [
+                        "Zoner",
+                        "Win32.Parite.B"
+                    ],
+                    [
+                        "nProtect",
+                        "Virus/W32.Parite.C"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "58 out of 67 antivirus detected \u001b[1m894abda557a531248daddf2c100718e2\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/134eef67ff7493fb576be949167af6b2584a7149b3e2941aabcb9646410f24f3/analysis/1510944642/\n",
+            "type": "info"
+        }
+    ]
+}

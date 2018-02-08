@@ -1,0 +1,87 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m5a7240b5c173969217d1c639f27c4b4e\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "AVG",
+                        "Agent_r.AIO"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Gen:Variant.Kazy.2923"
+                    ],
+                    [
+                        "AhnLab-V3",
+                        "Trojan/Win32.Bjlog"
+                    ],
+                    [
+                        "Antiy-AVL",
+                        "Trojan[PSW]/Win32.Bjlog"
+                    ],
+                    [
+                        "BitDefender",
+                        "Gen:Variant.Kazy.2923"
+                    ],
+                    [
+                        "Comodo",
+                        "Heur.Corrupt.PE"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Gen:Variant.Kazy.2923 (B)"
+                    ],
+                    [
+                        "F-Secure",
+                        "Gen:Variant.Kazy.2923"
+                    ],
+                    [
+                        "GData",
+                        "Gen:Variant.Kazy.2923"
+                    ],
+                    [
+                        "Jiangmin",
+                        "Backdoor/PcClient.aipm"
+                    ],
+                    [
+                        "Kingsoft",
+                        "Win32.Malware.Heur_Generic.A.(kcloud)"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Gen:Variant.Kazy.2923"
+                    ],
+                    [
+                        "Sophos",
+                        "Mal/PWS-FY"
+                    ],
+                    [
+                        "TheHacker",
+                        "Trojan/PSW.Bjlog.nqi"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "14 out of 55 antivirus detected \u001b[1m5a7240b5c173969217d1c639f27c4b4e\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/f099494a283d8993ebaeda887bb2ed7298627d61a9c5d53fd4e8d242c1c682e1/analysis/1409394436/\n",
+            "type": "info"
+        }
+    ]
+}

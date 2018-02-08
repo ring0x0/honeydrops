@@ -1,0 +1,59 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m742f247c9ff393f8daf2e1609f0d9506\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "AegisLab",
+                        "Backdoor.Linux.Agent!c"
+                    ],
+                    [
+                        "DrWeb",
+                        "Linux.MulDrop.16"
+                    ],
+                    [
+                        "Kaspersky",
+                        "HEUR:Backdoor.Linux.Agent.bc"
+                    ],
+                    [
+                        "Rising",
+                        "Backdoor.Agent!8.C5D (TOPIS:lXVWhYcEmLB)"
+                    ],
+                    [
+                        "TrendMicro",
+                        "UNIX_PIMINE.A"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "UNIX_PIMINE.A"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "HEUR:Backdoor.Linux.Agent.bc"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "7 out of 60 antivirus detected \u001b[1m742f247c9ff393f8daf2e1609f0d9506\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/b33b30c3cc7e027320e4d203303cc36a4e84b44451278bbb524ec54d5f61a4d6/analysis/1511375262/\n",
+            "type": "info"
+        }
+    ]
+}

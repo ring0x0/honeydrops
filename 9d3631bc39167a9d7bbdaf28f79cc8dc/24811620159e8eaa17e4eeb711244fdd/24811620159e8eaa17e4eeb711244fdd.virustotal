@@ -1,0 +1,159 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m24811620159e8eaa17e4eeb711244fdd\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "Linux.CornelGEN.1584"
+                    ],
+                    [
+                        "AVG",
+                        "ELF:Elknot-BT [Cryp]"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Linux.CornelGEN.1584"
+                    ],
+                    [
+                        "AegisLab",
+                        "Backdoor.Linux.Mayday!c"
+                    ],
+                    [
+                        "AhnLab-V3",
+                        "Linux/Backdoor.1128800"
+                    ],
+                    [
+                        "Arcabit",
+                        "Linux.CornelGEN.D630"
+                    ],
+                    [
+                        "Avast",
+                        "ELF:Elknot-BT [Cryp]"
+                    ],
+                    [
+                        "Avira",
+                        "LINUX/Elknot.qtdxd"
+                    ],
+                    [
+                        "BitDefender",
+                        "Linux.CornelGEN.1584"
+                    ],
+                    [
+                        "CAT-QuickHeal",
+                        "TrojanDropper.Linux.Elknot.Y"
+                    ],
+                    [
+                        "Cyren",
+                        "ELF/Trojan.BVIQ-0"
+                    ],
+                    [
+                        "DrWeb",
+                        "Linux.DDoS.7"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "Linux/Elknot.A"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Linux.CornelGEN.1584 (B)"
+                    ],
+                    [
+                        "F-Secure",
+                        "Linux.CornelGEN.1584"
+                    ],
+                    [
+                        "Fortinet",
+                        "Linux/Mayday.A!tr.bdr"
+                    ],
+                    [
+                        "GData",
+                        "Linux.CornelGEN.1584"
+                    ],
+                    [
+                        "Jiangmin",
+                        "Backdoor/Linux.hx"
+                    ],
+                    [
+                        "Kaspersky",
+                        "Backdoor.Linux.Mayday.g"
+                    ],
+                    [
+                        "MAX",
+                        "malware (ai score=99)"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Linux.CornelGEN.1584"
+                    ],
+                    [
+                        "Microsoft",
+                        "DoS:Linux/Elknot!rfn"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Trojan.Unix.DDoS.dncljq"
+                    ],
+                    [
+                        "Qihoo-360",
+                        "Win32/Trojan.9bb"
+                    ],
+                    [
+                        "Rising",
+                        "Trojan.Elknot/Linux!1.A35B (CLASSIC)"
+                    ],
+                    [
+                        "Sophos",
+                        "Linux/DDoS-AZ"
+                    ],
+                    [
+                        "Symantec",
+                        "Trojan.Gen.NPE"
+                    ],
+                    [
+                        "Tencent",
+                        "backdoor.linux.mayday.g"
+                    ],
+                    [
+                        "TrendMicro",
+                        "TROJ_GEN.F04JC00JL17"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "TROJ_GEN.F04JC00JL17"
+                    ],
+                    [
+                        "Zillya",
+                        "Downloader.OpenConnection.JS.96932"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "Backdoor.Linux.Mayday.g"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "32 out of 60 antivirus detected \u001b[1m24811620159e8eaa17e4eeb711244fdd\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/c3862f8bc599a865f88646d2c4229f70672e5197a4ad16eac09dc03939282496/analysis/1513344932/\n",
+            "type": "info"
+        }
+    ]
+}

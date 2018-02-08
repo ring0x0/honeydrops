@@ -1,0 +1,83 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1mc8520cc2665bbd37fe293a185da929f4\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "AVG",
+                        "BV:Downloader-JQ [Drp]"
+                    ],
+                    [
+                        "AegisLab",
+                        "Troj.Downloader.Shell!c"
+                    ],
+                    [
+                        "Avast",
+                        "BV:Downloader-JQ [Drp]"
+                    ],
+                    [
+                        "DrWeb",
+                        "Linux.DownLoader.454"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "Linux/Mirai.AG"
+                    ],
+                    [
+                        "GData",
+                        "Script.Trojan.Agent.QPI59U"
+                    ],
+                    [
+                        "Ikarus",
+                        "Trojan.Linux.Mirai"
+                    ],
+                    [
+                        "Kaspersky",
+                        "HEUR:Trojan-Downloader.Shell.Mirai.a"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Trojan.Script.Mirai.erqymd"
+                    ],
+                    [
+                        "Qihoo-360",
+                        "Win32/Trojan.Downloader.c33"
+                    ],
+                    [
+                        "Sophos",
+                        "Mal/ShellDl-A"
+                    ],
+                    [
+                        "Symantec",
+                        "Trojan.Gen.NPE"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "HEUR:Trojan-Downloader.Shell.Mirai.a"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "13 out of 58 antivirus detected \u001b[1mc8520cc2665bbd37fe293a185da929f4\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/329e18f081111f343aa8ca8cba950a56423c997d0a44d14fc4ea0b32cb42619c/analysis/1502675516/\n",
+            "type": "info"
+        }
+    ]
+}

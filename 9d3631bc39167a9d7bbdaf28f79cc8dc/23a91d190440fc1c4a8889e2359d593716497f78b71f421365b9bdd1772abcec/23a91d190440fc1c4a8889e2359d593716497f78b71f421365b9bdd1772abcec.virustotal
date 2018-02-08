@@ -1,0 +1,143 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m5be363e0faf3e8ecc4bf54ba66ac8f40\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "Trojan.Agent.Linux.A"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Trojan.Agent.Linux.A"
+                    ],
+                    [
+                        "AegisLab",
+                        "Backdoor.Linux.Ganiw!c"
+                    ],
+                    [
+                        "AhnLab-V3",
+                        "Linux/Backdoor.1223123.B"
+                    ],
+                    [
+                        "Antiy-AVL",
+                        "Trojan[Backdoor]/Linux.Ganiw.a"
+                    ],
+                    [
+                        "Arcabit",
+                        "Trojan.Agent.Linux.A"
+                    ],
+                    [
+                        "Avira",
+                        "LINUX/Setag.otijv"
+                    ],
+                    [
+                        "BitDefender",
+                        "Trojan.Agent.Linux.A"
+                    ],
+                    [
+                        "CAT-QuickHeal",
+                        "Backdoor.Linux.Setag.E"
+                    ],
+                    [
+                        "ClamAV",
+                        "Unix.Trojan.Agent-37008"
+                    ],
+                    [
+                        "Cyren",
+                        "ELF/Trojan.GGKL-6"
+                    ],
+                    [
+                        "DrWeb",
+                        "Linux.BackDoor.Gates.9"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "Linux/Setag.B.Gen"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Trojan.Agent.Linux.A (B)"
+                    ],
+                    [
+                        "F-Secure",
+                        "Trojan.Agent.Linux.A"
+                    ],
+                    [
+                        "Fortinet",
+                        "ELF/Ganiw.A!tr"
+                    ],
+                    [
+                        "GData",
+                        "Linux.Trojan.Siggen.D"
+                    ],
+                    [
+                        "Ikarus",
+                        "Trojan.Linux.Setag"
+                    ],
+                    [
+                        "Jiangmin",
+                        "Backdoor/Linux.io"
+                    ],
+                    [
+                        "Kaspersky",
+                        "HEUR:Backdoor.Linux.Ganiw.d"
+                    ],
+                    [
+                        "MAX",
+                        "malware (ai score=87)"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Trojan.Agent.Linux.A"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Trojan.Unix.Ganiw.ditcrf"
+                    ],
+                    [
+                        "Qihoo-360",
+                        "virus.elf.ddos.f"
+                    ],
+                    [
+                        "Symantec",
+                        "Linux.Chikdos.B!gen2"
+                    ],
+                    [
+                        "Tencent",
+                        "Trojan.Linux.Ganiw.a"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "ELF_SETAG.SM"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "HEUR:Backdoor.Linux.Ganiw.d"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "28 out of 48 antivirus detected \u001b[1m5be363e0faf3e8ecc4bf54ba66ac8f40\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/23a91d190440fc1c4a8889e2359d593716497f78b71f421365b9bdd1772abcec/analysis/1510181409/\n",
+            "type": "info"
+        }
+    ]
+}

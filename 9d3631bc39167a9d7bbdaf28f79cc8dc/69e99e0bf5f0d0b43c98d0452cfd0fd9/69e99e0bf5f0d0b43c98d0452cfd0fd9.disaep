@@ -1,0 +1,7 @@
+f9eb052a3291832f60f8
+stc 
+jmp 0x41703c
+sub dh,[edx]
+xchg eax,ecx
+sub dword [edi],0x60
+clc 

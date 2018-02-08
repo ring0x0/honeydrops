@@ -1,0 +1,187 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m5cbb19165bfdb63d43d1552fa49f9716\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "Generic.Mulinex.7CFDBB45"
+                    ],
+                    [
+                        "AVG",
+                        "Win32:Malware-gen"
+                    ],
+                    [
+                        "AVware",
+                        "Trojan.Win32.Generic!BT"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Generic.Mulinex.7CFDBB45"
+                    ],
+                    [
+                        "AegisLab",
+                        "Backdoor.W32.Farfli!c"
+                    ],
+                    [
+                        "Arcabit",
+                        "Generic.Mulinex.7CFDBB45"
+                    ],
+                    [
+                        "Avast",
+                        "Win32:Malware-gen"
+                    ],
+                    [
+                        "Avira",
+                        "BDS/Backdoor.vxbdh"
+                    ],
+                    [
+                        "Baidu",
+                        "Win32.Trojan.WisdomEyes.16070401.9500.9999"
+                    ],
+                    [
+                        "BitDefender",
+                        "Generic.Mulinex.7CFDBB45"
+                    ],
+                    [
+                        "CAT-QuickHeal",
+                        "Trojan.Zegost.100145"
+                    ],
+                    [
+                        "Comodo",
+                        "TrojWare.Win32.GameThief.Magania.~NWABI"
+                    ],
+                    [
+                        "CrowdStrike",
+                        "malicious_confidence_100% (D)"
+                    ],
+                    [
+                        "DrWeb",
+                        "Trojan.DownLoader24.64849"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "a variant of Win32/Farfli.BXP"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Generic.Mulinex.7CFDBB45 (B)"
+                    ],
+                    [
+                        "Endgame",
+                        "malicious (high confidence)"
+                    ],
+                    [
+                        "F-Secure",
+                        "Generic.Mulinex.7CFDBB45"
+                    ],
+                    [
+                        "Fortinet",
+                        "W32/Farfli.AJJH!tr"
+                    ],
+                    [
+                        "GData",
+                        "Win32.Backdoor.Farfli.H"
+                    ],
+                    [
+                        "Ikarus",
+                        "Trojan.Win32.Toga"
+                    ],
+                    [
+                        "K7AntiVirus",
+                        "Trojan ( 004da3011 )"
+                    ],
+                    [
+                        "K7GW",
+                        "Trojan ( 004da3011 )"
+                    ],
+                    [
+                        "Kaspersky",
+                        "Backdoor.Win32.Farfli.audj"
+                    ],
+                    [
+                        "Malwarebytes",
+                        "Backdoor.Agent.VBS"
+                    ],
+                    [
+                        "McAfee",
+                        "Trojan-FISI!5CBB19165BFD"
+                    ],
+                    [
+                        "McAfee-GW-Edition",
+                        "Trojan-FISI!5CBB19165BFD"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Generic.Mulinex.7CFDBB45"
+                    ],
+                    [
+                        "Microsoft",
+                        "Trojan:Win32/Malex.gen!F"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Trojan.Win32.Farfli.epvggi"
+                    ],
+                    [
+                        "Panda",
+                        "Trj/GdSda.A"
+                    ],
+                    [
+                        "Qihoo-360",
+                        "Win32/Backdoor.22c"
+                    ],
+                    [
+                        "Sophos",
+                        "Mal/Generic-S"
+                    ],
+                    [
+                        "Symantec",
+                        "Backdoor.Trojan"
+                    ],
+                    [
+                        "Tencent",
+                        "Win32.Backdoor.Farfli.Szlz"
+                    ],
+                    [
+                        "TrendMicro",
+                        "BKDR_FARFLI.SMP"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "BKDR_FARFLI.SMP"
+                    ],
+                    [
+                        "VIPRE",
+                        "Trojan.Win32.Generic!BT"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "Backdoor.Win32.Farfli.audj"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "39 out of 61 antivirus detected \u001b[1m5cbb19165bfdb63d43d1552fa49f9716\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/1e4d101e496b0bb29fff1efe71066c3de3cc0b30dbf997893a57b46d3d68b6ac/analysis/1497082168/\n",
+            "type": "info"
+        }
+    ]
+}

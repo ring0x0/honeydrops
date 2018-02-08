@@ -1,0 +1,5 @@
+fec58acb86c8681e6b00
+inc ch
+mov cl,bl
+xchg al,cl
+push dword 0x6b1e

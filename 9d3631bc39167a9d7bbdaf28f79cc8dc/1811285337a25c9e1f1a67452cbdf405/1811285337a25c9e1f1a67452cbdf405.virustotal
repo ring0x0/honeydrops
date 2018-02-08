@@ -1,0 +1,176 @@
+{
+    "results": []
+}
+     {
+            "data": "VirusTotal Report for \u001b[1mb13bcb41c942fc2923aaea287f9ac8dd\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "AVG",
+                        "Win32:Malware-gen"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Gen:Trojan.Heur.RP.fmW@aa!s1df"
+                    ],
+                    [
+                        "AegisLab",
+                        "Gen.Troj.Heur!c"
+                    ],
+                    [
+                        "AhnLab-V3",
+                        "Trojan/Win32.Snojan.C2003863"
+                    ],
+                    [
+                        "Antiy-AVL",
+                        "Trojan/Win32.Snojan"
+                    ],
+                    [
+                        "Arcabit",
+                        "Trojan.Heur.RP.EAE45A"
+                    ],
+                    [
+                        "Avast",
+                        "Win32:Malware-gen"
+                    ],
+                    [
+                        "Avira",
+                        "BDS/PoeBot.woltr"
+                    ],
+                    [
+                        "Baidu",
+                        "Win32.Trojan.WisdomEyes.16070401.9500.9917"
+                    ],
+                    [
+                        "BitDefender",
+                        "Gen:Trojan.Heur.RP.fmW@aa!s1df"
+                    ],
+                    [
+                        "CrowdStrike",
+                        "malicious_confidence_100% (W)"
+                    ],
+                    [
+                        "DrWeb",
+                        "Trojan.Inject2.54498"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "a variant of Win32/Poebot.NCA"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Gen:Trojan.Heur.RP.fmW@aa!s1df (B)"
+                    ],
+                    [
+                        "Endgame",
+                        "malicious (high confidence)"
+                    ],
+                    [
+                        "F-Secure",
+                        "Gen:Trojan.Heur.RP.fmW@aa!s1df"
+                    ],
+                    [
+                        "Fortinet",
+                        "W32/Injector.LSH!tr"
+                    ],
+                    [
+                        "GData",
+                        "Gen:Trojan.Heur.RP.fmW@aa!s1df"
+                    ],
+                    [
+                        "Invincea",
+                        "heuristic"
+                    ],
+                    [
+                        "K7GW",
+                        "Backdoor ( 000353841 )"
+                    ],
+                    [
+                        "Kaspersky",
+                        "Trojan.Win32.Snojan.bobd"
+                    ],
+                    [
+                        "MAX",
+                        "malware (ai score=89)"
+                    ],
+                    [
+                        "McAfee",
+                        "RDN/Generic.grp"
+                    ],
+                    [
+                        "McAfee-GW-Edition",
+                        "BehavesLike.Win32.Downloader.mc"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Gen:Trojan.Heur.RP.fmW@aa!s1df"
+                    ],
+                    [
+                        "Microsoft",
+                        "Trojan:Win32/Dynamer!rfn"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Trojan.Win32.Snojan.epzdsi"
+                    ],
+                    [
+                        "Paloalto",
+                        "generic.ml"
+                    ],
+                    [
+                        "Panda",
+                        "Trj/GdSda.A"
+                    ],
+                    [
+                        "Rising",
+                        "Malware.Generic.5!tfe (thunder:FtY4QUyeBnL)"
+                    ],
+                    [
+                        "SentinelOne",
+                        "static engine - malicious"
+                    ],
+                    [
+                        "Symantec",
+                        "W32.IRCBot"
+                    ],
+                    [
+                        "TrendMicro",
+                        "TROJ_FORUCON.BMC"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "TROJ_FORUCON.BMC"
+                    ],
+                    [
+                        "VBA32",
+                        "SScope.Injector.MY"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "Trojan.Win32.Snojan.bobd"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "36 out of 64 antivirus detected \u001b[1mb13bcb41c942fc2923aaea287f9ac8dd\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/aeaa5c38e6daa0753533e37be6857b3140b9a57458dff4f4e4e4b103a304c14c/analysis/1499548502/\n",
+            "type": "info"
+        }
+    ]
+}

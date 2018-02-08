@@ -1,0 +1,5 @@
+90ba20b0420041b89c05
+nop 
+mov edx,0x42b020
+inc ecx
+mov eax,0xd000059c

@@ -1,0 +1,163 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m84dd90aa9f6192f9774b2f8a13a36397\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "AVG",
+                        "ELF:BitCoinMiner-AI [Trj]"
+                    ],
+                    [
+                        "AegisLab",
+                        "Hacktool.Linux.Xhide!c"
+                    ],
+                    [
+                        "AhnLab-V3",
+                        "Linux/Miner.3876568"
+                    ],
+                    [
+                        "Antiy-AVL",
+                        "RiskWare[RiskTool]/Linux.BitCoinMiner.e"
+                    ],
+                    [
+                        "Arcabit",
+                        "Application.Linux.HTool.A"
+                    ],
+                    [
+                        "Avast",
+                        "ELF:BitCoinMiner-AI [Trj]"
+                    ],
+                    [
+                        "Avira",
+                        "LINUX/Procfake"
+                    ],
+                    [
+                        "BitDefender",
+                        "Application.BitCoinMiner.MA"
+                    ],
+                    [
+                        "CAT-QuickHeal",
+                        "Linux.HackTool.ProcHider.a"
+                    ],
+                    [
+                        "ClamAV",
+                        "Unix.Malware.Agent-1847048"
+                    ],
+                    [
+                        "Comodo",
+                        "Application.Linux.HackTool.ProcHider.A"
+                    ],
+                    [
+                        "Cyren",
+                        "ELF/Application.UXIM"
+                    ],
+                    [
+                        "DrWeb",
+                        "Tool.Linux.BtcMine.86"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "a variant of Linux/CoinMiner.C"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Application.BitCoinMiner.MA (B)"
+                    ],
+                    [
+                        "F-Prot",
+                        "Unix/Prochide.A"
+                    ],
+                    [
+                        "F-Secure",
+                        "Application.BitCoinMiner.MA"
+                    ],
+                    [
+                        "Fortinet",
+                        "Malware_fam.gw"
+                    ],
+                    [
+                        "GData",
+                        "Application.BitCoinMiner.MA"
+                    ],
+                    [
+                        "Ikarus",
+                        "PUA.Linux.Miner"
+                    ],
+                    [
+                        "Jiangmin",
+                        "HackTool.Linux.bo"
+                    ],
+                    [
+                        "Kaspersky",
+                        "HackTool.Linux.ProcHider.a"
+                    ],
+                    [
+                        "MAX",
+                        "malware (ai score=88)"
+                    ],
+                    [
+                        "McAfee",
+                        "Linux/CoinMiner"
+                    ],
+                    [
+                        "McAfee-GW-Edition",
+                        "Linux/CoinMiner"
+                    ],
+                    [
+                        "Microsoft",
+                        "HackTool:Linux/Xhide!rfn"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Riskware.CoinMiner.etesug"
+                    ],
+                    [
+                        "Qihoo-360",
+                        "virus.elf.xhide.gen"
+                    ],
+                    [
+                        "Rising",
+                        "Hack.Linux.ProcHider.b (CLASSIC)"
+                    ],
+                    [
+                        "Sophos",
+                        "Yet Another Miner (PUA)"
+                    ],
+                    [
+                        "TrendMicro",
+                        "ELF_COINMINER.A"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "ELF_COINMINER.A"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "HEUR:HackTool.Linux.XHide.a"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "33 out of 60 antivirus detected \u001b[1m84dd90aa9f6192f9774b2f8a13a36397\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/373f49a947108ce543a41e86c7cf37f3eea37d3441ef1647b73d3ff653306259/analysis/1507703508/\n",
+            "type": "info"
+        }
+    ]
+}

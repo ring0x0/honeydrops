@@ -1,0 +1,143 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1meb566d99270f11fa5568e1757e86d51b\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "Gen:Variant.Graftor.267170"
+                    ],
+                    [
+                        "AVG",
+                        "Win32:Malware-gen"
+                    ],
+                    [
+                        "AVware",
+                        "LooksLike.Win32.Uruasy.b!ag (v)"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Gen:Variant.Graftor.267170"
+                    ],
+                    [
+                        "Arcabit",
+                        "Trojan.Graftor.D413A2"
+                    ],
+                    [
+                        "Avast",
+                        "Win32:Malware-gen"
+                    ],
+                    [
+                        "Baidu",
+                        "Win32.Trojan-Downloader.Agent.jm"
+                    ],
+                    [
+                        "BitDefender",
+                        "Gen:Variant.Graftor.267170"
+                    ],
+                    [
+                        "CrowdStrike",
+                        "malicious_confidence_90% (D)"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "a variant of Win32/TrojanDownloader.Agent.CNZ"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Gen:Variant.Graftor.267170 (B)"
+                    ],
+                    [
+                        "Endgame",
+                        "malicious (moderate confidence)"
+                    ],
+                    [
+                        "F-Secure",
+                        "Gen:Variant.Graftor.267170"
+                    ],
+                    [
+                        "Fortinet",
+                        "W32/Agent.BPB!tr"
+                    ],
+                    [
+                        "GData",
+                        "Gen:Variant.Graftor.267170"
+                    ],
+                    [
+                        "Ikarus",
+                        "Trojan-Downloader.Win32.Agent"
+                    ],
+                    [
+                        "Kaspersky",
+                        "HEUR:Backdoor.Win32.Generic"
+                    ],
+                    [
+                        "McAfee",
+                        "Trojan-FKFK!E19680962B55"
+                    ],
+                    [
+                        "McAfee-GW-Edition",
+                        "Trojan-FKFK!E19680962B55"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Gen:Variant.Graftor.267170"
+                    ],
+                    [
+                        "Microsoft",
+                        "TrojanDownloader:Win32/Farfli.F!bit"
+                    ],
+                    [
+                        "SentinelOne",
+                        "static engine - malicious"
+                    ],
+                    [
+                        "Sophos",
+                        "Mal/PdfExDr-B"
+                    ],
+                    [
+                        "Symantec",
+                        "Downloader!gm"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "BKDR_ZEGOST.SM17"
+                    ],
+                    [
+                        "VBA32",
+                        "suspected of Trojan.Downloader.gen.h"
+                    ],
+                    [
+                        "VIPRE",
+                        "LooksLike.Win32.Uruasy.b!ag (v)"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "HEUR:Backdoor.Win32.Generic"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "28 out of 62 antivirus detected \u001b[1meb566d99270f11fa5568e1757e86d51b\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/ac5f6c98850aabe40fe35fc9742c5bc112429bfec68447397b743ac1c949dece/analysis/1497877276/\n",
+            "type": "info"
+        }
+    ]
+}

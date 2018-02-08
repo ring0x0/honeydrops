@@ -1,0 +1,239 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m075b94948fdc74af8bbe0d85e28b578a\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "Gen:Variant.Adware.Rukometa.Symmi.2"
+                    ],
+                    [
+                        "AVG",
+                        "Win32:Adware-gen [Adw]"
+                    ],
+                    [
+                        "AVware",
+                        "Trojan.Win32.Generic!BT"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Gen:Variant.Adware.Rukometa.Symmi.2"
+                    ],
+                    [
+                        "AegisLab",
+                        "Troj.W32.Gen.lHug"
+                    ],
+                    [
+                        "AhnLab-V3",
+                        "Backdoor/Win32.Farfli.R208215"
+                    ],
+                    [
+                        "Antiy-AVL",
+                        "Trojan[Backdoor]/Win32.Farfli"
+                    ],
+                    [
+                        "Arcabit",
+                        "Trojan.Adware.Rukometa.Symmi.2"
+                    ],
+                    [
+                        "Avast",
+                        "Win32:Adware-gen [Adw]"
+                    ],
+                    [
+                        "Avira",
+                        "TR/AD.Zegost.jyidv"
+                    ],
+                    [
+                        "Baidu",
+                        "Win32.Trojan.WisdomEyes.16070401.9500.9645"
+                    ],
+                    [
+                        "BitDefender",
+                        "Gen:Variant.Adware.Rukometa.Symmi.2"
+                    ],
+                    [
+                        "CAT-QuickHeal",
+                        "Backdoor.Farfli"
+                    ],
+                    [
+                        "CrowdStrike",
+                        "malicious_confidence_90% (W)"
+                    ],
+                    [
+                        "Cylance",
+                        "Unsafe"
+                    ],
+                    [
+                        "Cyren",
+                        "W32/Trojan.ODCZ-8280"
+                    ],
+                    [
+                        "DrWeb",
+                        "BackDoor.Siggen.57366"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "Win32/Farfli.AFJ"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Gen:Variant.Adware.Rukometa.Symmi.2 (B)"
+                    ],
+                    [
+                        "Endgame",
+                        "malicious (high confidence)"
+                    ],
+                    [
+                        "F-Secure",
+                        "Gen:Variant.Adware.Rukometa"
+                    ],
+                    [
+                        "Fortinet",
+                        "W32/Generic.AC.3F4305!tr"
+                    ],
+                    [
+                        "GData",
+                        "Win32.Backdoor.Farfli.K"
+                    ],
+                    [
+                        "Ikarus",
+                        "Trojan.Win32.Injector"
+                    ],
+                    [
+                        "Invincea",
+                        "heuristic"
+                    ],
+                    [
+                        "Jiangmin",
+                        "Backdoor.Farfli.bgc"
+                    ],
+                    [
+                        "K7AntiVirus",
+                        "Trojan ( 004d3cae1 )"
+                    ],
+                    [
+                        "K7GW",
+                        "Trojan ( 004d3cae1 )"
+                    ],
+                    [
+                        "Kaspersky",
+                        "Backdoor.Win32.Farfli.aurn"
+                    ],
+                    [
+                        "MAX",
+                        "malware (ai score=100)"
+                    ],
+                    [
+                        "Malwarebytes",
+                        "Backdoor.Farfli"
+                    ],
+                    [
+                        "McAfee",
+                        "GenericRXCB-JP!075B94948FDC"
+                    ],
+                    [
+                        "McAfee-GW-Edition",
+                        "GenericRXCB-JP!075B94948FDC"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Gen:Variant.Adware.Rukometa.Symmi.2"
+                    ],
+                    [
+                        "Microsoft",
+                        "Backdoor:Win32/Zegost!rfn"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Trojan.Win32.Farfli.erekvi"
+                    ],
+                    [
+                        "Paloalto",
+                        "generic.ml"
+                    ],
+                    [
+                        "Panda",
+                        "Trj/CI.A"
+                    ],
+                    [
+                        "Qihoo-360",
+                        "Win32/Trojan.0e8"
+                    ],
+                    [
+                        "SentinelOne",
+                        "static engine - malicious"
+                    ],
+                    [
+                        "Sophos",
+                        "Mal/Generic-S"
+                    ],
+                    [
+                        "Symantec",
+                        "Trojan.Gen.2"
+                    ],
+                    [
+                        "Tencent",
+                        "Win32.Backdoor.Gh0st.Mjue"
+                    ],
+                    [
+                        "TrendMicro",
+                        "BKDR_ZEGOST.SM13"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "BKDR_ZEGOST.SM13"
+                    ],
+                    [
+                        "VIPRE",
+                        "Trojan.Win32.Generic!BT"
+                    ],
+                    [
+                        "ViRobot",
+                        "Backdoor.Win32.Z.Farfli.307200"
+                    ],
+                    [
+                        "Webroot",
+                        "W32.Adware.Gen"
+                    ],
+                    [
+                        "Yandex",
+                        "Backdoor.Farfli!CqyuHR9xnYs"
+                    ],
+                    [
+                        "Zillya",
+                        "Backdoor.Farfli.Win32.6658"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "Backdoor.Win32.Farfli.aurn"
+                    ],
+                    [
+                        "eGambit",
+                        "malicious_confidence_100%"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "52 out of 67 antivirus detected \u001b[1m075b94948fdc74af8bbe0d85e28b578a\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/de63304488ed44ef212f6ea6fd754b715621ed67b752de66f6331aaebb270b19/analysis/1507945115/\n",
+            "type": "info"
+        }
+    ]
+}

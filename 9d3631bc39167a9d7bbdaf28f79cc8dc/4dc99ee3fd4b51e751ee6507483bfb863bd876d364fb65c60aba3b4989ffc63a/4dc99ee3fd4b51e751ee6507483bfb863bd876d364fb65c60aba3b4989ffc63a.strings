@@ -1,0 +1,145 @@
+/lib64/ld-linux-x86-64.so.2
+__gmon_start__
+libc.so.6
+socket
+fflush
+exit
+htons
+sprintf
+fopen
+perror
+connect
+inet_ntoa
+puts
+time
+putchar
+strlen
+memset
+__errno_location
+stdout
+inet_addr
+memcpy
+fclose
+atoi
+fprintf
+fcntl
+__libc_start_main
+snprintf
+GLIBC_2.2.5
+fff.
+fffff.
+l$ L
+t$(L
+|$0H
+Usage: %s <b-block> <port> [c-block]
+scan.log
+Invalid b-range.
+/bin/bash
+[1;31mScanam clasa:
+[1;36m 
+%s.%d.* (IP-uri scanate: %d) (%.1f%% Complet)
+Unable to allocate socket.
+Unable to set O_NONBLOCK
+%s.%d.%d
+Invalid IP.
+[1;31m#Am terminat in -> 
+[1;36m%u Secunde ( 
+[1;36mAm gasit %d IP-uri)
+# #Arhiva By 
+[0;32m[#]-[Root][rar3s]-[#] 
+[1;36m2017-2018.
+Error: %s
+GCC: (GNU) 4.4.7 20120313 (Red Hat 4.4.7-17)
+.symtab
+.strtab
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.ctors
+.dtors
+.jcr
+.dynamic
+.got
+.got.plt
+.data
+.bss
+.comment
+call_gmon_start
+crtstuff.c
+__CTOR_LIST__
+__DTOR_LIST__
+__JCR_LIST__
+__do_global_dtors_aux
+completed.6352
+dtor_idx.6354
+frame_dummy
+__CTOR_END__
+__FRAME_END__
+__JCR_END__
+__do_global_ctors_aux
+pscan2.c
+_GLOBAL_OFFSET_TABLE_
+__init_array_end
+__init_array_start
+_DYNAMIC
+data_start
+printf@@GLIBC_2.2.5
+memset@@GLIBC_2.2.5
+__libc_csu_fini
+snprintf@@GLIBC_2.2.5
+_start
+close@@GLIBC_2.2.5
+__gmon_start__
+_Jv_RegisterClasses
+puts@@GLIBC_2.2.5
+htons@@GLIBC_2.2.5
+exit@@GLIBC_2.2.5
+_fini
+putchar@@GLIBC_2.2.5
+fopen@@GLIBC_2.2.5
+__libc_start_main@@GLIBC_2.2.5
+_IO_stdin_used
+strlen@@GLIBC_2.2.5
+__data_start
+check_sockets
+sprintf@@GLIBC_2.2.5
+__dso_handle
+__DTOR_END__
+__libc_csu_init
+atoi@@GLIBC_2.2.5
+connect@@GLIBC_2.2.5
+memcpy@@GLIBC_2.2.5
+socket@@GLIBC_2.2.5
+inet_ntoa@@GLIBC_2.2.5
+__errno_location@@GLIBC_2.2.5
+__bss_start
+_end
+fclose@@GLIBC_2.2.5
+init_sockets
+perror@@GLIBC_2.2.5
+_edata
+fprintf@@GLIBC_2.2.5
+outfd
+fatal
+fcntl@@GLIBC_2.2.5
+stdout@@GLIBC_2.2.5
+time@@GLIBC_2.2.5
+main
+_init
+fflush@@GLIBC_2.2.5
+inet_addr@@GLIBC_2.2.5
+connlist

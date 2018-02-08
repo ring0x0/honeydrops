@@ -1,0 +1,95 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m4d7b13e47d2b41eab691016b5c8be0cd\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "Generic.Bash.MiraiA.A82380D0"
+                    ],
+                    [
+                        "AVG",
+                        "BV:Downloader-NZ [Drp]"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Generic.Bash.MiraiA.A82380D0"
+                    ],
+                    [
+                        "AegisLab",
+                        "Virus.Bash.Miraia!c"
+                    ],
+                    [
+                        "Arcabit",
+                        "Generic.Bash.MiraiA.A82380D0"
+                    ],
+                    [
+                        "Avast",
+                        "BV:Downloader-NZ [Drp]"
+                    ],
+                    [
+                        "BitDefender",
+                        "Generic.Bash.MiraiA.A82380D0"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Generic.Bash.MiraiA.A82380D0 (B)"
+                    ],
+                    [
+                        "F-Secure",
+                        "Generic.Bash.MiraiA.A82380D0"
+                    ],
+                    [
+                        "GData",
+                        "Generic.Bash.MiraiA.A82380D0"
+                    ],
+                    [
+                        "Kaspersky",
+                        "HEUR:Trojan-Downloader.Shell.Agent.as"
+                    ],
+                    [
+                        "MAX",
+                        "malware (ai score=99)"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Generic.Bash.MiraiA.A82380D0"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Trojan.Script.Ric.esrtui"
+                    ],
+                    [
+                        "Tencent",
+                        "Win32.Trojan-downloader.Agent.Pfjv"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "HEUR:Trojan-Downloader.Shell.Agent.as"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "16 out of 60 antivirus detected \u001b[1m4d7b13e47d2b41eab691016b5c8be0cd\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/6b7194e83ebdf0d72494e7e9a212f1ba9d5c7d751e9bfb6a7b0a88c6f2450a88/analysis/1515531359/\n",
+            "type": "info"
+        }
+    ]
+}

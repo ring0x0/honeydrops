@@ -1,0 +1,223 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m5e960ba61a82c5340650e2ce975bb4c9\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "AVG",
+                        "Win32:Malware-gen"
+                    ],
+                    [
+                        "AVware",
+                        "Trojan.Win32.Generic!BT"
+                    ],
+                    [
+                        "AegisLab",
+                        "Troj.W32.Miner!c"
+                    ],
+                    [
+                        "AhnLab-V3",
+                        "Trojan/Win32.SvcMiner.C2065873"
+                    ],
+                    [
+                        "Arcabit",
+                        "Zum.BitCoinMiner.1"
+                    ],
+                    [
+                        "Avast",
+                        "Win32:Malware-gen"
+                    ],
+                    [
+                        "Avira",
+                        "TR/AD.SvcMiner.pdiuk"
+                    ],
+                    [
+                        "Baidu",
+                        "Win32.Trojan.WisdomEyes.16070401.9500.9999"
+                    ],
+                    [
+                        "BitDefender",
+                        "Gen:Trojan.Heur.Qy1@uiiCfPfi"
+                    ],
+                    [
+                        "CAT-QuickHeal",
+                        "Trojan.Skeeyah"
+                    ],
+                    [
+                        "CrowdStrike",
+                        "malicious_confidence_60% (D)"
+                    ],
+                    [
+                        "Cybereason",
+                        "malicious.1b8fb7"
+                    ],
+                    [
+                        "Cylance",
+                        "Unsafe"
+                    ],
+                    [
+                        "Cyren",
+                        "W32/Trojan.DJHW-8307"
+                    ],
+                    [
+                        "DrWeb",
+                        "Tool.BtcMine.1010"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "a variant of Generik.MNWLFIK"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Gen:Trojan.Heur.Qy1@uiiCfPfi (B)"
+                    ],
+                    [
+                        "Endgame",
+                        "malicious (high confidence)"
+                    ],
+                    [
+                        "F-Secure",
+                        "Gen:Trojan.Heur.Qy1@uiiCfPfi"
+                    ],
+                    [
+                        "Fortinet",
+                        "BDoor.FDOH!tr.bdr"
+                    ],
+                    [
+                        "GData",
+                        "Gen:Trojan.Heur.Qy1@uiiCfPfi"
+                    ],
+                    [
+                        "Ikarus",
+                        "Trojan.Win32.SvcMiner"
+                    ],
+                    [
+                        "Invincea",
+                        "heuristic"
+                    ],
+                    [
+                        "Jiangmin",
+                        "RiskTool.BitCoinMiner.dxz"
+                    ],
+                    [
+                        "K7AntiVirus",
+                        "Riskware ( 0040eff71 )"
+                    ],
+                    [
+                        "K7GW",
+                        "Riskware ( 0040eff71 )"
+                    ],
+                    [
+                        "Kaspersky",
+                        "Trojan.Win32.Miner.swns"
+                    ],
+                    [
+                        "MAX",
+                        "malware (ai score=87)"
+                    ],
+                    [
+                        "Malwarebytes",
+                        "RiskWare.Monero.Generic"
+                    ],
+                    [
+                        "McAfee",
+                        "Artemis!5E960BA61A82"
+                    ],
+                    [
+                        "McAfee-GW-Edition",
+                        "BehavesLike.Win32.Generic.tc"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Gen:Trojan.Heur.Qy1@uiiCfPfi"
+                    ],
+                    [
+                        "Microsoft",
+                        "Trojan:Win32/SvcMiner"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Trojan.Win32.Miner.ermclz"
+                    ],
+                    [
+                        "Paloalto",
+                        "generic.ml"
+                    ],
+                    [
+                        "Panda",
+                        "Trj/CI.A"
+                    ],
+                    [
+                        "Qihoo-360",
+                        "Win32/Virus.RiskTool.7fb"
+                    ],
+                    [
+                        "Rising",
+                        "Trojan.SvcMiner!8.2506 (CLOUD)"
+                    ],
+                    [
+                        "SentinelOne",
+                        "static engine - malicious"
+                    ],
+                    [
+                        "Sophos",
+                        "Mal/Generic-S"
+                    ],
+                    [
+                        "Symantec",
+                        "Trojan.Gen"
+                    ],
+                    [
+                        "Tencent",
+                        "Win32.Trojan.Miner.Szlu"
+                    ],
+                    [
+                        "TrendMicro",
+                        "TROJ_GE.2E948D00"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "TROJ_GE.2E948D00"
+                    ],
+                    [
+                        "VBA32",
+                        "Trojan.Miner"
+                    ],
+                    [
+                        "VIPRE",
+                        "Trojan.Win32.Generic!BT"
+                    ],
+                    [
+                        "Yandex",
+                        "Trojan.Agent!hrYCk746s2I"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "Trojan.Win32.Miner.swns"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "48 out of 67 antivirus detected \u001b[1m5e960ba61a82c5340650e2ce975bb4c9\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/1faff4cf4bfe0d40af1555dc2ca749c5a382197b51b327ad89c4734d6ba75ee3/analysis/1512131052/\n",
+            "type": "info"
+        }
+    ]
+}

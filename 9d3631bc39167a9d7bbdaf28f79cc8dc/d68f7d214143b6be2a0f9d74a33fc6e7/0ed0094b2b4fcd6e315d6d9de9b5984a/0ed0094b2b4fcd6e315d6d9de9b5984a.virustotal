@@ -1,0 +1,123 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m0ed0094b2b4fcd6e315d6d9de9b5984a\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "ALYac",
+                        "Gen:Variant.Symmi.60417"
+                    ],
+                    [
+                        "AVware",
+                        "Trojan.Win32.Nitol.b (v)"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Gen:Variant.Symmi.60417"
+                    ],
+                    [
+                        "AhnLab-V3",
+                        "Trojan/Win32.FakeAV.R1611"
+                    ],
+                    [
+                        "Arcabit",
+                        "Trojan.Symmi.DEC01"
+                    ],
+                    [
+                        "BitDefender",
+                        "Gen:Variant.Symmi.60417"
+                    ],
+                    [
+                        "CrowdStrike",
+                        "malicious_confidence_100% (D)"
+                    ],
+                    [
+                        "Cybereason",
+                        "malicious.1b8fb7"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "a variant of Win32/GenKryptik.IDD"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Gen:Variant.Symmi.60417 (B)"
+                    ],
+                    [
+                        "Endgame",
+                        "malicious (high confidence)"
+                    ],
+                    [
+                        "F-Secure",
+                        "Gen:Variant.Symmi.60417"
+                    ],
+                    [
+                        "Fortinet",
+                        "W32/GenKryptik.IDD!tr"
+                    ],
+                    [
+                        "GData",
+                        "Gen:Variant.Symmi.60417"
+                    ],
+                    [
+                        "Ikarus",
+                        "Trojan.Win32.ServStart"
+                    ],
+                    [
+                        "Invincea",
+                        "heuristic"
+                    ],
+                    [
+                        "MAX",
+                        "malware (ai score=84)"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Gen:Variant.Symmi.60417"
+                    ],
+                    [
+                        "Microsoft",
+                        "DDoS:Win32/Nitol.A"
+                    ],
+                    [
+                        "SentinelOne",
+                        "static engine - malicious"
+                    ],
+                    [
+                        "Tencent",
+                        "Suspicious.Heuristic.Gen.b.0"
+                    ],
+                    [
+                        "VIPRE",
+                        "Trojan.Win32.Nitol.b (v)"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "HEUR:Trojan.Win32.Generic"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "23 out of 67 antivirus detected \u001b[1m0ed0094b2b4fcd6e315d6d9de9b5984a\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/7e2e8530e8649e13d274b28c1c7368376403609da51cf2b5719ad3ef97091ba0/analysis/1511725612/\n",
+            "type": "info"
+        }
+    ]
+}

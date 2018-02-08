@@ -1,0 +1,159 @@
+{
+    "results": [
+        {
+            "data": "VirusTotal Report for \u001b[1m6fb6f95546d5bdf4db11655249ee5288\u001b[0m:",
+            "type": "success"
+        },
+        {
+            "data": "Detecting engines:",
+            "type": "info"
+        },
+        {
+            "data": {
+                "header": [
+                    "Antivirus",
+                    "Signature"
+                ],
+                "rows": [
+                    [
+                        "AVG",
+                        "ELF:PNScan-Q [Cryp]"
+                    ],
+                    [
+                        "Ad-Aware",
+                        "Trojan.Linux.PNScan.A"
+                    ],
+                    [
+                        "AegisLab",
+                        "Troj.Linux.Agent!c"
+                    ],
+                    [
+                        "AhnLab-V3",
+                        "Linux/Pnscan.1034309"
+                    ],
+                    [
+                        "Arcabit",
+                        "Trojan.Linux.PNScan.A"
+                    ],
+                    [
+                        "Avast",
+                        "ELF:PNScan-Q [Cryp]"
+                    ],
+                    [
+                        "Avira",
+                        "LINUX/PNScan.6.2"
+                    ],
+                    [
+                        "BitDefender",
+                        "Trojan.Linux.PNScan.A"
+                    ],
+                    [
+                        "CAT-QuickHeal",
+                        "Linux.Agent.PR8d5"
+                    ],
+                    [
+                        "ClamAV",
+                        "Unix.Malware.Agent-1393532"
+                    ],
+                    [
+                        "Cyren",
+                        "ELF/Trojan.RHSZ-4"
+                    ],
+                    [
+                        "DrWeb",
+                        "Linux.PNScan.5"
+                    ],
+                    [
+                        "ESET-NOD32",
+                        "a variant of Linux/PNScan.A"
+                    ],
+                    [
+                        "Emsisoft",
+                        "Trojan.Linux.PNScan.A (B)"
+                    ],
+                    [
+                        "F-Secure",
+                        "Trojan.Linux.PNScan.A"
+                    ],
+                    [
+                        "Fortinet",
+                        "Linux/Agent.A!tr.bdr"
+                    ],
+                    [
+                        "GData",
+                        "Trojan.Linux.PNScan.A"
+                    ],
+                    [
+                        "Ikarus",
+                        "Trojan.Linux.BackDoor"
+                    ],
+                    [
+                        "Kaspersky",
+                        "HEUR:Backdoor.Linux.Agent.ad"
+                    ],
+                    [
+                        "MAX",
+                        "malware (ai score=100)"
+                    ],
+                    [
+                        "McAfee",
+                        "RDN/Generic BackDoor"
+                    ],
+                    [
+                        "McAfee-GW-Edition",
+                        "RDN/Generic BackDoor"
+                    ],
+                    [
+                        "MicroWorld-eScan",
+                        "Trojan.Linux.PNScan.A"
+                    ],
+                    [
+                        "NANO-Antivirus",
+                        "Trojan.Unix.Agent.ebdnka"
+                    ],
+                    [
+                        "Qihoo-360",
+                        "Win32/Trojan.49b"
+                    ],
+                    [
+                        "Sophos",
+                        "Linux/Bckdr-RTH"
+                    ],
+                    [
+                        "Symantec",
+                        "Linux.Raubdo"
+                    ],
+                    [
+                        "Tencent",
+                        "Linux.Backdoor.Agent.Wtny"
+                    ],
+                    [
+                        "TrendMicro",
+                        "ELF_RAUBIDO.A"
+                    ],
+                    [
+                        "TrendMicro-HouseCall",
+                        "ELF_RAUBIDO.A"
+                    ],
+                    [
+                        "Zillya",
+                        "Trojan.PNScan.Linux.2"
+                    ],
+                    [
+                        "ZoneAlarm",
+                        "HEUR:Backdoor.Linux.Agent.ad"
+                    ]
+                ]
+            },
+            "type": "table"
+        },
+        {
+            "data": "32 out of 57 antivirus detected \u001b[1m6fb6f95546d5bdf4db11655249ee5288\u001b[0m as malicious.",
+            "type": "info"
+        },
+        {
+            "data": "https://www.virustotal.com/file/5685b086ce12ffede8814e303223a67eca476735dfe4e9e84b751354a5ea0232/analysis/1511748743/\n",
+            "type": "info"
+        }
+    ]
+}

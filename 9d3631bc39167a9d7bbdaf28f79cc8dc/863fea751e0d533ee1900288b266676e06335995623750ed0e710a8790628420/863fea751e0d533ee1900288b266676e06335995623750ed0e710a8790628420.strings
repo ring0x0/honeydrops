@@ -1,0 +1,5 @@
+#!/bin/bash
+b=$2
+for (( b=b; b<=255; b++ ))
+   ./a $1.$b $3
+done
